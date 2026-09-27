@@ -1,26 +1,1346 @@
 {
-  "generated_at": "2026-09-27T00:00:00Z",
+  "generated_at": "2026-09-27T08:07:37.804927+00:00",
+  "snapshot_date": "2026-09-27",
   "issues": [
     {
-      "id": "demo-1",
-      "rank": 1,
-      "title": "Sample issue — live RSS collection will replace this",
-      "summary": "This is placeholder content so the interface can be previewed before the first automated collection.",
-      "category": "Demo",
+      "id": "9df676aaf232",
+      "title": "Russia backs India’s candidature for UNSC permanent seat",
+      "brief_summary": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said. Russia",
+      "summary_100": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said. Russia backs India’s candidature for UNSC permanent seat The Hindu Russian FM Sergey Lavrov bats for New Delhi, backs India's permanent UNSC bid at UNGA The Economic Times Russia backs India's bid for permanent UNSC seat at UN General Assembly, opposes more Western seats The New Indian Express Russia strongly backs",
+      "category": "India",
       "status": "Monitoring",
-      "score": 0,
-      "first_observed": "2026-09-27T00:00:00Z",
-      "last_updated": "2026-09-27T00:00:00Z",
-      "authority": "To be identified from verified sources",
+      "score": 102.16,
+      "first_observed": "2026-09-26T17:18:00+00:00",
+      "last_updated": "2026-09-27T06:58:39+00:00",
+      "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
-          "time": "2026-09-27T00:00:00Z",
-          "title": "Project initialized",
-          "description": "Viral News Updates has been initialized. Automated public RSS collection will populate real issues.",
-          "source": "Project"
+          "time": "2026-09-26T17:18:00+00:00",
+          "title": "Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan",
+          "description": "Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5UY3U2Xy1rXzBqQ3VERVpaNXNpRGZaS01IUGdHZ0h0YUNMVVNrMzV3WEJfUmcyYzF2MlZyM2swaWtNQXVJbWpsYjVmWEJrbGo2WlktTzFfb1N4Njc5aWZreXlBbWdjTTVLQjdtQWcyMVgzVkpFVVktaV9fVTRFam56YUhlNjVGYjV0enVrc2dodGpzNExDd1hrVzhhcWpEQkdUa2RfbE1teGFQSDBfY2c1cjNSYVBHeDh5SEtsMUs5WDBCNnZXUFlCcGgzcjk2cW5MV0JSSHZ2VzhC0gHiAUFVX3lxTE56US1OaXhTdmFPYTRraktGZF9pbE43ZThDQ01vV29NWVE0YWNqbGlwMUJLb3VxcFdNUXBmVUd2MkdPSFExTVVobTIwRDRMc0diNm1iSzEzZ3RXVnprREd4SnU1WGxZWDRvOVNtaUdad3ZCdWpLYm1wUlVoLVlGamxsMnVzNnBJNVNaamFjc3VGaG5tU2hPeHBoMzBqU2lwM1pYajFwTUp3Ykh6TnlRMWMxVXFYeHhEVWNNZnFjQWhWYlVWYlBRQTNuTmpucmpWUGRwQmZFQ1R4VVI1cGlubmlPTkE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5UY3U2Xy1rXzBqQ3VERVpaNXNpRGZaS01IUGdHZ0h0YUNMVVNrMzV3WEJfUmcyYzF2MlZyM2swaWtNQXVJbWpsYjVmWEJrbGo2WlktTzFfb1N4Njc5aWZreXlBbWdjTTVLQjdtQWcyMVgzVkpFVVktaV9fVTRFam56YUhlNjVGYjV0enVrc2dodGpzNExDd1hrVzhhcWpEQkdUa2RfbE1teGFQSDBfY2c1cjNSYVBHeDh5SEtsMUs5WDBCNnZXUFlCcGgzcjk2cW5MV0JSSHZ2VzhC0gHiAUFVX3lxTE56US1OaXhTdmFPYTRraktGZF9pbE43ZThDQ01vV29NWVE0YWNqbGlwMUJLb3VxcFdNUXBmVUd2MkdPSFExTVVobTIwRDRMc0diNm1iSzEzZ3RXVnprREd4SnU1WGxZWDRvOVNtaUdad3ZCdWpLYm1wUlVoLVlGamxsMnVzNnBJNVNaamFjc3VGaG5tU2hPeHBoMzBqU2lwM1pYajFwTUp3Ykh6TnlRMWMxVXFYeHhEVWNNZnFjQWhWYlVWYlBRQTNuTmpucmpWUGRwQmZFQ1R4VVI1cGlubmlPTkE?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T17:48:06+00:00",
+          "title": "Russia backs India's permanent UNSC bid, says can't allocate more seats to West",
+          "description": "Russia backs Indias permanent UNSC bid says cant allocate more seats to West",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "url": "https://www.indiatoday.in/india/story/india-permanent-unsc-seat-russia-lavrov-backs-bid-western-expansion-3003869-2026-09-26?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/india/story/india-permanent-unsc-seat-russia-lavrov-backs-bid-western-expansion-3003869-2026-09-26?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T19:15:30+00:00",
+          "title": "At UN, Russia Backs India's Bid For Permanent Security Council Seat",
+          "description": "At UN, Russia Backs India's Bid For Permanent Security Council Seat NDTV Russia backs India’s candidature for UNSC permanent seat The Hindu Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan The Times of India Hot seat: Editorial on India’s UN ambitions and the need for diplomatic clarity Telegraph India 'The post-1945 order is giving way to new realities': Jaishankar pushes for immediate UN reforms Firstpost",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T19:15:30+00:00",
+          "title": "At UN, Russia Backs India's Bid For Permanent Security Council Seat",
+          "description": "At UN, Russia Backs India's Bid For Permanent Security Council Seat NDTV",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T02:22:36+00:00",
+          "title": "Russia strongly backs India’s claim for permanent seat in UN Security Council",
+          "description": "Russia strongly backs India’s claim for permanent seat in UN Security Council News On AIR",
+          "source": "News On AIR",
+          "publisher": "News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T04:39:11+00:00",
+          "title": "Russia backs India's bid for permanent UNSC seat at UN General Assembly, opposes more Western seats",
+          "description": "Russia backs India's bid for permanent UNSC seat at UN General Assembly, opposes more Western seats The New Indian Express",
+          "source": "The New Indian Express",
+          "publisher": "The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWc0b0lYRVZyenBISWdxR09LSHdhbEZmZFBXalkzaHVaQ1VFMVNCOG9pQUktQzQ3YUJ0S1V4WFM1TEZNajlTM3lCZnJPVDZfNkYxNkJBY2sxaVk4RGJWc0trVjNrTXhNajFNaFJXZndoVC1iay1rS2NRY3AwOURtckxVRXZ3d0xBeEtfSG5WSGpuWTk3MV9DUFhROGlreXZCRmlSQUI5MTJYN241OTBrNDhuMFJzYi1qWEszNGtqano3WHBjN3dFbjJjOU1GVGJkd0c1a2dNY1AxWnZLM2NmUUln0gHvAUFVX3lxTE1TZU9NZjBvX3dQZ0JYYkhMcm10cHVKaWFaNG1WR2pJOXV4OXhHM0tUOHVVUGVfZm13N05FSFBMdWxjblV4MmNmVmY1OXdFUnN0MGNKYlhyMnB6UnFPWlhGVlp2QnVjby1RY0lSRVI0WDBEQXhDZ1Bvd3Q0ZkM0dDU2a2dGUWZDRE9oQ0JUbk5uQUpZdi1sZ2NjQjNYaWU3d3pEM3ZpTEthdE5nb2hOUllqNzFCTEtCMFc2WUdNeXJGNkRfbkRhTUlXRUpsNktySDhRbHpyN3pLdF9vOXJtYTRnWUlFNGFrX3R0VzlKRDVF?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWc0b0lYRVZyenBISWdxR09LSHdhbEZmZFBXalkzaHVaQ1VFMVNCOG9pQUktQzQ3YUJ0S1V4WFM1TEZNajlTM3lCZnJPVDZfNkYxNkJBY2sxaVk4RGJWc0trVjNrTXhNajFNaFJXZndoVC1iay1rS2NRY3AwOURtckxVRXZ3d0xBeEtfSG5WSGpuWTk3MV9DUFhROGlreXZCRmlSQUI5MTJYN241OTBrNDhuMFJzYi1qWEszNGtqano3WHBjN3dFbjJjOU1GVGJkd0c1a2dNY1AxWnZLM2NmUUln0gHvAUFVX3lxTE1TZU9NZjBvX3dQZ0JYYkhMcm10cHVKaWFaNG1WR2pJOXV4OXhHM0tUOHVVUGVfZm13N05FSFBMdWxjblV4MmNmVmY1OXdFUnN0MGNKYlhyMnB6UnFPWlhGVlp2QnVjby1RY0lSRVI0WDBEQXhDZ1Bvd3Q0ZkM0dDU2a2dGUWZDRE9oQ0JUbk5uQUpZdi1sZ2NjQjNYaWU3d3pEM3ZpTEthdE5nb2hOUllqNzFCTEtCMFc2WUdNeXJGNkRfbkRhTUlXRUpsNktySDhRbHpyN3pLdF9vOXJtYTRnWUlFNGFrX3R0VzlKRDVF?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T04:52:30+00:00",
+          "title": "Russian FM Sergey Lavrov bats for New Delhi, backs India's permanent UNSC bid at UNGA",
+          "description": "Russian FM Sergey Lavrov bats for New Delhi, backs India's permanent UNSC bid at UNGA The Economic Times",
+          "source": "The Economic Times",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXBBX2NaeXhqTXp4bjNNZWpLM2FUUlJxeFV4WTFScERrOXZLdXNCem9iZnlmRVhFSXZlZ004bjhXQzRhQjZjUWNuVkE2VVRmWFVuaUJrcFRaMnpGeXg2TkZVNG5ZNWN3NkVtZThnQWRYZEc3NFNadzF0TkNjM25LaXRpSi1raU5VaXhFQVlINUpzVi1NTVlOQjJlRmFMcFJZQzR0dmVBSEoxOXRHMmc3cmUta29ITE9HcUJlandCZHVncGdLWV9Cajg0emQ5M3FOSW5kOFdTdnI5dXN3NlU00gHkAUFVX3lxTE9RYk1qcDFudV9kRXEwZEdrN1F4RnV2MHRlXzlac09PVGlMR2M5c09uSkRsT2JkTXZlOUdJcEpvX3o3MC1HQXRub05naDlLQjE4QUVINXhHMDc4S0JsXzBKZW8yTDZTdjZETDlQcy1IczZpek9BR1R5TURCTGliR3VjQksxS1dDR00wYUozc3djRmhqVlZhcXlRS3QtbUZNN0Q1YjJoQmhPTG1fc2tXenNVaVhrWDZyRmhudXFqTG5lOFo2Yi1GeWJlNGE3YW05TDl3cDFzNDgwMDNPX1BMNWdta0RwRQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXBBX2NaeXhqTXp4bjNNZWpLM2FUUlJxeFV4WTFScERrOXZLdXNCem9iZnlmRVhFSXZlZ004bjhXQzRhQjZjUWNuVkE2VVRmWFVuaUJrcFRaMnpGeXg2TkZVNG5ZNWN3NkVtZThnQWRYZEc3NFNadzF0TkNjM25LaXRpSi1raU5VaXhFQVlINUpzVi1NTVlOQjJlRmFMcFJZQzR0dmVBSEoxOXRHMmc3cmUta29ITE9HcUJlandCZHVncGdLWV9Cajg0emQ5M3FOSW5kOFdTdnI5dXN3NlU00gHkAUFVX3lxTE9RYk1qcDFudV9kRXEwZEdrN1F4RnV2MHRlXzlac09PVGlMR2M5c09uSkRsT2JkTXZlOUdJcEpvX3o3MC1HQXRub05naDlLQjE4QUVINXhHMDc4S0JsXzBKZW8yTDZTdjZETDlQcy1IczZpek9BR1R5TURCTGliR3VjQksxS1dDR00wYUozc3djRmhqVlZhcXlRS3QtbUZNN0Q1YjJoQmhPTG1fc2tXenNVaVhrWDZyRmhudXFqTG5lOFo2Yi1GeWJlNGE3YW05TDl3cDFzNDgwMDNPX1BMNWdta0RwRQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:18:45+00:00",
+          "title": "Russia backs India’s candidature for UNSC permanent seat",
+          "description": "Russia backs India’s candidature for UNSC permanent seat The Hindu",
+          "source": "The Hindu",
+          "publisher": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:58:39+00:00",
+          "title": "Russia backs India’s candidature for UNSC permanent seat",
+          "description": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said.",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+              "label": "Open article"
+            }
+          ]
         }
       ],
-      "sources": []
+      "sources": [
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQTG5UY3U2Xy1rXzBqQ3VERVpaNXNpRGZaS01IUGdHZ0h0YUNMVVNrMzV3WEJfUmcyYzF2MlZyM2swaWtNQXVJbWpsYjVmWEJrbGo2WlktTzFfb1N4Njc5aWZreXlBbWdjTTVLQjdtQWcyMVgzVkpFVVktaV9fVTRFam56YUhlNjVGYjV0enVrc2dodGpzNExDd1hrVzhhcWpEQkdUa2RfbE1teGFQSDBfY2c1cjNSYVBHeDh5SEtsMUs5WDBCNnZXUFlCcGgzcjk2cW5MV0JSSHZ2VzhC0gHiAUFVX3lxTE56US1OaXhTdmFPYTRraktGZF9pbE43ZThDQ01vV29NWVE0YWNqbGlwMUJLb3VxcFdNUXBmVUd2MkdPSFExTVVobTIwRDRMc0diNm1iSzEzZ3RXVnprREd4SnU1WGxZWDRvOVNtaUdad3ZCdWpLYm1wUlVoLVlGamxsMnVzNnBJNVNaamFjc3VGaG5tU2hPeHBoMzBqU2lwM1pYajFwTUp3Ykh6TnlRMWMxVXFYeHhEVWNNZnFjQWhWYlVWYlBRQTNuTmpucmpWUGRwQmZFQ1R4VVI1cGlubmlPTkE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/india/story/india-permanent-unsc-seat-russia-lavrov-backs-bid-western-expansion-3003869-2026-09-26?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOWc0b0lYRVZyenBISWdxR09LSHdhbEZmZFBXalkzaHVaQ1VFMVNCOG9pQUktQzQ3YUJ0S1V4WFM1TEZNajlTM3lCZnJPVDZfNkYxNkJBY2sxaVk4RGJWc0trVjNrTXhNajFNaFJXZndoVC1iay1rS2NRY3AwOURtckxVRXZ3d0xBeEtfSG5WSGpuWTk3MV9DUFhROGlreXZCRmlSQUI5MTJYN241OTBrNDhuMFJzYi1qWEszNGtqano3WHBjN3dFbjJjOU1GVGJkd0c1a2dNY1AxWnZLM2NmUUln0gHvAUFVX3lxTE1TZU9NZjBvX3dQZ0JYYkhMcm10cHVKaWFaNG1WR2pJOXV4OXhHM0tUOHVVUGVfZm13N05FSFBMdWxjblV4MmNmVmY1OXdFUnN0MGNKYlhyMnB6UnFPWlhGVlp2QnVjby1RY0lSRVI0WDBEQXhDZ1Bvd3Q0ZkM0dDU2a2dGUWZDRE9oQ0JUbk5uQUpZdi1sZ2NjQjNYaWU3d3pEM3ZpTEthdE5nb2hOUllqNzFCTEtCMFc2WUdNeXJGNkRfbkRhTUlXRUpsNktySDhRbHpyN3pLdF9vOXJtYTRnWUlFNGFrX3R0VzlKRDVF?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOQXBBX2NaeXhqTXp4bjNNZWpLM2FUUlJxeFV4WTFScERrOXZLdXNCem9iZnlmRVhFSXZlZ004bjhXQzRhQjZjUWNuVkE2VVRmWFVuaUJrcFRaMnpGeXg2TkZVNG5ZNWN3NkVtZThnQWRYZEc3NFNadzF0TkNjM25LaXRpSi1raU5VaXhFQVlINUpzVi1NTVlOQjJlRmFMcFJZQzR0dmVBSEoxOXRHMmc3cmUta29ITE9HcUJlandCZHVncGdLWV9Cajg0emQ5M3FOSW5kOFdTdnI5dXN3NlU00gHkAUFVX3lxTE9RYk1qcDFudV9kRXEwZEdrN1F4RnV2MHRlXzlac09PVGlMR2M5c09uSkRsT2JkTXZlOUdJcEpvX3o3MC1HQXRub05naDlLQjE4QUVINXhHMDc4S0JsXzBKZW8yTDZTdjZETDlQcy1IczZpek9BR1R5TURCTGliR3VjQksxS1dDR00wYUozc3djRmhqVlZhcXlRS3QtbUZNN0Q1YjJoQmhPTG1fc2tXenNVaVhrWDZyRmhudXFqTG5lOFo2Yi1GeWJlNGE3YW05TDl3cDFzNDgwMDNPX1BMNWdta0RwRQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+          "type": "article"
+        }
+      ],
+      "rank": 1,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "3b73bf09159c",
+      "title": "PM Modi recalls 2016 surgical strikes, says terrorism will get decisive response",
+      "brief_summary": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi The Hindu During his",
+      "summary_100": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi The Hindu During his radio address, Mann Ki Baat, Prime Minister Narendra Modi discussed key national issues, including the 2016 surgical strikes against terrorism, reaffirming India's strong stance and zero-tolerance policy toward cross-border threats. He called on citizens to contribute to the Census, emphasized cleanliness efforts linked to Mahatma Gandhi, and expressed support for",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 88.47,
+      "first_observed": "2026-09-27T05:58:00+00:00",
+      "last_updated": "2026-09-27T07:29:48+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T05:58:00+00:00",
+          "title": "PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism",
+          "description": "PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism ANI News",
+          "source": "ANI News",
+          "publisher": "ANI News",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:33:41+00:00",
+          "title": "Surgical strike demonstrated new example of India’s counter-terrorism policy: PM Modi",
+          "description": "Surgical strike demonstrated new example of India’s counter-terrorism policy: PM Modi ddnews.gov.in",
+          "source": "ddnews.gov.in",
+          "publisher": "ddnews.gov.in",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:39:26+00:00",
+          "title": "2016 Surgical Strikes Presented India's Counter-Terrorism Policy: PM Modi In 'Mann Ki Baat",
+          "description": "2016 Surgical Strikes Presented India's Counter-Terrorism Policy: PM Modi In 'Mann Ki Baat NDTV",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:50:25+00:00",
+          "title": "Uri surgical strike set bold example of India’s counter-terror policy: PM Modi",
+          "description": "Uri surgical strike set bold example of India’s counter-terror policy: PM Modi The New Indian Express",
+          "source": "The New Indian Express",
+          "publisher": "The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:08:41+00:00",
+          "title": "PM Modi recalls 2016 surgical strikes, says terrorism will get decisive response",
+          "description": "During his radio address, Mann Ki Baat, Prime Minister Narendra Modi discussed key national issues, including the 2016 surgical strikes against terrorism, reaffirming India's strong stance and zero-tolerance policy toward cross-border threats. He called on citizens to contribute to the Census, emphasized cleanliness efforts linked to Mahatma Gandhi, and expressed support for the youth's battle against narcotics.",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:12:38+00:00",
+          "title": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi",
+          "description": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi The Hindu",
+          "source": "The Hindu",
+          "publisher": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:29:48+00:00",
+          "title": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi",
+          "description": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — ANI News",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ddnews.gov.in",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+          "type": "article"
+        }
+      ],
+      "rank": 2,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "79ea63aaf4f0",
+      "title": "Asian Games 2026: Full-strength India to face inexperienced Afghanistan in opener",
+      "brief_summary": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table The Times of India It is to be noted that India have come here with a full strength squad unlike last time with Iyer himself part of the side alongside Jasprit Bumrah, Ishan Kishan Abhishek Sharma and",
+      "summary_100": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table The Times of India It is to be noted that India have come here with a full strength squad unlike last time with Iyer himself part of the side alongside Jasprit Bumrah, Ishan Kishan Abhishek Sharma and Axar Patel Asian Games 2026: Ankush Panghal punches India’s first boxing medal with 5-0 quarterfinal win The Times of India Asian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27 The Times of India Asian Games 2026: Ankush Panghal advances to semi-final, assures India of",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 84.74,
+      "first_observed": "2026-09-26T12:22:10+00:00",
+      "last_updated": "2026-09-27T06:53:00+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T12:22:10+00:00",
+          "title": "India at Asian Games 2026: Full schedule of medal events and fixtures on September 27, Sunday",
+          "description": "India at Asian Games 2026: Full schedule of medal events and fixtures on September 27, Sunday ESPN India",
+          "source": "ESPN India",
+          "publisher": "ESPN India",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHVUQmpVZUhqUG5Qc2pSNVJVWjEyZUI1cWpuMm14NlhYWkZkeDJ6d2x1Rm9qNlgtV1FmMVl5UTB2aE1tcldXeHNYS0tFVXRMcENTYUJGTTVIWHBhUVFteHZyZjJadEdpN3ZxRFp3bWZ1amtDVmZYRnE5eUtta0NMWUg2LUo5T2pyUzJsX0d6V0RnYU4yR3JSb0dCY3FMeDQwSXUzRzZlSHFnSHhxdDRwX2pyWS01OEItOUwwRkd5d1piTVlxNnQwZmtkWjJwUDR4Y2c?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHVUQmpVZUhqUG5Qc2pSNVJVWjEyZUI1cWpuMm14NlhYWkZkeDJ6d2x1Rm9qNlgtV1FmMVl5UTB2aE1tcldXeHNYS0tFVXRMcENTYUJGTTVIWHBhUVFteHZyZjJadEdpN3ZxRFp3bWZ1amtDVmZYRnE5eUtta0NMWUg2LUo5T2pyUzJsX0d6V0RnYU4yR3JSb0dCY3FMeDQwSXUzRzZlSHFnSHhxdDRwX2pyWS01OEItOUwwRkd5d1piTVlxNnQwZmtkWjJwUDR4Y2c?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T14:03:00+00:00",
+          "title": "Asian Games Medal Tally: How two kabaddi golds helped India break back into top 10 as China pull ahead",
+          "description": "Asian Games Medal Tally: How two kabaddi golds helped India break back into top 10 as China pull ahead The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaThkUzVEYUhjMkFEZkVqQzZLTHFISTVLTmNiSTF4bHE5aXV5TWRSbjZ1cm9xQ0lQRnJlRFYzTjBpWDc5RS1lTTk4RGcxalpXd21Jc2JJak1xRS1RNHBvZnhaUk4wUHdtSnBhUnVIRUVNQnZsNExXeG16THRXLU9naHVIbnJYRUdWLXNEX2VXZnZxamdDYWlKU1NJRjVuTHk5QnFrZ3ItckNhejlTdFJoMjVUeWs3bFVCNk4yS0dPS3c3MXFNQ0ZzSlZKNkRFM182UlhmeEVsTm9PYzI0MFpzUDhRYTRKdjZrbFZDN1JHOUtlT29HYU9EbV9TQkd3c1NQM2FudlhWZkRnd3d0S2pfNWxVcS12d9IBmwJBVV95cUxNSFlOeXRqV3gtZVZSSUNhSklwcmtqcDA4bzl3Mi1PTWFNRW1xVV92alFPTHRSaU5oYzRNM2RtREJ5Y2lRY0lKbmh4ZS13Rk8wUExlVjl0UlQ1WjVlOXVTTTM2d0lMN1MyR3B0UlMwRDFTWVhlcDRWVFBUb0xMcGV1VzRjLXRMNHJJcC1mQzBHWVV1REpxUXc0THc4OEdVMWdvYjg2UkhVOWRVQjN0WThRZTJqNXA5ZjVodUFmRXBDbHdLVWVobnJUNVVFWjYtQUNaMUJTZTdZME1CMlp5eTBFUXpzenV5Y3g1SjlEN2kyUHhyMW5uRjd5WGRPMzh2NldERVRBMXpTTU9kb0RYQnVQekdOZVlmT0M2TnNn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaThkUzVEYUhjMkFEZkVqQzZLTHFISTVLTmNiSTF4bHE5aXV5TWRSbjZ1cm9xQ0lQRnJlRFYzTjBpWDc5RS1lTTk4RGcxalpXd21Jc2JJak1xRS1RNHBvZnhaUk4wUHdtSnBhUnVIRUVNQnZsNExXeG16THRXLU9naHVIbnJYRUdWLXNEX2VXZnZxamdDYWlKU1NJRjVuTHk5QnFrZ3ItckNhejlTdFJoMjVUeWs3bFVCNk4yS0dPS3c3MXFNQ0ZzSlZKNkRFM182UlhmeEVsTm9PYzI0MFpzUDhRYTRKdjZrbFZDN1JHOUtlT29HYU9EbV9TQkd3c1NQM2FudlhWZkRnd3d0S2pfNWxVcS12d9IBmwJBVV95cUxNSFlOeXRqV3gtZVZSSUNhSklwcmtqcDA4bzl3Mi1PTWFNRW1xVV92alFPTHRSaU5oYzRNM2RtREJ5Y2lRY0lKbmh4ZS13Rk8wUExlVjl0UlQ1WjVlOXVTTTM2d0lMN1MyR3B0UlMwRDFTWVhlcDRWVFBUb0xMcGV1VzRjLXRMNHJJcC1mQzBHWVV1REpxUXc0THc4OEdVMWdvYjg2UkhVOWRVQjN0WThRZTJqNXA5ZjVodUFmRXBDbHdLVWVobnJUNVVFWjYtQUNaMUJTZTdZME1CMlp5eTBFUXpzenV5Y3g1SjlEN2kyUHhyMW5uRjd5WGRPMzh2NldERVRBMXpTTU9kb0RYQnVQekdOZVlmT0M2TnNn?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T16:11:00+00:00",
+          "title": "Asian Games 2026: India's full schedule on September 27; medal events, timings",
+          "description": "Asian Games 2026: India's full schedule on September 27; medal events, timings The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEpwN1dMcEFocVF4eXc4MjhlSFhQV2VOS0hBUjJNZnRqVFgyTUZZRHlLNWh4OTZjcXhtaDlObU5FNERIbW1UdjhubkpaVFN1c00xSFJtV2F6ZW1rYXNyb3NJOTJvNHBrX1hlbld1cmVIYktNXzJjY2RYbDhNTXl4bV9paEtselJiOXNOWHRWR2hYbzR5M1FOOG1pWXBQNTVZbVhIaGRkYXA0c3UtRTc5VjBTN1pJaFpUSkpjRG84cm5IYS1hZlpNaEY3clE5S0JZaVlTaG5ra2I0MnVJajVOaW9CVml3R0I0ZVF6dXMzMmU0UdIB9wFBVV95cUxOUDRFZEI4RlBORjZoV0xVLVdfaElXUDNHbUF0QmU0ZDZobFNNaXItWXJMWDNoUGdvYVJPalVwTGoyVGxGel9Zc0JScG1qcGc1bnFuaTg5cjNLSWp6LWNMUk9Fa3dQNGJMYU00WDE2Y29IS1dJX09ncW9UckFrMnpSSi02TGU1UzVibUZVd25Bc3RrVEpjT3NZMjQxcWJiV1VmZG15TUEtSnNGSmo3VzI4VDZubF9kanl6bzVlZDNwTXBSLWpJX1NmZEQ1elB2bmJReWdQdEhXQjRnOWpBcl85RFBfZ3RBZ0VLUDktQkV1NmJJWl9Vdk13?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEpwN1dMcEFocVF4eXc4MjhlSFhQV2VOS0hBUjJNZnRqVFgyTUZZRHlLNWh4OTZjcXhtaDlObU5FNERIbW1UdjhubkpaVFN1c00xSFJtV2F6ZW1rYXNyb3NJOTJvNHBrX1hlbld1cmVIYktNXzJjY2RYbDhNTXl4bV9paEtselJiOXNOWHRWR2hYbzR5M1FOOG1pWXBQNTVZbVhIaGRkYXA0c3UtRTc5VjBTN1pJaFpUSkpjRG84cm5IYS1hZlpNaEY3clE5S0JZaVlTaG5ra2I0MnVJajVOaW9CVml3R0I0ZVF6dXMzMmU0UdIB9wFBVV95cUxOUDRFZEI4RlBORjZoV0xVLVdfaElXUDNHbUF0QmU0ZDZobFNNaXItWXJMWDNoUGdvYVJPalVwTGoyVGxGel9Zc0JScG1qcGc1bnFuaTg5cjNLSWp6LWNMUk9Fa3dQNGJMYU00WDE2Y29IS1dJX09ncW9UckFrMnpSSi02TGU1UzVibUZVd25Bc3RrVEpjT3NZMjQxcWJiV1VmZG15TUEtSnNGSmo3VzI4VDZubF9kanl6bzVlZDNwTXBSLWpJX1NmZEQ1elB2bmJReWdQdEhXQjRnOWpBcl85RFBfZ3RBZ0VLUDktQkV1NmJJWl9Vdk13?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T03:52:51+00:00",
+          "title": "Near medal miss in dressage team headlines India’s Asian Games 2026 equestrian campaign",
+          "description": "Near medal miss in dressage team headlines India’s Asian Games 2026 equestrian campaign olympics.com",
+          "source": "olympics.com",
+          "publisher": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVFc3QTRCTEhHTDdzTGRHQXBYbjZ2Znc5STR6ekFJRC1ZdldnSHp1a2Q1bkxoR2cyVWhJQmh2cE9ERlBxeDNUbDF0bmlnYlNvQmpVS2pWR2tRNE9teWMxWDZmbGZJS0NDVTlGaTVRcGN6djV5eXlpRVJVekhfUQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVFc3QTRCTEhHTDdzTGRHQXBYbjZ2Znc5STR6ekFJRC1ZdldnSHp1a2Q1bkxoR2cyVWhJQmh2cE9ERlBxeDNUbDF0bmlnYlNvQmpVS2pWR2tRNE9teWMxWDZmbGZJS0NDVTlGaTVRcGN6djV5eXlpRVJVekhfUQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T04:13:14+00:00",
+          "title": "India and Pakistan begin T20 medal hunt at Asian Games 2026",
+          "description": "India and Pakistan begin T20 medal hunt at Asian Games 2026 thenationalnews.com",
+          "source": "thenationalnews.com",
+          "publisher": "thenationalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFJqMmhHV3EwUmxsUGZ1cy1TRlRoTTZoeUpXTmpKa2hjcDFiRWtvbWFCUHhvalJmWEZpYk53Rkpjc0NsTFpnMXFWZFdFUkEyZ09tZEdiWGN2Y2Z2MEN0bV9WOUZWNU1XNTFMVFRqRlhNb2RIS0s1ektyeHlxR2VwOFZ2R2Y5RDZFNG5HZnVRSHV2YVhqcWttQ0Y1UG5haXFuS3F0ckhRaFlfZm9Tb1Y1a1VEdi1BZmhM?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFJqMmhHV3EwUmxsUGZ1cy1TRlRoTTZoeUpXTmpKa2hjcDFiRWtvbWFCUHhvalJmWEZpYk53Rkpjc0NsTFpnMXFWZFdFUkEyZ09tZEdiWGN2Y2Z2MEN0bV9WOUZWNU1XNTFMVFRqRlhNb2RIS0s1ektyeHlxR2VwOFZ2R2Y5RDZFNG5HZnVRSHV2YVhqcWttQ0Y1UG5haXFuS3F0ckhRaFlfZm9Tb1Y1a1VEdi1BZmhM?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:10:05+00:00",
+          "title": "Asian Games 2026: Ankush Panghal advances to semi-final, assures India of first boxing medal in men's 80kg",
+          "description": "Asian Games 2026: Ankush Panghal advances to semi-final, assures India of first boxing medal in men's 80kg The New Indian Express",
+          "source": "The New Indian Express",
+          "publisher": "The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWNTNHkyS2luQm5iczdQWHpXLVgxbG5SelJST01PX3pTaXR3NG10RFlsX0hUZy0xaUVrN3lQTlN0eVpJeXE1VUxvQUkyQWxJQUxfdzlsRHlVNjJ3MkplRGhTU3pRRE40NkNnbTMtUEFkcmhVWFVYZDJDdllaZnlQdmhEUXNpUHV3ODRZdTZiUjNwbjR5ZndCeGlqOFNNeXFYaEIwTDAxUlJqRTQ5ajdVMWFIa2pUSDlNZ012QlpTUV9zUVowTThSTGt6cVI5OXQ0SmFmM0lXOHdFRHk1aXB4bmVtVkljdGRMZURtLU9fTmhjZW5aa1dwRjhR0gGHAkFVX3lxTFBOTEhUS0xqbmU5Qkg4OEd5TWR2V3ZCbEtJRGl2TEZ5TGh4dF94TlVGU25ILTE2bTV3WDN1OGZpbVhHek9RYXA2TnBJV0FDSWFIWTFId3ZDSUI3Z0puT043cUpZU21yU0R3SVpfekdHZUNnT3ZEMjZ3YjFDNEQ2UlFKbGxqYnVBYTlDQjloVmc2ZjZ3c2c3Zjd4NGtGc1JRTEZQRW8zTnhkcUs1UTNyUVZXQV92aE45TndCdDJmNDg0anItdTF6RW9PZ3pNTmZ3MzJMcV8tSGVTQXJJSXBPMzVFOW5fRm1lMHlkdFFmZ0tZYi0yeGR3Sm51Z2VLN3FackpmeElKNHBr?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWNTNHkyS2luQm5iczdQWHpXLVgxbG5SelJST01PX3pTaXR3NG10RFlsX0hUZy0xaUVrN3lQTlN0eVpJeXE1VUxvQUkyQWxJQUxfdzlsRHlVNjJ3MkplRGhTU3pRRE40NkNnbTMtUEFkcmhVWFVYZDJDdllaZnlQdmhEUXNpUHV3ODRZdTZiUjNwbjR5ZndCeGlqOFNNeXFYaEIwTDAxUlJqRTQ5ajdVMWFIa2pUSDlNZ012QlpTUV9zUVowTThSTGt6cVI5OXQ0SmFmM0lXOHdFRHk1aXB4bmVtVkljdGRMZURtLU9fTmhjZW5aa1dwRjhR0gGHAkFVX3lxTFBOTEhUS0xqbmU5Qkg4OEd5TWR2V3ZCbEtJRGl2TEZ5TGh4dF94TlVGU25ILTE2bTV3WDN1OGZpbVhHek9RYXA2TnBJV0FDSWFIWTFId3ZDSUI3Z0puT043cUpZU21yU0R3SVpfekdHZUNnT3ZEMjZ3YjFDNEQ2UlFKbGxqYnVBYTlDQjloVmc2ZjZ3c2c3Zjd4NGtGc1JRTEZQRW8zTnhkcUs1UTNyUVZXQV92aE45TndCdDJmNDg0anItdTF6RW9PZ3pNTmZ3MzJMcV8tSGVTQXJJSXBPMzVFOW5fRm1lMHlkdFFmZ0tZYi0yeGR3Sm51Z2VLN3FackpmeElKNHBr?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:12:00+00:00",
+          "title": "Asian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27",
+          "description": "Asian Games 2026 India Medal Winners: Full List of Athletes and Medals Till September 27 The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNm9qY0dRTTVvRHNvSkdfWXJUSG5KM1ZPc09ZTTJyVkcwQzhTOUxOQ3FHcVAtVjlUcnJLMGNwNXUxeXZKTnN4OF82RDYzNGY2Tk1mZXcyU1o0eURQN2ZwaDJ5RXgtdElPcXNMRUxYbGMxZEt6ZFRmb09HUGE4R1RWUjZfSE1KMk5GUmpBVmVqbWROb1pJUzl1bldFU0pqNHBScG9oX1Z6OHVna3gtbWhJbG51YXcxNU5pQmo0TzJSRnNTNlFabjhRcDRiMHNLMV9FeEk0cmtxT2N6VVlsdHFIOFdGM3FzSEd2bGhNT0Z3UnFvblh6Y3IwZ3Baa2dJLV85OFc00gGIAkFVX3lxTE1JbFJQdnctaU85a3dKSk9VNnNIWkdRWW5heWRHbFF6Q1BVd2tOeGdab19mLTU2NG5zaFV1VERkcjZtam5BX1p4Uk44YWM3bHhzVUVxMTFPUkNfc2dxdTVvdXo0Smc2ekJ3RUdUSE1VNjRveFB5TXhKMmt4T2V6TmJ6R0ZVUlEtR3FyQkU0XzVQOTZLY1ROUklBSm9aWnNIRUVWdWhoMm1BQm5fRzJ4ak1CYnpvcXlZcDgtVUE2NGVoZXVvcmpTVGRKam9haU56TFg1UmNla2ZBQ0RhN3dCVjlFU1E4dWpVbzVlc1ZZaF9MTFNoQkUybmdlaUIwNWx1bDBUMl91T05kMQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNm9qY0dRTTVvRHNvSkdfWXJUSG5KM1ZPc09ZTTJyVkcwQzhTOUxOQ3FHcVAtVjlUcnJLMGNwNXUxeXZKTnN4OF82RDYzNGY2Tk1mZXcyU1o0eURQN2ZwaDJ5RXgtdElPcXNMRUxYbGMxZEt6ZFRmb09HUGE4R1RWUjZfSE1KMk5GUmpBVmVqbWROb1pJUzl1bldFU0pqNHBScG9oX1Z6OHVna3gtbWhJbG51YXcxNU5pQmo0TzJSRnNTNlFabjhRcDRiMHNLMV9FeEk0cmtxT2N6VVlsdHFIOFdGM3FzSEd2bGhNT0Z3UnFvblh6Y3IwZ3Baa2dJLV85OFc00gGIAkFVX3lxTE1JbFJQdnctaU85a3dKSk9VNnNIWkdRWW5heWRHbFF6Q1BVd2tOeGdab19mLTU2NG5zaFV1VERkcjZtam5BX1p4Uk44YWM3bHhzVUVxMTFPUkNfc2dxdTVvdXo0Smc2ekJ3RUdUSE1VNjRveFB5TXhKMmt4T2V6TmJ6R0ZVUlEtR3FyQkU0XzVQOTZLY1ROUklBSm9aWnNIRUVWdWhoMm1BQm5fRzJ4ak1CYnpvcXlZcDgtVUE2NGVoZXVvcmpTVGRKam9haU56TFg1UmNla2ZBQ0RhN3dCVjlFU1E4dWpVbzVlc1ZZaF9MTFNoQkUybmdlaUIwNWx1bDBUMl91T05kMQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:43:00+00:00",
+          "title": "Asian Games 2026: Ankush Panghal punches India’s first boxing medal with 5-0 quarterfinal win",
+          "description": "Asian Games 2026: Ankush Panghal punches India’s first boxing medal with 5-0 quarterfinal win The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUlNPQnZOQzVmMTZKR0E3WXVyOE5rTENyeVBJbmswVUNQanYtWk8tWkpwWWdkcERCaHNUVlU2SHNuam0weUx4Qnc1SjVBMHY0MlNXdWtBR1pBaURHYThveWh3TUZaMkpxVWkwaC12a3VqdTRnNi1hZF9ndGh1RC1ERk5zaW8wNkRyczNnY1dfQ3RKNTh1d2NOSHRUVEpnVXIwdXJ0eTNNemlMbjJBUTc0aEUwZWFpWE5Rek5seDhOUWk2VGdxUWpsMFQ3YmZ5Y3ZpZWJhc0JnbHpvcHBIcDZjZHoydUhyWGJ5TkhEN1VCUk9TM0dTVXk2amNMSjRBUXFWUkE3bkt6WErSAY4CQVVfeXFMTzBpWDBTaDI2N3lFT1o1UW5VNnEyUllqNlFBMk00ZExTa2JsT25wbUdHWWQ1bkVkVDZsWE5sUUdreS1FS0JzeERHU3htVmpFcGxBaVliRlM5ekh0Yk5qYTI4M2x4NHY1S1AzdG9XZUNTdGsyczFQeHFUa1BHdXFpMnN6R2NXSUVLbGZDMVhScFg2dkRfdHZIYmhFVmZwb3VHVHhBcDl3UXplS1loWGVjOF91d1l2RnJubTZ5UGVaTnZlTXNXOEZZc2lWU05rUlVVRlZXVGliY1lXdzRaSDV5cDRSdkltVEFJckNvOGZObEQ5a0NsTTdTREdxQ25aWWQtT2hDTFVrdGlWWllmQmxn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUlNPQnZOQzVmMTZKR0E3WXVyOE5rTENyeVBJbmswVUNQanYtWk8tWkpwWWdkcERCaHNUVlU2SHNuam0weUx4Qnc1SjVBMHY0MlNXdWtBR1pBaURHYThveWh3TUZaMkpxVWkwaC12a3VqdTRnNi1hZF9ndGh1RC1ERk5zaW8wNkRyczNnY1dfQ3RKNTh1d2NOSHRUVEpnVXIwdXJ0eTNNemlMbjJBUTc0aEUwZWFpWE5Rek5seDhOUWk2VGdxUWpsMFQ3YmZ5Y3ZpZWJhc0JnbHpvcHBIcDZjZHoydUhyWGJ5TkhEN1VCUk9TM0dTVXk2amNMSjRBUXFWUkE3bkt6WErSAY4CQVVfeXFMTzBpWDBTaDI2N3lFT1o1UW5VNnEyUllqNlFBMk00ZExTa2JsT25wbUdHWWQ1bkVkVDZsWE5sUUdreS1FS0JzeERHU3htVmpFcGxBaVliRlM5ekh0Yk5qYTI4M2x4NHY1S1AzdG9XZUNTdGsyczFQeHFUa1BHdXFpMnN6R2NXSUVLbGZDMVhScFg2dkRfdHZIYmhFVmZwb3VHVHhBcDl3UXplS1loWGVjOF91d1l2RnJubTZ5UGVaTnZlTXNXOEZZc2lWU05rUlVVRlZXVGliY1lXdzRaSDV5cDRSdkltVEFJckNvOGZObEQ5a0NsTTdTREdxQ25aWWQtT2hDTFVrdGlWWllmQmxn?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:30:28+00:00",
+          "title": "Asian Games 2026: Full-strength India to face inexperienced Afghanistan in opener",
+          "description": "It is to be noted that India have come here with a full strength squad unlike last time with Iyer himself part of the side alongside Jasprit Bumrah, Ishan Kishan Abhishek Sharma and Axar Patel",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-full-strength-india-to-face-inexperienced-afghanistan-in-opener/article71515301.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-full-strength-india-to-face-inexperienced-afghanistan-in-opener/article71515301.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:53:00+00:00",
+          "title": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table",
+          "description": "Asian Games 2026 Medal Tally Today (27/09/2026): India Rank and Full Medals Table The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY09HbTJLNFdRV0RjZFVGWExnSldnb0ticDNUMERLSDctMmdZY1N1MTFScktGc3ZDYVNpLXBLSEZQZDN2SFdwU1JNbHJjWHlaMTF0UVIxWUwwZ0lWNjVxVEtBSExRdHk2eV9VWmhZWnI4NFozWS1fWGRFNHVsUlB6eE5wTjhCZlBoWjdOa1NtbTdlbFRsb25IYTE1WElwSElZUFhKeUluTjNjdW9GLXVvNGpPcjBlVWZYREpteTNwaHFpRXRmREU1UjRvWXlpOFRzNmpKbUVuZVVuVk1wVnA2WkdjS0lFUEpfVGl5cjhVNnFXa1JXR0pz0gH8AUFVX3lxTE5YQ091alM3bFN6QTcyN2pvT1J4YjMyR1IzT2JkMC1JUk44N0JGU3RXQlRHejJpamptb2ZBVVNOdjFoZllVenp2NDhUYjk3NmQwdlBQbWE5Um85aE9VYWV6NENZTlVGc19Da3ZiWVhEUl9EV3hZRzN6aFgzUU5SYXFyYXpxTmxjTi1pSE4xR2RQYzQ0VWh1WGhSdmhoeXkxUGdsc0VZNVoxTmIyUWhHdHFBOEVWdW1WSmFENGdBQXplR2F5YldKYnpGemlOT012NkFYY3diRVlub3Q0VEwyOGpScEwzSTlxc2VHckRaUWVqbzBwSF80ZHpwYzFLVg?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY09HbTJLNFdRV0RjZFVGWExnSldnb0ticDNUMERLSDctMmdZY1N1MTFScktGc3ZDYVNpLXBLSEZQZDN2SFdwU1JNbHJjWHlaMTF0UVIxWUwwZ0lWNjVxVEtBSExRdHk2eV9VWmhZWnI4NFozWS1fWGRFNHVsUlB6eE5wTjhCZlBoWjdOa1NtbTdlbFRsb25IYTE1WElwSElZUFhKeUluTjNjdW9GLXVvNGpPcjBlVWZYREpteTNwaHFpRXRmREU1UjRvWXlpOFRzNmpKbUVuZVVuVk1wVnA2WkdjS0lFUEpfVGl5cjhVNnFXa1JXR0pz0gH8AUFVX3lxTE5YQ091alM3bFN6QTcyN2pvT1J4YjMyR1IzT2JkMC1JUk44N0JGU3RXQlRHejJpamptb2ZBVVNOdjFoZllVenp2NDhUYjk3NmQwdlBQbWE5Um85aE9VYWV6NENZTlVGc19Da3ZiWVhEUl9EV3hZRzN6aFgzUU5SYXFyYXpxTmxjTi1pSE4xR2RQYzQ0VWh1WGhSdmhoeXkxUGdsc0VZNVoxTmIyUWhHdHFBOEVWdW1WSmFENGdBQXplR2F5YldKYnpGemlOT012NkFYY3diRVlub3Q0VEwyOGpScEwzSTlxc2VHckRaUWVqbzBwSF80ZHpwYzFLVg?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — ESPN India",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNbHVUQmpVZUhqUG5Qc2pSNVJVWjEyZUI1cWpuMm14NlhYWkZkeDJ6d2x1Rm9qNlgtV1FmMVl5UTB2aE1tcldXeHNYS0tFVXRMcENTYUJGTTVIWHBhUVFteHZyZjJadEdpN3ZxRFp3bWZ1amtDVmZYRnE5eUtta0NMWUg2LUo5T2pyUzJsX0d6V0RnYU4yR3JSb0dCY3FMeDQwSXUzRzZlSHFnSHhxdDRwX2pyWS01OEItOUwwRkd5d1piTVlxNnQwZmtkWjJwUDR4Y2c?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNaThkUzVEYUhjMkFEZkVqQzZLTHFISTVLTmNiSTF4bHE5aXV5TWRSbjZ1cm9xQ0lQRnJlRFYzTjBpWDc5RS1lTTk4RGcxalpXd21Jc2JJak1xRS1RNHBvZnhaUk4wUHdtSnBhUnVIRUVNQnZsNExXeG16THRXLU9naHVIbnJYRUdWLXNEX2VXZnZxamdDYWlKU1NJRjVuTHk5QnFrZ3ItckNhejlTdFJoMjVUeWs3bFVCNk4yS0dPS3c3MXFNQ0ZzSlZKNkRFM182UlhmeEVsTm9PYzI0MFpzUDhRYTRKdjZrbFZDN1JHOUtlT29HYU9EbV9TQkd3c1NQM2FudlhWZkRnd3d0S2pfNWxVcS12d9IBmwJBVV95cUxNSFlOeXRqV3gtZVZSSUNhSklwcmtqcDA4bzl3Mi1PTWFNRW1xVV92alFPTHRSaU5oYzRNM2RtREJ5Y2lRY0lKbmh4ZS13Rk8wUExlVjl0UlQ1WjVlOXVTTTM2d0lMN1MyR3B0UlMwRDFTWVhlcDRWVFBUb0xMcGV1VzRjLXRMNHJJcC1mQzBHWVV1REpxUXc0THc4OEdVMWdvYjg2UkhVOWRVQjN0WThRZTJqNXA5ZjVodUFmRXBDbHdLVWVobnJUNVVFWjYtQUNaMUJTZTdZME1CMlp5eTBFUXpzenV5Y3g1SjlEN2kyUHhyMW5uRjd5WGRPMzh2NldERVRBMXpTTU9kb0RYQnVQekdOZVlmT0M2TnNn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQeEpwN1dMcEFocVF4eXc4MjhlSFhQV2VOS0hBUjJNZnRqVFgyTUZZRHlLNWh4OTZjcXhtaDlObU5FNERIbW1UdjhubkpaVFN1c00xSFJtV2F6ZW1rYXNyb3NJOTJvNHBrX1hlbld1cmVIYktNXzJjY2RYbDhNTXl4bV9paEtselJiOXNOWHRWR2hYbzR5M1FOOG1pWXBQNTVZbVhIaGRkYXA0c3UtRTc5VjBTN1pJaFpUSkpjRG84cm5IYS1hZlpNaEY3clE5S0JZaVlTaG5ra2I0MnVJajVOaW9CVml3R0I0ZVF6dXMzMmU0UdIB9wFBVV95cUxOUDRFZEI4RlBORjZoV0xVLVdfaElXUDNHbUF0QmU0ZDZobFNNaXItWXJMWDNoUGdvYVJPalVwTGoyVGxGel9Zc0JScG1qcGc1bnFuaTg5cjNLSWp6LWNMUk9Fa3dQNGJMYU00WDE2Y29IS1dJX09ncW9UckFrMnpSSi02TGU1UzVibUZVd25Bc3RrVEpjT3NZMjQxcWJiV1VmZG15TUEtSnNGSmo3VzI4VDZubF9kanl6bzVlZDNwTXBSLWpJX1NmZEQ1elB2bmJReWdQdEhXQjRnOWpBcl85RFBfZ3RBZ0VLUDktQkV1NmJJWl9Vdk13?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1ZVFc3QTRCTEhHTDdzTGRHQXBYbjZ2Znc5STR6ekFJRC1ZdldnSHp1a2Q1bkxoR2cyVWhJQmh2cE9ERlBxeDNUbDF0bmlnYlNvQmpVS2pWR2tRNE9teWMxWDZmbGZJS0NDVTlGaTVRcGN6djV5eXlpRVJVekhfUQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — thenationalnews.com",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObFJqMmhHV3EwUmxsUGZ1cy1TRlRoTTZoeUpXTmpKa2hjcDFiRWtvbWFCUHhvalJmWEZpYk53Rkpjc0NsTFpnMXFWZFdFUkEyZ09tZEdiWGN2Y2Z2MEN0bV9WOUZWNU1XNTFMVFRqRlhNb2RIS0s1ektyeHlxR2VwOFZ2R2Y5RDZFNG5HZnVRSHV2YVhqcWttQ0Y1UG5haXFuS3F0ckhRaFlfZm9Tb1Y1a1VEdi1BZmhM?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxOTWNTNHkyS2luQm5iczdQWHpXLVgxbG5SelJST01PX3pTaXR3NG10RFlsX0hUZy0xaUVrN3lQTlN0eVpJeXE1VUxvQUkyQWxJQUxfdzlsRHlVNjJ3MkplRGhTU3pRRE40NkNnbTMtUEFkcmhVWFVYZDJDdllaZnlQdmhEUXNpUHV3ODRZdTZiUjNwbjR5ZndCeGlqOFNNeXFYaEIwTDAxUlJqRTQ5ajdVMWFIa2pUSDlNZ012QlpTUV9zUVowTThSTGt6cVI5OXQ0SmFmM0lXOHdFRHk1aXB4bmVtVkljdGRMZURtLU9fTmhjZW5aa1dwRjhR0gGHAkFVX3lxTFBOTEhUS0xqbmU5Qkg4OEd5TWR2V3ZCbEtJRGl2TEZ5TGh4dF94TlVGU25ILTE2bTV3WDN1OGZpbVhHek9RYXA2TnBJV0FDSWFIWTFId3ZDSUI3Z0puT043cUpZU21yU0R3SVpfekdHZUNnT3ZEMjZ3YjFDNEQ2UlFKbGxqYnVBYTlDQjloVmc2ZjZ3c2c3Zjd4NGtGc1JRTEZQRW8zTnhkcUs1UTNyUVZXQV92aE45TndCdDJmNDg0anItdTF6RW9PZ3pNTmZ3MzJMcV8tSGVTQXJJSXBPMzVFOW5fRm1lMHlkdFFmZ0tZYi0yeGR3Sm51Z2VLN3FackpmeElKNHBr?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPNm9qY0dRTTVvRHNvSkdfWXJUSG5KM1ZPc09ZTTJyVkcwQzhTOUxOQ3FHcVAtVjlUcnJLMGNwNXUxeXZKTnN4OF82RDYzNGY2Tk1mZXcyU1o0eURQN2ZwaDJ5RXgtdElPcXNMRUxYbGMxZEt6ZFRmb09HUGE4R1RWUjZfSE1KMk5GUmpBVmVqbWROb1pJUzl1bldFU0pqNHBScG9oX1Z6OHVna3gtbWhJbG51YXcxNU5pQmo0TzJSRnNTNlFabjhRcDRiMHNLMV9FeEk0cmtxT2N6VVlsdHFIOFdGM3FzSEd2bGhNT0Z3UnFvblh6Y3IwZ3Baa2dJLV85OFc00gGIAkFVX3lxTE1JbFJQdnctaU85a3dKSk9VNnNIWkdRWW5heWRHbFF6Q1BVd2tOeGdab19mLTU2NG5zaFV1VERkcjZtam5BX1p4Uk44YWM3bHhzVUVxMTFPUkNfc2dxdTVvdXo0Smc2ekJ3RUdUSE1VNjRveFB5TXhKMmt4T2V6TmJ6R0ZVUlEtR3FyQkU0XzVQOTZLY1ROUklBSm9aWnNIRUVWdWhoMm1BQm5fRzJ4ak1CYnpvcXlZcDgtVUE2NGVoZXVvcmpTVGRKam9haU56TFg1UmNla2ZBQ0RhN3dCVjlFU1E4dWpVbzVlc1ZZaF9MTFNoQkUybmdlaUIwNWx1bDBUMl91T05kMQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPUlNPQnZOQzVmMTZKR0E3WXVyOE5rTENyeVBJbmswVUNQanYtWk8tWkpwWWdkcERCaHNUVlU2SHNuam0weUx4Qnc1SjVBMHY0MlNXdWtBR1pBaURHYThveWh3TUZaMkpxVWkwaC12a3VqdTRnNi1hZF9ndGh1RC1ERk5zaW8wNkRyczNnY1dfQ3RKNTh1d2NOSHRUVEpnVXIwdXJ0eTNNemlMbjJBUTc0aEUwZWFpWE5Rek5seDhOUWk2VGdxUWpsMFQ3YmZ5Y3ZpZWJhc0JnbHpvcHBIcDZjZHoydUhyWGJ5TkhEN1VCUk9TM0dTVXk2amNMSjRBUXFWUkE3bkt6WErSAY4CQVVfeXFMTzBpWDBTaDI2N3lFT1o1UW5VNnEyUllqNlFBMk00ZExTa2JsT25wbUdHWWQ1bkVkVDZsWE5sUUdreS1FS0JzeERHU3htVmpFcGxBaVliRlM5ekh0Yk5qYTI4M2x4NHY1S1AzdG9XZUNTdGsyczFQeHFUa1BHdXFpMnN6R2NXSUVLbGZDMVhScFg2dkRfdHZIYmhFVmZwb3VHVHhBcDl3UXplS1loWGVjOF91d1l2RnJubTZ5UGVaTnZlTXNXOEZZc2lWU05rUlVVRlZXVGliY1lXdzRaSDV5cDRSdkltVEFJckNvOGZObEQ5a0NsTTdTREdxQ25aWWQtT2hDTFVrdGlWWllmQmxn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/cricket/asian-games-2026-full-strength-india-to-face-inexperienced-afghanistan-in-opener/article71515301.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNY09HbTJLNFdRV0RjZFVGWExnSldnb0ticDNUMERLSDctMmdZY1N1MTFScktGc3ZDYVNpLXBLSEZQZDN2SFdwU1JNbHJjWHlaMTF0UVIxWUwwZ0lWNjVxVEtBSExRdHk2eV9VWmhZWnI4NFozWS1fWGRFNHVsUlB6eE5wTjhCZlBoWjdOa1NtbTdlbFRsb25IYTE1WElwSElZUFhKeUluTjNjdW9GLXVvNGpPcjBlVWZYREpteTNwaHFpRXRmREU1UjRvWXlpOFRzNmpKbUVuZVVuVk1wVnA2WkdjS0lFUEpfVGl5cjhVNnFXa1JXR0pz0gH8AUFVX3lxTE5YQ091alM3bFN6QTcyN2pvT1J4YjMyR1IzT2JkMC1JUk44N0JGU3RXQlRHejJpamptb2ZBVVNOdjFoZllVenp2NDhUYjk3NmQwdlBQbWE5Um85aE9VYWV6NENZTlVGc19Da3ZiWVhEUl9EV3hZRzN6aFgzUU5SYXFyYXpxTmxjTi1pSE4xR2RQYzQ0VWh1WGhSdmhoeXkxUGdsc0VZNVoxTmIyUWhHdHFBOEVWdW1WSmFENGdBQXplR2F5YldKYnpGemlOT012NkFYY3diRVlub3Q0VEwyOGpScEwzSTlxc2VHckRaUWVqbzBwSF80ZHpwYzFLVg?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 3,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "fb7bcc98d84c",
+      "title": "IIT Madras & Unicorn India Hit ₹450 Cr First Close for Deep-Tech Fund, Deploy ₹55 Cr Across 4 Startups",
+      "brief_summary": "IIT-Madras deep tech fund achieves ₹450 crore first close The Hindu IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund ETV Bharat IIT Madras & Unicorn India Hit ₹450 Cr First Close for Deep-Tech Fund, Deploy ₹55 Cr Across 4 Startups CXOToday.com IIT Madras, Unicorn India",
+      "summary_100": "IIT-Madras deep tech fund achieves ₹450 crore first close The Hindu IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund ETV Bharat IIT Madras & Unicorn India Hit ₹450 Cr First Close for Deep-Tech Fund, Deploy ₹55 Cr Across 4 Startups CXOToday.com IIT Madras, Unicorn India Ventures Raise Rs 450 Crore In Initial Round Of Rs 1,000-Crore Deep-Tech Fund Swarajya IIT Madras announces initial funding from Deep-Tech Venture Capital Fund BioSpectrum India IIT-M & Unicorn India hit ₹450 cr first close for its fund; Backs 4 deep-tech startups The Times of India IIT Madras, Unicorn India",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 82.74,
+      "first_observed": "2026-09-26T08:46:30+00:00",
+      "last_updated": "2026-09-26T15:32:29+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T08:46:30+00:00",
+          "title": "IIT Madras, Unicorn India mark ₹450 cr first close of ₹1,000 cr fund",
+          "description": "IIT Madras, Unicorn India mark ₹450 cr first close of ₹1,000 cr fund Business Standard",
+          "source": "Business Standard",
+          "publisher": "Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGRGZjczZ0M0Tm9ENWhWSkZSbGxQcmg4dFY4NDg4anItcmFhTGRha1RYbVRfVjVIT3Rkal9ZaXRpUzQwOEVMdmNFcV9ndTBualhHcER0OC1GWVV1ZXdqOUlwRlYtOHRNai1jd215ckVMTGNFMkItbzBhcmN4MnIzbTUydGJENVc1am5kMnU3NXVPSnprN0o0aVJ6VGVLOV9Tbjh4Mnc1enZVbUlOS3dETFRPY0c4eTJWeUNXQ0gxQXR2T1JaQmwySGZYSEdTa1UxTU9z0gHYAUFVX3lxTE9yYVBSNXZwRm9jUndrV2F2TVgyT2dvQmJudnBTNGZvcGluR2R3MDQ4bTFEdGpjd1hRdTFLenVhMWh6ZmlBSVpJdTRGWWZBV2lYbVlWY2VtcWdTUFlWS1Y0R3lIWFpBN19DQThmMnh4SG00U2NBVjVobzVaaWxvU0c4cEhOZHJKMXc4al9yUGxSTnNjRXR3cjJxMnEwcVBUeVRGRDF1VGNlSEZXcElManpEd2t1RklERTNaa2J5WS03NkIyTExkMUpIZHViVk1mSHZUTG05RVJqQw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGRGZjczZ0M0Tm9ENWhWSkZSbGxQcmg4dFY4NDg4anItcmFhTGRha1RYbVRfVjVIT3Rkal9ZaXRpUzQwOEVMdmNFcV9ndTBualhHcER0OC1GWVV1ZXdqOUlwRlYtOHRNai1jd215ckVMTGNFMkItbzBhcmN4MnIzbTUydGJENVc1am5kMnU3NXVPSnprN0o0aVJ6VGVLOV9Tbjh4Mnc1enZVbUlOS3dETFRPY0c4eTJWeUNXQ0gxQXR2T1JaQmwySGZYSEdTa1UxTU9z0gHYAUFVX3lxTE9yYVBSNXZwRm9jUndrV2F2TVgyT2dvQmJudnBTNGZvcGluR2R3MDQ4bTFEdGpjd1hRdTFLenVhMWh6ZmlBSVpJdTRGWWZBV2lYbVlWY2VtcWdTUFlWS1Y0R3lIWFpBN19DQThmMnh4SG00U2NBVjVobzVaaWxvU0c4cEhOZHJKMXc4al9yUGxSTnNjRXR3cjJxMnEwcVBUeVRGRDF1VGNlSEZXcElManpEd2t1RklERTNaa2J5WS03NkIyTExkMUpIZHViVk1mSHZUTG05RVJqQw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T10:54:00+00:00",
+          "title": "IIT-M & Unicorn India hit ₹450 cr first close for its fund; Backs 4 deep-tech startups",
+          "description": "IIT-M & Unicorn India hit ₹450 cr first close for its fund; Backs 4 deep-tech startups The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFZsQTRBVUZBT1AwMWJRVWNPT2pOMVRrMDg2M0FpRnJ2WmQ2RXZYSG9mcG9ZWXJxM3Z0eC1sNzZudFBfa2J5UFQ5dC15dDFadE1NdmVQa2hmeVZDUEY2bjh5UGlGR3YtWHEzUVduRzlnZkZVNkppSXRGemtlekdNWXlVSXBEZkZ2c2ZqTDcyd05KLTA5UlJ5bm1xd1dCWWtZZ2dibDMzTmlfRVU5LWVEZlY0c1BuZWg3R1RmZVF0a2k4b01sdEExOXNqMjRGTE80bWZZZUNjXzNnbm5oYkRnQW9zRUduSmhJQzZ0ZlJn0gHzAUFVX3lxTE9kSWttdG1KalFGcGRYSW1Na1Y0SjJhWm5KamwtOUNSeEJfaGIxcmZjRzB2WWx2YjF2cU1YbXlqUjQzTUVCdzBIendfajFvenhRQkcycVJ6LTk1Tzh2OEFCMVhmbUNILXJQOHRmYWtNWGVOLWpwY29OUkRfXzZjRkdYQ2FxZVVvaW8wNHpTOTREaDM2aTFFSlFzcWNFREljeG5mNS1OTDBTd0JVVU9yMGlIanZhYkNyeWljbU1FVEt1SHdpNHlXUGw0eHJLVUlzVUwwcmIyVF9mN3JORGpzU216Z0NzQ2JHS1NWbTRmbkluNFpWWQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFZsQTRBVUZBT1AwMWJRVWNPT2pOMVRrMDg2M0FpRnJ2WmQ2RXZYSG9mcG9ZWXJxM3Z0eC1sNzZudFBfa2J5UFQ5dC15dDFadE1NdmVQa2hmeVZDUEY2bjh5UGlGR3YtWHEzUVduRzlnZkZVNkppSXRGemtlekdNWXlVSXBEZkZ2c2ZqTDcyd05KLTA5UlJ5bm1xd1dCWWtZZ2dibDMzTmlfRVU5LWVEZlY0c1BuZWg3R1RmZVF0a2k4b01sdEExOXNqMjRGTE80bWZZZUNjXzNnbm5oYkRnQW9zRUduSmhJQzZ0ZlJn0gHzAUFVX3lxTE9kSWttdG1KalFGcGRYSW1Na1Y0SjJhWm5KamwtOUNSeEJfaGIxcmZjRzB2WWx2YjF2cU1YbXlqUjQzTUVCdzBIendfajFvenhRQkcycVJ6LTk1Tzh2OEFCMVhmbUNILXJQOHRmYWtNWGVOLWpwY29OUkRfXzZjRkdYQ2FxZVVvaW8wNHpTOTREaDM2aTFFSlFzcWNFREljeG5mNS1OTDBTd0JVVU9yMGlIanZhYkNyeWljbU1FVEt1SHdpNHlXUGw0eHJLVUlzVUwwcmIyVF9mN3JORGpzU216Z0NzQ2JHS1NWbTRmbkluNFpWWQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T11:08:23+00:00",
+          "title": "IIT Madras announces initial funding from Deep-Tech Venture Capital Fund",
+          "description": "IIT Madras announces initial funding from Deep-Tech Venture Capital Fund BioSpectrum India",
+          "source": "BioSpectrum India",
+          "publisher": "BioSpectrum India",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGM4TC1kMjAwVnBwVGF1bmNfRHRuOVB1dVhoTWJRTnRwRHozbV9nQXBUR0J3NWE4WWtpNzB4Z1VsUEVnM3dVWWxQTkhuSEtVeHcxcUs2dFI1czVuVnJVaGRqZXQxX0FOQWZ3Q0dwM2RvMzJpVTMwMFZVZ0VxS2xENnV6VGo1S3Vpdm5ObWU3azRnU2F1MnpySm40TmpFcnRsWXBEalJDSFVuM0hmYzJqaDgzc080VUtMbGplTkx1Y3ZDZw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGM4TC1kMjAwVnBwVGF1bmNfRHRuOVB1dVhoTWJRTnRwRHozbV9nQXBUR0J3NWE4WWtpNzB4Z1VsUEVnM3dVWWxQTkhuSEtVeHcxcUs2dFI1czVuVnJVaGRqZXQxX0FOQWZ3Q0dwM2RvMzJpVTMwMFZVZ0VxS2xENnV6VGo1S3Vpdm5ObWU3azRnU2F1MnpySm40TmpFcnRsWXBEalJDSFVuM0hmYzJqaDgzc080VUtMbGplTkx1Y3ZDZw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T11:24:26+00:00",
+          "title": "IIT Madras, Unicorn India Ventures Raise Rs 450 Crore In Initial Round Of Rs 1,000-Crore Deep-Tech Fund",
+          "description": "IIT Madras, Unicorn India Ventures Raise Rs 450 Crore In Initial Round Of Rs 1,000-Crore Deep-Tech Fund Swarajya",
+          "source": "Swarajya",
+          "publisher": "Swarajya",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdENuOVBHd3ZYRHZQRzBPekFQd1BqVDk0X1NBNXhMNUV5SERubVV6eXJ3MUkwXzI1Y1VfYWpaMXJETGVfVEhiSzFJZlM0b1BwcC1ULVFDazBQY1RrblVXcGZwTlJYaVV2MnM0MzFxV0VQWUNXOC1KSGJ4VTMxZlJJYTdxMGtHYzJibXZCTkdrak83eTJhMFBlRlVDaTZaeXlKeUNzMjRuWEFPUFR5blN2VUt6dzI2T2pRWWt1bmRjOHBieEhGZE9LYzgxMV84X0xoYkHSAeIBQVVfeXFMUC1VWVFhX1RPMm9Ha3I4dm9GaDZIcG93SHVrbmZSN3h0dUNEMmY3dU02VTlraVR5OW9nam9KRmZ3Z0RCOWNaME0zQmEtUUpLNnNvTGtlNW10a0p5RGZHcEQtOFhPaC1QdzlmS1ZmR2RfUEpzRC1uMy10N2tRNHZTVnJELVhyRDd1aHRKaG15WG5Hb1FybU5lSWFiMWtILXo3dElDUVRrSHhqTVE0SEUzenZtRUVtSkk1LVNYOV81RUJKVnVxREcxYXhpamVfcXI0MEYwa3d5cFRlLXQ3M09tUWZxZw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdENuOVBHd3ZYRHZQRzBPekFQd1BqVDk0X1NBNXhMNUV5SERubVV6eXJ3MUkwXzI1Y1VfYWpaMXJETGVfVEhiSzFJZlM0b1BwcC1ULVFDazBQY1RrblVXcGZwTlJYaVV2MnM0MzFxV0VQWUNXOC1KSGJ4VTMxZlJJYTdxMGtHYzJibXZCTkdrak83eTJhMFBlRlVDaTZaeXlKeUNzMjRuWEFPUFR5blN2VUt6dzI2T2pRWWt1bmRjOHBieEhGZE9LYzgxMV84X0xoYkHSAeIBQVVfeXFMUC1VWVFhX1RPMm9Ha3I4dm9GaDZIcG93SHVrbmZSN3h0dUNEMmY3dU02VTlraVR5OW9nam9KRmZ3Z0RCOWNaME0zQmEtUUpLNnNvTGtlNW10a0p5RGZHcEQtOFhPaC1QdzlmS1ZmR2RfUEpzRC1uMy10N2tRNHZTVnJELVhyRDd1aHRKaG15WG5Hb1FybU5lSWFiMWtILXo3dElDUVRrSHhqTVE0SEUzenZtRUVtSkk1LVNYOV81RUJKVnVxREcxYXhpamVfcXI0MEYwa3d5cFRlLXQ3M09tUWZxZw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T11:30:14+00:00",
+          "title": "IIT Madras & Unicorn India Hit ₹450 Cr First Close for Deep-Tech Fund, Deploy ₹55 Cr Across 4 Startups",
+          "description": "IIT Madras & Unicorn India Hit ₹450 Cr First Close for Deep-Tech Fund, Deploy ₹55 Cr Across 4 Startups CXOToday.com",
+          "source": "CXOToday.com",
+          "publisher": "CXOToday.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPanBBTHNOS3dBZm1yd0NVMDNLUmtYeUhPZXlwVXVxaGM4QVpkWUtfWHJJdTRPMlItRDNPdmVsZ19zeFFzQ01DUFJxTWVCWWNwVk9ubDN6Z1Frc3oyMi1xcDJHTGFxQkxzZ3htT2JvWTB5bG1taWk3eV9oMEtFMGZ5NGh6dVA0TnI3VFBNUzdjRnlDTTBpaTU5TENsV1djX0Y1bFJ4YWVBd09vRGkzdzFYMGpWcHJwUklqamV1TEVTZi1PVVJGSXkwSWNHcFJWNV84aVVhbFU4dE5WZTlMRUx0ZzJvUVBSTVU?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPanBBTHNOS3dBZm1yd0NVMDNLUmtYeUhPZXlwVXVxaGM4QVpkWUtfWHJJdTRPMlItRDNPdmVsZ19zeFFzQ01DUFJxTWVCWWNwVk9ubDN6Z1Frc3oyMi1xcDJHTGFxQkxzZ3htT2JvWTB5bG1taWk3eV9oMEtFMGZ5NGh6dVA0TnI3VFBNUzdjRnlDTTBpaTU5TENsV1djX0Y1bFJ4YWVBd09vRGkzdzFYMGpWcHJwUklqamV1TEVTZi1PVVJGSXkwSWNHcFJWNV84aVVhbFU4dE5WZTlMRUx0ZzJvUVBSTVU?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T15:20:46+00:00",
+          "title": "IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund",
+          "description": "IIT Madras, Unicorn India Ventures Announce Initial Funding From Deep-Tech Venture Capital Fund ETV Bharat",
+          "source": "ETV Bharat",
+          "publisher": "ETV Bharat",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHNWRWtMRnBkY0k1MG8yeW9MZ3MtRnVQc1dGM2dibUlzc2VIVTAwQS1Yem1NMFlhMEJvTWZ2eHhOMzFKYTM3bTZ2VjhSMXlnVGJLS1JDbE1zNmRXaDEtQTRHZmhxOUJqNWRwN2NROXkwamMtTDk4MnhaWGluQllqeFFPb2xUNnpBbUFlQk5GRm1GYU15N2F4ZnhzSXN5UVhMS1BoYWhzVGdYZjdNcFJOQk1SZmttSDh5Nm5jd29CWHNKV25YZ1NLQkswMHB6ZzlPX0F2Z05FYVZvUl90MWFGLTVzRdIB6AFBVV95cUxOQVh3VnNTMk50Vmk5d3gzTEdQT0FHUGZBR19QNlZVb2UxQ0cxZU1LSEhHY2s4RER1QUhUaXpVTEVfclR3YlBBaEVTWEtqUmdBZGlkWFFnYTZsY0FfR29YVGpCVXl3Xy1hbV80VVdxRDNVT1Z0RExtV1ZMRVB1TUs1NDVmSVhfVV9TQ21WdHEtRWxGa09WWkJwcVBvMGxzcTdJa2dNQVZsOHYtaVhJLXk2cDZmbFZzQmRzbmJjbFNsU3FacDdkd1pTSy1jLWJaMk53VFRxZFhPdU9laURHUzRKWmZiLVZITVlf?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHNWRWtMRnBkY0k1MG8yeW9MZ3MtRnVQc1dGM2dibUlzc2VIVTAwQS1Yem1NMFlhMEJvTWZ2eHhOMzFKYTM3bTZ2VjhSMXlnVGJLS1JDbE1zNmRXaDEtQTRHZmhxOUJqNWRwN2NROXkwamMtTDk4MnhaWGluQllqeFFPb2xUNnpBbUFlQk5GRm1GYU15N2F4ZnhzSXN5UVhMS1BoYWhzVGdYZjdNcFJOQk1SZmttSDh5Nm5jd29CWHNKV25YZ1NLQkswMHB6ZzlPX0F2Z05FYVZvUl90MWFGLTVzRdIB6AFBVV95cUxOQVh3VnNTMk50Vmk5d3gzTEdQT0FHUGZBR19QNlZVb2UxQ0cxZU1LSEhHY2s4RER1QUhUaXpVTEVfclR3YlBBaEVTWEtqUmdBZGlkWFFnYTZsY0FfR29YVGpCVXl3Xy1hbV80VVdxRDNVT1Z0RExtV1ZMRVB1TUs1NDVmSVhfVV9TQ21WdHEtRWxGa09WWkJwcVBvMGxzcTdJa2dNQVZsOHYtaVhJLXk2cDZmbFZzQmRzbmJjbFNsU3FacDdkd1pTSy1jLWJaMk53VFRxZFhPdU9laURHUzRKWmZiLVZITVlf?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T15:32:29+00:00",
+          "title": "IIT-Madras deep tech fund achieves ₹450 crore first close",
+          "description": "IIT-Madras deep tech fund achieves ₹450 crore first close The Hindu",
+          "source": "The Hindu",
+          "publisher": "The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVNfMjIzRUhaY185MTdha0xvUXlhTk1QZ1l3TUlfMlhQWF9qUHFFbS14LXpZaE5EMWUzNGdsTEttQkV3enFJc2ZtbklIQlpjVmpOQndfNXNwcTQ0UHpneURiYTczb1BMbWVFZFVuUnBJYkltNHd2U3dmdU9saHM5VEstQld4OXZOeTl2YzZvQkl4OHZJLUFNcFdiUVRGbmdLcGtrWlNFR2RCQkc0UnJUelNTZ25xUWFaU3ZkaFVCRGlKWFBL0gHLAUFVX3lxTE0xb2RMeVF5TWI0VTF2S01XMzQ3cTE2dlVHajk1bV92cldEMkNlOURLNW5Ba1A1ZnBRamFnaUU0T3BOQjF6dDhwSW1sbk15bTQ5WGRmOFU3Qmh5VG5lb3lEN0taTjVxLVprOGFyaXo1dTF1d01MR2E0bnp1NzF6ZFpLNkhfTUxWR3RTcV9vSVdLeEVONHhIVTBhZzRMU0JLbjRBVEdrNFpDQkhqMHI0T0NGcWxYTlJES1BuOWQ4anJLTDI1WE9lV3FyVnZF?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVNfMjIzRUhaY185MTdha0xvUXlhTk1QZ1l3TUlfMlhQWF9qUHFFbS14LXpZaE5EMWUzNGdsTEttQkV3enFJc2ZtbklIQlpjVmpOQndfNXNwcTQ0UHpneURiYTczb1BMbWVFZFVuUnBJYkltNHd2U3dmdU9saHM5VEstQld4OXZOeTl2YzZvQkl4OHZJLUFNcFdiUVRGbmdLcGtrWlNFR2RCQkc0UnJUelNTZ25xUWFaU3ZkaFVCRGlKWFBL0gHLAUFVX3lxTE0xb2RMeVF5TWI0VTF2S01XMzQ3cTE2dlVHajk1bV92cldEMkNlOURLNW5Ba1A1ZnBRamFnaUU0T3BOQjF6dDhwSW1sbk15bTQ5WGRmOFU3Qmh5VG5lb3lEN0taTjVxLVprOGFyaXo1dTF1d01MR2E0bnp1NzF6ZFpLNkhfTUxWR3RTcV9vSVdLeEVONHhIVTBhZzRMU0JLbjRBVEdrNFpDQkhqMHI0T0NGcWxYTlJES1BuOWQ4anJLTDI1WE9lV3FyVnZF?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUGRGZjczZ0M0Tm9ENWhWSkZSbGxQcmg4dFY4NDg4anItcmFhTGRha1RYbVRfVjVIT3Rkal9ZaXRpUzQwOEVMdmNFcV9ndTBualhHcER0OC1GWVV1ZXdqOUlwRlYtOHRNai1jd215ckVMTGNFMkItbzBhcmN4MnIzbTUydGJENVc1am5kMnU3NXVPSnprN0o0aVJ6VGVLOV9Tbjh4Mnc1enZVbUlOS3dETFRPY0c4eTJWeUNXQ0gxQXR2T1JaQmwySGZYSEdTa1UxTU9z0gHYAUFVX3lxTE9yYVBSNXZwRm9jUndrV2F2TVgyT2dvQmJudnBTNGZvcGluR2R3MDQ4bTFEdGpjd1hRdTFLenVhMWh6ZmlBSVpJdTRGWWZBV2lYbVlWY2VtcWdTUFlWS1Y0R3lIWFpBN19DQThmMnh4SG00U2NBVjVobzVaaWxvU0c4cEhOZHJKMXc4al9yUGxSTnNjRXR3cjJxMnEwcVBUeVRGRDF1VGNlSEZXcElManpEd2t1RklERTNaa2J5WS03NkIyTExkMUpIZHViVk1mSHZUTG05RVJqQw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNVFZsQTRBVUZBT1AwMWJRVWNPT2pOMVRrMDg2M0FpRnJ2WmQ2RXZYSG9mcG9ZWXJxM3Z0eC1sNzZudFBfa2J5UFQ5dC15dDFadE1NdmVQa2hmeVZDUEY2bjh5UGlGR3YtWHEzUVduRzlnZkZVNkppSXRGemtlekdNWXlVSXBEZkZ2c2ZqTDcyd05KLTA5UlJ5bm1xd1dCWWtZZ2dibDMzTmlfRVU5LWVEZlY0c1BuZWg3R1RmZVF0a2k4b01sdEExOXNqMjRGTE80bWZZZUNjXzNnbm5oYkRnQW9zRUduSmhJQzZ0ZlJn0gHzAUFVX3lxTE9kSWttdG1KalFGcGRYSW1Na1Y0SjJhWm5KamwtOUNSeEJfaGIxcmZjRzB2WWx2YjF2cU1YbXlqUjQzTUVCdzBIendfajFvenhRQkcycVJ6LTk1Tzh2OEFCMVhmbUNILXJQOHRmYWtNWGVOLWpwY29OUkRfXzZjRkdYQ2FxZVVvaW8wNHpTOTREaDM2aTFFSlFzcWNFREljeG5mNS1OTDBTd0JVVU9yMGlIanZhYkNyeWljbU1FVEt1SHdpNHlXUGw0eHJLVUlzVUwwcmIyVF9mN3JORGpzU216Z0NzQ2JHS1NWbTRmbkluNFpWWQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — BioSpectrum India",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRGM4TC1kMjAwVnBwVGF1bmNfRHRuOVB1dVhoTWJRTnRwRHozbV9nQXBUR0J3NWE4WWtpNzB4Z1VsUEVnM3dVWWxQTkhuSEtVeHcxcUs2dFI1czVuVnJVaGRqZXQxX0FOQWZ3Q0dwM2RvMzJpVTMwMFZVZ0VxS2xENnV6VGo1S3Vpdm5ObWU3azRnU2F1MnpySm40TmpFcnRsWXBEalJDSFVuM0hmYzJqaDgzc080VUtMbGplTkx1Y3ZDZw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Swarajya",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNdENuOVBHd3ZYRHZQRzBPekFQd1BqVDk0X1NBNXhMNUV5SERubVV6eXJ3MUkwXzI1Y1VfYWpaMXJETGVfVEhiSzFJZlM0b1BwcC1ULVFDazBQY1RrblVXcGZwTlJYaVV2MnM0MzFxV0VQWUNXOC1KSGJ4VTMxZlJJYTdxMGtHYzJibXZCTkdrak83eTJhMFBlRlVDaTZaeXlKeUNzMjRuWEFPUFR5blN2VUt6dzI2T2pRWWt1bmRjOHBieEhGZE9LYzgxMV84X0xoYkHSAeIBQVVfeXFMUC1VWVFhX1RPMm9Ha3I4dm9GaDZIcG93SHVrbmZSN3h0dUNEMmY3dU02VTlraVR5OW9nam9KRmZ3Z0RCOWNaME0zQmEtUUpLNnNvTGtlNW10a0p5RGZHcEQtOFhPaC1QdzlmS1ZmR2RfUEpzRC1uMy10N2tRNHZTVnJELVhyRDd1aHRKaG15WG5Hb1FybU5lSWFiMWtILXo3dElDUVRrSHhqTVE0SEUzenZtRUVtSkk1LVNYOV81RUJKVnVxREcxYXhpamVfcXI0MEYwa3d5cFRlLXQ3M09tUWZxZw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — CXOToday.com",
+          "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPanBBTHNOS3dBZm1yd0NVMDNLUmtYeUhPZXlwVXVxaGM4QVpkWUtfWHJJdTRPMlItRDNPdmVsZ19zeFFzQ01DUFJxTWVCWWNwVk9ubDN6Z1Frc3oyMi1xcDJHTGFxQkxzZ3htT2JvWTB5bG1taWk3eV9oMEtFMGZ5NGh6dVA0TnI3VFBNUzdjRnlDTTBpaTU5TENsV1djX0Y1bFJ4YWVBd09vRGkzdzFYMGpWcHJwUklqamV1TEVTZi1PVVJGSXkwSWNHcFJWNV84aVVhbFU4dE5WZTlMRUx0ZzJvUVBSTVU?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ETV Bharat",
+          "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPOHNWRWtMRnBkY0k1MG8yeW9MZ3MtRnVQc1dGM2dibUlzc2VIVTAwQS1Yem1NMFlhMEJvTWZ2eHhOMzFKYTM3bTZ2VjhSMXlnVGJLS1JDbE1zNmRXaDEtQTRHZmhxOUJqNWRwN2NROXkwamMtTDk4MnhaWGluQllqeFFPb2xUNnpBbUFlQk5GRm1GYU15N2F4ZnhzSXN5UVhMS1BoYWhzVGdYZjdNcFJOQk1SZmttSDh5Nm5jd29CWHNKV25YZ1NLQkswMHB6ZzlPX0F2Z05FYVZvUl90MWFGLTVzRdIB6AFBVV95cUxOQVh3VnNTMk50Vmk5d3gzTEdQT0FHUGZBR19QNlZVb2UxQ0cxZU1LSEhHY2s4RER1QUhUaXpVTEVfclR3YlBBaEVTWEtqUmdBZGlkWFFnYTZsY0FfR29YVGpCVXl3Xy1hbV80VVdxRDNVT1Z0RExtV1ZMRVB1TUs1NDVmSVhfVV9TQ21WdHEtRWxGa09WWkJwcVBvMGxzcTdJa2dNQVZsOHYtaVhJLXk2cDZmbFZzQmRzbmJjbFNsU3FacDdkd1pTSy1jLWJaMk53VFRxZFhPdU9laURHUzRKWmZiLVZITVlf?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVNfMjIzRUhaY185MTdha0xvUXlhTk1QZ1l3TUlfMlhQWF9qUHFFbS14LXpZaE5EMWUzNGdsTEttQkV3enFJc2ZtbklIQlpjVmpOQndfNXNwcTQ0UHpneURiYTczb1BMbWVFZFVuUnBJYkltNHd2U3dmdU9saHM5VEstQld4OXZOeTl2YzZvQkl4OHZJLUFNcFdiUVRGbmdLcGtrWlNFR2RCQkc0UnJUelNTZ25xUWFaU3ZkaFVCRGlKWFBL0gHLAUFVX3lxTE0xb2RMeVF5TWI0VTF2S01XMzQ3cTE2dlVHajk1bV92cldEMkNlOURLNW5Ba1A1ZnBRamFnaUU0T3BOQjF6dDhwSW1sbk15bTQ5WGRmOFU3Qmh5VG5lb3lEN0taTjVxLVprOGFyaXo1dTF1d01MR2E0bnp1NzF6ZFpLNkhfTUxWR3RTcV9vSVdLeEVONHhIVTBhZzRMU0JLbjRBVEdrNFpDQkhqMHI0T0NGcWxYTlJES1BuOWQ4anJLTDI1WE9lV3FyVnZF?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 4,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "2bcfca69273f",
+      "title": "Asian Games 2026 LIVE: Abhay Singh clinches squash silver after hard-fought final",
+      "brief_summary": "Steeplechaser Parul Chaudhary and decathlete Tejaswin Shankar are chasing podium finishes India vs. Afghanistan | Asian Games Men’s T20I, 2026 ICC Asian Games 2026 India schedule today, September 27: Anahat Singh, Abhay eye squash gold; Tejaswin Shankar defends decathlon lead olympics.com Live Anahat Singh eyes squash gold Abhay finishes with",
+      "summary_100": "Asian Games 2026 LIVE: Abhay Singh clinches squash silver after hard-fought final. Available public feed coverage is summarized here; this digest does not add facts beyond the linked sources. The Hindu - Home: Asian Games 2026 LIVE: Abhay Singh clinches squash silver after hard-fought final. Steeplechaser Parul Chaudhary and decathlete Tejaswin Shankar are chasing podium finishes ICC: India vs. Afghanistan | Asian Games Men’s T20I, 2026. India vs. Afghanistan | Asian Games Men’s T20I, 2026 ICC olympics.com: Asian Games 2026 India schedule today, September 27: Anahat Singh, Abhay eye squash gold; Tejaswin Shankar defends decathlon lead. Asian Games 2026 India",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 52.75,
+      "first_observed": "2026-09-26T17:00:41+00:00",
+      "last_updated": "2026-09-27T07:53:12+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T17:00:41+00:00",
+          "title": "Live: Anahat Singh eyes squash gold, Abhay finishes with silver",
+          "description": "Live Anahat Singh eyes squash gold Abhay finishes with silver",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-27-events-archery-athletics-shooting-squash-medals-3003835-2026-09-26?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-27-events-archery-athletics-shooting-squash-medals-3003835-2026-09-26?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T18:32:00+00:00",
+          "title": "Asian Games 2026 India schedule today, September 27: Anahat Singh, Abhay eye squash gold; Tejaswin Shankar defends decathlon lead",
+          "description": "Asian Games 2026 India schedule today, September 27: Anahat Singh, Abhay eye squash gold; Tejaswin Shankar defends decathlon lead olympics.com",
+          "source": "olympics.com",
+          "publisher": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHpJWlJPa0RWS3pxV1FscWV2QjJEa3NJRVhxTHpwLTJQdWFtWUk5RmdKZTNjZlZGaFQzRVRqVHFHQUQyeHZDaU1WOWVfNXVpWUd5dzQ3czhpa2g2SkZmaEdsa0tMTVdUYTF1bmhNbTJmNmY0dG10cUFBQkw4eFg1Z1U2RHd2eUZNbGIwYXZ3dmc4R3FX?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHpJWlJPa0RWS3pxV1FscWV2QjJEa3NJRVhxTHpwLTJQdWFtWUk5RmdKZTNjZlZGaFQzRVRqVHFHQUQyeHZDaU1WOWVfNXVpWUd5dzQ3czhpa2g2SkZmaEdsa0tMTVdUYTF1bmhNbTJmNmY0dG10cUFBQkw4eFg1Z1U2RHd2eUZNbGIwYXZ3dmc4R3FX?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T03:52:39+00:00",
+          "title": "India vs. Afghanistan | Asian Games Men’s T20I, 2026",
+          "description": "India vs. Afghanistan | Asian Games Men’s T20I, 2026 ICC",
+          "source": "ICC",
+          "publisher": "ICC",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNRm9VWUFXV0ZEdjh5SkZTSFR6QTBYYTY5a0p0WlN1NW5WTUF6Zmh4WG1oLTBzZGFvdjl5MjNVYjNSQVVwM2hpQWFoRlZLNlNqajhsLTgxdlI4TmliMTdfQVJNT21UMFVtX0p5MGhoeGw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNRm9VWUFXV0ZEdjh5SkZTSFR6QTBYYTY5a0p0WlN1NW5WTUF6Zmh4WG1oLTBzZGFvdjl5MjNVYjNSQVVwM2hpQWFoRlZLNlNqajhsLTgxdlI4TmliMTdfQVJNT21UMFVtX0p5MGhoeGw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:53:12+00:00",
+          "title": "Asian Games 2026 LIVE: Abhay Singh clinches squash silver after hard-fought final",
+          "description": "Steeplechaser Parul Chaudhary and decathlete Tejaswin Shankar are chasing podium finishes",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/sports/asian-games/story/asian-games-2026-live-updates-september-27-events-archery-athletics-shooting-squash-medals-3003835-2026-09-26?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNbHpJWlJPa0RWS3pxV1FscWV2QjJEa3NJRVhxTHpwLTJQdWFtWUk5RmdKZTNjZlZGaFQzRVRqVHFHQUQyeHZDaU1WOWVfNXVpWUd5dzQ3czhpa2g2SkZmaEdsa0tMTVdUYTF1bmhNbTJmNmY0dG10cUFBQkw4eFg1Z1U2RHd2eUZNbGIwYXZ3dmc4R3FX?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ICC",
+          "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBNRm9VWUFXV0ZEdjh5SkZTSFR6QTBYYTY5a0p0WlN1NW5WTUF6Zmh4WG1oLTBzZGFvdjl5MjNVYjNSQVVwM2hpQWFoRlZLNlNqajhsLTgxdlI4TmliMTdfQVJNT21UMFVtX0p5MGhoeGw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-live-updates-on-september-27-2026/article71513950.ece",
+          "type": "article"
+        }
+      ],
+      "rank": 5,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "1a11bab3620d",
+      "title": "Tamil Nadu government exempts Public (Law and Order) Department from RTI Act",
+      "brief_summary": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means The Times of India Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students, farmers",
+      "summary_100": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means The Times of India Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students, farmers from ambit of the RTI Act Karur Stampede Anniversary Observed; TN Govt Exempts Law And Order From RTI - India Today India Today",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 52.14,
+      "first_observed": "2026-09-27T05:33:48+00:00",
+      "last_updated": "2026-09-27T07:49:54+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T05:33:48+00:00",
+          "title": "Karur Stampede Anniversary Observed; TN Govt Exempts Law And Order From RTI - India Today",
+          "description": "Karur Stampede Anniversary Observed; TN Govt Exempts Law And Order From RTI - India Today India Today",
+          "source": "India Today",
+          "publisher": "India Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGR1NWFXWXZnWXNaRWJVUENDaG9JSERGU1FRUWM2eFBCYmFaXzIzRXZkWUhET0tFMjFQcGhmUVJXNFBxbnlHV1h1RFpDQXNkT3BqeW5VZWhqNW9OOUpza2ZHaGpiWlA3b3ZsUzRXSF84bDAtOWcxX3RmX0djeVdlcW0yeWlQZzh6eDBwTVA5czNLZ1RNSlMzdVdESHR4YzhyaWlyb0VVUVBnc3lQYXhYRWhoQkxqTnhpdlBkdTNEdHdPTnNac3RqbVF3bVY0eTBLUWfSAdcBQVVfeXFMTmQ4MElCTlQ4QmFGQVgxSVdVbTBZc3FNWnR5b0k0S3VMX0dWY0hhUXBTRklKYUdkUV9DNFhoZFUwQnNodVd0X19vcGFJbWx2eE9rem5fQkhvR2dXNkxNNHlMUDVUeG9HekZPUlRwWnBQZURjZ1BwZjI1RHRxZkxGZ3hTMlNNWnp3WGpGT2JKMjVGVmxHX1EzNVRWQnBUTWF1a3NoSXJPempTd0NRa1A0ekJMMV8tZG9WNWEwSHBJZXIxTERya3k2MFhKRllHVGZYLXZYOWJ5bEU?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGR1NWFXWXZnWXNaRWJVUENDaG9JSERGU1FRUWM2eFBCYmFaXzIzRXZkWUhET0tFMjFQcGhmUVJXNFBxbnlHV1h1RFpDQXNkT3BqeW5VZWhqNW9OOUpza2ZHaGpiWlA3b3ZsUzRXSF84bDAtOWcxX3RmX0djeVdlcW0yeWlQZzh6eDBwTVA5czNLZ1RNSlMzdVdESHR4YzhyaWlyb0VVUVBnc3lQYXhYRWhoQkxqTnhpdlBkdTNEdHdPTnNac3RqbVF3bVY0eTBLUWfSAdcBQVVfeXFMTmQ4MElCTlQ4QmFGQVgxSVdVbTBZc3FNWnR5b0k0S3VMX0dWY0hhUXBTRklKYUdkUV9DNFhoZFUwQnNodVd0X19vcGFJbWx2eE9rem5fQkhvR2dXNkxNNHlMUDVUeG9HekZPUlRwWnBQZURjZ1BwZjI1RHRxZkxGZ3hTMlNNWnp3WGpGT2JKMjVGVmxHX1EzNVRWQnBUTWF1a3NoSXJPempTd0NRa1A0ekJMMV8tZG9WNWEwSHBJZXIxTERya3k2MFhKRllHVGZYLXZYOWJ5bEU?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:18:33+00:00",
+          "title": "Tamil Nadu government exempts Public (Law and Order) Department from RTI Act",
+          "description": "Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students, farmers from ambit of the RTI Act",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:49:00+00:00",
+          "title": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means",
+          "description": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means The Times of India",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:49:54+00:00",
+          "title": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI",
+          "description": "",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — India Today",
+          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQOGR1NWFXWXZnWXNaRWJVUENDaG9JSERGU1FRUWM2eFBCYmFaXzIzRXZkWUhET0tFMjFQcGhmUVJXNFBxbnlHV1h1RFpDQXNkT3BqeW5VZWhqNW9OOUpza2ZHaGpiWlA3b3ZsUzRXSF84bDAtOWcxX3RmX0djeVdlcW0yeWlQZzh6eDBwTVA5czNLZ1RNSlMzdVdESHR4YzhyaWlyb0VVUVBnc3lQYXhYRWhoQkxqTnhpdlBkdTNEdHdPTnNac3RqbVF3bVY0eTBLUWfSAdcBQVVfeXFMTmQ4MElCTlQ4QmFGQVgxSVdVbTBZc3FNWnR5b0k0S3VMX0dWY0hhUXBTRklKYUdkUV9DNFhoZFUwQnNodVd0X19vcGFJbWx2eE9rem5fQkhvR2dXNkxNNHlMUDVUeG9HekZPUlRwWnBQZURjZ1BwZjI1RHRxZkxGZ3hTMlNNWnp3WGpGT2JKMjVGVmxHX1EzNVRWQnBUTWF1a3NoSXJPempTd0NRa1A0ekJMMV8tZG9WNWEwSHBJZXIxTERya3k2MFhKRllHVGZYLXZYOWJ5bEU?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+          "type": "article"
+        }
+      ],
+      "rank": 6,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "3f95b3640203",
+      "title": "Asian Games: Sindhu, Hooda exits cap India's disappointing badminton campaign",
+      "brief_summary": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal. At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's",
+      "summary_100": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal. At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements. Asian Games India fail to win individual badminton medal after",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 52.14,
+      "first_observed": "2026-09-27T06:21:54+00:00",
+      "last_updated": "2026-09-27T06:53:01+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T06:21:54+00:00",
+          "title": "Asian Games 2026: Sindhu's exit brings India's badminton campaign to an end | Hindustan Times",
+          "description": "Asian Games 2026: Sindhu's exit brings India's badminton campaign to an end | Hindustan Times hindustantimes.com",
+          "source": "hindustantimes.com",
+          "publisher": "hindustantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXROMnFoWElHMWVnZFR0YS1UQmhPOUVDMUxaOFozRHo0QXBYSWV5RDVieUtZX0RDQUprN1doazhPUFE3S2p6dk43N1FuSXc0bE5BOW9hZHRZM2FyVEZnaUpPWTNLVjNjZzlpSHZRNmlEWTVNMVJtMWJTdHlJY3NtcVVzMjdqVXQ4R3FYX0tpSDFaVmludTZGWnNQNlpBcGdfTzIxempQWS1qZ2NKN0l0dzU0ZWZTY1M4V3pMVGwyR2tfM2plYVpyVmtTQlpqV3o1bXBIMHNVcmPSAd4BQVVfeXFMT2w0VmFwRGY2QUVJeGJDUlB2UjZUeUVWUjdqWk5QLU54b1lVbmNDYmU2OWVEelpHcnJyOW5ZLXNsWEx6MXZjSWotbjRwQ2NRN0ZYbHkyTUY5UUR0T1paWmhPeklLUDZsaVdMM3hqdi1hcTdhSWR6aG9aNGlGazcyd2k2Z0xHN3JWZVZ5Y1AwVXZLb01mQkpsMS1sdEQ5c2FGempjdzJiVnhSUzhkME9UNko0a3hMSnFBN19pMUxobEpiMEpLcUZ5eTJ6c2t1THFIbTVEdllwWkFyd2NDaER3?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXROMnFoWElHMWVnZFR0YS1UQmhPOUVDMUxaOFozRHo0QXBYSWV5RDVieUtZX0RDQUprN1doazhPUFE3S2p6dk43N1FuSXc0bE5BOW9hZHRZM2FyVEZnaUpPWTNLVjNjZzlpSHZRNmlEWTVNMVJtMWJTdHlJY3NtcVVzMjdqVXQ4R3FYX0tpSDFaVmludTZGWnNQNlpBcGdfTzIxempQWS1qZ2NKN0l0dzU0ZWZTY1M4V3pMVGwyR2tfM2plYVpyVmtTQlpqV3o1bXBIMHNVcmPSAd4BQVVfeXFMT2w0VmFwRGY2QUVJeGJDUlB2UjZUeUVWUjdqWk5QLU54b1lVbmNDYmU2OWVEelpHcnJyOW5ZLXNsWEx6MXZjSWotbjRwQ2NRN0ZYbHkyTUY5UUR0T1paWmhPeklLUDZsaVdMM3hqdi1hcTdhSWR6aG9aNGlGazcyd2k2Z0xHN3JWZVZ5Y1AwVXZLb01mQkpsMS1sdEQ5c2FGempjdzJiVnhSUzhkME9UNko0a3hMSnFBN19pMUxobEpiMEpLcUZ5eTJ6c2t1THFIbTVEdllwWkFyd2NDaER3?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:30:58+00:00",
+          "title": "Asian Games 2026: India fail to win individual badminton medal after 12 years",
+          "description": "Asian Games India fail to win individual badminton medal after years",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "url": "https://www.indiatoday.in/sports/badminton/story/asian-games-2026-india-fail-to-win-individual-badminton-medal-after-12-years-3004018-2026-09-27?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/sports/badminton/story/asian-games-2026-india-fail-to-win-individual-badminton-medal-after-12-years-3004018-2026-09-27?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:39:28+00:00",
+          "title": "Asian Games: Sindhu, Hooda exits cap India's disappointing badminton campaign",
+          "description": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements.",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:53:01+00:00",
+          "title": "Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton",
+          "description": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal.",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — hindustantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNMXROMnFoWElHMWVnZFR0YS1UQmhPOUVDMUxaOFozRHo0QXBYSWV5RDVieUtZX0RDQUprN1doazhPUFE3S2p6dk43N1FuSXc0bE5BOW9hZHRZM2FyVEZnaUpPWTNLVjNjZzlpSHZRNmlEWTVNMVJtMWJTdHlJY3NtcVVzMjdqVXQ4R3FYX0tpSDFaVmludTZGWnNQNlpBcGdfTzIxempQWS1qZ2NKN0l0dzU0ZWZTY1M4V3pMVGwyR2tfM2plYVpyVmtTQlpqV3o1bXBIMHNVcmPSAd4BQVVfeXFMT2w0VmFwRGY2QUVJeGJDUlB2UjZUeUVWUjdqWk5QLU54b1lVbmNDYmU2OWVEelpHcnJyOW5ZLXNsWEx6MXZjSWotbjRwQ2NRN0ZYbHkyTUY5UUR0T1paWmhPeklLUDZsaVdMM3hqdi1hcTdhSWR6aG9aNGlGazcyd2k2Z0xHN3JWZVZ5Y1AwVXZLb01mQkpsMS1sdEQ5c2FGempjdzJiVnhSUzhkME9UNko0a3hMSnFBN19pMUxobEpiMEpLcUZ5eTJ6c2t1THFIbTVEdllwWkFyd2NDaER3?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/sports/badminton/story/asian-games-2026-india-fail-to-win-individual-badminton-medal-after-12-years-3004018-2026-09-27?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+          "type": "article"
+        }
+      ],
+      "rank": 7,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "27c9169ffc45",
+      "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+      "brief_summary": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman Udayavani AI, semiconductors, quantum tech next major frontier for India: Sitharaman YourStory.com AI, semiconductors, quantum tech next major frontier for India: Sitharaman ThePrint AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman The Economic Times",
+      "summary_100": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman. Available public feed coverage is summarized here; this digest does not add facts beyond the linked sources. Udayavani: AI, semiconductors, quantum tech next major frontier for India: Sitharaman. AI, semiconductors, quantum tech next major frontier for India: Sitharaman Udayavani YourStory.com: AI, semiconductors, quantum tech next major frontier for India: Sitharaman. AI, semiconductors, quantum tech next major frontier for India: Sitharaman YourStory.com ThePrint: AI, semiconductors, quantum tech next major frontier for India: Sitharaman. AI, semiconductors, quantum tech next major frontier for India: Sitharaman ThePrint The Economic Times: AI, semiconductors, quantum",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 50.43,
+      "first_observed": "2026-09-26T12:26:00+00:00",
+      "last_updated": "2026-09-26T19:46:33+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T12:26:00+00:00",
+          "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+          "description": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman The Economic Times",
+          "source": "The Economic Times",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcVJ2MzVDQTR2TV96Wm9KeUZ6UmxJak0wQXBhZkJtV1M2Y09IekdGXzB0aGx1RExXa1dRMHo2RHgyQXQzaGgyUHJrTzc2ZEZfLUdxenpmYnZrM3ZFenJBRmxFWGg3R2xKbVF6cjJjVDhxeFFIWWt5SWpYWVlFcWhKQ3JWUjVvODl4NTFWZi1jR195ZFd6ZzEzYllTNFVuUHFDbnBXaDVjN1FySmJ5cWRDQ0pxMFBPbEotZXNnU0xVZ2JLUXdkZVB3R3RMd0g4RWVkRGJvck9hTF9PNjlyX1BXYlM4NDYzUnEtTUdPWkR2SERsUUxOX2ZWOER1aFZFbUJ3aHYzZWFWTkNPT3N4cGNsbHRHLTV4Y1VOUkJEVldia210RDhPalNJ0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcVJ2MzVDQTR2TV96Wm9KeUZ6UmxJak0wQXBhZkJtV1M2Y09IekdGXzB0aGx1RExXa1dRMHo2RHgyQXQzaGgyUHJrTzc2ZEZfLUdxenpmYnZrM3ZFenJBRmxFWGg3R2xKbVF6cjJjVDhxeFFIWWt5SWpYWVlFcWhKQ3JWUjVvODl4NTFWZi1jR195ZFd6ZzEzYllTNFVuUHFDbnBXaDVjN1FySmJ5cWRDQ0pxMFBPbEotZXNnU0xVZ2JLUXdkZVB3R3RMd0g4RWVkRGJvck9hTF9PNjlyX1BXYlM4NDYzUnEtTUdPWkR2SERsUUxOX2ZWOER1aFZFbUJ3aHYzZWFWTkNPT3N4cGNsbHRHLTV4Y1VOUkJEVldia210RDhPalNJ0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T12:26:13+00:00",
+          "title": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman",
+          "description": "AI, semiconductors, quantum to drive India's next infrastructure push: FM Sitharaman The Economic Times",
+          "source": "The Economic Times",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeWNiNGhkMUc2ZjB5T2J5VWMyZW1rZk9MR2JSbTNzbzhKZDZaN3VXeGZZWG5waEdLNTk0UGM5RVZpQkgxNWdIYV9GM2FhS2Nhak5xc0tXeXoxVFptd1JwWmhsQWc4SU85NHY4dElHbWQ0cEEtdXVOZ2RKOElMQWJSQ1UxNExXZDFjUmhILXBGY1JIVGYwVWNHMFFENVkyblkxcnUwNjY0NFRTUEhwMFo4YzBoMnRCeDlraXRrdndpWW82akV6b0lJcTZOUER5TWR4YmFEemk3WXFzT3NpUVYwcXRHcDhzdHZ3ZE1ZYkdsU1dZa0oyY01Xc21uU3BWMlVHTFFN0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeWNiNGhkMUc2ZjB5T2J5VWMyZW1rZk9MR2JSbTNzbzhKZDZaN3VXeGZZWG5waEdLNTk0UGM5RVZpQkgxNWdIYV9GM2FhS2Nhak5xc0tXeXoxVFptd1JwWmhsQWc4SU85NHY4dElHbWQ0cEEtdXVOZ2RKOElMQWJSQ1UxNExXZDFjUmhILXBGY1JIVGYwVWNHMFFENVkyblkxcnUwNjY0NFRTUEhwMFo4YzBoMnRCeDlraXRrdndpWW82akV6b0lJcTZOUER5TWR4YmFEemk3WXFzT3NpUVYwcXRHcDhzdHZ3ZE1ZYkdsU1dZa0oyY01Xc21uU3BWMlVHTFFN0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T12:48:42+00:00",
+          "title": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman",
+          "description": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman ThePrint",
+          "source": "ThePrint",
+          "publisher": "ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdyR0RSTXF2Z19pSVZkcGZuTkMtcVpUSVBGNnBrbzJ1dUw5STd0eVdHanVPYlJzeThKWUR5SU5raE1sZGYzdGdUcUVTT1hNNUE3UzRwTFhiTi1uTHdvbHBYYnZLNl80by1ZUHFqcDh6ejhNYVU1Qm16eU1jWnRURkJ1M0U2bUdkSGNsVzhDemlhbDZwbmhFU1JUT3FHNlViUng2MDNfMUhkUdIBrwFBVV95cUxPTktOTnJFZ0J6RW9BNnZ4TFZueHNhMzdodXl3ZW9jLThpd1R5VGctaWtuZ3VOTG5JNFZ4MlFGOGlEWWVDT1JhNmM0TEdXa1hVTjMwUXZjN0w0cFlydUxOVVA0UFYxelJWb05MbFRSSTU1X2RVcWV1a2NteUFVVDRpOXoyM1ppaFNLaldsVUczSkhjaVYtRzNiR2xxOEZQUWE0TGUzbWtHMk80cTNjbHZB?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdyR0RSTXF2Z19pSVZkcGZuTkMtcVpUSVBGNnBrbzJ1dUw5STd0eVdHanVPYlJzeThKWUR5SU5raE1sZGYzdGdUcUVTT1hNNUE3UzRwTFhiTi1uTHdvbHBYYnZLNl80by1ZUHFqcDh6ejhNYVU1Qm16eU1jWnRURkJ1M0U2bUdkSGNsVzhDemlhbDZwbmhFU1JUT3FHNlViUng2MDNfMUhkUdIBrwFBVV95cUxPTktOTnJFZ0J6RW9BNnZ4TFZueHNhMzdodXl3ZW9jLThpd1R5VGctaWtuZ3VOTG5JNFZ4MlFGOGlEWWVDT1JhNmM0TEdXa1hVTjMwUXZjN0w0cFlydUxOVVA0UFYxelJWb05MbFRSSTU1X2RVcWV1a2NteUFVVDRpOXoyM1ppaFNLaldsVUczSkhjaVYtRzNiR2xxOEZQUWE0TGUzbWtHMk80cTNjbHZB?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T13:39:40+00:00",
+          "title": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman",
+          "description": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman YourStory.com",
+          "source": "YourStory.com",
+          "publisher": "YourStory.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFJDY2tyakJPbHpSTXFvd3BvaG5iSzV3QlNGdzMyYk0tWkRrdFV3LUpndmdzR1pOMVhJcXgzY2pJakFaYTlBR2doaHNHbnhVb2I4OUQwdEhHZF83WUxaYUI3NUZhU00yTEdtclFpT3I5Q1hQSmVIYWpBY180ekR5Rm1PNXNXQkJEV0YzanNMMHEtUHVSSUZJ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFJDY2tyakJPbHpSTXFvd3BvaG5iSzV3QlNGdzMyYk0tWkRrdFV3LUpndmdzR1pOMVhJcXgzY2pJakFaYTlBR2doaHNHbnhVb2I4OUQwdEhHZF83WUxaYUI3NUZhU00yTEdtclFpT3I5Q1hQSmVIYWpBY180ekR5Rm1PNXNXQkJEV0YzanNMMHEtUHVSSUZJ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T19:46:33+00:00",
+          "title": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman",
+          "description": "AI, semiconductors, quantum tech next major frontier for India: Sitharaman Udayavani",
+          "source": "Udayavani",
+          "publisher": "Udayavani",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnBmYjRvY0hsU29mSnVUc0FxSFh6d1lZT0JSRzZGWnpJcmdkaFU3el9xS3FJWVVna0tja1dQVFdpeUJwNDVjTF9sV3FDbjgyTmNSV0d0VEZ0QUVIcjhGZE1MNmJpM2h2TWdCTWRNMGNLcE1PRmxzWGJ3Q0k4ZS1hWVlEX0dybWcwY3RYcFdKdmMzcW9IX2c0T0VSZnNBQ19BazQzWG9KQkhWQU80SW81TUlaYnRZcnZMMWc?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnBmYjRvY0hsU29mSnVUc0FxSFh6d1lZT0JSRzZGWnpJcmdkaFU3el9xS3FJWVVna0tja1dQVFdpeUJwNDVjTF9sV3FDbjgyTmNSV0d0VEZ0QUVIcjhGZE1MNmJpM2h2TWdCTWRNMGNLcE1PRmxzWGJ3Q0k4ZS1hWVlEX0dybWcwY3RYcFdKdmMzcW9IX2c0T0VSZnNBQ19BazQzWG9KQkhWQU80SW81TUlaYnRZcnZMMWc?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxOcVJ2MzVDQTR2TV96Wm9KeUZ6UmxJak0wQXBhZkJtV1M2Y09IekdGXzB0aGx1RExXa1dRMHo2RHgyQXQzaGgyUHJrTzc2ZEZfLUdxenpmYnZrM3ZFenJBRmxFWGg3R2xKbVF6cjJjVDhxeFFIWWt5SWpYWVlFcWhKQ3JWUjVvODl4NTFWZi1jR195ZFd6ZzEzYllTNFVuUHFDbnBXaDVjN1FySmJ5cWRDQ0pxMFBPbEotZXNnU0xVZ2JLUXdkZVB3R3RMd0g4RWVkRGJvck9hTF9PNjlyX1BXYlM4NDYzUnEtTUdPWkR2SERsUUxOX2ZWOER1aFZFbUJ3aHYzZWFWTkNPT3N4cGNsbHRHLTV4Y1VOUkJEVldia210RDhPalNJ0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNeWNiNGhkMUc2ZjB5T2J5VWMyZW1rZk9MR2JSbTNzbzhKZDZaN3VXeGZZWG5waEdLNTk0UGM5RVZpQkgxNWdIYV9GM2FhS2Nhak5xc0tXeXoxVFptd1JwWmhsQWc4SU85NHY4dElHbWQ0cEEtdXVOZ2RKOElMQWJSQ1UxNExXZDFjUmhILXBGY1JIVGYwVWNHMFFENVkyblkxcnUwNjY0NFRTUEhwMFo4YzBoMnRCeDlraXRrdndpWW82akV6b0lJcTZOUER5TWR4YmFEemk3WXFzT3NpUVYwcXRHcDhzdHZ3ZE1ZYkdsU1dZa0oyY01Xc21uU3BWMlVHTFFN0gGIAkFVX3lxTFBfak1KeDZhMWNEQ0o2SFpJMnM4YXdRMDVwa0dXak5ySXM0Wm5GVDhETEJoQjdYLUVHalFNa09iRVV1Uk9ia2JuOU1zSkk3MkFYUldmamhOcHQxR1doY1hCMEJ5VkcxM1IxM011M0hpRGc1YlhlVUJuanBLN2Y3Y2Y3TTZnRG1sa1U3ZXEzOGJNb0I0VVZpSHZRMjVwaXVCVU9TRmxlbExlVUk2QzRIcllJb1E3bGZEaWZidVNVTkNMUzFfS2xPUkFUNGFmMzc1RlJuYmsyb2FYMmdOaWxRYy0zVEJOS2lrS3Z2WDdwWjdpY29XMHJaZmVBZTlOLWxTcGJya2x1WU9mbA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPbTdyR0RSTXF2Z19pSVZkcGZuTkMtcVpUSVBGNnBrbzJ1dUw5STd0eVdHanVPYlJzeThKWUR5SU5raE1sZGYzdGdUcUVTT1hNNUE3UzRwTFhiTi1uTHdvbHBYYnZLNl80by1ZUHFqcDh6ejhNYVU1Qm16eU1jWnRURkJ1M0U2bUdkSGNsVzhDemlhbDZwbmhFU1JUT3FHNlViUng2MDNfMUhkUdIBrwFBVV95cUxPTktOTnJFZ0J6RW9BNnZ4TFZueHNhMzdodXl3ZW9jLThpd1R5VGctaWtuZ3VOTG5JNFZ4MlFGOGlEWWVDT1JhNmM0TEdXa1hVTjMwUXZjN0w0cFlydUxOVVA0UFYxelJWb05MbFRSSTU1X2RVcWV1a2NteUFVVDRpOXoyM1ppaFNLaldsVUczSkhjaVYtRzNiR2xxOEZQUWE0TGUzbWtHMk80cTNjbHZB?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — YourStory.com",
+          "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOZFJDY2tyakJPbHpSTXFvd3BvaG5iSzV3QlNGdzMyYk0tWkRrdFV3LUpndmdzR1pOMVhJcXgzY2pJakFaYTlBR2doaHNHbnhVb2I4OUQwdEhHZF83WUxaYUI3NUZhU00yTEdtclFpT3I5Q1hQSmVIYWpBY180ekR5Rm1PNXNXQkJEV0YzanNMMHEtUHVSSUZJ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Udayavani",
+          "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQYnBmYjRvY0hsU29mSnVUc0FxSFh6d1lZT0JSRzZGWnpJcmdkaFU3el9xS3FJWVVna0tja1dQVFdpeUJwNDVjTF9sV3FDbjgyTmNSV0d0VEZ0QUVIcjhGZE1MNmJpM2h2TWdCTWRNMGNLcE1PRmxzWGJ3Q0k4ZS1hWVlEX0dybWcwY3RYcFdKdmMzcW9IX2c0T0VSZnNBQ19BazQzWG9KQkhWQU80SW81TUlaYnRZcnZMMWc?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 8,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "bda1f80f9cee",
+      "title": "India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM",
+      "brief_summary": "India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM The Shillong Times India can achieve over 10% growth with technology, innovation push: FM Sitharaman Fortune India India can achieve over 10% economic growth, says Sitharaman The Economic Times India can achieve over 10 pc",
+      "summary_100": "India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM. Available public feed coverage is summarized here; this digest does not add facts beyond the linked sources. The Shillong Times: India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM. India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM The Shillong Times Fortune India: India can achieve over 10% growth with technology, innovation push: FM Sitharaman. India can achieve over 10% growth with technology, innovation push: FM Sitharaman Fortune India The Economic Times: India",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 49.83,
+      "first_observed": "2026-09-26T10:49:22+00:00",
+      "last_updated": "2026-09-27T00:34:21+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T10:49:22+00:00",
+          "title": "India can achieve over 10 pc economic growth, says Sitharaman",
+          "description": "India can achieve over 10 pc economic growth, says Sitharaman ThePrint",
+          "source": "ThePrint",
+          "publisher": "ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXVtb1A1NUZtcDZ5NHhULWJMOHdjcEZfeWRVQVppWnVaTHJfUFpZa3R0M3NvLU1kTTRQbGQtWjZORkdFLXRvNTAtdDgyV0RNVmI5TWRLVnVUbzNPSTVST3NwVHpmVnZfN09CSmpKOXJZbTJnTzFLMUNXRjVkdFVoRkhlM3BvS0M0ekRreHl1TElGcHpiUXRqR1VQY9IBoAFBVV95cUxOLXpCaGIyZUN5TGl1aG5tbHNaT1VzQ0FRaDlkUkFNSzQ5SmtYdHB5Q2k1M1hTU0ZwM25KT2E5Ylp1R1h0bGloMzFUU2Y3REFPamRmOExEWHhhLV83WE04dk9FWFNfTlN3OXRPU3hlcGkybm1nN0Rma0o1NVpOaTdCWTVHaGRhZ051QlQ3TnlsS2VKb2lXbFR4ZVBObHBOVU15?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXVtb1A1NUZtcDZ5NHhULWJMOHdjcEZfeWRVQVppWnVaTHJfUFpZa3R0M3NvLU1kTTRQbGQtWjZORkdFLXRvNTAtdDgyV0RNVmI5TWRLVnVUbzNPSTVST3NwVHpmVnZfN09CSmpKOXJZbTJnTzFLMUNXRjVkdFVoRkhlM3BvS0M0ekRreHl1TElGcHpiUXRqR1VQY9IBoAFBVV95cUxOLXpCaGIyZUN5TGl1aG5tbHNaT1VzQ0FRaDlkUkFNSzQ5SmtYdHB5Q2k1M1hTU0ZwM25KT2E5Ylp1R1h0bGloMzFUU2Y3REFPamRmOExEWHhhLV83WE04dk9FWFNfTlN3OXRPU3hlcGkybm1nN0Rma0o1NVpOaTdCWTVHaGRhZ051QlQ3TnlsS2VKb2lXbFR4ZVBObHBOVU15?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T11:02:42+00:00",
+          "title": "India can achieve over 10% economic growth, says Sitharaman",
+          "description": "India can achieve over 10% economic growth, says Sitharaman The Economic Times",
+          "source": "The Economic Times",
+          "publisher": "The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeEU2VXJpMkE0NFpqTDVnMU04QzhUMWNUOVNUaTh4UHlMRDVPcVRiWkVQeUY0eTUwY2ZsdkJyRTdzNVpNNXZTMlBVTVUwc096MHNOeExmU1J2SUhrOU9JZDUtM0ZyaWo2UUNfR0IxcVo1a3FHaFZvbkhqZVFJM1pGeFRrNTJBZzRpTnR3X1VCT1IxMzZxNVdLNGNzMC1VNVRVTWZCdUxqZnMxTVI1WjJxd0pLdjd5UU5LYVFjOExNRTdkNTI4UF9SNzlhSTNtYVhv0gHWAUFVX3lxTE5JX1liakhpVmhnR0pCbm9mcGpOdUlrWld2a3ZsRkxfcExacWl2M3FGdUcwbWxmTmRON0NMV2lqQ2dFbGx5WnB1TmRRRUhrTGhFTVNJc2JuQVhMOFpwelptRW5VT3MxaEh2cU5RMU9mRURoWmhYb1JpQV9BX0dDY2huQ09mY0NGeEtOd3dMcEhhYlpPNFVaekN0bTA0TEVGZXVzUHNNX3NUOWNBdExpa1dEZ3Fqc3BxM1FqSmI2NWNOWXVVVm4tN1RNd250X21XVElSQ3BPT3c?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeEU2VXJpMkE0NFpqTDVnMU04QzhUMWNUOVNUaTh4UHlMRDVPcVRiWkVQeUY0eTUwY2ZsdkJyRTdzNVpNNXZTMlBVTVUwc096MHNOeExmU1J2SUhrOU9JZDUtM0ZyaWo2UUNfR0IxcVo1a3FHaFZvbkhqZVFJM1pGeFRrNTJBZzRpTnR3X1VCT1IxMzZxNVdLNGNzMC1VNVRVTWZCdUxqZnMxTVI1WjJxd0pLdjd5UU5LYVFjOExNRTdkNTI4UF9SNzlhSTNtYVhv0gHWAUFVX3lxTE5JX1liakhpVmhnR0pCbm9mcGpOdUlrWld2a3ZsRkxfcExacWl2M3FGdUcwbWxmTmRON0NMV2lqQ2dFbGx5WnB1TmRRRUhrTGhFTVNJc2JuQVhMOFpwelptRW5VT3MxaEh2cU5RMU9mRURoWmhYb1JpQV9BX0dDY2huQ09mY0NGeEtOd3dMcEhhYlpPNFVaekN0bTA0TEVGZXVzUHNNX3NUOWNBdExpa1dEZ3Fqc3BxM1FqSmI2NWNOWXVVVm4tN1RNd250X21XVElSQ3BPT3c?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T13:04:55+00:00",
+          "title": "India can achieve over 10% growth with technology, innovation push: FM Sitharaman",
+          "description": "India can achieve over 10% growth with technology, innovation push: FM Sitharaman Fortune India",
+          "source": "Fortune India",
+          "publisher": "Fortune India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFpaSzJGcFViZ0p5cjJMYTdIU1o0eWN3RDdaMGV1eFFVSEZBYVU2a29uYlI3NzdTS1JDT2ZremlxYlVTV0dxa2k4OExfVDctVGYwTDlKZk5FMzQ3dmlRZHZDb0o5YzlmQ3NPM1g0SlJ6S1QzamU1TUg4SXQzUlFSWVhsVFZ0bEFSU21SbUUxM19zalVmZlJsQWFwOWRvVmFWelIxN3E1SUtidUVWclA4NXVWVWVpOGJTYU5IaU5ta9IBzAFBVV95cUxOdjE1SWNlRTVDclA0T1JiaDhlMnB3RFJjMFpmdXl5WTVjM3pkNVVsTm42U1k5aUJMVjZuVEkzbmIyTTVpQWJ3UmNDS3lUc0FmVVQycFVJYTV5em4zS25nUV90ZjlhcEVMWDBkZFdhN1p6THFSTVFkVmRwUWtmd2ZFS2RvQzkwdHRWekpKc2w5OHF1eF9tTTV1UmRHUXlsbXo5dm5BNklsSHZmSXBoWGJ1Y1hfZXlXMDFIdnIyQjJHV1pYOEVfQkNrOEhCU2I?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFpaSzJGcFViZ0p5cjJMYTdIU1o0eWN3RDdaMGV1eFFVSEZBYVU2a29uYlI3NzdTS1JDT2ZremlxYlVTV0dxa2k4OExfVDctVGYwTDlKZk5FMzQ3dmlRZHZDb0o5YzlmQ3NPM1g0SlJ6S1QzamU1TUg4SXQzUlFSWVhsVFZ0bEFSU21SbUUxM19zalVmZlJsQWFwOWRvVmFWelIxN3E1SUtidUVWclA4NXVWVWVpOGJTYU5IaU5ta9IBzAFBVV95cUxOdjE1SWNlRTVDclA0T1JiaDhlMnB3RFJjMFpmdXl5WTVjM3pkNVVsTm42U1k5aUJMVjZuVEkzbmIyTTVpQWJ3UmNDS3lUc0FmVVQycFVJYTV5em4zS25nUV90ZjlhcEVMWDBkZFdhN1p6THFSTVFkVmRwUWtmd2ZFS2RvQzkwdHRWekpKc2w5OHF1eF9tTTV1UmRHUXlsbXo5dm5BNklsSHZmSXBoWGJ1Y1hfZXlXMDFIdnIyQjJHV1pYOEVfQkNrOEhCU2I?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T00:34:21+00:00",
+          "title": "India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM",
+          "description": "India can achieve over 10 per cent growth with embracing tech, innovation across sectors: FM The Shillong Times",
+          "source": "The Shillong Times",
+          "publisher": "The Shillong Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnJyQk5HVkRZdnUzak05dG5sbVYyMC1YWk9TU043WGhrWXZvaDBQTnNjZTRySlRISmYxMEN1cE14RUF5U19ZRFdUUHRxMWZmUjVMUE1YWlpweXQtSDhhQnFjbnMwQUItRTNKMThYejd2VHZnc2tsalVmQmJxMVZCbTNMLTJkUnpJNldYRFE5MC1oQ3NhVVgtSlU1cmVnMUlRYnU0cjR3UE9kSjVWWjlIQzBDV1Vhc2VpUTNvRS1iQmR1NnZoU0dWQk5Edw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnJyQk5HVkRZdnUzak05dG5sbVYyMC1YWk9TU043WGhrWXZvaDBQTnNjZTRySlRISmYxMEN1cE14RUF5U19ZRFdUUHRxMWZmUjVMUE1YWlpweXQtSDhhQnFjbnMwQUItRTNKMThYejd2VHZnc2tsalVmQmJxMVZCbTNMLTJkUnpJNldYRFE5MC1oQ3NhVVgtSlU1cmVnMUlRYnU0cjR3UE9kSjVWWjlIQzBDV1Vhc2VpUTNvRS1iQmR1NnZoU0dWQk5Edw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — ThePrint",
+          "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXVtb1A1NUZtcDZ5NHhULWJMOHdjcEZfeWRVQVppWnVaTHJfUFpZa3R0M3NvLU1kTTRQbGQtWjZORkdFLXRvNTAtdDgyV0RNVmI5TWRLVnVUbzNPSTVST3NwVHpmVnZfN09CSmpKOXJZbTJnTzFLMUNXRjVkdFVoRkhlM3BvS0M0ekRreHl1TElGcHpiUXRqR1VQY9IBoAFBVV95cUxOLXpCaGIyZUN5TGl1aG5tbHNaT1VzQ0FRaDlkUkFNSzQ5SmtYdHB5Q2k1M1hTU0ZwM25KT2E5Ylp1R1h0bGloMzFUU2Y3REFPamRmOExEWHhhLV83WE04dk9FWFNfTlN3OXRPU3hlcGkybm1nN0Rma0o1NVpOaTdCWTVHaGRhZ051QlQ3TnlsS2VKb2lXbFR4ZVBObHBOVU15?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Economic Times",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPeEU2VXJpMkE0NFpqTDVnMU04QzhUMWNUOVNUaTh4UHlMRDVPcVRiWkVQeUY0eTUwY2ZsdkJyRTdzNVpNNXZTMlBVTVUwc096MHNOeExmU1J2SUhrOU9JZDUtM0ZyaWo2UUNfR0IxcVo1a3FHaFZvbkhqZVFJM1pGeFRrNTJBZzRpTnR3X1VCT1IxMzZxNVdLNGNzMC1VNVRVTWZCdUxqZnMxTVI1WjJxd0pLdjd5UU5LYVFjOExNRTdkNTI4UF9SNzlhSTNtYVhv0gHWAUFVX3lxTE5JX1liakhpVmhnR0pCbm9mcGpOdUlrWld2a3ZsRkxfcExacWl2M3FGdUcwbWxmTmRON0NMV2lqQ2dFbGx5WnB1TmRRRUhrTGhFTVNJc2JuQVhMOFpwelptRW5VT3MxaEh2cU5RMU9mRURoWmhYb1JpQV9BX0dDY2huQ09mY0NGeEtOd3dMcEhhYlpPNFVaekN0bTA0TEVGZXVzUHNNX3NUOWNBdExpa1dEZ3Fqc3BxM1FqSmI2NWNOWXVVVm4tN1RNd250X21XVElSQ3BPT3c?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Fortune India",
+          "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTFpaSzJGcFViZ0p5cjJMYTdIU1o0eWN3RDdaMGV1eFFVSEZBYVU2a29uYlI3NzdTS1JDT2ZremlxYlVTV0dxa2k4OExfVDctVGYwTDlKZk5FMzQ3dmlRZHZDb0o5YzlmQ3NPM1g0SlJ6S1QzamU1TUg4SXQzUlFSWVhsVFZ0bEFSU21SbUUxM19zalVmZlJsQWFwOWRvVmFWelIxN3E1SUtidUVWclA4NXVWVWVpOGJTYU5IaU5ta9IBzAFBVV95cUxOdjE1SWNlRTVDclA0T1JiaDhlMnB3RFJjMFpmdXl5WTVjM3pkNVVsTm42U1k5aUJMVjZuVEkzbmIyTTVpQWJ3UmNDS3lUc0FmVVQycFVJYTV5em4zS25nUV90ZjlhcEVMWDBkZFdhN1p6THFSTVFkVmRwUWtmd2ZFS2RvQzkwdHRWekpKc2w5OHF1eF9tTTV1UmRHUXlsbXo5dm5BNklsSHZmSXBoWGJ1Y1hfZXlXMDFIdnIyQjJHV1pYOEVfQkNrOEhCU2I?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Shillong Times",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxObnJyQk5HVkRZdnUzak05dG5sbVYyMC1YWk9TU043WGhrWXZvaDBQTnNjZTRySlRISmYxMEN1cE14RUF5U19ZRFdUUHRxMWZmUjVMUE1YWlpweXQtSDhhQnFjbnMwQUItRTNKMThYejd2VHZnc2tsalVmQmJxMVZCbTNMLTJkUnpJNldYRFE5MC1oQ3NhVVgtSlU1cmVnMUlRYnU0cjR3UE9kSjVWWjlIQzBDV1Vhc2VpUTNvRS1iQmR1NnZoU0dWQk5Edw?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 9,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "7ffa0c0d4032",
+      "title": "India at Asian Games: Live updates from Day 8 action on September 27, 2026 in Aichi-Nagoya",
+      "brief_summary": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8 olympics.com Asian Games 2026 Full India Results Day 9 Live Results: India's badminton campaign ends as PV Sindhu crashes out | Hindustan Times hindustantimes.com India at Asian Games: Live updates from Day 8 action on",
+      "summary_100": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8 olympics.com Asian Games 2026 Full India Results Day 9 Live Results: India's badminton campaign ends as PV Sindhu crashes out | Hindustan Times hindustantimes.com India at Asian Games: Live updates from Day 8 action on September 27, 2026 in Aichi-Nagoya ESPN India Asian Games 2026 Day 8 Live Updates: India's Abhay Singh loses first game in men's squash final; gold medal and LA Olympics berth at stake; Anahat Singh final up next The Times of India Asian Games 2026: Sindhu, Unnati bow out in quarters",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 42.64,
+      "first_observed": "2026-09-26T16:19:00+00:00",
+      "last_updated": "2026-09-27T06:25:00+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-26T16:19:00+00:00",
+          "title": "India at Asian Games 2026, Day 7: Kabaddi’s golden double; Sawan Barwal records marathon silver - as it happened",
+          "description": "India at Asian Games 2026, Day 7: Kabaddi’s golden double; Sawan Barwal records marathon silver - as it happened olympics.com",
+          "source": "olympics.com",
+          "publisher": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalRYV2dwUDZGOExPWlFKVGhWUXhuMDZMckU1WUVGSVhULWpiSzdrblI4RzByYk1zZldiaEY3enpRRFlHZTdUdFZMd3UwRktib1huZ05iX3dPa1AxRGtROWd5S016cXhjYWg4bmx1NmxVRUVack95dzJWVWV1aUtsY25qOFVVUEJXRG94a0ZUd1U5blAwNERJaXhseTQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalRYV2dwUDZGOExPWlFKVGhWUXhuMDZMckU1WUVGSVhULWpiSzdrblI4RzByYk1zZldiaEY3enpRRFlHZTdUdFZMd3UwRktib1huZ05iX3dPa1AxRGtROWd5S016cXhjYWg4bmx1NmxVRUVack95dzJWVWV1aUtsY25qOFVVUEJXRG94a0ZUd1U5blAwNERJaXhseTQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T03:13:13+00:00",
+          "title": "India at Asian Games: Live updates from Day 8 action on September 27, 2026 in Aichi-Nagoya",
+          "description": "India at Asian Games: Live updates from Day 8 action on September 27, 2026 in Aichi-Nagoya ESPN India Asian Games 2026 Day 8 Live Updates: India's Abhay Singh loses first game in men's squash final; gold medal and LA Olympics berth at stake; Anahat Singh final up next The Times of India Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton The Hindu",
+          "source": "ESPN India",
+          "publisher": "ESPN India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:44:22+00:00",
+          "title": "Asian Games 2026 Full India Results Day 9 Live Results: India's badminton campaign ends as PV Sindhu crashes out | Hindustan Times",
+          "description": "Asian Games 2026 Full India Results Day 9 Live Results: India's badminton campaign ends as PV Sindhu crashes out | Hindustan Times hindustantimes.com",
+          "source": "hindustantimes.com",
+          "publisher": "hindustantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWi0tb3hGaTFDb28yQXpwemYxS1JuVWJzSHR5cXlRazM5MUFtZ0VHUG5WUVJmUVVaTXk0SldXTDdoeHdSRU5YY0pfVGRBLVRsNFRReTA2VnhQZVFQR2Q4elktb2p5bFh4NTFqOEc0Wk8yam9WVVRyMmoyUE9tckVZX0RiVkRKSzc5NU1rVWJkUjlmb3VIbHdjN3p3NVBGajV3QzVWSGx0bnpLaFJEMmVSX1Bhbkh4bTBFTUtXMkQxNVNCLTE2MUVJUjQ1amdKYTVma1B1V2VEdDFUOU9JOXRxeExTT3o4bTZ1YmtjS0RLSGhaamJ0WnVWWDdWWGZ4VkdBVE5CbUhLd9IBjAJBVV95cUxPNkF4MVFvU3Uzem1mUmZPanpta0MxRzl6WUhvRFI2c0EwQk01bHJMdFQ5bU9rOWhLY2hDQVE1czVjLUtQY19sc0xkRDhxb2FhQUM2UzUwS05wdlVPSkliWllnMVBINmtDZklzVFlZWWs3WlY3a0s5NW5wR1JDNDV3SW5PZ3ZoZzUyN3VQSmd1VmJaZVYwUUpuTHJkalJvRGU5UHk5Nlo2M1dDc1ZmSFBPajBwblV4bGlJdEY4ckd2R2c0WDJ6OU1TWWFLMWlXUThsVjd3dnlGN0FtUHRRZndPVjYyaG5TeGZkelFObXRkUGhTTUxfcm96dmlXSDFYcTRMWDMtS0pfaFRDSHpr?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWi0tb3hGaTFDb28yQXpwemYxS1JuVWJzSHR5cXlRazM5MUFtZ0VHUG5WUVJmUVVaTXk0SldXTDdoeHdSRU5YY0pfVGRBLVRsNFRReTA2VnhQZVFQR2Q4elktb2p5bFh4NTFqOEc0Wk8yam9WVVRyMmoyUE9tckVZX0RiVkRKSzc5NU1rVWJkUjlmb3VIbHdjN3p3NVBGajV3QzVWSGx0bnpLaFJEMmVSX1Bhbkh4bTBFTUtXMkQxNVNCLTE2MUVJUjQ1amdKYTVma1B1V2VEdDFUOU9JOXRxeExTT3o4bTZ1YmtjS0RLSGhaamJ0WnVWWDdWWGZ4VkdBVE5CbUhLd9IBjAJBVV95cUxPNkF4MVFvU3Uzem1mUmZPanpta0MxRzl6WUhvRFI2c0EwQk01bHJMdFQ5bU9rOWhLY2hDQVE1czVjLUtQY19sc0xkRDhxb2FhQUM2UzUwS05wdlVPSkliWllnMVBINmtDZklzVFlZWWs3WlY3a0s5NW5wR1JDNDV3SW5PZ3ZoZzUyN3VQSmd1VmJaZVYwUUpuTHJkalJvRGU5UHk5Nlo2M1dDc1ZmSFBPajBwblV4bGlJdEY4ckd2R2c0WDJ6OU1TWWFLMWlXUThsVjd3dnlGN0FtUHRRZndPVjYyaG5TeGZkelFObXRkUGhTTUxfcm96dmlXSDFYcTRMWDMtS0pfaFRDSHpr?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:25:00+00:00",
+          "title": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8",
+          "description": "Asian Games 2026 live, September 27: Know India scores, updates and results from Day 8 olympics.com",
+          "source": "olympics.com",
+          "publisher": "olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzgzNkd1V1c1cGxsZFQ0NmdHcFVJaGRxVDJjcTRnamZUY2N5ZUhZa0htc29DS1ZtTlIxeUJlUlZ4MUYxQVMxZHgxQmdwM3YwNlJsUEdJUF9xajFKT2RaQlNjUldhaUg0UU5oa3RvLWVzUFZWeUZpd09DdDJwN2ZudmN4WVpVZDExMFR4MlpxTEZpbjVrMGk2MndhSDY?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzgzNkd1V1c1cGxsZFQ0NmdHcFVJaGRxVDJjcTRnamZUY2N5ZUhZa0htc29DS1ZtTlIxeUJlUlZ4MUYxQVMxZHgxQmdwM3YwNlJsUEdJUF9xajFKT2RaQlNjUldhaUg0UU5oa3RvLWVzUFZWeUZpd09DdDJwN2ZudmN4WVpVZDExMFR4MlpxTEZpbjVrMGk2MndhSDY?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOalRYV2dwUDZGOExPWlFKVGhWUXhuMDZMckU1WUVGSVhULWpiSzdrblI4RzByYk1zZldiaEY3enpRRFlHZTdUdFZMd3UwRktib1huZ05iX3dPa1AxRGtROWd5S016cXhjYWg4bmx1NmxVRUVack95dzJWVWV1aUtsY25qOFVVUEJXRG94a0ZUd1U5blAwNERJaXhseTQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ESPN India",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQbjZvb0c3YWJrWm1uSHlnSTFPRE5kYTJZSEQ0bXE3QUlqVG5kRF9rTjBMdzdCZkY4bHZ5QTl2NWhDNlhyQWNQbXR5VC1mcmhlZE11LVI3WUF1V0R6MlBXS1MwT01KclJ3TWlnRDZyWEg1SDQtcmN5dm5wVXNLMHF5d0l0dVp5TUJpYVV4ZkQwclVKaGVaUTRkbmxyY01icUFtNkNZSlpGdVNRWTJtYWVDWVdLWkM5c0JvRHdlMUJCTUJkbEFWRHpFZ1ZGMVo5MElMVnpxVnk2aDdCQTBSRDI1SFhBSFdYRVI3dVE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — hindustantimes.com",
+          "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxOWi0tb3hGaTFDb28yQXpwemYxS1JuVWJzSHR5cXlRazM5MUFtZ0VHUG5WUVJmUVVaTXk0SldXTDdoeHdSRU5YY0pfVGRBLVRsNFRReTA2VnhQZVFQR2Q4elktb2p5bFh4NTFqOEc0Wk8yam9WVVRyMmoyUE9tckVZX0RiVkRKSzc5NU1rVWJkUjlmb3VIbHdjN3p3NVBGajV3QzVWSGx0bnpLaFJEMmVSX1Bhbkh4bTBFTUtXMkQxNVNCLTE2MUVJUjQ1amdKYTVma1B1V2VEdDFUOU9JOXRxeExTT3o4bTZ1YmtjS0RLSGhaamJ0WnVWWDdWWGZ4VkdBVE5CbUhLd9IBjAJBVV95cUxPNkF4MVFvU3Uzem1mUmZPanpta0MxRzl6WUhvRFI2c0EwQk01bHJMdFQ5bU9rOWhLY2hDQVE1czVjLUtQY19sc0xkRDhxb2FhQUM2UzUwS05wdlVPSkliWllnMVBINmtDZklzVFlZWWs3WlY3a0s5NW5wR1JDNDV3SW5PZ3ZoZzUyN3VQSmd1VmJaZVYwUUpuTHJkalJvRGU5UHk5Nlo2M1dDc1ZmSFBPajBwblV4bGlJdEY4ckd2R2c0WDJ6OU1TWWFLMWlXUThsVjd3dnlGN0FtUHRRZndPVjYyaG5TeGZkelFObXRkUGhTTUxfcm96dmlXSDFYcTRMWDMtS0pfaFRDSHpr?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — olympics.com",
+          "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbzgzNkd1V1c1cGxsZFQ0NmdHcFVJaGRxVDJjcTRnamZUY2N5ZUhZa0htc29DS1ZtTlIxeUJlUlZ4MUYxQVMxZHgxQmdwM3YwNlJsUEdJUF9xajFKT2RaQlNjUldhaUg0UU5oa3RvLWVzUFZWeUZpd09DdDJwN2ZudmN4WVpVZDExMFR4MlpxTEZpbjVrMGk2MndhSDY?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 10,
+      "snapshot_date": "2026-09-27"
     }
   ]
 }

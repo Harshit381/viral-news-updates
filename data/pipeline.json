@@ -1,0 +1,94 @@
+{
+  "generated_at": "2026-09-27T08:07:37.807425+00:00",
+  "article_count": 446,
+  "candidate_issue_count": 357,
+  "top10_count": 10,
+  "source_count": 14,
+  "source_health": [
+    {
+      "name": "Google News - India Top",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 38
+    },
+    {
+      "name": "Google News - India",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 106
+    },
+    {
+      "name": "Google News - India Politics",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 102
+    },
+    {
+      "name": "Google News - India Government",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "Google News - India Economy",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 102
+    },
+    {
+      "name": "Google News - India Technology",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 102
+    },
+    {
+      "name": "Google News - India Crime",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "Google News - India Viral",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "Google News - India Public Interest",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "Google News - India Karnataka",
+      "type": "aggregator",
+      "status": "ok",
+      "items": 100
+    },
+    {
+      "name": "BBC - India",
+      "type": "publisher",
+      "status": "ok",
+      "items": 31
+    },
+    {
+      "name": "The Hindu - Home",
+      "type": "publisher",
+      "status": "ok",
+      "items": 60
+    },
+    {
+      "name": "India Today - Latest",
+      "type": "publisher",
+      "status": "ok",
+      "items": 135
+    },
+    {
+      "name": "Times of India - Top stories",
+      "type": "publisher",
+      "status": "ok",
+      "items": 46
+    }
+  ],
+  "cost_policy": "$0 only"
+}
