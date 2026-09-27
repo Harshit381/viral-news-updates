@@ -22,7 +22,6 @@ jobs:
       - name: Create review branch
         env:
           RUN_ID: ${{ github.run_id }}
-          GH_TOKEN: ${{ github.token }}
         run: |
           BRANCH="pipeline-preview-${RUN_ID}"
           git switch -c "$BRANCH"
@@ -35,4 +34,4 @@ jobs:
           fi
           git commit -m "chore: prepare news pipeline review"
           git push origin "$BRANCH"
-          gh pr create --base main --head "$BRANCH" --title "News pipeline review #${RUN_ID}" --body "Review the candidate Top 10 and issue/timeline data generated from public RSS feeds. Merge only after review. Merging publishes the reviewed data to the live GitHub Pages site. No paid services are used."
+          echo "Review branch pushed: $BRANCH"
