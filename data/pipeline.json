@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T08:07:37.807425+00:00",
-  "article_count": 446,
-  "candidate_issue_count": 357,
+  "generated_at": "2026-09-27T10:23:40.715021+00:00",
+  "article_count": 442,
+  "candidate_issue_count": 262,
   "top10_count": 10,
   "source_count": 14,
   "source_health": [
@@ -15,7 +15,7 @@
       "name": "Google News - India",
       "type": "aggregator",
       "status": "ok",
-      "items": 106
+      "items": 104
     },
     {
       "name": "Google News - India Politics",
@@ -33,7 +33,7 @@
       "name": "Google News - India Economy",
       "type": "aggregator",
       "status": "ok",
-      "items": 102
+      "items": 100
     },
     {
       "name": "Google News - India Technology",
@@ -90,5 +90,10 @@
       "items": 46
     }
   ],
+  "deduplication": {
+    "method": "pairwise title similarity with rare-token weighting; near-duplicate timeline events are consolidated",
+    "candidate_diversity_threshold": 0.55,
+    "timeline_similarity_threshold": 0.82
+  },
   "cost_policy": "$0 only"
 }
