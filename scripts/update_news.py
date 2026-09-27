@@ -124,7 +124,7 @@ def make_summary(items,limit):
                 used.add(norm); parts.append(s)
                 if len(" ".join(parts).split())>=limit:
                     return " ".join(" ".join(parts).split()[:limit])
-    return " ".join(parts).split()[:limit]
+    return " ".join(" ".join(parts).split()[:limit])
 
 def fallback_summary(title,items,limit):
     publishers=sorted({x.get("publisher",x["source"]) for x in items})
