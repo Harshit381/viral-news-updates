@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Viral News Updates — follow important stories beyond the viral moment.">
+  <title>Viral News Updates</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="./">Viral News Updates</a>
+      <span class="tagline">Don't let today's viral issue become tomorrow's forgotten issue.</span>
+    </div>
+  </header>
+
+  <main class="container">
+    <section class="hero">
+      <div>
+        <p class="eyebrow">PUBLIC-INTEREST ISSUE TRACKER</p>
+        <h1>What is viral today — and what happened next?</h1>
+        <p class="hero-copy">Track major public-interest stories, follow their timeline, and see the latest documented developments from multiple sources.</p>
+      </div>
+      <div class="last-updated" id="last-updated">Loading...</div>
+    </section>
+
+    <section class="controls">
+      <label>
+        <span>Search</span>
+        <input id="search" type="search" placeholder="Search issues...">
+      </label>
+      <label>
+        <span>Status</span>
+        <select id="status"><option value="">All</option></select>
+      </label>
+      <label>
+        <span>Category</span>
+        <select id="category"><option value="">All</option></select>
+      </label>
+    </section>
+
+    <section>
+      <div class="section-heading">
+        <h2>Top 10 issues</h2>
+        <span id="count"></span>
+      </div>
+      <div id="issues" class="issue-grid"></div>
+    </section>
+
+    <section class="method">
+      <h2>How this works</h2>
+      <p>V1 uses public RSS signals and a transparent, deterministic scoring method. It does not claim that social-media activity or absence of reporting proves the truth or resolution of an issue. Each displayed development is linked to its source.</p>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container">Viral News Updates · Free-first open project · Sources are credited on each issue.</div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
