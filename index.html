@@ -1,59 +1,15 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>Viral News Updates</title>
-<link rel="stylesheet" href="styles.css">
-</head>
-<body>
-<header class="site-header">
-  <div class="container header-inner">
-    <a class="brand" href="./"><span class="brand-mark">V</span> Viral News Updates</a>
-    <nav class="nav-links"><a href="control.html">Control</a><a href="pipeline.html">How it works</a></nav>
-  </div>
-</header>
-
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Viral News Updates</title><link rel="stylesheet" href="styles.css"></head><body>
+<header class="simple-header"><a href="./">Viral News Updates</a><div id="last-updated">Loading...</div></header>
 <main class="container">
-  <section class="masthead">
-    <div>
-      <div class="eyebrow">INDIA · DAILY PULSE</div>
-      <h1>Top 10 News</h1>
-      <p>What is drawing attention today — with the story kept alive beyond the first headline.</p>
-    </div>
-    <div class="updated-card"><span class="live-dot"></span><span id="last-updated">Loading...</span></div>
-  </section>
-
-  <section class="date-rail">
-    <div class="rail-label">Browse day</div>
-    <div id="day-chips" class="day-chips"></div>
-  </section>
-
-  <section class="controls-panel">
-    <label><span>Day</span><select id="day"><option value="">Latest</option></select></label>
-    <label><span>Category</span><select id="category"></select></label>
-    <label class="search-field"><span>Search</span><input id="search" type="search" placeholder="Search headlines, topics or categories..."></label>
-  </section>
-
-  <section class="section-head">
-    <div><span class="eyebrow">THE DAILY TEN</span><h2>Stories to know</h2></div>
-    <div id="count" class="count-label"></div>
-  </section>
-
-  <div id="coverage" class="coverage-bar"></div>
-  <section id="issues" class="news-grid"></section>
-
-  <section class="follow-banner">
-    <div>
-      <span class="eyebrow">FOLLOW THE STORY</span>
-      <h2>One issue, many updates.</h2>
-      <p>Open a story to see a chronological timeline, source links and the latest documented developments.</p>
-    </div>
-    <a href="pipeline.html" class="text-link">See the pipeline →</a>
-  </section>
+<section class="page-intro"><h1>Top 10 News</h1><p>Daily headlines and the documented updates behind them.</p></section>
+<section class="filters">
+<label><span>Search news</span><input id="search" type="search" placeholder="Search headline or topic"></label>
+<label><span>Date</span><select id="day"><option value="">Latest</option></select></label>
+<label><span>Category</span><select id="category"></select></label>
+<label><span>Signal</span><select id="signal"><option value="All">All signals</option><option value="Social / viral mentions">Social / viral mentions</option><option value="News coverage">News coverage</option></select></label>
+</section>
+<div class="list-head"><h2>Today's stories</h2><span id="count"></span></div>
+<section id="issues" class="news-list"></section>
+<section class="note"><strong>About social / viral mentions:</strong> the current $0 pipeline uses public RSS news sources, so this filter identifies stories whose available coverage contains social/viral signals; it does not yet ingest posts directly from X, Instagram, Facebook or Reddit.</section>
 </main>
-
-<footer class="footer"><div class="container">Viral News Updates · public-source, $0 architecture</div></footer>
-<script src="app.js"></script>
-</body>
-</html>
+<footer>Viral News Updates · public-source · $0 architecture</footer><script src="app.js"></script></body></html>
