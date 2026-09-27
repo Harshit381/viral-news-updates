@@ -4,7 +4,7 @@
 <main class="container"><section class="hero"><div id="issue"></div></section></main>
 <script>
 const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-(async()=>{const id=new URLSearchParams(location.search).get("id");const data=await fetch("data/issues.json",{cache:"no-store"}).then(r=>r.json());const i=data.issues.find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<h1>Issue not found</h1>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
+(async()=>{const id=new URLSearchParams(location.search).get("id");const data=await fetch("data/issues.json",{cache:"no-store"}).then(r=>r.json());const arc=await fetch("data/issue_archive.json",{cache:"no-store"}).then(r=>r.json()).catch(()=>({issues:[]}));const i=(arc.issues||[]).find(x=>x.id===id)||(data.issues||[]).find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<h1>Issue not found</h1>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
 <p class="eyebrow">${esc(i.category)} · ${esc(i.status)}</p>
 <h1>${esc(i.title)}</h1><p class="hero-copy">${esc(i.summary)}</p>
 <div class="method"><strong>Latest documented update:</strong> ${esc(new Date(i.last_updated).toLocaleString())}<br><strong>Relevant authority/body:</strong> ${esc(i.authority||"Not identified")}</div>
