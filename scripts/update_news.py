@@ -24,7 +24,11 @@ STOP={
 CATEGORY_RULES=[
     ("Sports",{"asian","games","cricket","football","soccer","badminton","squash","hockey","tennis","medal","medals","olympic","athlete","athletes","match","tournament"}),
     ("Technology",{"ai","artificial","intelligence","semiconductor","semiconductors","quantum","chip","chips","technology","tech","cyber","google","microsoft","apple","startup","startups"}),
-    ("Business",{"economy","economic","growth","gdp","market","markets","rupee","tax","taxes","budget","investment","investments","bank","banks","finance","financial","trade","industry","industries"}),
+    ("Finance & Economy",{"economy","economic","growth","gdp","market","markets","rupee","tax","taxes","budget","investment","investments","bank","banks","finance","financial","trade","industry","industries","inflation","rbi"}),
+    ("Education",{"education","school","schools","college","colleges","university","universities","student","students","exam","exams","iit","iim","ugc","neet","jeet"}),
+    ("Transport & Infrastructure",{"transport","metro","railway","railways","train","trains","airport","airports","flight","flights","highway","highways","road","roads","bridge","bridges","infrastructure","traffic","toll","tolls","bus","buses"}),
+    ("Health",{"health","hospital","hospitals","doctor","doctors","medicine","medicines","disease","diseases","vaccine","vaccines","medical"}),
+    ("Environment",{"environment","pollution","polluted","air","water","flood","floods","rain","rains","cyclone","heatwave","wildlife","forest","forests","climate"}),
     ("Crime & Safety",{"crime","police","arrest","arrested","murder","murdered","fraud","scam","scams","theft","stolen","missing","accident","fire","attack","attacked"}),
     ("Karnataka",{"karnataka","bengaluru","bangalore","mysuru","mysore"}),
     ("Politics & Government",{"election","elections","parliament","parliamentary","court","courts","supreme","cabinet","bill","bills","law","laws","policy","policies","modi","president","congress","bjp","lok","sabha"}),
@@ -176,7 +180,15 @@ def category_for(title):
     for name,signals in CATEGORY_RULES:
         if len(ws&signals)>=1:
             return name
-    return "India"
+    return "Public Interest"
+
+def signal_type(items):
+    social_pattern=re.compile(r"\b(viral|post|posts|tweet|tweets|x\.com|instagram|facebook|reddit|users?|residents?|citizens?|commuters?|passengers?|customers?|netizens?|social media)\b",re.I)
+    for item in items:
+        text=(item.get("title","")+" "+item.get("summary",""))
+        if social_pattern.search(text):
+            return "Social / viral mentions"
+    return "News coverage"
 
 def source_count(items):
     return len({x.get("publisher") or x.get("source") for x in items if x.get("publisher") or x.get("source")})
@@ -457,7 +469,9 @@ def build():
             "authority":previous.get("authority","Not automatically inferred; official source required.") if previous else "Not automatically inferred; official source required.",
             "timeline":events,
             "sources":source_list(events),
-            "source_count":len({p for e in events for p in (e.get("source_names") or [e.get("source")]) if p})
+            "source_count":len({p for e in events for p in (e.get("source_names") or [e.get("source")]) if p}),
+            "signal_type":signal_type(group),
+            "timeline_count":len(events)
         }
         issues.append(issue)
 
@@ -507,7 +521,8 @@ def build():
             "score":x["score"],
             "last_updated":x["last_updated"],
             "source_count":x.get("source_count",0),
-            "timeline_count":len(x.get("timeline",[]))
+            "timeline_count":len(x.get("timeline",[])),
+            "signal_type":x.get("signal_type","News coverage")
         } for x in top]
     },ensure_ascii=False,indent=2))
 
