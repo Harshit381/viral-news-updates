@@ -97,9 +97,10 @@ def similarity(a,b):
     x,y=words(a),words(b)
     if not x or not y: return 0
     inter=len(x&y)
+    if inter<2: return 0
     jaccard=inter/max(1,len(x|y))
     containment=inter/max(1,min(len(x),len(y)))
-    return max(jaccard, containment*0.85)
+    return max(jaccard, containment*0.80)
 
 def key_title(title):
     return "|".join(sorted(words(title)))
@@ -122,7 +123,7 @@ def make_summary(items,limit):
             if norm and norm not in used:
                 used.add(norm); parts.append(s)
                 if len(" ".join(parts).split())>=limit:
-                    return " ".join(parts).split()[:limit]
+                    return " ".join(" ".join(parts).split()[:limit])
     return " ".join(parts).split()[:limit]
 
 def fallback_summary(title,items,limit):
@@ -197,15 +198,15 @@ def build():
             if event_key(e) not in seen: events.append(e)
         events.sort(key=lambda e:e.get("time",""))
         summary_items=[x for x in group if x.get("summary")] or group
-        brief=" ".join(make_summary(summary_items,50))
+        brief=make_summary(summary_items,50)
         if len(brief.split())<30: brief=fallback_summary(lead["title"],group,40)
-        detailed=" ".join(make_summary(summary_items,100))
+        detailed=make_summary(summary_items,100)
         if len(detailed.split())<70: detailed=coverage_digest(lead["title"],group,100)
         issues.append({
           "id":previous["id"] if previous else hashlib.sha1(key_title(lead["title"]).encode()).hexdigest()[:12],
           "title":lead["title"],
-          "brief_summary":" ".join(brief),
-          "summary_100":" ".join(detailed),
+          "brief_summary":brief,
+          "summary_100":detailed,
           "category":"India",
           "status":previous.get("status","Monitoring") if previous else "Monitoring",
           "score":score(group),
