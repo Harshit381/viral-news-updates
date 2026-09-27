@@ -1,0 +1,6 @@
+[
+  {"name":"Google News India - Top stories","url":"https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en","weight":1.0},
+  {"name":"Google News India - India","url":"https://news.google.com/rss/search?q=India&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9},
+  {"name":"Google News India - Government","url":"https://news.google.com/rss/search?q=India%20government&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8},
+  {"name":"Google News India - Public interest","url":"https://news.google.com/rss/search?q=India%20public%20interest&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8}
+]
