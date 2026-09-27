@@ -4,7 +4,7 @@ from datetime import datetime,timezone
 from email.utils import parsedate_to_datetime
 
 ROOT=Path(__file__).resolve().parents[1]; DATA=ROOT/"data"
-SOURCES=ROOT/"sources.json"; OUT=DATA/"issues.json"; ARCHIVE=DATA/"issue_archive.json"; PIPELINE=DATA/"pipeline.json"
+SOURCES=ROOT/"sources.json"; OUT=DATA/"issues.json"; ARCHIVE=DATA/"issue_archive.json"; PIPELINE=DATA/"pipeline.json"; DAYS=DATA/"days.json"
 UA="ViralNewsUpdates/0.2 (+https://github.com/Harshit381/viral-news-updates)"
 STOP={"india","today","latest","news","report","reports","says","said","update","live","breaking","after","over","amid","new","will","from","into","with","this","that"}
 
