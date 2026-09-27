@@ -1,14 +1,9 @@
-<!doctype html>
-<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Issue · Viral News Updates</title><link rel="stylesheet" href="styles.css"></head>
-<body><header class="site-header"><div class="container header-inner"><a class="brand" href="./">Viral News Updates</a><span class="tagline">Issue timeline</span></div></header>
-<main class="container"><section class="hero"><div id="issue"></div></section></main>
-<script>
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Issue · Viral News Updates</title><link rel="stylesheet" href="styles.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="./">Viral News Updates</a></div></header><main class="container"><div id="issue">Loading...</div></main><script>
 const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-(async()=>{const id=new URLSearchParams(location.search).get("id");const data=await fetch("data/issues.json",{cache:"no-store"}).then(r=>r.json());const arc=await fetch("data/issue_archive.json",{cache:"no-store"}).then(r=>r.json()).catch(()=>({issues:[]}));const i=(arc.issues||[]).find(x=>x.id===id)||(data.issues||[]).find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<h1>Issue not found</h1>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
-<p class="eyebrow">${esc(i.category)} · ${esc(i.status)}</p>
-<h1>${esc(i.title)}</h1><p class="hero-copy">${esc(i.summary)}</p>
-<div class="method"><strong>Latest documented update:</strong> ${esc(new Date(i.last_updated).toLocaleString())}<br><strong>Relevant authority/body:</strong> ${esc(i.authority||"Not identified")}</div>
-<h2>Timeline</h2><div>${(i.timeline||[]).slice().sort((a,b)=>new Date(b.time)-new Date(a.time)).map(e=>`<article class="method"><strong>${esc(new Date(e.time).toLocaleString())}</strong><h3>${esc(e.title)}</h3><p>${esc(e.description)}</p>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">View source</a>`:""}</article>`).join("")}</div>
-<h2>Sources</h2><div class="method">${(i.sources||[]).map(s=>`<p><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name||s.url)}</a></p>`).join("")||"<p>No sources yet.</p>"}</div>
+const fmt=v=>new Date(v).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"});
+(async()=>{const id=new URLSearchParams(location.search).get("id");const d=await fetch("data/issue_archive.json",{cache:"no-store"}).then(r=>r.json());const i=(d.issues||[]).find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<section class='hero'><h1>Issue not found</h1></section>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
+<section class="hero"><div><p class="eyebrow">${esc(i.category)} · ${esc(i.status)}</p><h1>${esc(i.title)}</h1><p class="hero-copy">${esc(i.summary_100||i.brief_summary||i.summary)}</p></div></section>
+<section class="method"><p><strong>First observed:</strong> ${esc(fmt(i.first_observed))}</p><p><strong>Latest documented update:</strong> ${esc(fmt(i.last_updated))}</p><p><strong>Relevant authority/body:</strong> ${esc(i.authority)}</p></section>
+<h2>Timeline</h2><div>${(i.timeline||[]).slice().sort((a,b)=>new Date(a.time)-new Date(b.time)).map((e,n)=>`<article class="method"><div class="rank">UPDATE ${n+1} · ${esc(fmt(e.time))}</div><h3>${esc(e.title)}</h3><p>${esc(e.description||"")}</p><p><strong>Source:</strong> ${esc(e.source||"")}</p><div class="meta">${(e.links||[{url:e.url,label:"Article / source"}]).map(l=>l.url?`<a class="pill" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.label||"Open source")}</a>`:"").join("")}</div></article>`).join("")||"<p>No timeline updates yet.</p>"}</div>
 <p><a href="./">← Back to Top 10</a></p>`;})();
 </script></body></html>
