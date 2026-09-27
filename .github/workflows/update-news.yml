@@ -3,12 +3,10 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "30 2 * * *"
-  push:
-    branches: ["main"]
-    paths:
-      - "scripts/**"
-      - "sources.json"
-      - ".github/workflows/update-news.yml"
+
+concurrency:
+  group: news-pipeline
+  cancel-in-progress: false
 
 permissions:
   contents: write
