@@ -29,6 +29,12 @@ def clean(value):
     value=html.unescape(value or "")
     return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",value)).strip()
 
+def raw_child(el,name):
+    for x in list(el):
+        if x.tag.rsplit("}",1)[-1]==name:
+            return x.text or ""
+    return ""
+
 def local_text(el):
     return el.text if el is not None else ""
 
@@ -72,12 +78,13 @@ def read_feed(source):
             for x in list(item):
                 if x.tag.rsplit("}",1)[-1]=="link" and x.attrib.get("href"):
                     link=x.attrib["href"]; break
-        desc=children_text(item,"description") or children_text(item,"summary") or children_text(item,"content")
+        raw_desc=raw_child(item,"description") or raw_child(item,"summary") or raw_child(item,"content")
         publisher=children_text(item,"source") or source["name"]
         if source.get("type")=="aggregator":
-            desc=""
+            parts=[p.strip() for p in re.split(r"&nbsp;\\s*&nbsp;|\\s{2,}",raw_desc,flags=re.I) if p.strip()]
+            desc=clean(parts[0] if parts else raw_desc)
         else:
-            desc=desc[:1200]
+            desc=clean(raw_desc)[:1200]
         when=children_text(item,"pubDate") or children_text(item,"published") or children_text(item,"updated")
         if title and link:
             items.append({"title":display_title(title,publisher),"summary":desc,"url":link,"published":parse_date(when).isoformat(),"source":source["name"],"publisher":publisher,"weight":source.get("weight",1),"type":source.get("type","publisher"),"links":links_from_item(item,link)})
@@ -114,8 +121,26 @@ def make_summary(items,limit):
             norm=re.sub(r"\W+"," ",s.lower()).strip()
             if norm and norm not in used:
                 used.add(norm); parts.append(s)
-                if len(" ".join(parts).split())>=limit: return " ".join(parts).split()[:limit]
+                if len(" ".join(parts).split())>=limit:
+                    return " ".join(parts).split()[:limit]
     return " ".join(parts).split()[:limit]
+
+def fallback_summary(title,items,limit):
+    publishers=sorted({x.get("publisher",x["source"]) for x in items})
+    latest=max(items,key=lambda x:x["published"])
+    text=(f"{title}. This issue is being tracked across {len(publishers)} distinct public publisher(s). "
+          f"The latest observed feed update was published by {latest.get('publisher',latest['source'])}. "
+          f"Source links are provided below for the underlying reports and later developments.")
+    return " ".join(text.split()[:limit])
+
+def coverage_digest(title,items,limit=100):
+    lines=[f"{title}. Available public feed coverage is summarized here; this digest does not add facts beyond the linked sources."]
+    for x in sorted(items,key=lambda a:a["published"],reverse=True):
+        line=f" {x.get('publisher',x['source'])}: {x['title']}."
+        if x.get("summary"): line+=" "+x["summary"]
+        lines.append(line)
+        if len(" ".join(lines).split())>=limit: break
+    return " ".join(" ".join(lines).split()[:limit])
 
 def event_key(e):
     return e.get("url") or hashlib.sha1((e.get("time","")+e.get("title","")).encode()).hexdigest()
@@ -172,8 +197,10 @@ def build():
             if event_key(e) not in seen: events.append(e)
         events.sort(key=lambda e:e.get("time",""))
         summary_items=[x for x in group if x.get("summary")] or group
-        brief=make_summary(summary_items,50)
-        detailed=make_summary(summary_items,100)
+        brief=" ".join(make_summary(summary_items,50))
+        if len(brief.split())<30: brief=fallback_summary(lead["title"],group,40)
+        detailed=" ".join(make_summary(summary_items,100))
+        if len(detailed.split())<70: detailed=coverage_digest(lead["title"],group,100)
         issues.append({
           "id":previous["id"] if previous else hashlib.sha1(key_title(lead["title"]).encode()).hexdigest()[:12],
           "title":lead["title"],
