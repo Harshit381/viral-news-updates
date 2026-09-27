@@ -1,26 +1,961 @@
 {
-  "generated_at": "2026-09-27T00:00:00Z",
+  "generated_at": "2026-09-27T08:02:21.899223+00:00",
+  "snapshot_date": "2026-09-27",
   "issues": [
     {
-      "id": "demo-1",
-      "rank": 1,
-      "title": "Sample issue — live RSS collection will replace this",
-      "summary": "This is placeholder content so the interface can be previewed before the first automated collection.",
-      "category": "Demo",
+      "id": "73bf7f00e2bb",
+      "title": "Russia strongly backs India’s claim for permanent seat in UN Security Council - News On AIR",
+      "brief_summary": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said. Russia",
+      "summary_100": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said. Russia backs India’s candidature for UNSC permanent seat &nbsp;&nbsp; The Hindu Russia strongly backs India’s claim for permanent seat in UN Security Council &nbsp;&nbsp; News On AIR At UN, Russia Backs India's Bid For Permanent Security Council Seat &nbsp;&nbsp; NDTV Russia backs India’s candidature for UNSC permanent seat &nbsp;&nbsp; The Hindu",
+      "category": "India",
       "status": "Monitoring",
-      "score": 0,
-      "first_observed": "2026-09-27T00:00:00Z",
-      "last_updated": "2026-09-27T00:00:00Z",
-      "authority": "To be identified from verified sources",
+      "score": 44.78,
+      "first_observed": "2026-09-26T19:15:30+00:00",
+      "last_updated": "2026-09-27T06:58:39+00:00",
+      "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
-          "time": "2026-09-27T00:00:00Z",
-          "title": "Project initialized",
-          "description": "Viral News Updates has been initialized. Automated public RSS collection will populate real issues.",
-          "source": "Project"
+          "time": "2026-09-26T19:15:30+00:00",
+          "title": "At UN, Russia Backs India's Bid For Permanent Security Council Seat - NDTV",
+          "description": "At UN, Russia Backs India's Bid For Permanent Security Council Seat &nbsp;&nbsp; NDTV Russia backs India’s candidature for UNSC permanent seat &nbsp;&nbsp; The Hindu Russia backs India's claim to UNSC seat, firmly shuts door on Germany & Japan &nbsp;&nbsp; The Times of India Hot seat: Editorial on India’s UN ambitions and the need for diplomatic clarity &nbsp;&nbsp; Telegraph India 'The post-1945 order is giving way to new realities': Jaishankar pushes for immediate UN reforms &nbsp;&nbsp; Firstpost",
+          "source": "Google News - India Top",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T19:15:30+00:00",
+          "title": "At UN, Russia Backs India's Bid For Permanent Security Council Seat - NDTV",
+          "description": "At UN, Russia Backs India's Bid For Permanent Security Council Seat &nbsp;&nbsp; NDTV",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T02:22:36+00:00",
+          "title": "Russia strongly backs India’s claim for permanent seat in UN Security Council - News On AIR",
+          "description": "Russia strongly backs India’s claim for permanent seat in UN Security Council &nbsp;&nbsp; News On AIR",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:18:45+00:00",
+          "title": "Russia backs India’s candidature for UNSC permanent seat - The Hindu",
+          "description": "Russia backs India’s candidature for UNSC permanent seat &nbsp;&nbsp; The Hindu",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:58:39+00:00",
+          "title": "Russia backs India’s candidature for UNSC permanent seat",
+          "description": "“We are in favour of broadening the representation of Asia, Africa, and Latin America. We support Brazil's and India's candidatures for a permanent seat, and at the same time, I wish to emphasise this: we must satisfy the interests of the African continent,” Russian Foreign Minister Sergey Lavrov said.",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/k6gj0d/article71515388.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Russia_58747.jpg",
+              "label": "Video / media"
+            }
+          ]
         }
       ],
-      "sources": []
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTjhxZlRwOFdpMGVTeGJPMGFuWUUyUTNFSmpfTzlGamxVc2ZieWxCR3Q0VG1VdEVFaFA5Z182WnN0S0dMSVpWdk1PRFM3VXgwZG5JLW05TDR4cS00SU9waFRDMGw3ZEdFcGpoSUNYdVBFRjZ6VExvMGNHXzRHc2thRDEwdkVsRkFnXzBQYjJzNXNDcnBUTTFockRrSlgtY29CTVRRdTFJQnF5UdIBsgFBVV95cUxOQjB6T3h3alowbUpUYnRLcldJUWxGYjIwMXphbUkwYzI1TDktVHV2WVc1UHppRGRiM1RjTzRsMVZ6Y0dzRVhmc1lvOUZJcjNJRFRuSzgtaDhnMmRwTjdpUFBDVGQxMlF2UUI5ZVJGbXVKbThRUjhjUDJiVGl5MjEwWkNtN09kQnp1Q1NGSHZDM3VWS3hhSHlkSUEwT3d3YmpsSUlwdnJBRUU4dUtJS2xTeWhn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZzREZFZoay1jdC1GSE1fTV8xWkw1ME9XRkYtMUkxeElLbU9MMTBzdzZaN0Z4ZDRrZjVWcTY5Q3VXbGg3Y2p0ZS1tbEhTUks0V0tuZThQMkNrS2xsQ0w2cHgwR2FaZnBSd3NSN1Y2QjdBM216V1dkeGNOSXZnSDVjSVVCLTZnYXdHTldaU3pNUk40eTZoNHM0bEtQa04yLXV2enJTRw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV2FoNWxIMEY5cjRqcGQwQ0V2RXhla2Q4Mk5TOFJVTUlmdi1xNXp3cHE1ZkxRQ3ZOMEZqMmNveVhXWHI1RjBzZmdTcFZDQzhOc0FuNGFHdFlETFVzWFJONEhjLUNUaWVydVBUMVRxRWJhbFZEMU13emhkUklCeXY3ZHJ0V1ZrZTVYZnFXdnlDZVJGM2k4M2kyZzRUek8xVnI1c2pZcmd3X1dyVHJuWU54a2QtUjdHN0NtczJR0gHCAUFVX3lxTE9TM2ZSbW5xUHlyTFR5TGhuYW1JVjhrZ3gtanBXMG9IeFNfLUViYXotOUh2ZDJaeEptQTVBbXV1ZVN2QUFwOTBMV2tkMEJLOExHYmt3a2ktRTl4UzlDREtfVFYxcTFNdkl5VnFvRXVCYzFURFd1VlhJRlRtZzNHeDlEZDZYUk10bElJMkZ5VWJJUWN2QTg4bjA3ajByTjlLWGVPVTNHUWNtSl8tVS1Za1BXQV90a3o5XzEzMVI2RE9TLTBn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/news/international/russia-backs-indias-candidature-for-unsc-permanent-seat/article71515381.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/k6gj0d/article71515388.ece/alternates/LANDSCAPE_1200/UN_General_Assembly_Russia_58747.jpg",
+          "type": "media"
+        }
+      ],
+      "rank": 1,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "58b227839fc1",
+      "title": "CJP’s Ashutosh Ranka, his team detained in Guwahati: ‘Himanta Sarma is scared we’ll show reality of schoo - The Times of India",
+      "brief_summary": "“Himanta Biswa Sarma is scared that if we show the reality of schools in Assam, the country will come to know about their condition,” Ashutosh Ranka said Ashutosh Ranka, co-convener of the Cockroach Janta Party, faced detention in Guwahati with his team. This action is linked to their protests regarding",
+      "summary_100": "“Himanta Biswa Sarma is scared that if we show the reality of schools in Assam, the country will come to know about their condition,” Ashutosh Ranka said Ashutosh Ranka, co-convener of the Cockroach Janta Party, faced detention in Guwahati with his team. This action is linked to their protests regarding the conditions of schools in Assam. Ranka claims this detention is due to fears surrounding public awareness of these issues. He accused Himanta Biswa Sarma of prioritizing corporate interests over local rights to land, forests, and water. CJP’s Ashutosh Ranka, his team detained in Guwahati: ‘Himanta Sarma is scared we’ll",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 40.41,
+      "first_observed": "2026-09-27T05:51:00+00:00",
+      "last_updated": "2026-09-27T07:08:17+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T05:51:00+00:00",
+          "title": "CJP’s Ashutosh Ranka, his team detained in Guwahati: ‘Himanta Sarma is scared we’ll show reality of schoo - The Times of India",
+          "description": "CJP’s Ashutosh Ranka, his team detained in Guwahati: ‘Himanta Sarma is scared we’ll show reality of schoo &nbsp;&nbsp; The Times of India Ashutosh Ranka, volunteers detained in Assam, claims CJP &nbsp;&nbsp; Hindustan Times CJP'S Ashutosh Ranka To Meet Assam Families Affected By Voter List Revision &nbsp;&nbsp; NDTV CJP's Abhijeet Dipke says Ashutosh Ranka, other members detained ahead of volunteers' meeting in Assam &nbsp;&nbsp; India Today 'Himanta scared if we show reality of schools in Assam': CJP members detained by police in Guwahati &nbsp;&nbsp; Deccan Herald",
+          "source": "Google News - India Top",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb0YxWGF2SGI5UzBfcEpjNkFybDBGNWktS3UtVjFpOVZJVTNBYTVRVmhTV1RMUjNKazdpM2F5VDNGV3AyVVlFdzZQYU1ONE1fVk10NGpIdzdsaWdjVU03SVdBMWE3MTc5VHlKSlJZWEQyYUpVSlUzOHd1QXVORHY2emhzdDFmVVlPZUhtQ19JajhxUHJPS0J1U2M5U24td0xyeHdMVE1MOWJTOWNIc05TRlZtR3hITDdWOEU4M2paTEdKZXNjUnBWQnM2RnB0X3pjSGFJLXFwUWk2TmlVbDhiT2hvRzAxMGZLekNQVWlKYThmNklkQmk4cWx4YmNMejZqRGtKSA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb0YxWGF2SGI5UzBfcEpjNkFybDBGNWktS3UtVjFpOVZJVTNBYTVRVmhTV1RMUjNKazdpM2F5VDNGV3AyVVlFdzZQYU1ONE1fVk10NGpIdzdsaWdjVU03SVdBMWE3MTc5VHlKSlJZWEQyYUpVSlUzOHd1QXVORHY2emhzdDFmVVlPZUhtQ19JajhxUHJPS0J1U2M5U24td0xyeHdMVE1MOWJTOWNIc05TRlZtR3hITDdWOEU4M2paTEdKZXNjUnBWQnM2RnB0X3pjSGFJLXFwUWk2TmlVbDhiT2hvRzAxMGZLekNQVWlKYThmNklkQmk4cWx4YmNMejZqRGtKSA?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:51:18+00:00",
+          "title": "'Himanta Sarma is scared': CJP’s Ashutosh Ranka, his team detained in Guwahati",
+          "description": "Ashutosh Ranka, co-convener of the Cockroach Janta Party, faced detention in Guwahati with his team. This action is linked to their protests regarding the conditions of schools in Assam. Ranka claims this detention is due to fears surrounding public awareness of these issues. He accused Himanta Biswa Sarma of prioritizing corporate interests over local rights to land, forests, and water.",
+          "source": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/city/guwahati/cjps-ashutosh-ranka-his-team-detained-in-guwahati-himanta-sarma-is-scared-well-show-school-reality/articleshow/134515317.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/city/guwahati/cjps-ashutosh-ranka-his-team-detained-in-guwahati-himanta-sarma-is-scared-well-show-school-reality/articleshow/134515317.cms",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://static.toiimg.com/photo/msid-134515360,imgsize-78811.cms",
+              "label": "Video / media"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:08:17+00:00",
+          "title": "CJP’s Ashutosh Ranka, his team detained in Guwahati",
+          "description": "“Himanta Biswa Sarma is scared that if we show the reality of schools in Assam, the country will come to know about their condition,” Ashutosh Ranka said",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/899ny3/article71515458.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000249A.jpg",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxQb0YxWGF2SGI5UzBfcEpjNkFybDBGNWktS3UtVjFpOVZJVTNBYTVRVmhTV1RMUjNKazdpM2F5VDNGV3AyVVlFdzZQYU1ONE1fVk10NGpIdzdsaWdjVU03SVdBMWE3MTc5VHlKSlJZWEQyYUpVSlUzOHd1QXVORHY2emhzdDFmVVlPZUhtQ19JajhxUHJPS0J1U2M5U24td0xyeHdMVE1MOWJTOWNIc05TRlZtR3hITDdWOEU4M2paTEdKZXNjUnBWQnM2RnB0X3pjSGFJLXFwUWk2TmlVbDhiT2hvRzAxMGZLekNQVWlKYThmNklkQmk4cWx4YmNMejZqRGtKSA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://timesofindia.indiatimes.com/city/guwahati/cjps-ashutosh-ranka-his-team-detained-in-guwahati-himanta-sarma-is-scared-well-show-school-reality/articleshow/134515317.cms",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://static.toiimg.com/photo/msid-134515360,imgsize-78811.cms",
+          "type": "media"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/news/national/cjps-ashutosh-ranka-his-team-detained/article71515449.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/899ny3/article71515458.ece/alternates/LANDSCAPE_1200/PTI09_24_2026_000249A.jpg",
+          "type": "media"
+        }
+      ],
+      "rank": 2,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "a522cfc75c1b",
+      "title": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means - The Times of India",
+      "brief_summary": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means &nbsp;&nbsp; The Times of India Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students,",
+      "summary_100": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means &nbsp;&nbsp; The Times of India Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students, farmers from ambit of the RTI Act",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 40.36,
+      "first_observed": "2026-09-27T07:18:33+00:00",
+      "last_updated": "2026-09-27T07:49:54+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T07:18:33+00:00",
+          "title": "Tamil Nadu government exempts Public (Law and Order) Department from RTI Act",
+          "description": "Govt. issued an order to exempt information on subjects such as communal and caste clashes; all matters relating to NSA detentions, reports into deaths in police custody, agitations by students, farmers from ambit of the RTI Act",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/jge7fk/article71515238.ece/alternates/LANDSCAPE_1200/FORT%20ST%20GEORGE%20LEGISLATIVE%20ASSEMBLY%20HALL%20SECRETARIAT_07.jpg",
+              "label": "Video / media"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:49:00+00:00",
+          "title": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means - The Times of India",
+          "description": "Vijay government exempts Tamil Nadu Public (Law & Order) department from RTI- what it means &nbsp;&nbsp; The Times of India",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:49:54+00:00",
+          "title": "Vijay government exempts Tamil Nadu Public (Law &amp; Order) department from RTI",
+          "description": "",
+          "source": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://static.toiimg.com/photo/msid-47529300.cms",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-government-exempts-public-law-and-order-department-from-rti-act/article71515196.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/jge7fk/article71515238.ece/alternates/LANDSCAPE_1200/FORT%20ST%20GEORGE%20LEGISLATIVE%20ASSEMBLY%20HALL%20SECRETARIAT_07.jpg",
+          "type": "media"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRUxoVUFiZnJwU1ZIcHpWN2NnMm9sLVhHYllRYlkzNklha3pOenloMzZ4cUoyM2tZdHVQN3ZHSDBzV1hQUE9COUFGLWM4VFZfcDdRLU1raHNhWmNvQnM1bGhVRUNKbElsQ0w3NTNmWHlGRmEwbEtTQW92OHk3eGs5YkxfRTNoWlozczFGeS1ZVUxJb0Y2OWpVTk92T2F5TGthLTN0ajdZQ1lSMWFKa0E5YzhEaUxDQWtETzlCWmRGTUk5dnFVR29qYThqUG5sR3cwN05DNFJLV19EZWxRRFJ1Y2dLNFBKeUNTVWfSAe8BQVVfeXFMTnlweWhfRlNRbEtkYWNpbjR2SkdFbkdEbXpZUkFNc2FJRUpWLXlzSzVOdHNFcXl2Y0lkaXNRNGZSUmxyVUhfN2JVbC1vUXVZSUdTU0o3ZGxmcFFhNGJyVTQzTnhmSTFtTmFlaUtlY3NZNHVNMFZhaXZiOVdQXzVhOWRzLWg5N3c3RFFrc2x6OElHcHZzdm9meWwySFZ6ekVyU0cxMjNMMkFCRW5WVWRFcjlMbl9sa1dpQldCQ0pVNS1RMTlBN2RiSU9DRHVWLTFnbGhwT2lDYmF4ZHRlVkp0cjE3b0JzRVktdDJkZ2l0Rnc?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://timesofindia.indiatimes.com/india/vijay-government-exempts-tamil-nadu-public-law-order-department-from-rti-what-it-means/articleshow/134516445.cms",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://static.toiimg.com/photo/msid-47529300.cms",
+          "type": "media"
+        }
+      ],
+      "rank": 3,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "c4ae89fb17a1",
+      "title": "PIB Backgrounder - PIB",
+      "brief_summary": "PIB Backgrounder &nbsp;&nbsp; PIB",
+      "summary_100": "PIB Backgrounder &nbsp;&nbsp; PIB",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 37.21,
+      "first_observed": "2026-03-06T08:00:00+00:00",
+      "last_updated": "2026-09-27T06:10:00+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-03-06T08:00:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Public Interest",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFctYmJXalJkVi11SEo3ZzU1QWotM3UtM2VKdUJVa3Nmb3FYNm5pS2RXaVhKU2RRRi1ENHNva3RJYkxadFlFeTRDWUNzblRTM09mZ1pfaDU3VUsyYXdsYmdKaWUwSjFLQUd4eWQ1WDNYZFkyTEI5ZWdWVmJqQVluU2Q5Q1lEQQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFctYmJXalJkVi11SEo3ZzU1QWotM3UtM2VKdUJVa3Nmb3FYNm5pS2RXaVhKU2RRRi1ENHNva3RJYkxadFlFeTRDWUNzblRTM09mZ1pfaDU3VUsyYXdsYmdKaWUwSjFLQUd4eWQ1WDNYZFkyTEI5ZWdWVmJqQVluU2Q5Q1lEQQ?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-22T05:38:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclZmc1pfd3NCUzZNQmpaX2FMcWlZTTk1c08wQ3lTLUZNLWxwQ3FvQTJVVkJ5ZEtxMHdzZzJwX0Nna0YwNVhfVWFpalBLZ0FJRUJBXzBpMGd2YnV0RHUtWXlfYjFmRkZkc3UzSk84UDY5RmkzN3VqMi1YV2tyLTJaTFJESTk0ZnA1dFE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclZmc1pfd3NCUzZNQmpaX2FMcWlZTTk1c08wQ3lTLUZNLWxwQ3FvQTJVVkJ5ZEtxMHdzZzJwX0Nna0YwNVhfVWFpalBLZ0FJRUJBXzBpMGd2YnV0RHUtWXlfYjFmRkZkc3UzSk84UDY5RmkzN3VqMi1YV2tyLTJaTFJESTk0ZnA1dFE?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-23T06:36:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWsxU0hTX2F4UFJ0TDNCc3NVQ1BOWWpkWFNuZHVWYVQ5YS1XcDM2LWFRbDB6YjM4amRXNzRfcWh5VF84YTFNUHg0NEJfM0JvTlFEN0hPLThhdVFMQ1AwaUhGcGNET2ZMdXQ1b1VwVjJjMy0zdlpLWEUySy1tUWg1Y0R0S2h1VWl0MUE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWsxU0hTX2F4UFJ0TDNCc3NVQ1BOWWpkWFNuZHVWYVQ5YS1XcDM2LWFRbDB6YjM4amRXNzRfcWh5VF84YTFNUHg0NEJfM0JvTlFEN0hPLThhdVFMQ1AwaUhGcGNET2ZMdXQ1b1VwVjJjMy0zdlpLWEUySy1tUWg1Y0R0S2h1VWl0MUE?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-24T12:01:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDhaVGtPaWFYVWVsMWJWVkIyeGd1UXlMbU9NVXZUNkdMRERrWlphcVRDcXJjUXY1UkhBajh2M0prUWhOVHIyNTF6ZlZNNVBfZ1luV3Q0aFYwUk9PU1kxVTlXQU5talhmS2JpVTJ6azVxeng3VGx0V1NVb25lTTNMdDNnOVdhWVNmSDlZ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDhaVGtPaWFYVWVsMWJWVkIyeGd1UXlMbU9NVXZUNkdMRERrWlphcVRDcXJjUXY1UkhBajh2M0prUWhOVHIyNTF6ZlZNNVBfZ1luV3Q0aFYwUk9PU1kxVTlXQU5talhmS2JpVTJ6azVxeng3VGx0V1NVb25lTTNMdDNnOVdhWVNmSDlZ?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-24T12:01:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDgtdGJ2SFAtRjFsWnVTZmtZaTZCNk5nTzBSZERqUVhXZjFua3UzQUtGU3RsdTJKUnlyVDVqWVVURE9acFlBVV9hWmhaVl92THM3ZTdhenU1am1KMy1oamZKWkVCQjBrQ2N1UVE3Z3FPY3ZtMEZ2MGVEVE4tWGNQNjJrNlkzUQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDgtdGJ2SFAtRjFsWnVTZmtZaTZCNk5nTzBSZERqUVhXZjFua3UzQUtGU3RsdTJKUnlyVDVqWVVURE9acFlBVV9hWmhaVl92THM3ZTdhenU1am1KMy1oamZKWkVCQjBrQ2N1UVE3Z3FPY3ZtMEZ2MGVEVE4tWGNQNjJrNlkzUQ?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-26T08:52:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSY3QycHJ4cVRRaktNNVNhR2tVQ2lfcEFKb0VxcDZFbjFoek1ZTWpUcG9DU3BFc202NEtFbFM3cE5sbDJ2YzUtVG1SQlZjUUJEV1A3MlhlR0VfYjMwVl8zUlZnOUlzNWdTUlc3OHJsNVBwV1ppTEdfYg?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSY3QycHJ4cVRRaktNNVNhR2tVQ2lfcEFKb0VxcDZFbjFoek1ZTWpUcG9DU3BFc202NEtFbFM3cE5sbDJ2YzUtVG1SQlZjUUJEV1A3MlhlR0VfYjMwVl8zUlZnOUlzNWdTUlc3OHJsNVBwV1ppTEdfYg?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:10:00+00:00",
+          "title": "PIB Backgrounder - PIB",
+          "description": "PIB Backgrounder &nbsp;&nbsp; PIB",
+          "source": "Google News - India Government",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUFlQTWNnb3h3WGVEcVBkZDg3anpETXNTNEJ6bmFFY2JjOGxfTEpCTko0Q1NIcnIyUFZMcXpmb19oTVhmVlBvVWgwSHBFS2VGTUJ1ckhWaV9uLXMzLVpMazJDUDU5aXVnWGhaZ3dJTHlCeVBFYzhydg?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUFlQTWNnb3h3WGVEcVBkZDg3anpETXNTNEJ6bmFFY2JjOGxfTEpCTko0Q1NIcnIyUFZMcXpmb19oTVhmVlBvVWgwSHBFS2VGTUJ1ckhWaV9uLXMzLVpMazJDUDU5aXVnWGhaZ3dJTHlCeVBFYzhydg?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZFctYmJXalJkVi11SEo3ZzU1QWotM3UtM2VKdUJVa3Nmb3FYNm5pS2RXaVhKU2RRRi1ENHNva3RJYkxadFlFeTRDWUNzblRTM09mZ1pfaDU3VUsyYXdsYmdKaWUwSjFLQUd4eWQ1WDNYZFkyTEI5ZWdWVmJqQVluU2Q5Q1lEQQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOclZmc1pfd3NCUzZNQmpaX2FMcWlZTTk1c08wQ3lTLUZNLWxwQ3FvQTJVVkJ5ZEtxMHdzZzJwX0Nna0YwNVhfVWFpalBLZ0FJRUJBXzBpMGd2YnV0RHUtWXlfYjFmRkZkc3UzSk84UDY5RmkzN3VqMi1YV2tyLTJaTFJESTk0ZnA1dFE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObWsxU0hTX2F4UFJ0TDNCc3NVQ1BOWWpkWFNuZHVWYVQ5YS1XcDM2LWFRbDB6YjM4amRXNzRfcWh5VF84YTFNUHg0NEJfM0JvTlFEN0hPLThhdVFMQ1AwaUhGcGNET2ZMdXQ1b1VwVjJjMy0zdlpLWEUySy1tUWg1Y0R0S2h1VWl0MUE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTDhaVGtPaWFYVWVsMWJWVkIyeGd1UXlMbU9NVXZUNkdMRERrWlphcVRDcXJjUXY1UkhBajh2M0prUWhOVHIyNTF6ZlZNNVBfZ1luV3Q0aFYwUk9PU1kxVTlXQU5talhmS2JpVTJ6azVxeng3VGx0V1NVb25lTTNMdDNnOVdhWVNmSDlZ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUDgtdGJ2SFAtRjFsWnVTZmtZaTZCNk5nTzBSZERqUVhXZjFua3UzQUtGU3RsdTJKUnlyVDVqWVVURE9acFlBVV9hWmhaVl92THM3ZTdhenU1am1KMy1oamZKWkVCQjBrQ2N1UVE3Z3FPY3ZtMEZ2MGVEVE4tWGNQNjJrNlkzUQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBSY3QycHJ4cVRRaktNNVNhR2tVQ2lfcEFKb0VxcDZFbjFoek1ZTWpUcG9DU3BFc202NEtFbFM3cE5sbDJ2YzUtVG1SQlZjUUJEV1A3MlhlR0VfYjMwVl8zUlZnOUlzNWdTUlc3OHJsNVBwV1ppTEdfYg?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9GUFlQTWNnb3h3WGVEcVBkZDg3anpETXNTNEJ6bmFFY2JjOGxfTEpCTko0Q1NIcnIyUFZMcXpmb19oTVhmVlBvVWgwSHBFS2VGTUJ1ckhWaV9uLXMzLVpMazJDUDU5aXVnWGhaZ3dJTHlCeVBFYzhydg?oc=5",
+          "type": "article"
+        }
+      ],
+      "rank": 4,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "7c4a6fc4ee41",
+      "title": "Uri surgical strike set bold example of India’s counter-terror policy: PM Modi - The New Indian Express",
+      "brief_summary": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi &nbsp;&nbsp; The Hindu Uri",
+      "summary_100": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi &nbsp;&nbsp; The Hindu Uri surgical strike set bold example of India’s counter-terror policy: PM Modi &nbsp;&nbsp; The New Indian Express 2016 Surgical Strikes Presented India's Counter-Terrorism Policy: PM Modi In 'Mann Ki Baat &nbsp;&nbsp; NDTV Surgical strike demonstrated new example of India’s counter-terrorism policy: PM Modi &nbsp;&nbsp; DD News",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 34.89,
+      "first_observed": "2026-09-27T06:33:41+00:00",
+      "last_updated": "2026-09-27T07:29:48+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T06:33:41+00:00",
+          "title": "Surgical strike demonstrated new example of India’s counter-terrorism policy: PM Modi - DD News",
+          "description": "Surgical strike demonstrated new example of India’s counter-terrorism policy: PM Modi &nbsp;&nbsp; DD News",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:39:26+00:00",
+          "title": "2016 Surgical Strikes Presented India's Counter-Terrorism Policy: PM Modi In 'Mann Ki Baat - NDTV",
+          "description": "2016 Surgical Strikes Presented India's Counter-Terrorism Policy: PM Modi In 'Mann Ki Baat &nbsp;&nbsp; NDTV",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:50:25+00:00",
+          "title": "Uri surgical strike set bold example of India’s counter-terror policy: PM Modi - The New Indian Express",
+          "description": "Uri surgical strike set bold example of India’s counter-terror policy: PM Modi &nbsp;&nbsp; The New Indian Express",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:12:38+00:00",
+          "title": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi - The Hindu",
+          "description": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi &nbsp;&nbsp; The Hindu",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:29:48+00:00",
+          "title": "Surgical strikes presented bold example of India's counter-terrorism policy: PM Modi",
+          "description": "Mr. Modi said on September 28-29, 2016, the Indian Army conducted surgical strikes on terror hideouts across the Line of Control following a terror attack on an Army camp at Uri in Jammu and Kashmir",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/k4c5bc/article71515478.ece/alternates/LANDSCAPE_1200/India_Pakistan_Kashmir.JPEG-1033e.jpg",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHotSzdOTWJuTnpyWEZYakJHUEFxcVVOSHZuTGlnTFpvMHBBMDNQVWVnME04UUN0MEFDNjdab2FOTWx2bUxWc3J6MGo2QWRJT0VKVkVyaTJsVVlMM1hTQ29QazhoejVwLTdJTnQ3Y3JpQ2hGUDZHMFdod1MtX0xydHJuTHBGSnh1RFozLWcxRWZvNmt4dGdiWjhieXlNWVhaLUVETklJQS14SWMxQVE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSjVTc2lRLVVyMUJMeklfVWJpSDlxSXdrVWN3ZHYtSWE1MlpvaWkyTDVQNk5FS2ludWNHVmg5ZG9oYzNNaTA0eW0wMWhwcl9TUGFnQ2x3UE0wakhNR2pDSFNJTDZlQ2hyNFd5RlNDaThEdjBJTmp0MGZhbC1NODE2MDJCWEZlUUZZQnJ4NDBSQ1puUVh2YlJSdmJnQzFrWGljWC1TaVJrNlA5aXN2V2otT1h0dG9xazY2MzBGN1ZIbzQyQUZQQXFr?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZDMzcHFSS0FHbXgwdzd6RFE1emxoYnFFUUk5QTdNNEtZSjlNeHllbnV1VHY5Nzh4MUdQbVluOWZyOE4xU21CUkpCQU1mNUNpUC1QcXJ5RXZZLXRLZFJLTHE4eEVTNmxwQk5oeUR1WWQyZUZQUVVXTGVHOWFDVkpwNWRES053TnEwRGx0cnd3RFlCaGprRWs0V0ZUSUxxRTRIUGxHdmlOZGJVRXAwbVdld2trLWo3WUpES2FUbHQ1ajdibXBUQS1J0gHUAUFVX3lxTE41NVFxdThHY3RJbVFoNFVBUUdkV0ZTSFBqeU50aF93SHZqd2tDTDJBRC1tcURlQkhRU3lnMHhYTHMyYUhsbm1UR0p4THg4QkpLeWplUGlzdVEtLTJpSjA4UkdTVWhpVzY2eU5qMXFsZ1gtR2FBV3YtNndqN1ZxZ2pvOTAxYnJKb09DbERHZXZieEk3dmVHalZEcVl6NlRHclBYQzJRTERUVzdtaDBPNWc3NFJPcXZMeXlaclA4WWRaa0ZvWWk2b1hCLVJKTlV1QkpLMzJ3?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSUNkdVlfRlNMZkEwblhRcUJWUVF4bWJ0bTgwRzRjTHB3Q3BQTDVSRFUwU0VmQThQa2hQS3NqSnBCdkt2UHBBMGlMektQeDlZUEdadGROWi1aQ296RVEyZ1ItZU5kaGk4eG9sREphNVNnWnVqbWJwcUl0bWFZTVdja0JuN1otT3R0YTZPY2FQWWlWbDA0U29KV2VwSzNVWG5ySFFKdnhIUFRUbEJNY0JRQ3Fxb9IBugFBVV95cUxNaEVBb1k3R1FhM2FhUE0xNTZ5MTZrVnZKYlphMm92bFgwQW04bWlwQVFlMHZFYmU5S2lKWlY2Znlmd2c5cV9URzV3cEh6RjFPbzhKOUNjY2ZqVWhtaTdIbnJGQ2dmaEtsLUM4UkVhMlMzUXhIUTJlVlI5aXE4aHZRd0k4ZWJCaXB4UV9yNk5iTXU2VUthTUNKOVVnZ1F6bjVTU0UtWmhmaEhsQkZ3bEotYkJsVnFkLUh0bVE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/news/national/pm-modi-mann-ki-baat-surgical-strike-september-27-2026/article71515461.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/k4c5bc/article71515478.ece/alternates/LANDSCAPE_1200/India_Pakistan_Kashmir.JPEG-1033e.jpg",
+          "type": "media"
+        }
+      ],
+      "rank": 5,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "4dfb0405a480",
+      "title": "Asian Games: PV Sindhu, Unnati Hooda exits cap disappointing badminton campaign as India return with just - The Times of India",
+      "brief_summary": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took",
+      "summary_100": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements. Asian Games: PV Sindhu, Unnati Hooda exits cap disappointing badminton campaign as India return with just &nbsp;&nbsp; The Times of India Asian Games 2026 badminton: PV Sindhu, Unnati Hooda lose in quarter-finals as India campaign ends &nbsp;&nbsp;",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 30.31,
+      "first_observed": "2026-09-27T06:12:00+00:00",
+      "last_updated": "2026-09-27T06:39:28+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T06:12:00+00:00",
+          "title": "Asian Games 2026 badminton: PV Sindhu, Unnati Hooda lose in quarter-finals as India campaign ends - olympics.com",
+          "description": "Asian Games 2026 badminton: PV Sindhu, Unnati Hooda lose in quarter-finals as India campaign ends &nbsp;&nbsp; olympics.com",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFNBb2p4N0FmZUM2eFpQR1dRYWluWTB4MGFScFlJYVRaeDczcGZQTnhKUnVVVU53dktoUHMwMXZKNmptb0o3QjhpWG9QdC0wY1BFSXlDQ1V3QnhtZ1drV1FUalRJc0VXc2tVVWVBcVFGLWEySUhKMzUzdktkbFJJRUtHTUw5d2ZOUl9Xa2NuempJUQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFNBb2p4N0FmZUM2eFpQR1dRYWluWTB4MGFScFlJYVRaeDczcGZQTnhKUnVVVU53dktoUHMwMXZKNmptb0o3QjhpWG9QdC0wY1BFSXlDQ1V3QnhtZ1drV1FUalRJc0VXc2tVVWVBcVFGLWEySUhKMzUzdktkbFJJRUtHTUw5d2ZOUl9Xa2NuempJUQ?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:39:00+00:00",
+          "title": "Asian Games: PV Sindhu, Unnati Hooda exits cap disappointing badminton campaign as India return with just - The Times of India",
+          "description": "Asian Games: PV Sindhu, Unnati Hooda exits cap disappointing badminton campaign as India return with just &nbsp;&nbsp; The Times of India",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb011Ym5oZC1zM1o0X3hheVdfSDlXbnVJRlhFSEVEMkNidkNYQTNKU0VGTGVGaF9DWkRXZnZlWFJ3bFpxYWoyVVFIMXlzdDRYV3Nod2l0a1ZoWVowdm5jSlZjRmFpVmhINktpdFZfUG9ITW1TTUYzSHRiMmVCeWZrbHk2QktYZHRWNWs0YzFYZlh6MnpXQklDM1BYUDgzSTg5TGlYaS1LeDg5QlljZUttWUczc1IzQ0tqc3k5Y00xdzI4TkNtbTVPbUgxQUhhNEw1MGtmZDVMZE9MSms1S2xUUUdoc2FVaXJyeFlfbTRLZ2xsc3JNZ0hvcTc1Z2ZkV0JfMWdRbDBSUjlJcUF6WkZEa2JJM3M4aHlCZFc4aEJqc0tNcTJUVkHSAasCQVVfeXFMTl9kUVpXQzJnbHRZT09BU0ZFM1hzUENQMjMwN29aaXhoYk5NZk56MFV3RXhBaVd0SHp5YzA2WjhyOUZEOExFM0p0SmQ3YWlGZFFsN05KakRwWU5fQnJnZklhLS16bGlibExlaGx6N1lNdEcwckdyNzBtMTdQSy03M0dmNE9XS2dFVk5Ic182WjR0ZlFRYzRmQVJndzU0VG9ENWVXdGhWQVhQSW9fcFltMDR2Q3hyQmhUNlR0QU0xa1Y1a2RBcTNlTWdkMmhlUzFiTlVFYzNtUzZicEZKb0Jra1Y2MTZQZXJpV2IxWkJHNVV3OVV3b2pQUzFWZTFiNk1wX3VGNDZKVXZFb2VHSG9JbmtkNzBycXdFcHRQSEpCaDZQSmYwZUtjQTc0MEE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb011Ym5oZC1zM1o0X3hheVdfSDlXbnVJRlhFSEVEMkNidkNYQTNKU0VGTGVGaF9DWkRXZnZlWFJ3bFpxYWoyVVFIMXlzdDRYV3Nod2l0a1ZoWVowdm5jSlZjRmFpVmhINktpdFZfUG9ITW1TTUYzSHRiMmVCeWZrbHk2QktYZHRWNWs0YzFYZlh6MnpXQklDM1BYUDgzSTg5TGlYaS1LeDg5QlljZUttWUczc1IzQ0tqc3k5Y00xdzI4TkNtbTVPbUgxQUhhNEw1MGtmZDVMZE9MSms1S2xUUUdoc2FVaXJyeFlfbTRLZ2xsc3JNZ0hvcTc1Z2ZkV0JfMWdRbDBSUjlJcUF6WkZEa2JJM3M4aHlCZFc4aEJqc0tNcTJUVkHSAasCQVVfeXFMTl9kUVpXQzJnbHRZT09BU0ZFM1hzUENQMjMwN29aaXhoYk5NZk56MFV3RXhBaVd0SHp5YzA2WjhyOUZEOExFM0p0SmQ3YWlGZFFsN05KakRwWU5fQnJnZklhLS16bGlibExlaGx6N1lNdEcwckdyNzBtMTdQSy03M0dmNE9XS2dFVk5Ic182WjR0ZlFRYzRmQVJndzU0VG9ENWVXdGhWQVhQSW9fcFltMDR2Q3hyQmhUNlR0QU0xa1Y1a2RBcTNlTWdkMmhlUzFiTlVFYzNtUzZicEZKb0Jra1Y2MTZQZXJpV2IxWkJHNVV3OVV3b2pQUzFWZTFiNk1wX3VGNDZKVXZFb2VHSG9JbmtkNzBycXdFcHRQSEpCaDZQSmYwZUtjQTc0MEE?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:39:28+00:00",
+          "title": "Asian Games: Sindhu, Hooda exits cap India's disappointing badminton campaign",
+          "description": "At the Asian Games 2026, India's badminton team concluded with just one medal. Both PV Sindhu and Unnati Hooda exited in the women's singles quarterfinals after fierce competition. The women’s doubles team fell to a strong Malaysian pair, and mixed doubles suffered a narrow defeat. A demanding tournament schedule took its toll on performance, highlighting a stark decline from their previous edition's achievements.",
+          "source": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://static.toiimg.com/photo/msid-134515981,imgsize-107333.cms",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNRFNBb2p4N0FmZUM2eFpQR1dRYWluWTB4MGFScFlJYVRaeDczcGZQTnhKUnVVVU53dktoUHMwMXZKNmptb0o3QjhpWG9QdC0wY1BFSXlDQ1V3QnhtZ1drV1FUalRJc0VXc2tVVWVBcVFGLWEySUhKMzUzdktkbFJJRUtHTUw5d2ZOUl9Xa2NuempJUQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNb011Ym5oZC1zM1o0X3hheVdfSDlXbnVJRlhFSEVEMkNidkNYQTNKU0VGTGVGaF9DWkRXZnZlWFJ3bFpxYWoyVVFIMXlzdDRYV3Nod2l0a1ZoWVowdm5jSlZjRmFpVmhINktpdFZfUG9ITW1TTUYzSHRiMmVCeWZrbHk2QktYZHRWNWs0YzFYZlh6MnpXQklDM1BYUDgzSTg5TGlYaS1LeDg5QlljZUttWUczc1IzQ0tqc3k5Y00xdzI4TkNtbTVPbUgxQUhhNEw1MGtmZDVMZE9MSms1S2xUUUdoc2FVaXJyeFlfbTRLZ2xsc3JNZ0hvcTc1Z2ZkV0JfMWdRbDBSUjlJcUF6WkZEa2JJM3M4aHlCZFc4aEJqc0tNcTJUVkHSAasCQVVfeXFMTl9kUVpXQzJnbHRZT09BU0ZFM1hzUENQMjMwN29aaXhoYk5NZk56MFV3RXhBaVd0SHp5YzA2WjhyOUZEOExFM0p0SmQ3YWlGZFFsN05KakRwWU5fQnJnZklhLS16bGlibExlaGx6N1lNdEcwckdyNzBtMTdQSy03M0dmNE9XS2dFVk5Ic182WjR0ZlFRYzRmQVJndzU0VG9ENWVXdGhWQVhQSW9fcFltMDR2Q3hyQmhUNlR0QU0xa1Y1a2RBcTNlTWdkMmhlUzFiTlVFYzNtUzZicEZKb0Jra1Y2MTZQZXJpV2IxWkJHNVV3OVV3b2pQUzFWZTFiNk1wX3VGNDZKVXZFb2VHSG9JbmtkNzBycXdFcHRQSEpCaDZQSmYwZUtjQTc0MEE?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://timesofindia.indiatimes.com/sports/asian-games-2026/asian-games-pv-sindhu-unnati-hooda-exits-cap-disappointing-badminton-campaign-as-india-return-with-just-one-medal/articleshow/134515912.cms",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://static.toiimg.com/photo/msid-134515981,imgsize-107333.cms",
+          "type": "media"
+        }
+      ],
+      "rank": 6,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "74d5bbd91144",
+      "title": "‘Old footage’: Delhi Police fact-checks viral Jantar Mantar protest video amid SIR row - The Times of India",
+      "brief_summary": "Delhi Police has clarified that a video being shared regarding a recent protest is actually outdated material from a previous event. They have cautioned that those spreading false information could face legal consequences. Meanwhile, opposition parties are actively protesting against Chief Election Commissioner Gyanesh Kumar due to ongoing disputes about",
+      "summary_100": "Delhi Police has clarified that a video being shared regarding a recent protest is actually outdated material from a previous event. They have cautioned that those spreading false information could face legal consequences. Meanwhile, opposition parties are actively protesting against Chief Election Commissioner Gyanesh Kumar due to ongoing disputes about the electoral roll revision. ‘Old footage’: Delhi Police fact-checks viral Jantar Mantar protest video amid SIR row &nbsp;&nbsp; The Times of India SIR row: Delhi Police debunk viral Jantar Mantar protest video as 'old' footage &nbsp;&nbsp; The Economic Times",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 29.71,
+      "first_observed": "2026-09-27T03:57:08+00:00",
+      "last_updated": "2026-09-27T05:41:14+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T03:57:08+00:00",
+          "title": "SIR row: Delhi Police debunk viral Jantar Mantar protest video as 'old' footage - The Economic Times",
+          "description": "SIR row: Delhi Police debunk viral Jantar Mantar protest video as 'old' footage &nbsp;&nbsp; The Economic Times",
+          "source": "Google News - India Viral",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeXFBYmpvZ3pwRWliYzdmREVod05WeGl1SU9KQzVEVU96TWFiQThJU2taaF96Z04xaXZBQWZ0V3pkQ2o4VUdaZjJiRjR0bTZUbllRUXVKVGNVRmdzRmpla2JCUlBqaDVoVG5oaHNnbUNMVmNSZEVseVU3cUVtNTFBTExDZXdRMWNNLV9sZWtSamVYUlVBVUlvREJubjhNYzRyaTgyXzlzTUEweEE4QzAtNEJNNXlIOF9lVW43WWdGaEdnV0NmZlVhMnd6eFZ1WkZfZWk1LTFyZ3PSAd4BQVVfeXFMTVZON2M3Y01paEw2T0ptUTFEaXJvWGpWSHJmb0czTjh1dVN4SUFTeHNIMjV1WnpnRjkxT0xmV0VTYmhpejJFc1VSLTRTdjhxcnVNUUQyWVRlbW8zZlJVdmRzQmMxNnRoUVc2LVhydGlVS0RReHphNWhyQ2lIM2poV0hYak9ablhsLUo3VTdfR0hDREJHQjZFaUZmVW1OQW1GWkt1MUJ1Y2ZmMjdFMy1oSjZwQVVoVTZnR29aYUs5cFVPZTJaN0NDbm85NHlTQVFzT0M5X1JEOHpubFN0clNn?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeXFBYmpvZ3pwRWliYzdmREVod05WeGl1SU9KQzVEVU96TWFiQThJU2taaF96Z04xaXZBQWZ0V3pkQ2o4VUdaZjJiRjR0bTZUbllRUXVKVGNVRmdzRmpla2JCUlBqaDVoVG5oaHNnbUNMVmNSZEVseVU3cUVtNTFBTExDZXdRMWNNLV9sZWtSamVYUlVBVUlvREJubjhNYzRyaTgyXzlzTUEweEE4QzAtNEJNNXlIOF9lVW43WWdGaEdnV0NmZlVhMnd6eFZ1WkZfZWk1LTFyZ3PSAd4BQVVfeXFMTVZON2M3Y01paEw2T0ptUTFEaXJvWGpWSHJmb0czTjh1dVN4SUFTeHNIMjV1WnpnRjkxT0xmV0VTYmhpejJFc1VSLTRTdjhxcnVNUUQyWVRlbW8zZlJVdmRzQmMxNnRoUVc2LVhydGlVS0RReHphNWhyQ2lIM2poV0hYak9ablhsLUo3VTdfR0hDREJHQjZFaUZmVW1OQW1GWkt1MUJ1Y2ZmMjdFMy1oSjZwQVVoVTZnR29aYUs5cFVPZTJaN0NDbm85NHlTQVFzT0M5X1JEOHpubFN0clNn?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:41:00+00:00",
+          "title": "‘Old footage’: Delhi Police fact-checks viral Jantar Mantar protest video amid SIR row - The Times of India",
+          "description": "‘Old footage’: Delhi Police fact-checks viral Jantar Mantar protest video amid SIR row &nbsp;&nbsp; The Times of India",
+          "source": "Google News - India Viral",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXh0aWw2NXlGcVBqakY2LTVmdUptTUtCclpFMW5yUFkzanhiMzZrLW94ZjN3cTF6Ulo5OEZYWVozaFRmUVhYSzBtcXNjWHByeVBCUDQxcnNKZG9jOHVxUG12dUJtNkFPMlQ2RzMwem5KWV9vSTRPYWVCSzgwb1JmTUNMUDE4MUhBQ0syX1llZzJHOF9nUjE2XzY3S0hsVm1Mb0p5ZUhXLUJyc0JGd1lXWW1xTHI5ODMtcVR4MzhGbnNhOGhKLUw3YWg2dUpnb0lUWTlIMDR0M00xa3A3S1dKUFJuWFBiZ9IB6wFBVV95cUxONzlGUjNQVjhYVVZFZkxFQmdpNUV3ckF5T0NNV20zRTNPcFNpdDJfdWFtNVMwRWhDODllRFBHd3V2eXlsbEZZWEtaMUxibDZidFhid3g3ZVVhVHNPZDRsRnFGUGJFaENfRjBSbV9ONW0yUW1WTDFnVGR5dHBFUW02Qm1uUV81c2lWTmo1RFpZNmxJdlRZRDM4QTBSbmZzaU9rWXNTOFdhY1VQbG1fejA1Z0tSSG83YUwtOG5kTXVrTk8wSm5NYjZLS3ViRURyR2hJUmpjY1Btc0V1M0VBeHJXbVp4SFQ2dHNubHZj?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXh0aWw2NXlGcVBqakY2LTVmdUptTUtCclpFMW5yUFkzanhiMzZrLW94ZjN3cTF6Ulo5OEZYWVozaFRmUVhYSzBtcXNjWHByeVBCUDQxcnNKZG9jOHVxUG12dUJtNkFPMlQ2RzMwem5KWV9vSTRPYWVCSzgwb1JmTUNMUDE4MUhBQ0syX1llZzJHOF9nUjE2XzY3S0hsVm1Mb0p5ZUhXLUJyc0JGd1lXWW1xTHI5ODMtcVR4MzhGbnNhOGhKLUw3YWg2dUpnb0lUWTlIMDR0M00xa3A3S1dKUFJuWFBiZ9IB6wFBVV95cUxONzlGUjNQVjhYVVZFZkxFQmdpNUV3ckF5T0NNV20zRTNPcFNpdDJfdWFtNVMwRWhDODllRFBHd3V2eXlsbEZZWEtaMUxibDZidFhid3g3ZVVhVHNPZDRsRnFGUGJFaENfRjBSbV9ONW0yUW1WTDFnVGR5dHBFUW02Qm1uUV81c2lWTmo1RFpZNmxJdlRZRDM4QTBSbmZzaU9rWXNTOFdhY1VQbG1fejA1Z0tSSG83YUwtOG5kTXVrTk8wSm5NYjZLS3ViRURyR2hJUmpjY1Btc0V1M0VBeHJXbVp4SFQ2dHNubHZj?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T05:41:14+00:00",
+          "title": "‘Old footage’: Delhi Police fact-checks viral Jantar Mantar protest video amid SIR row",
+          "description": "Delhi Police has clarified that a video being shared regarding a recent protest is actually outdated material from a previous event. They have cautioned that those spreading false information could face legal consequences. Meanwhile, opposition parties are actively protesting against Chief Election Commissioner Gyanesh Kumar due to ongoing disputes about the electoral roll revision.",
+          "source": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/old-footage-delhi-police-fact-checks-viral-jantar-mantar-protest-video-amid-sir-row/articleshow/134515108.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/old-footage-delhi-police-fact-checks-viral-jantar-mantar-protest-video-amid-sir-row/articleshow/134515108.cms",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://static.toiimg.com/photo/msid-134515289,imgsize-14128437.cms",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQeXFBYmpvZ3pwRWliYzdmREVod05WeGl1SU9KQzVEVU96TWFiQThJU2taaF96Z04xaXZBQWZ0V3pkQ2o4VUdaZjJiRjR0bTZUbllRUXVKVGNVRmdzRmpla2JCUlBqaDVoVG5oaHNnbUNMVmNSZEVseVU3cUVtNTFBTExDZXdRMWNNLV9sZWtSamVYUlVBVUlvREJubjhNYzRyaTgyXzlzTUEweEE4QzAtNEJNNXlIOF9lVW43WWdGaEdnV0NmZlVhMnd6eFZ1WkZfZWk1LTFyZ3PSAd4BQVVfeXFMTVZON2M3Y01paEw2T0ptUTFEaXJvWGpWSHJmb0czTjh1dVN4SUFTeHNIMjV1WnpnRjkxT0xmV0VTYmhpejJFc1VSLTRTdjhxcnVNUUQyWVRlbW8zZlJVdmRzQmMxNnRoUVc2LVhydGlVS0RReHphNWhyQ2lIM2poV0hYak9ablhsLUo3VTdfR0hDREJHQjZFaUZmVW1OQW1GWkt1MUJ1Y2ZmMjdFMy1oSjZwQVVoVTZnR29aYUs5cFVPZTJaN0NDbm85NHlTQVFzT0M5X1JEOHpubFN0clNn?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPcXh0aWw2NXlGcVBqakY2LTVmdUptTUtCclpFMW5yUFkzanhiMzZrLW94ZjN3cTF6Ulo5OEZYWVozaFRmUVhYSzBtcXNjWHByeVBCUDQxcnNKZG9jOHVxUG12dUJtNkFPMlQ2RzMwem5KWV9vSTRPYWVCSzgwb1JmTUNMUDE4MUhBQ0syX1llZzJHOF9nUjE2XzY3S0hsVm1Mb0p5ZUhXLUJyc0JGd1lXWW1xTHI5ODMtcVR4MzhGbnNhOGhKLUw3YWg2dUpnb0lUWTlIMDR0M00xa3A3S1dKUFJuWFBiZ9IB6wFBVV95cUxONzlGUjNQVjhYVVZFZkxFQmdpNUV3ckF5T0NNV20zRTNPcFNpdDJfdWFtNVMwRWhDODllRFBHd3V2eXlsbEZZWEtaMUxibDZidFhid3g3ZVVhVHNPZDRsRnFGUGJFaENfRjBSbV9ONW0yUW1WTDFnVGR5dHBFUW02Qm1uUV81c2lWTmo1RFpZNmxJdlRZRDM4QTBSbmZzaU9rWXNTOFdhY1VQbG1fejA1Z0tSSG83YUwtOG5kTXVrTk8wSm5NYjZLS3ViRURyR2hJUmpjY1Btc0V1M0VBeHJXbVp4SFQ2dHNubHZj?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://timesofindia.indiatimes.com/india/old-footage-delhi-police-fact-checks-viral-jantar-mantar-protest-video-amid-sir-row/articleshow/134515108.cms",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://static.toiimg.com/photo/msid-134515289,imgsize-14128437.cms",
+          "type": "media"
+        }
+      ],
+      "rank": 7,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "ffaea6ada077",
+      "title": "Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton - The Hindu",
+      "brief_summary": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal. Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton &nbsp;&nbsp; The Hindu",
+      "summary_100": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal. Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton &nbsp;&nbsp; The Hindu",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 28.76,
+      "first_observed": "2026-09-27T06:52:45+00:00",
+      "last_updated": "2026-09-27T06:53:01+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T06:52:45+00:00",
+          "title": "Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton - The Hindu",
+          "description": "Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton &nbsp;&nbsp; The Hindu",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVNhS1YyVVptUlhSMVZJRmJpN04yQVZCS2VYTzJ1ZTU3YmFvLXNrd1hheE1od1piblZORVNDVDNnRFZuaEVmY0tiNGFHRmtxN2IybXpOZkxHMEdqUTVZQlB0OVBWWm0wbWd1Yzd1czBEbEpzRVNsclZBNlU2bnE0Smp4OWRpN3htU2E3cTNHb2xoSXo3cGxwOWFYSmxqb3pIVzh3eFBQTlRSNGdGVkdxV3duSkNlbVJBMWVaSEZ6RkUwcW5xV0VPVzUwc1Mxc2lFLVZBbEJZajdaY09RNkHSAeQBQVVfeXFMTk5ucFNZMkQ2cmw0cUtiZ0o0UVJhb0NjMUNSNkNuRmVrWUF3RXNWU1VrQi1wQW9fZm5VMWJqSTk4OHluclN3QVl5dHJabERPQzNZQ0tJSHpCQXU0VEJFU1B4TWpVa040RF85ci1vZmpJUVZrYWRpa3dWdXVIdmdhaG1xcjlHZVEwTnNidHBmREVOb0twcVZEWTJPa1BMT2VGZlg2cXBCSVVUYUR4UkNBRGRCR014YWJhaDFxVWlUTUV1QVZTTTRraHJIdmpZYVhDS3VIa2gzTmZDVmpwckt4UFFCa3NS?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVNhS1YyVVptUlhSMVZJRmJpN04yQVZCS2VYTzJ1ZTU3YmFvLXNrd1hheE1od1piblZORVNDVDNnRFZuaEVmY0tiNGFHRmtxN2IybXpOZkxHMEdqUTVZQlB0OVBWWm0wbWd1Yzd1czBEbEpzRVNsclZBNlU2bnE0Smp4OWRpN3htU2E3cTNHb2xoSXo3cGxwOWFYSmxqb3pIVzh3eFBQTlRSNGdGVkdxV3duSkNlbVJBMWVaSEZ6RkUwcW5xV0VPVzUwc1Mxc2lFLVZBbEJZajdaY09RNkHSAeQBQVVfeXFMTk5ucFNZMkQ2cmw0cUtiZ0o0UVJhb0NjMUNSNkNuRmVrWUF3RXNWU1VrQi1wQW9fZm5VMWJqSTk4OHluclN3QVl5dHJabERPQzNZQ0tJSHpCQXU0VEJFU1B4TWpVa040RF85ci1vZmpJUVZrYWRpa3dWdXVIdmdhaG1xcjlHZVEwTnNidHBmREVOb0twcVZEWTJPa1BMT2VGZlg2cXBCSVVUYUR4UkNBRGRCR014YWJhaDFxVWlUTUV1QVZTTTRraHJIdmpZYVhDS3VIa2gzTmZDVmpwckt4UFFCa3NS?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:53:01+00:00",
+          "title": "Asian Games 2026: Sindhu, Unnati bow out in quarters as India draw blank in individual badminton",
+          "description": "While the Indian men’s team managed a bronze, none of the other shuttlers could reach the semifinals of the various categories, which would have assured a medal.",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/8cggh4/article71515431.ece/alternates/LANDSCAPE_1200/2026-09-22T014343Z_1059119089_UP1EM9M04SUNW_RTRMADP_3_GAMES-ASIA.JPG",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUVNhS1YyVVptUlhSMVZJRmJpN04yQVZCS2VYTzJ1ZTU3YmFvLXNrd1hheE1od1piblZORVNDVDNnRFZuaEVmY0tiNGFHRmtxN2IybXpOZkxHMEdqUTVZQlB0OVBWWm0wbWd1Yzd1czBEbEpzRVNsclZBNlU2bnE0Smp4OWRpN3htU2E3cTNHb2xoSXo3cGxwOWFYSmxqb3pIVzh3eFBQTlRSNGdGVkdxV3duSkNlbVJBMWVaSEZ6RkUwcW5xV0VPVzUwc1Mxc2lFLVZBbEJZajdaY09RNkHSAeQBQVVfeXFMTk5ucFNZMkQ2cmw0cUtiZ0o0UVJhb0NjMUNSNkNuRmVrWUF3RXNWU1VrQi1wQW9fZm5VMWJqSTk4OHluclN3QVl5dHJabERPQzNZQ0tJSHpCQXU0VEJFU1B4TWpVa040RF85ci1vZmpJUVZrYWRpa3dWdXVIdmdhaG1xcjlHZVEwTnNidHBmREVOb0twcVZEWTJPa1BMT2VGZlg2cXBCSVVUYUR4UkNBRGRCR014YWJhaDFxVWlUTUV1QVZTTTRraHJIdmpZYVhDS3VIa2gzTmZDVmpwckt4UFFCa3NS?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/sport/asian-games-2026-sindhu-unnati-bow-out-in-quarters-as-india-draw-blank-in-individual-badminton/article71515425.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/8cggh4/article71515431.ece/alternates/LANDSCAPE_1200/2026-09-22T014343Z_1059119089_UP1EM9M04SUNW_RTRMADP_3_GAMES-ASIA.JPG",
+          "type": "media"
+        }
+      ],
+      "rank": 8,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "499c056ed523",
+      "title": "India stresses resilient health systems, pandemic preparedness at UN - The Hindu",
+      "brief_summary": "Addressing the meeting at the United Nations Headquarters on Friday, September 25, 2026, Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response across government and society, which covers a wide range of potential health emergencies India stresses resilient health systems, pandemic preparedness at UN &nbsp;&nbsp; The Hindu",
+      "summary_100": "Addressing the meeting at the United Nations Headquarters on Friday, September 25, 2026, Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response across government and society, which covers a wide range of potential health emergencies India stresses resilient health systems, pandemic preparedness at UN &nbsp;&nbsp; The Hindu",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 28.64,
+      "first_observed": "2026-09-27T06:17:35+00:00",
+      "last_updated": "2026-09-27T06:17:41+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T06:17:35+00:00",
+          "title": "India stresses resilient health systems, pandemic preparedness at UN - The Hindu",
+          "description": "India stresses resilient health systems, pandemic preparedness at UN &nbsp;&nbsp; The Hindu",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4zVk9pNzdpanIwLWRRaklNNmZ4cks5UXJpQnZBcXN0S3V0NG9IaTlISWpXUE9ETFRzaDRqRVBQa3kzN3V5Nzl3V2k1MWtoV255X08yd2ljYnpoQ2VZS3BhbVljNmVKM0dCT1gyVEtRd0JFNG9wdUJEXzM1SXB0WUNuWXg2Qk4zcmY5Zzc4Q29YcWtSYkVNamJOYVl5LWZBT0E1ZGpOWTBuRHhfOVpDazZfSnViSGZUY3I4TDdRUEJTNE9mZGEw0gHOAUFVX3lxTE5PUlJkY3lONVlGQ3MyaTRYS1ZRZEdWNVJybE95bWNQOXhRYTRycDRSZzBqbFFid3ZZdmRDMWw2dnhSa1p1ZXo0dWxIV25pN2tONWwyMXhRdkFmbzVWeDV5MmFxdkZJVU9idjI1R0xSSmNDYWY3eWVMSDM5eUljajRpakNhMHVFT2Y4QUdqc21Oa0ZBcENJWWo1d214YzJKRmVPVXZOWXlyRzFmLVBuZEN4VVFBZnJUSFJBanhVTU4wRkUtYlBrenAtcU1IZ0tR?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4zVk9pNzdpanIwLWRRaklNNmZ4cks5UXJpQnZBcXN0S3V0NG9IaTlISWpXUE9ETFRzaDRqRVBQa3kzN3V5Nzl3V2k1MWtoV255X08yd2ljYnpoQ2VZS3BhbVljNmVKM0dCT1gyVEtRd0JFNG9wdUJEXzM1SXB0WUNuWXg2Qk4zcmY5Zzc4Q29YcWtSYkVNamJOYVl5LWZBT0E1ZGpOWTBuRHhfOVpDazZfSnViSGZUY3I4TDdRUEJTNE9mZGEw0gHOAUFVX3lxTE5PUlJkY3lONVlGQ3MyaTRYS1ZRZEdWNVJybE95bWNQOXhRYTRycDRSZzBqbFFid3ZZdmRDMWw2dnhSa1p1ZXo0dWxIV25pN2tONWwyMXhRdkFmbzVWeDV5MmFxdkZJVU9idjI1R0xSSmNDYWY3eWVMSDM5eUljajRpakNhMHVFT2Y4QUdqc21Oa0ZBcENJWWo1d214YzJKRmVPVXZOWXlyRzFmLVBuZEN4VVFBZnJUSFJBanhVTU4wRkUtYlBrenAtcU1IZ0tR?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T06:17:41+00:00",
+          "title": "India stresses resilient health systems, pandemic preparedness at UN",
+          "description": "Addressing the meeting at the United Nations Headquarters on Friday, September 25, 2026, Ms. Srivastava outlined India's coordinated approach to pandemic prevention and response across government and society, which covers a wide range of potential health emergencies",
+          "source": "The Hindu - Home",
+          "url": "https://www.thehindu.com/sci-tech/health/india-stresses-resilient-health-systems-pandemic-preparedness-at-un/article71515374.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/sci-tech/health/india-stresses-resilient-health-systems-pandemic-preparedness-at-un/article71515374.ece",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://th-i.thgim.com/public/incoming/qixamv/article71515386.ece/alternates/LANDSCAPE_1200/20260926196L.jpg",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZE4zVk9pNzdpanIwLWRRaklNNmZ4cks5UXJpQnZBcXN0S3V0NG9IaTlISWpXUE9ETFRzaDRqRVBQa3kzN3V5Nzl3V2k1MWtoV255X08yd2ljYnpoQ2VZS3BhbVljNmVKM0dCT1gyVEtRd0JFNG9wdUJEXzM1SXB0WUNuWXg2Qk4zcmY5Zzc4Q29YcWtSYkVNamJOYVl5LWZBT0E1ZGpOWTBuRHhfOVpDazZfSnViSGZUY3I4TDdRUEJTNE9mZGEw0gHOAUFVX3lxTE5PUlJkY3lONVlGQ3MyaTRYS1ZRZEdWNVJybE95bWNQOXhRYTRycDRSZzBqbFFid3ZZdmRDMWw2dnhSa1p1ZXo0dWxIV25pN2tONWwyMXhRdkFmbzVWeDV5MmFxdkZJVU9idjI1R0xSSmNDYWY3eWVMSDM5eUljajRpakNhMHVFT2Y4QUdqc21Oa0ZBcENJWWo1d214YzJKRmVPVXZOWXlyRzFmLVBuZEN4VVFBZnJUSFJBanhVTU4wRkUtYlBrenAtcU1IZ0tR?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://www.thehindu.com/sci-tech/health/india-stresses-resilient-health-systems-pandemic-preparedness-at-un/article71515374.ece",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://th-i.thgim.com/public/incoming/qixamv/article71515386.ece/alternates/LANDSCAPE_1200/20260926196L.jpg",
+          "type": "media"
+        }
+      ],
+      "rank": 9,
+      "snapshot_date": "2026-09-27"
+    },
+    {
+      "id": "ae5821d25849",
+      "title": "PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism - ANI News",
+      "brief_summary": "During his radio address, Mann Ki Baat, Prime Minister Narendra Modi discussed key national issues, including the 2016 surgical strikes against terrorism, reaffirming India's strong stance and zero-tolerance policy toward cross-border threats. He called on citizens to contribute to the Census, emphasized cleanliness efforts linked to Mahatma Gandhi, and expressed",
+      "summary_100": "During his radio address, Mann Ki Baat, Prime Minister Narendra Modi discussed key national issues, including the 2016 surgical strikes against terrorism, reaffirming India's strong stance and zero-tolerance policy toward cross-border threats. He called on citizens to contribute to the Census, emphasized cleanliness efforts linked to Mahatma Gandhi, and expressed support for the youth's battle against narcotics. PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism &nbsp;&nbsp; ANI News",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 28.41,
+      "first_observed": "2026-09-27T05:58:00+00:00",
+      "last_updated": "2026-09-27T07:08:41+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-09-27T05:58:00+00:00",
+          "title": "PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism - ANI News",
+          "description": "PM Modi recalls 2016 surgical strikes on terror launchpads, says India has displayed firm resolve against terrorism &nbsp;&nbsp; ANI News",
+          "source": "Google News - India",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+              "label": "Article / source"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:08:41+00:00",
+          "title": "PM Modi recalls 2016 surgical strikes, says terrorism will get decisive response",
+          "description": "During his radio address, Mann Ki Baat, Prime Minister Narendra Modi discussed key national issues, including the 2016 surgical strikes against terrorism, reaffirming India's strong stance and zero-tolerance policy toward cross-border threats. He called on citizens to contribute to the Census, emphasized cleanliness efforts linked to Mahatma Gandhi, and expressed support for the youth's battle against narcotics.",
+          "source": "Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+              "label": "Article / source"
+            },
+            {
+              "type": "media",
+              "url": "https://static.toiimg.com/photo/msid-134516295,imgsize-83518.cms",
+              "label": "Video / media"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article / source",
+          "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQRkZMZWJ6dzJVRms0Y3kyWXp3Y1RaMmVNenFtTHpMTTg3UmxNUDFfY0ZpV29sZU56WmFNQndTbWhQYlYxOUtXNWlpOTVfNGRNWlM1WlFlZVQ4T3YwLTAwUnVWTTR0WHpYemJraWhaaEJNRDRieVFVZDAtVmdKeDJBd3VXaTdmbTJnV0FHWFdvaWg0aDhOMm11eHB3SzBnaTluSmhwNW9RdmlGZjdKbDBNdG5ZTlNaamxLeW5SME9SUzFaUU5WbDBXVllnLWZrTVZOcVZyaTZRYVJldG5MdjRXUDkydVd2dTZoSjF3bVlqMmNZenl2SFQ2RUdORXpBUnVjS044YXhIWjRXVlQzS0E?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article / source",
+          "url": "https://timesofindia.indiatimes.com/india/pm-modi-recalls-2016-surgical-strikes-on-mann-ki-baat-says-terrorism-will-get-decisive-response/articleshow/134516171.cms",
+          "type": "article"
+        },
+        {
+          "name": "Video / media",
+          "url": "https://static.toiimg.com/photo/msid-134516295,imgsize-83518.cms",
+          "type": "media"
+        }
+      ],
+      "rank": 10,
+      "snapshot_date": "2026-09-27"
     }
   ]
 }
