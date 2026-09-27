@@ -1,4 +1,4 @@
-import json,re,hashlib,urllib.request,xml.etree.ElementTree as ET
+import json,re,hashlib,urllib.request,xml.etree.ElementTree as ET,html
 from pathlib import Path
 from datetime import datetime,timezone
 from email.utils import parsedate_to_datetime
@@ -26,7 +26,8 @@ def parse_date(value):
         except:return now()
 
 def clean(value):
-    return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",value or "")).strip()
+    value=html.unescape(value or "")
+    return re.sub(r"\s+"," ",re.sub(r"<[^>]+>"," ",value)).strip()
 
 def local_text(el):
     return el.text if el is not None else ""
@@ -39,13 +40,20 @@ def children_text(el,name):
 
 def links_from_item(item,primary):
     out=[]
-    if primary: out.append({"type":"article","url":primary,"label":"Article / source"})
+    if primary:
+        out.append({"type":"article","url":primary,"label":"Open article"})
+    seen={primary}
     for x in item.iter():
-        local=x.tag.rsplit("}",1)[-1]
+        local=x.tag.rsplit("}",1)[-1].lower()
         u=x.attrib.get("url") or x.attrib.get("href")
-        if u and local.lower() in {"enclosure","content","thumbnail","link"} and u not in [a["url"] for a in out]:
-            kind="media" if local.lower() in {"enclosure","content"} else "related"
-            out.append({"type":kind,"url":u,"label":"Video / media" if kind=="media" else "Related link"})
+        if not u or u in seen:
+            continue
+        typ=(x.attrib.get("type") or "").lower()
+        medium=(x.attrib.get("medium") or "").lower()
+        is_video=("video" in typ or medium=="video" or re.search(r"\.(mp4|webm|mov|m3u8)(\?|$)",u.lower()) is not None)
+        if local in {"enclosure","content"} and is_video:
+            out.append({"type":"video","url":u,"label":"Open video"})
+            seen.add(u)
     return out[:6]
 
 def read_feed(source):
@@ -109,7 +117,7 @@ def source_list(events):
         for link in e.get("links",[]):
             u=link.get("url")
             if u and u not in seen:
-                seen.add(u); out.append({"name":link.get("label","Source"),"url":u,"type":link.get("type","article")})
+                seen.add(u); out.append({"name":("Video — " if link.get("type")=="video" else "Article — ")+e.get("source","Source"),"url":u,"type":link.get("type","article")})
     return out
 
 def build():
