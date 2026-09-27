@@ -1,6 +1,10 @@
 name: Update news data
 on:
   workflow_dispatch:
+  push:
+    branches: ["main"]
+    paths-ignore:
+      - "data/**"
   schedule:
     - cron: "30 2 * * *"
 permissions:
