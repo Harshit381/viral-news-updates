@@ -1,0 +1,26 @@
+{
+  "generated_at": "2026-09-27T00:00:00Z",
+  "issues": [
+    {
+      "id": "demo-1",
+      "rank": 1,
+      "title": "Sample issue — live RSS collection will replace this",
+      "summary": "This is placeholder content so the interface can be previewed before the first automated collection.",
+      "category": "Demo",
+      "status": "Monitoring",
+      "score": 0,
+      "first_observed": "2026-09-27T00:00:00Z",
+      "last_updated": "2026-09-27T00:00:00Z",
+      "authority": "To be identified from verified sources",
+      "timeline": [
+        {
+          "time": "2026-09-27T00:00:00Z",
+          "title": "Project initialized",
+          "description": "Viral News Updates has been initialized. Automated public RSS collection will populate real issues.",
+          "source": "Project"
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
