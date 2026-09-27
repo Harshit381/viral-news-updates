@@ -73,9 +73,14 @@ def read_feed(source):
                 if x.tag.rsplit("}",1)[-1]=="link" and x.attrib.get("href"):
                     link=x.attrib["href"]; break
         desc=children_text(item,"description") or children_text(item,"summary") or children_text(item,"content")
+        publisher=children_text(item,"source") or source["name"]
+        if source.get("type")=="aggregator":
+            desc=""
+        else:
+            desc=desc[:1200]
         when=children_text(item,"pubDate") or children_text(item,"published") or children_text(item,"updated")
         if title and link:
-            items.append({"title":title,"summary":desc[:1200],"url":link,"published":parse_date(when).isoformat(),"source":source["name"],"weight":source.get("weight",1),"type":source.get("type","publisher"),"links":links_from_item(item,link)})
+            items.append({"title":title,"summary":desc,"url":link,"published":parse_date(when).isoformat(),"source":source["name"],"publisher":publisher,"weight":source.get("weight",1),"type":source.get("type","publisher"),"links":links_from_item(item,link)})
     return items
 
 def words(title):
@@ -83,13 +88,17 @@ def words(title):
 
 def similarity(a,b):
     x,y=words(a),words(b)
-    return len(x&y)/max(1,len(x|y)) if x and y else 0
+    if not x or not y: return 0
+    inter=len(x&y)
+    jaccard=inter/max(1,len(x|y))
+    containment=inter/max(1,min(len(x),len(y)))
+    return max(jaccard, containment*0.85)
 
 def key_title(title):
     return "|".join(sorted(words(title)))
 
 def score(items):
-    sources=len({x["source"] for x in items})
+    sources=len({x.get("publisher",x["source"]) for x in items})
     official=sum(x["type"]=="official" for x in items)
     latest=max(parse_date(x["published"]) for x in items)
     age=max(0,(now()-latest).total_seconds()/3600)
@@ -143,13 +152,13 @@ def build():
     issues=[]
     for group in groups:
         group.sort(key=lambda x:x["published"])
-        lead=max(group,key=lambda x:len(x["title"]))
+        lead=max(group,key=lambda x:(1 if x["type"]!="aggregator" else 0, len(x.get("summary","")), len(x["title"])))
         previous_match=max(((similarity(lead["title"],o.get("title","")),o) for o in old),default=(0,None))
         previous=previous_match[1] if previous_match[0]>=.32 else None
         events=previous.get("timeline",[])[:] if previous else []
         seen={event_key(e) for e in events}
         for x in group:
-            e={"time":x["published"],"title":x["title"],"description":x["summary"],"source":x.get("publisher",x["source"]),"url":x["url"],"links":x["links"]}
+            e={"time":x["published"],"title":x["title"],"description":x["summary"],"source":x.get("publisher",x["source"]),"publisher":x.get("publisher",x["source"]),"url":x["url"],"links":x["links"]}
             if event_key(e) not in seen: events.append(e)
         events.sort(key=lambda e:e.get("time",""))
         brief=make_summary(group,50)
@@ -169,6 +178,7 @@ def build():
           "sources":source_list(events)
         })
 
+    issues=[x for x in issues if len(words(x["title"]))>=3 or x.get("brief_summary") or x.get("summary_100")]
     byid={x.get("id"):x for x in old}
     for x in issues: byid[x["id"]]=x
     ARCHIVE.write_text(json.dumps({"updated_at":now().isoformat(),"issues":sorted(byid.values(),key=lambda x:x.get("last_updated",""),reverse=True)},ensure_ascii=False,indent=2))
