@@ -1,12 +1,6 @@
 name: Review news pipeline
 on:
   workflow_dispatch:
-  push:
-    branches: ["main"]
-    paths:
-      - ".github/workflows/update-news.yml"
-      - "scripts/**"
-      - "sources.json"
   schedule:
     - cron: "30 2 * * *"
 
