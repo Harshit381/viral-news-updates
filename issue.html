@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Issue · Viral News Updates</title><link rel="stylesheet" href="styles.css"></head>
+<body><header class="site-header"><div class="container header-inner"><a class="brand" href="./">Viral News Updates</a><span class="tagline">Issue timeline</span></div></header>
+<main class="container"><section class="hero"><div id="issue"></div></section></main>
+<script>
+const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
+(async()=>{const id=new URLSearchParams(location.search).get("id");const data=await fetch("data/issues.json",{cache:"no-store"}).then(r=>r.json());const i=data.issues.find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<h1>Issue not found</h1>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
+<p class="eyebrow">${esc(i.category)} · ${esc(i.status)}</p>
+<h1>${esc(i.title)}</h1><p class="hero-copy">${esc(i.summary)}</p>
+<div class="method"><strong>Latest documented update:</strong> ${esc(new Date(i.last_updated).toLocaleString())}<br><strong>Relevant authority/body:</strong> ${esc(i.authority||"Not identified")}</div>
+<h2>Timeline</h2><div>${(i.timeline||[]).slice().sort((a,b)=>new Date(b.time)-new Date(a.time)).map(e=>`<article class="method"><strong>${esc(new Date(e.time).toLocaleString())}</strong><h3>${esc(e.title)}</h3><p>${esc(e.description)}</p>${e.url?`<a href="${esc(e.url)}" target="_blank" rel="noopener noreferrer">View source</a>`:""}</article>`).join("")}</div>
+<h2>Sources</h2><div class="method">${(i.sources||[]).map(s=>`<p><a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.name||s.url)}</a></p>`).join("")||"<p>No sources yet.</p>"}</div>
+<p><a href="./">← Back to Top 10</a></p>`;})();
+</script></body></html>
