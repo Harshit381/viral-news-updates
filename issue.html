@@ -1,9 +1,70 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Issue · Viral News Updates</title><link rel="stylesheet" href="styles.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="./">Viral News Updates</a></div></header><main class="container"><div id="issue">Loading...</div></main><script>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Issue · Viral News Updates</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="./"><span class="brand-mark">V</span> Viral News Updates</a>
+    <a class="back-link" href="./">← Top 10</a>
+  </div>
+</header>
+<main class="container"><div id="issue">Loading...</div></main>
+<script>
 const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
-const fmt=v=>new Date(v).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"});
-(async()=>{const id=new URLSearchParams(location.search).get("id");const d=await fetch("data/issue_archive.json",{cache:"no-store"}).then(r=>r.json());const i=(d.issues||[]).find(x=>x.id===id);const root=document.querySelector("#issue");if(!i){root.innerHTML="<section class='hero'><h1>Issue not found</h1></section>";return}document.title=i.title+" · Viral News Updates";root.innerHTML=`
-<section class="hero"><div><p class="eyebrow">${esc(i.category)} · ${esc(i.status)}</p><h1>${esc(i.title)}</h1><p class="hero-copy">${esc(i.summary_100||i.brief_summary||i.summary)}</p></div></section>
-<section class="method"><p><strong>First observed:</strong> ${esc(fmt(i.first_observed))}</p><p><strong>Latest documented update:</strong> ${esc(fmt(i.last_updated))}</p><p><strong>Relevant authority/body:</strong> ${esc(i.authority)}</p></section>
-<h2>Timeline</h2><div>${(i.timeline||[]).slice().sort((a,b)=>new Date(a.time)-new Date(b.time)).map((e,n)=>`<article class="method"><div class="rank">UPDATE ${n+1} · ${esc(fmt(e.time))}</div><h3>${esc(e.title)}</h3><p>${esc(e.description||"")}</p><p><strong>Source:</strong> ${esc(e.source||"")}</p><div class="meta">${(e.links||[{url:e.url,label:"Article / source"}]).map(l=>l.url?`<a class="pill" href="${esc(l.url)}" target="_blank" rel="noopener noreferrer">${esc(l.label||"Open source")}</a>`:"").join("")}</div></article>`).join("")||"<p>No timeline updates yet.</p>"}</div>
-<p><a href="./">← Back to Top 10</a></p>`;})();
-</script></body></html>
+const fmt=v=>{try{return new Date(v).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"});}catch{return "—";}};
+function normTitle(v){return String(v||"").toLowerCase().replace(/[^a-z0-9]+/g," ").trim();}
+function dedupe(events){
+  const out=[];
+  for(const e of events){
+    const same=out.find(x=>(x.url&&e.url&&x.url===e.url)||normTitle(x.title)===normTitle(e.title));
+    if(same){
+      const urls=new Set((same.links||[]).map(x=>x.url));
+      (e.links||[]).forEach(l=>{if(l.url&&!urls.has(l.url)){same.links.push(l);urls.add(l.url);}});
+      if((e.description||"").length>(same.description||"").length)same.description=e.description;
+      continue;
+    }
+    out.push(Object.assign({},e,{links:[...(e.links||[])]}));
+  }
+  return out.sort((a,b)=>new Date(a.time)-new Date(b.time));
+}
+(async()=>{
+  const id=new URLSearchParams(location.search).get("id");
+  const d=await fetch("data/issue_archive.json",{cache:"no-store"}).then(r=>r.json());
+  const i=(d.issues||[]).find(x=>x.id===id);
+  const root=document.querySelector("#issue");
+  if(!i){root.innerHTML="<section class=\"not-found\"><h1>Issue not found</h1><a class=\"text-link\" href=\"./\">← Back to Top 10</a></section>";return;}
+  document.title=i.title+" · Viral News Updates";
+  const timeline=dedupe(i.timeline||[]);
+  const sourceNames=new Set();
+  timeline.forEach(e=>(e.source_names||[e.source]).forEach(s=>{if(s)sourceNames.add(s);}));
+  const sourceCount=i.source_count||sourceNames.size;
+  const sourceHtml=(i.sources||[]).map(s=>"<a href=\""+esc(s.url)+"\" target=\"_blank\" rel=\"noopener noreferrer\">"+esc(s.name)+" ↗</a>").join("");
+  const timelineHtml=timeline.map((e,n)=>{
+    const links=(e.links||[]).map(l=>l.url?"<a class=\"source-chip\" href=\""+esc(l.url)+"\" target=\"_blank\" rel=\"noopener noreferrer\">"+esc(l.label||"Open source")+" ↗</a>":"").join("");
+    return "<article class=\"timeline-item\"><div class=\"timeline-marker\"><span>"+(n+1)+"</span></div><div class=\"timeline-card\">"+
+      "<div class=\"timeline-meta\"><span>"+esc(fmt(e.time))+"</span><span>·</span><span>"+esc(e.source||"Source")+"</span></div>"+
+      "<h3>"+esc(e.title)+"</h3>"+(e.description?"<p>"+esc(e.description)+"</p>":"")+
+      "<div class=\"source-row\">"+links+"</div></div></article>";
+  }).join("");
+  root.innerHTML=
+    "<section class=\"issue-hero\"><div class=\"eyebrow\">"+esc(i.category||"India")+" · "+esc(i.status||"Monitoring")+"</div>"+
+    "<h1>"+esc(i.title)+"</h1><p class=\"issue-summary\">"+esc(i.summary_100||i.brief_summary||"")+"</p>"+
+    "<div class=\"issue-stats\"><div><strong>"+timeline.length+"</strong><span>timeline updates</span></div>"+
+    "<div><strong>"+sourceCount+"</strong><span>source voices</span></div>"+
+    "<div><strong>"+esc(fmt(i.last_updated))+"</strong><span>latest observed</span></div></div></section>"+
+    "<section class=\"issue-grid-layout\"><div><div class=\"timeline-heading\"><div><span class=\"eyebrow\">CHRONOLOGY</span><h2>What happened</h2></div><span>"+timeline.length+" updates</span></div>"+
+    "<div class=\"timeline\">"+(timelineHtml||"<p>No timeline updates yet.</p>")+"</div></div>"+
+    "<aside class=\"issue-side\"><div class=\"side-card\"><span class=\"eyebrow\">STORY WINDOW</span>"+
+    "<div class=\"side-row\"><span>First observed</span><strong>"+esc(fmt(i.first_observed))+"</strong></div><div class=\"side-row\"><span>Last observed</span><strong>"+esc(fmt(i.last_updated))+"</strong></div></div>"+
+    "<div class=\"side-card\"><span class=\"eyebrow\">AUTHORITY / BODY</span><p>"+esc(i.authority||"Not automatically inferred; official source required.")+"</p></div>"+
+    "<div class=\"side-card\"><span class=\"eyebrow\">ALL SOURCES</span><div class=\"source-list\">"+(sourceHtml||"<span>No links available</span>")+"</div></div></aside></section>"+
+    "<a class=\"text-link back-story\" href=\"./\">← Back to Top 10</a>";
+})();
+</script>
+</body>
+</html>
