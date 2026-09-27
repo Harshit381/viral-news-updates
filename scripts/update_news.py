@@ -11,7 +11,7 @@ ARCHIVE=DATA/"issue_archive.json"
 DAYS=DATA/"days"
 PIPELINE=DATA/"pipeline.json"
 UA="ViralNewsUpdates/0.3 (+https://github.com/Harshit381/viral-news-updates)"
-STOP={"india","today","latest","news","report","reports","says","said","update","live","breaking","after","over","amid","new","will","from","into","with","this","that","the","and","for","has","have","its","their","were","been"}
+STOP={"india","today","latest","news","report","reports","says","said","update","live","breaking","after","over","amid","new","will","from","into","with","this","that","the","and","for","has","have","its","their","were","been","video","videos","watch","viral","top","live","story","stories","photo","photos","picture","pictures","clip","clips"}
 
 def now(): return datetime.now(timezone.utc)
 
@@ -80,7 +80,7 @@ def read_feed(source):
             desc=desc[:1200]
         when=children_text(item,"pubDate") or children_text(item,"published") or children_text(item,"updated")
         if title and link:
-            items.append({"title":title,"summary":desc,"url":link,"published":parse_date(when).isoformat(),"source":source["name"],"publisher":publisher,"weight":source.get("weight",1),"type":source.get("type","publisher"),"links":links_from_item(item,link)})
+            items.append({"title":display_title(title,publisher),"summary":desc,"url":link,"published":parse_date(when).isoformat(),"source":source["name"],"publisher":publisher,"weight":source.get("weight",1),"type":source.get("type","publisher"),"links":links_from_item(item,link)})
     return items
 
 def words(title):
@@ -120,6 +120,14 @@ def make_summary(items,limit):
 def event_key(e):
     return e.get("url") or hashlib.sha1((e.get("time","")+e.get("title","")).encode()).hexdigest()
 
+def display_title(title,publisher):
+    title=clean(title)
+    suffixes=[publisher,"The Hindu","The Times of India","Times of India","News On AIR","ANI News","NDTV","India Today"]
+    for suffix in suffixes:
+        tail=" - "+suffix
+        if title.lower().endswith(tail.lower()): return title[:-len(tail)].rstrip()
+    return title
+
 def source_list(events):
     seen=set(); out=[]
     for e in events:
@@ -137,6 +145,8 @@ def build():
         rows=read_feed(s); articles.extend(rows)
         health.append({"name":s["name"],"type":s.get("type"),"status":"ok" if rows else "no data/error","items":len(rows)})
     articles=list({x["url"]:x for x in articles}.values())
+    cutoff=(now()-__import__("datetime").timedelta(hours=24)).timestamp()
+    articles=[x for x in articles if parse_date(x["published"]).timestamp()>=cutoff]
 
     groups=[]
     for a in sorted(articles,key=lambda x:x["published"],reverse=True):
@@ -161,8 +171,9 @@ def build():
             e={"time":x["published"],"title":x["title"],"description":x["summary"],"source":x.get("publisher",x["source"]),"publisher":x.get("publisher",x["source"]),"url":x["url"],"links":x["links"]}
             if event_key(e) not in seen: events.append(e)
         events.sort(key=lambda e:e.get("time",""))
-        brief=make_summary(group,50)
-        detailed=make_summary(group,100)
+        summary_items=[x for x in group if x.get("summary")] or group
+        brief=make_summary(summary_items,50)
+        detailed=make_summary(summary_items,100)
         issues.append({
           "id":previous["id"] if previous else hashlib.sha1(key_title(lead["title"]).encode()).hexdigest()[:12],
           "title":lead["title"],
