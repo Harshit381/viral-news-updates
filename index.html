@@ -1,1 +1,59 @@
-<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Viral News Updates</title><link rel="stylesheet" href="styles.css"></head><body><header class="site-header"><div class="container header-inner"><a class="brand" href="./">Viral News Updates</a><a class="pill" href="control.html">Control</a><a class="pill" href="pipeline.html">Pipeline</a></div></header><main class="container"><section class="hero"><div><h1>Top 10 News</h1><p class="hero-copy">Daily news, with the story's history preserved beyond the viral moment.</p></div><div class="last-updated" id="last-updated">Loading...</div></section><section class="controls"><label><span>Day</span><select id="day"><option value="">Latest</option></select></label><label><span>Search</span><input id="search" type="search" placeholder="Search news..."></label></section><section><div class="section-heading"><h2>Top 10</h2><span id="count"></span></div><div id="issues" class="issue-grid"></div></section><section class="method"><h2>Follow the story</h2><p>Click any news item to see a 100-word overview and a date-ordered timeline. Each timeline event can contain the relevant article, video or source links available from the public feed.</p></section></main><footer class="footer"><div class="container">Viral News Updates · $0 architecture</div></footer><script src="app.js"></script></body></html>
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Viral News Updates</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="site-header">
+  <div class="container header-inner">
+    <a class="brand" href="./"><span class="brand-mark">V</span> Viral News Updates</a>
+    <nav class="nav-links"><a href="control.html">Control</a><a href="pipeline.html">How it works</a></nav>
+  </div>
+</header>
+
+<main class="container">
+  <section class="masthead">
+    <div>
+      <div class="eyebrow">INDIA · DAILY PULSE</div>
+      <h1>Top 10 News</h1>
+      <p>What is drawing attention today — with the story kept alive beyond the first headline.</p>
+    </div>
+    <div class="updated-card"><span class="live-dot"></span><span id="last-updated">Loading...</span></div>
+  </section>
+
+  <section class="date-rail">
+    <div class="rail-label">Browse day</div>
+    <div id="day-chips" class="day-chips"></div>
+  </section>
+
+  <section class="controls-panel">
+    <label><span>Day</span><select id="day"><option value="">Latest</option></select></label>
+    <label><span>Category</span><select id="category"></select></label>
+    <label class="search-field"><span>Search</span><input id="search" type="search" placeholder="Search headlines, topics or categories..."></label>
+  </section>
+
+  <section class="section-head">
+    <div><span class="eyebrow">THE DAILY TEN</span><h2>Stories to know</h2></div>
+    <div id="count" class="count-label"></div>
+  </section>
+
+  <div id="coverage" class="coverage-bar"></div>
+  <section id="issues" class="news-grid"></section>
+
+  <section class="follow-banner">
+    <div>
+      <span class="eyebrow">FOLLOW THE STORY</span>
+      <h2>One issue, many updates.</h2>
+      <p>Open a story to see a chronological timeline, source links and the latest documented developments.</p>
+    </div>
+    <a href="pipeline.html" class="text-link">See the pipeline →</a>
+  </section>
+</main>
+
+<footer class="footer"><div class="container">Viral News Updates · public-source, $0 architecture</div></footer>
+<script src="app.js"></script>
+</body>
+</html>
