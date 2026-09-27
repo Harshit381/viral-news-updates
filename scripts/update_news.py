@@ -123,8 +123,12 @@ def build():
 
     groups=[]
     for a in sorted(articles,key=lambda x:x["published"],reverse=True):
-        best=max(((similarity(a["title"],g[0]["title"]),g) for g in groups),default=(0,None))
-        if best[0]>=.35: best[1].append(a)
+        best_score=0; best_group=None
+        for g in groups:
+            sc=similarity(a["title"],g[0]["title"])
+            if sc>best_score:
+                best_score=sc; best_group=g
+        if best_score>=.35: best_group.append(a)
         else: groups.append([a])
 
     old=load(ARCHIVE,{"issues":[]}).get("issues",[])
@@ -137,7 +141,7 @@ def build():
         events=previous.get("timeline",[])[:] if previous else []
         seen={event_key(e) for e in events}
         for x in group:
-            e={"time":x["published"],"title":x["title"],"description":x["summary"],"source":x["source"],"url":x["url"],"links":x["links"]}
+            e={"time":x["published"],"title":x["title"],"description":x["summary"],"source":x.get("publisher",x["source"]),"url":x["url"],"links":x["links"]}
             if event_key(e) not in seen: events.append(e)
         events.sort(key=lambda e:e.get("time",""))
         brief=make_summary(group,50)
