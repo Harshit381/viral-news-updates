@@ -1,15 +1,16 @@
 [
-{"name":"Google News India - Top stories","url":"https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en","weight":1.0,"type":"aggregator"},
-{"name":"Google News India - Government","url":"https://news.google.com/rss/search?q=India%20government&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9,"type":"aggregator"},
-{"name":"Indian Express - India","url":"https://indianexpress.com/section/india/feed/","weight":1.0,"type":"publisher"},
-{"name":"Indian Express - Trending India","url":"https://indianexpress.com/section/trending/trending-in-india/feed/","weight":1.0,"type":"publisher"},
+{"name":"Google News - India Top","url":"https://news.google.com/rss?hl=en-IN&gl=IN&ceid=IN:en","weight":1.0,"type":"aggregator"},
+{"name":"Google News - India","url":"https://news.google.com/rss/search?q=India&hl=en-IN&gl=IN&ceid=IN:en","weight":1.0,"type":"aggregator"},
+{"name":"Google News - India Politics","url":"https://news.google.com/rss/search?q=India%20politics&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9,"type":"aggregator"},
+{"name":"Google News - India Government","url":"https://news.google.com/rss/search?q=India%20government&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9,"type":"aggregator"},
+{"name":"Google News - India Economy","url":"https://news.google.com/rss/search?q=India%20economy&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8,"type":"aggregator"},
+{"name":"Google News - India Technology","url":"https://news.google.com/rss/search?q=India%20technology&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8,"type":"aggregator"},
+{"name":"Google News - India Crime","url":"https://news.google.com/rss/search?q=India%20crime&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8,"type":"aggregator"},
+{"name":"Google News - India Viral","url":"https://news.google.com/rss/search?q=India%20viral&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9,"type":"aggregator"},
+{"name":"Google News - India Public Interest","url":"https://news.google.com/rss/search?q=India%20public%20interest&hl=en-IN&gl=IN&ceid=IN:en","weight":0.9,"type":"aggregator"},
+{"name":"Google News - India Karnataka","url":"https://news.google.com/rss/search?q=India%20Karnataka&hl=en-IN&gl=IN&ceid=IN:en","weight":0.8,"type":"aggregator"},
+{"name":"BBC - India","url":"https://feeds.bbci.co.uk/news/world/asia/india/rss.xml","weight":0.8,"type":"publisher"},
 {"name":"The Hindu - Home","url":"https://www.thehindu.com/feeder/default.rss","weight":1.0,"type":"publisher"},
 {"name":"India Today - Latest","url":"https://www.indiatoday.in/rss/home","weight":0.9,"type":"publisher"},
-{"name":"Firstpost - India","url":"https://www.firstpost.com/commonfeeds/v1/mfp/rss/india.xml","weight":0.9,"type":"publisher"},
-{"name":"ThePrint","url":"https://theprint.in/feed/","weight":0.9,"type":"publisher"},
-{"name":"Business Standard - Top stories","url":"https://www.business-standard.com/rss/home_page_top_stories.rss","weight":0.8,"type":"publisher"},
-{"name":"Times of India - Top stories","url":"https://timesofindia.indiatimes.com/rssfeedstopstories.cms","weight":0.8,"type":"publisher"},
-{"name":"BBC - India","url":"https://feeds.bbci.co.uk/news/world/asia/india/rss.xml","weight":0.8,"type":"publisher"},
-{"name":"PIB - Government of India","url":"https://pib.gov.in/RssMain.aspx?ModId=6&Lang=1&Regid=1","weight":1.2,"type":"official"},
-{"name":"SEBI - Official RSS","url":"https://www.sebi.gov.in/sebirss.xml","weight":1.1,"type":"official"}
+{"name":"Times of India - Top stories","url":"https://timesofindia.indiatimes.com/rssfeedstopstories.cms","weight":0.8,"type":"publisher"}
 ]
