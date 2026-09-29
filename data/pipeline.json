@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-27T08:07:37.807425+00:00",
-  "article_count": 446,
-  "candidate_issue_count": 357,
+  "generated_at": "2026-09-29T08:51:01.397063+00:00",
+  "article_count": 606,
+  "candidate_issue_count": 384,
   "top10_count": 10,
   "source_count": 14,
   "source_health": [
@@ -21,7 +21,7 @@
       "name": "Google News - India Politics",
       "type": "aggregator",
       "status": "ok",
-      "items": 102
+      "items": 100
     },
     {
       "name": "Google News - India Government",
@@ -33,7 +33,7 @@
       "name": "Google News - India Economy",
       "type": "aggregator",
       "status": "ok",
-      "items": 102
+      "items": 100
     },
     {
       "name": "Google News - India Technology",
@@ -69,7 +69,7 @@
       "name": "BBC - India",
       "type": "publisher",
       "status": "ok",
-      "items": 31
+      "items": 33
     },
     {
       "name": "The Hindu - Home",
@@ -81,7 +81,7 @@
       "name": "India Today - Latest",
       "type": "publisher",
       "status": "ok",
-      "items": 135
+      "items": 136
     },
     {
       "name": "Times of India - Top stories",
@@ -90,5 +90,10 @@
       "items": 46
     }
   ],
+  "deduplication": {
+    "method": "pairwise title similarity with rare-token weighting; near-duplicate timeline events are consolidated",
+    "candidate_diversity_threshold": 0.55,
+    "timeline_similarity_threshold": 0.82
+  },
   "cost_policy": "$0 only"
 }
