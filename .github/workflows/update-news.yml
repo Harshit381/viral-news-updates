@@ -15,6 +15,11 @@ on:
           - prepare_review
   schedule:
     - cron: "30 2 * * *"
+  push:
+    branches: ["main"]
+    paths:
+      - "scripts/**"
+      - ".github/workflows/update-news.yml"
 concurrency:
   group: news-pipeline
   cancel-in-progress: false
@@ -38,7 +43,7 @@ jobs:
           echo "Trigger: $EVENT"
           echo "No paid API, database, or AI service is used."
       - name: 1. Collect, normalize, cluster and rank public RSS news
-        if: github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'collect_cluster'
+        if: (github.event_name == 'schedule' || github.event_name == 'push') || inputs.stage == 'full' || inputs.stage == 'collect_cluster'
         run: python scripts/update_news.py
       - name: 2. Build local sparse vector index for RAG retrieval
         if: github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'build_vector_index' || inputs.stage == 'prepare_review'
@@ -67,7 +72,7 @@ jobs:
           git push origin "$BRANCH"
           echo "changed=true" >> "$GITHUB_OUTPUT"
       - name: 5. Open review pull request (fallback if repository setting blocks it)
-        if: (github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'prepare_review' || inputs.stage == 'collect_cluster' || inputs.stage == 'build_vector_index') && steps.review.outputs.changed == 'true'
+        if: ((github.event_name == 'schedule' || github.event_name == 'push') || inputs.stage == 'full' || inputs.stage == 'prepare_review' || inputs.stage == 'collect_cluster' || inputs.stage == 'build_vector_index') && steps.review.outputs.changed == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
           BRANCH: ${{ steps.review.outputs.branch }}
