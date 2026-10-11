@@ -19,6 +19,10 @@ on:
     branches: ["main"]
     paths:
       - "scripts/**"
+      - "index.html"
+      - "app.js"
+      - "pipeline.html"
+      - "styles.css"
       - ".github/workflows/update-news.yml"
 concurrency:
   group: news-pipeline
