@@ -46,14 +46,14 @@ jobs:
         if: (github.event_name == 'schedule' || github.event_name == 'push') || inputs.stage == 'full' || inputs.stage == 'collect_cluster'
         run: python scripts/update_news.py
       - name: 2. Build local sparse vector index for RAG retrieval
-        if: github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'build_vector_index' || inputs.stage == 'prepare_review'
+        if: github.event_name == 'schedule' || github.event_name == 'push' || inputs.stage == 'full' || inputs.stage == 'build_vector_index' || inputs.stage == 'prepare_review'
         run: python scripts/rag_index.py
       - name: 3. Validate generated news and vector index
-        if: github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'validate' || inputs.stage == 'prepare_review'
+        if: github.event_name == 'schedule' || github.event_name == 'push' || inputs.stage == 'full' || inputs.stage == 'validate' || inputs.stage == 'prepare_review'
         run: python scripts/validate_pipeline.py
       - name: 4. Create review branch and push candidate data
         id: review
-        if: github.event_name == 'schedule' || inputs.stage == 'full' || inputs.stage == 'collect_cluster' || inputs.stage == 'build_vector_index' || inputs.stage == 'prepare_review'
+        if: github.event_name == 'schedule' || github.event_name == 'push' || inputs.stage == 'full' || inputs.stage == 'collect_cluster' || inputs.stage == 'build_vector_index' || inputs.stage == 'prepare_review'
         env:
           RUN_ID: ${{ github.run_id }}
         run: |
