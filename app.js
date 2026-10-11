@@ -1,4 +1,4 @@
-const state={issues:[],days:[],category:"All"};
+const state={issues:[],days:[],category:"All",issueType:"All"};
 const esc=v=>String(v??"").replace(/[&<>"']/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[c]));
 const fmt=v=>{try{return new Date(v).toLocaleString("en-IN",{dateStyle:"medium",timeStyle:"short"});}catch{return "—";}};
 
@@ -29,11 +29,23 @@ function card(x,n){
     "<div class=\"card-bottom\"><span>"+sources+" source"+(sources===1?"":"s")+"</span><span>"+updates+" update"+(updates===1?"":"s")+"</span><span>Updated "+esc(fmt(x.last_updated))+"</span></div>"+
   "</a>";
 }
+function issueTypeFor(x){
+  const text=((x.title||"")+" "+(x.brief_summary||"")).toLowerCase();
+  if(/\b(cricket|football|sports|tournament|match|player|world cup|medal)\b/.test(text))return "Sports";
+  if(/\b(technology|tech|artificial intelligence|\bai\b|cyber|software|smartphone|starlink|satellite|digital)\b/.test(text))return "Technology";
+  if(/\b(bridge|road|highway|metro|railway|infrastructure|water supply|pothole|flyover|traffic project)\b/.test(text))return "Infrastructure";
+  if(/\b(police|custody|custodial|corruption|bribe|bribery|alleged torture|vigilance|lokayukta)\b/.test(text))return "Police & corruption";
+  if(/\b(accident|fire|collapse|injured|killed|rescue|safety|disaster|attack)\b/.test(text))return "Public safety";
+  if(/\b(election|parliament|minister|government|court|supreme court|policy|bjp|congress|political|politics)\b/.test(text))return "Politics & governance";
+  if(/\b(bank|market|economy|business|company|ipo|rupee|tax|trade|investment|finance)\b/.test(text))return "Business & economy";
+  return "Other";
+}
 function render(){
   let list=state.issues.slice();
   const q=document.querySelector("#search").value.toLowerCase().trim();
   if(q)list=list.filter(x=>(x.title+" "+x.brief_summary+" "+(x.category||"")).toLowerCase().includes(q));
   if(state.category!=="All")list=list.filter(x=>x.category===state.category);
+  if(state.issueType!=="All")list=list.filter(x=>issueTypeFor(x)===state.issueType);
   document.querySelector("#count").textContent=list.length+" "+(list.length===1?"story":"stories");
   const sourceTotal=list.reduce((sum,x)=>sum+(x.source_count||0),0);
   const updateTotal=list.reduce((sum,x)=>sum+(x.timeline_count||0),0);
@@ -67,6 +79,7 @@ async function init(){
   document.querySelector("#search").addEventListener("input",render);
   d.addEventListener("change",()=>selectDay(d.value));
   document.querySelector("#category").addEventListener("change",e=>{state.category=e.target.value;render();});
+  document.querySelector("#issue-type").addEventListener("change",e=>{state.issueType=e.target.value;render();});
   render();
 }
 init().catch(()=>{document.querySelector("#issues").innerHTML="<div class=\"empty-state\"><div class=\"empty-icon\">!</div><h3>News is temporarily unavailable</h3><p>The free daily pipeline may still be running. Please check the Control Center.</p></div>";});
