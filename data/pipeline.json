@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T11:33:42.854488+00:00",
-  "article_count": 434,
-  "candidate_issue_count": 220,
+  "generated_at": "2026-10-11T12:05:24.562352+00:00",
+  "article_count": 442,
+  "candidate_issue_count": 227,
   "top10_count": 10,
   "source_count": 14,
   "source_health": [
@@ -21,7 +21,7 @@
       "name": "Google News - India Politics",
       "type": "aggregator",
       "status": "ok",
-      "items": 104
+      "items": 102
     },
     {
       "name": "Google News - India Government",
@@ -91,9 +91,9 @@
     }
   ],
   "deduplication": {
-    "method": "pairwise title similarity with rare-token weighting; near-duplicate timeline events are consolidated",
-    "candidate_diversity_threshold": 0.55,
-    "timeline_similarity_threshold": 0.82
+    "method": "RAG-style hashed term+bigram cosine similarity over title+summary, blended with rare-token title overlap; repeated source coverage merges into one event, distinct developments remain chronological",
+    "candidate_diversity_threshold": 0.5,
+    "timeline_similarity_threshold": 0.72
   },
   "cost_policy": "$0 only"
 }

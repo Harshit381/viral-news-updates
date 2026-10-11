@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-10-11T11:33:42.852080+00:00",
+  "generated_at": "2026-10-11T12:05:24.559153+00:00",
   "snapshot_date": "2026-10-11",
   "issues": [
     {
       "id": "2845f0e04aec",
       "title": "Student protesters allege being taken to unknown location",
-      "brief_summary": "Six years after the work began, Chennai Metro Rail Limited (CMRL)’s first train ran from Porur Bypass at noon on October 11, 2026, with Mr. Modi and Chief Minister C. Joseph Vijay being the first few commuters. CJP's Saurav Das alleged that the government had turned the state against its",
-      "summary_100": "Six years after the work began, Chennai Metro Rail Limited (CMRL)’s first train ran from Porur Bypass at noon on October 11, 2026, with Mr. Modi and Chief Minister C. Joseph Vijay being the first few commuters. CJP's Saurav Das alleged that the government had turned the state against its own citizens and said the authorities could have invited a delegation for talks instead of restricting protesters seeking to demonstrate at a designated site. PM Modi in Chennai LIVE The protest, called to demand Mr. Kumar’s resignation, witnessed widespread detentions across the national capital, with more than 7,000 people, including",
+      "brief_summary": "Security forces in Delhi detained more than 3,300 people and barred access to Jantar Mantar on Saturday, October 10, 2026, as authorities imposed a massive lockdown to stifle protests called by the Cockroach Janata Party and allied groups demanding the resignation of Chief Election Commissioner Gyanesh Kumar ‘Although I told",
+      "summary_100": "Security forces in Delhi detained more than 3,300 people and barred access to Jantar Mantar on Saturday, October 10, 2026, as authorities imposed a massive lockdown to stifle protests called by the Cockroach Janata Party and allied groups demanding the resignation of Chief Election Commissioner Gyanesh Kumar ‘Although I told them I am an MP, the CRPF personnel continued to attack me; they pinned me to the seat and tried to choke me; this is the plight of an MP in this country, said John Brittas CJP's Saurav Das alleged that the government had turned the state against its own",
       "category": "India",
       "status": "Monitoring",
-      "score": 753.34,
+      "score": 608.62,
       "first_observed": "2026-10-10T11:34:13+00:00",
-      "last_updated": "2026-10-11T11:30:44+00:00",
+      "last_updated": "2026-10-11T11:55:27+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
@@ -857,6 +857,29 @@
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREN5SVE2RXNtQTk1T2Y3dEdJVHVHU0VGbWlyM3A4U25LcmNtLU9RMmRkY0d3ajlCUlM1Y3lpNWxMOTZvTXFGVDBoeVhMSlBRM3lXZjlXSFpyWXZWZlRqcWxPd2lXdTVUalVIVWRjUlMxSnNQTVV1ejBSMDc1dW1ZYXFXQWdyREZKRnc3T0g3c0hqdWs?oc=5",
               "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREN5SVE2RXNtQTk1T2Y3dEdJVHVHU0VGbWlyM3A4U25LcmNtLU9RMmRkY0d3ajlCUlM1Y3lpNWxMOTZvTXFGVDBoeVhMSlBRM3lXZjlXSFpyWXZWZlRqcWxPd2lXdTVUalVIVWRjUlMxSnNQTVV1ejBSMDc1dW1ZYXFXQWdyREZKRnc3T0g3c0hqdWvSAZgBQVVfeXFMUHZ0V1hBQkZZM3BRT0F4dWRPMTdGMGVtSnNUaEZwUmtTT3BSNWt1a1RHQXBGc0E0Zm1TVHRYMWJqbzRIM29NSTFIVTFfWV9RZ3BLQkhldVFhSjZ3bTR4QnhvU3oxUVVrM1owYnRxRDdodVJ6T1h2bUUwbGMtSG8ySUNCV0MteFBYSG81VlVYQ3pRdDNPSGlOY2U?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T05:04:00+00:00",
+          "title": "\"Turned entire Delhi into prison\": TMC's Saugata Roy slams Centre over crackdown on CEC protests, says \"govt digging own grave\"",
+          "description": "\"Turned entire Delhi into prison\": TMC's Saugata Roy slams Centre over crackdown on CEC protests, says \"govt digging own grave\"",
+          "source": "www.indiagazette.com",
+          "publisher": "www.indiagazette.com",
+          "source_names": [
+            "www.indiagazette.com"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZU5sc0RkNjdNZUs0ay1qN3ZLYXk0aXI4YXJRY2IzTXB6QmE3U2xOWUdaVG1hV0JSRW9YX2ZNNjhwaE1ibDNTaTl1ZFZjT2V4OVo4NnlGVFl0RkJ3SFR1eXBzdXI2eFg4SnZ5X3BRdklKUkZrQzZCdW9vTDYxNUdVSU9ja2pkd2hnWVZsWnVtZjVtNU1jNW16Rmt0WWUxaVV0NjVsVERZTlUtelJOaFlneUZPNWF3MzdkWnlEYWdESVBnT1VuUUJ1c2M4Qk5kWklLUFVBWjhhQTNPbGpCX1ZXU1ZtRWt0NVo0QTNRbUFWbnk4Q3JtaWc?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZU5sc0RkNjdNZUs0ay1qN3ZLYXk0aXI4YXJRY2IzTXB6QmE3U2xOWUdaVG1hV0JSRW9YX2ZNNjhwaE1ibDNTaTl1ZFZjT2V4OVo4NnlGVFl0RkJ3SFR1eXBzdXI2eFg4SnZ5X3BRdklKUkZrQzZCdW9vTDYxNUdVSU9ja2pkd2hnWVZsWnVtZjVtNU1jNW16Rmt0WWUxaVV0NjVsVERZTlUtelJOaFlneUZPNWF3MzdkWnlEYWdESVBnT1VuUUJ1c2M4Qk5kWklLUFVBWjhhQTNPbGpCX1ZXU1ZtRWt0NVo0QTNRbUFWbnk4Q3JtaWc?oc=5",
+              "label": "Open article"
             }
           ]
         },
@@ -1000,6 +1023,24 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjhDVkpmUHVTdXYwU1AzMTB1TkJMZ3d3VFZ2MHNZQTI3N2xhdE45czJsSUkwZUltTFYyQU9TOVlsQ1BCeVNRcEthRlpzZGpWaHY3OFczM1ZWbEFBVnFsaWszWi1vQlBiV2lLSnlGVzZiYlljNnZLREl5Z3FvbEx0UDlqX2ctUVlEYXNvS2l0QXZ4Y3N3dDJZ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T05:49:00+00:00",
+          "title": "Indian capital braces for second day of protests against poll chief",
+          "description": "Indian capital braces for second day of protests against poll chief",
+          "source": "Nikkei Asia",
+          "publisher": "Nikkei Asia",
+          "source_names": [
+            "Nikkei Asia"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0RrNXlMSkx2c0owblBXcm1COWtLaWJMdEljUzFjdUhkYjVfQkgwcjBqTkpfUWNQYWpXZEJ0VXA0a0hRUHFiVU1lRHo3cjZ0VV9tTWoxczl0YnJDRUhVVnZlNXhTWTFnbHJIcEpSZUhRNzBobnFVS2E2TC14Q1JGME9KSzV4bmlTMjVtdEdfSVR1V29rTmJnTHF5bGxNU1dYQlE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0RrNXlMSkx2c0owblBXcm1COWtLaWJMdEljUzFjdUhkYjVfQkgwcjBqTkpfUWNQYWpXZEJ0VXA0a0hRUHFiVU1lRHo3cjZ0VV9tTWoxczl0YnJDRUhVVnZlNXhTWTFnbHJIcEpSZUhRNzBobnFVS2E2TC14Q1JGME9KSzV4bmlTMjVtdEdfSVR1V29rTmJnTHF5bGxNU1dYQlE?oc=5",
               "label": "Open article"
             }
           ]
@@ -1281,6 +1322,24 @@
           ]
         },
         {
+          "time": "2026-10-11T06:55:02+00:00",
+          "title": "'Unwarranted interference in the internal affairs of India': Modi govt slams UN after it cries foul over detention of CJP anarchists to maintain law and order",
+          "description": "'Unwarranted interference in the internal affairs of India': Modi govt slams UN after it cries foul over detention of CJP anarchists to maintain law and order",
+          "source": "OpIndia",
+          "publisher": "OpIndia",
+          "source_names": [
+            "OpIndia"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUGlFanhmallscWpTWXNhR1pEdFlnVlBacnNlb3NYb2xGUkJEbDhiNVZ0M3VzNjN2TXhCLWVUUTVhcXcyZm5fVi1wazhPQjdqUkRuZXM0MnV1eEVmTml6d1VJRkNrdkJsNWlTVDQ0RG55VEJvdGRKTUIxWU4zMW9HSVh5WkN6RlFjelZJSlNWZnVwTUVMQjl2MXBISTkzQ0QwLW1KQ1lJZUZFVjNnUFpTR3ZMOGc3VzQxX3E4ZWY3RU1Bakl2dG92cjBmaUgwN0duYlcwb3B4dS1mY09QTXZqQTNaa3FONnYteFdPYTlWREF6RnVEdnN2MHNSazNDc09XUGJaa0VhQ1l6dlhvVWc1c0N5QlE5aXNabU5fMi13?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUGlFanhmallscWpTWXNhR1pEdFlnVlBacnNlb3NYb2xGUkJEbDhiNVZ0M3VzNjN2TXhCLWVUUTVhcXcyZm5fVi1wazhPQjdqUkRuZXM0MnV1eEVmTml6d1VJRkNrdkJsNWlTVDQ0RG55VEJvdGRKTUIxWU4zMW9HSVh5WkN6RlFjelZJSlNWZnVwTUVMQjl2MXBISTkzQ0QwLW1KQ1lJZUZFVjNnUFpTR3ZMOGc3VzQxX3E4ZWY3RU1Bakl2dG92cjBmaUgwN0duYlcwb3B4dS1mY09QTXZqQTNaa3FONnYteFdPYTlWREF6RnVEdnN2MHNSazNDc09XUGJaa0VhQ1l6dlhvVWc1c0N5QlE5aXNabU5fMi13?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
           "time": "2026-10-11T06:56:23+00:00",
           "title": "CJP leaders Abhijeet Dipke, Saurav Das and Ashutosh Ranka released",
           "description": "",
@@ -1338,16 +1397,34 @@
           "time": "2026-10-11T07:03:40+00:00",
           "title": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
           "description": "India’s ‘Cockroach’ leaders released as movement calls for more protests",
-          "source": "Financial Times",
+          "source": "Multiple sources",
           "publisher": "Financial Times",
           "source_names": [
-            "Financial Times"
+            "Financial Times",
+            "AFP.com",
+            "The Japan Times",
+            "ABC News & Headlines – Australian Broadcasting Corporation"
           ],
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVNoSC1FSmRCNy1IOEI5dzhQSy1VNExWQnpSZVB2OF9PaDVoM2R1YWVUYnJPWFBEV2lhS0gtX1BGbC1KUEE4d2E3M2ZwVkh4Zmxza1lLWTQtSTMwRWViNGw2S3hkRU5Cc3BrS2Y0bUFYamdGNWtHSkdydjRPLXp3VE5iejY?oc=5",
           "links": [
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVNoSC1FSmRCNy1IOEI5dzhQSy1VNExWQnpSZVB2OF9PaDVoM2R1YWVUYnJPWFBEV2lhS0gtX1BGbC1KUEE4d2E3M2ZwVkh4Zmxza1lLWTQtSTMwRWViNGw2S3hkRU5Cc3BrS2Y0bUFYamdGNWtHSkdydjRPLXp3VE5iejY?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFZaVW5zZWVwQ19KdWRNUzNmUWFkOFZKVXdvaGxmeHFrR2wzeEFSdUtJUnZqWDZSeU8zaG9QSmIwUXRyc2RqWU9lRVVxOGw1bkk3eTlURFNrM2Z6RTRveFdvVkZtelhxcm9MdVRHLUFDXzdLa3E4RFFJN3BWOE5SQXM3R1gySndMemJ5SQ?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGZGMVlIOEt5d1JvenphVkRwR1dNTGdSdkdjSERSb1dRSHJFcXYwdVJkbWk4a0dqQnVMR09pdEZrQmtnS3pXeVpsSkV2OFhHWHFyWUVsU2dlWnA0SmdmUVVTTHRpUFowSV9ydXBQa1M5MEMyaGZlU3NlUDU3OWpoaGNodURQbU9LVmtPUS1vdzF0dm05YWtiZGJn?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDRaeHhLclNoRkVoZkY3M254Y0NiYkd4cE1VZF9xbjJPcXdTYmZHcEpaU00yMmdTMWx3dnNuR25oeDNMOFU3bzRaQ3BCaXdGVmpNRVVXSWxYeEhYY0JJU3lFNnFuOTEtNEc4clQ4WFlOTGdhLWJDY211ejU1aVFWSEgzd2lRQ1pzTGJyREQ2UXU0ZXdJWmxodU1aTHFEQTk5OXB0TjFIZEc?oc=5",
               "label": "Open article"
             }
           ]
@@ -1366,36 +1443,6 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmpRTmZOZUVXUEppY1ltb1NJWGpXR0dsaS0xV2xNaEllc3A1bFNkNlJ5alY4ZFBKOHo2b0JtSTMyb3ZFYjZraTRySHVvVnpaVU1kdDFqV3QwUE9MSjhWSUFwaFV3SHpRclVHb2pJVHhrYnYwcGR4cFFqdHNfYjhVOE9Od0F1aDRQLURkR0E0dmVhZ2JXNjVsWHVmRVZmUWhDQzJXdXNfcnMyaGlwMk9SX21hYw?oc=5",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T07:07:54+00:00",
-          "title": "India releases 'cockroach' leaders as movement calls for more protests",
-          "description": "India releases 'cockroach' leaders as movement calls for more protests",
-          "source": "Multiple sources",
-          "publisher": "AFP.com",
-          "source_names": [
-            "AFP.com",
-            "The Japan Times",
-            "ABC News & Headlines – Australian Broadcasting Corporation"
-          ],
-          "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFZaVW5zZWVwQ19KdWRNUzNmUWFkOFZKVXdvaGxmeHFrR2wzeEFSdUtJUnZqWDZSeU8zaG9QSmIwUXRyc2RqWU9lRVVxOGw1bkk3eTlURFNrM2Z6RTRveFdvVkZtelhxcm9MdVRHLUFDXzdLa3E4RFFJN3BWOE5SQXM3R1gySndMemJ5SQ?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPMFZaVW5zZWVwQ19KdWRNUzNmUWFkOFZKVXdvaGxmeHFrR2wzeEFSdUtJUnZqWDZSeU8zaG9QSmIwUXRyc2RqWU9lRVVxOGw1bkk3eTlURFNrM2Z6RTRveFdvVkZtelhxcm9MdVRHLUFDXzdLa3E4RFFJN3BWOE5SQXM3R1gySndMemJ5SQ?oc=5",
-              "label": "Open article"
-            },
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPTGZGMVlIOEt5d1JvenphVkRwR1dNTGdSdkdjSERSb1dRSHJFcXYwdVJkbWk4a0dqQnVMR09pdEZrQmtnS3pXeVpsSkV2OFhHWHFyWUVsU2dlWnA0SmdmUVVTTHRpUFowSV9ydXBQa1M5MEMyaGZlU3NlUDU3OWpoaGNodURQbU9LVmtPUS1vdzF0dm05YWtiZGJn?oc=5",
-              "label": "Open article"
-            },
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDRaeHhLclNoRkVoZkY3M254Y0NiYkd4cE1VZF9xbjJPcXdTYmZHcEpaU00yMmdTMWx3dnNuR25oeDNMOFU3bzRaQ3BCaXdGVmpNRVVXSWxYeEhYY0JJU3lFNnFuOTEtNEc4clQ4WFlOTGdhLWJDY211ejU1aVFWSEgzd2lRQ1pzTGJyREQ2UXU0ZXdJWmxodU1aTHFEQTk5OXB0TjFIZEc?oc=5",
               "label": "Open article"
             }
           ]
@@ -1437,6 +1484,24 @@
           ]
         },
         {
+          "time": "2026-10-11T07:18:31+00:00",
+          "title": "Supreme Court seeks response on illegal detentions during Delhi protest crackdown",
+          "description": "India Today",
+          "source": "India Today",
+          "publisher": "India Today",
+          "source_names": [
+            "India Today"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZnhEb0ZOOUgxWnFOUTR3RlM0NWRMZzFaWkl4ZEpiNGJmdDlTZWUtREQzbnVmcTRNNl9FU0ZQU2kyQXFOR29HYllod3BmNlBXS2pOM2Y4MGhCQkZCenp1QV81OUlTelJKR29KVmRXUE1SdldHeDV2TFg3LVcwYkpFU1g4eDdESHZLZXFoRWJsWFNGckg0Rm51M1Bzams5Zm1Vbm0tUTdCZ0pRendWSjZGQVRpSTBpSlRMT0o5bURpODQ3Q2EwUHlVTE1wSjVkLS05YTdDa3JnZTdFMnJ3eGRURDZUYVpnT3J1MFg3UUNTTWtPYlRJTy0yUGdhczFBdmJycFRkNzdtaHBuOFNtVnVGYWRIbzNZbkk10gGYAkFVX3lxTE1meERvRk45SDFacU5RNHdGUzQ1ZExnMVpaSXhkSmI0YmZ0OVNlZS1ERDNudWZxNE02X0VTRlBTaTJBcU5Hb0diWWh3cGY2UFdLak4zZjgwaEJCRkJ6enVBXzU5SVN6UkpHb0pWZFdQTVJ2V0d4NXZMWDctVzBiSkVTWDh4N0RIdktlcWhFYmxYU0ZySDRGbnUzUHNqazlmbVVubS1RN0JnSlF6d1ZKNkZBVGlJMGlKVExPSjltRGk4NDdDYTBQeVVMTXBKNWQtLTlhN0NrcmdlN0Uycnd4ZFRENlRhWmdPcnUwWDdRQ1NNa09iVElPLTJQZ2FzMUF2YnJwVGQ3N21ocG44U21WdUZhZEhvM1luSTU?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZnhEb0ZOOUgxWnFOUTR3RlM0NWRMZzFaWkl4ZEpiNGJmdDlTZWUtREQzbnVmcTRNNl9FU0ZQU2kyQXFOR29HYllod3BmNlBXS2pOM2Y4MGhCQkZCenp1QV81OUlTelJKR29KVmRXUE1SdldHeDV2TFg3LVcwYkpFU1g4eDdESHZLZXFoRWJsWFNGckg0Rm51M1Bzams5Zm1Vbm0tUTdCZ0pRendWSjZGQVRpSTBpSlRMT0o5bURpODQ3Q2EwUHlVTE1wSjVkLS05YTdDa3JnZTdFMnJ3eGRURDZUYVpnT3J1MFg3UUNTTWtPYlRJTy0yUGdhczFBdmJycFRkNzdtaHBuOFNtVnVGYWRIbzNZbkk10gGYAkFVX3lxTE1meERvRk45SDFacU5RNHdGUzQ1ZExnMVpaSXhkSmI0YmZ0OVNlZS1ERDNudWZxNE02X0VTRlBTaTJBcU5Hb0diWWh3cGY2UFdLak4zZjgwaEJCRkJ6enVBXzU5SVN6UkpHb0pWZFdQTVJ2V0d4NXZMWDctVzBiSkVTWDh4N0RIdktlcWhFYmxYU0ZySDRGbnUzUHNqazlmbVVubS1RN0JnSlF6d1ZKNkZBVGlJMGlKVExPSjltRGk4NDdDYTBQeVVMTXBKNWQtLTlhN0NrcmdlN0Uycnd4ZFRENlRhWmdPcnUwWDdRQ1NNa09iVElPLTJQZ2FzMUF2YnJwVGQ3N21ocG44U21WdUZhZEhvM1luSTU?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
           "time": "2026-10-11T07:21:51+00:00",
           "title": "Sent goons to kidnap me: Dhruv Rathee speaks out after release from detention",
           "description": "",
@@ -1468,6 +1533,11 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3NRTnRnWWxtakZJaHJMNDE0NEpMYkxJZWhyZF9sRUhnWkxyc2hYNG1pdlpwQ1F2aE1GNldsV3p6eTJqeVFNcV9qSWRvZmdUZTVqMWtCdFhrRUtLM1QySmI5OF8yWGRIRTFqYzl6dTMxM29fUmJrUE9aN1lPUXVNVkNoai1lOUpCZmVmYmtZbGxpTy1iU3cxSmZhTHJqYWZVT0F4U3c5RkdVaVlSdW56akg2aVEtRTNrV1VrTHVmVTk1UTdZRWlFNnln0gHPAUFVX3lxTFA3U2J4NGltT0cxekRKZ19vTFlQRTBfSFFuNDMxdzd4ZnNtMHRXRkNnZW1Ub1FNcmxmcmdaQmpncG10OTN4YXM2ZUNhRXpXTGQyZ3pMMms3cldEa2RJVWpHTDZ3VV9EUTJXTndHb19EUC1UM2U0OXpxbUFLTE1xTURENHpqQXd6MTlJM2w0bWpLQVBNeGEtZGZlak15U1BTeUVnRG50UExiUXNWdmdRRU52Z3loZjMxMllkZkZFdEZQd2dRZmZWaW1KTVlzbWNNVQ?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3NRTnRnWWxtakZJaHJMNDE0NEpMYkxJZWhyZF9sRUhnWkxyc2hYNG1pdlpwQ1F2aE1GNldsV3p6eTJqeVFNcV9qSWRvZmdUZTVqMWtCdFhrRUtLM1QySmI5OF8yWGRIRTFqYzl6dTMxM29fUmJrUE9aN1lPUXVNVkNoai1lOUpCZmVmYmtZbGxpTy1iU3cxSmZhTHJqYWZVT0F4U3c5RkdVaVlSdW56akg2aVEtRTNrV1VrTHVmVTk1UTdZRWlFNnln?oc=5",
               "label": "Open article"
             }
           ]
@@ -1504,6 +1574,24 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1EyblRTTFpwWVlBNFR6SHh3NWNSTTFuTHBRRzZta3pUY184U1dkUjdSRU50RG96dEtsNExzLXdLUjdNTy1fVUl6SGJsUXZBaFZXY2ppV21HbHF0UHY0WFBaM3YzenlvNDRfUkFxRDRnSUd5ZjFhdTBkajhaVnNWRVdNcHo2TS1mekk0NUhFWmwwRHY2ZGp1M0FCcWoyckp2d3BxVGFRSjZvd3Z6U24xS1VrV3Fvclpj0gHGAUFVX3lxTE5uSE9Dd3FYbW9WZGdoV1hna3BuYzA4OGZaWEZTVUJqejVGZi1QUDZrdEVoNHo5OTBpWjBKMWptT01Ud3ZzR2V6d0lnajJ0aElNLUFiU1BRQ2hVNTFDYTI2M3hHaVB1LUJMQUJFOFFBbU9RbWV1WEZvcnZIaVFhbEJoZWhVMU5xMnpCY2M1MVh0RERfdWFJSkJiLWVWR25OUzFSNEkwT2FWLUpwN2lMSFhlb0V3Y1BJV0lsRGtZTWlvRW0tTGlJZw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T07:50:43+00:00",
+          "title": "Key Takeaways From Supreme Court's Observations On Delhi Curbs During CJP Protest",
+          "description": "Key Takeaways From Supreme Court's Observations On Delhi Curbs During CJP Protest",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "source_names": [
+            "NDTV"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG52R1hXV1FQcWJFWDdTZnI4NWJLUERzYlpSNmY1aGE4TFZRZ0xpUjhnajhYRUptZldiUzJwa0NrZ1BhVnAyN3JtdTBCZHpqQ0loZ1NlbVZmN1NsSmlWSmRsNzFINFczZld1M1pkeWRLVWdCY2pYeWQ0Mnd3THM4djFXWHJHd1BhV1hkbm9xMk03QkNqYk1mR1p4QlZwUUlEMWNuUWJPQXlKTXp1ZGtYVFNuZkR0Q3FfVDUxb21lNFhCQXJoMGtUYzVRONIB0wFBVV95cUxOZVVLX3NRdkVETEhsYTNRR3NTSjg4WTNLOFZNSnpUYXBqNGNtVHlHZ0dWMTRtc3YtUE5GZ3ZHdFR1aUpjQjlDaC15Y2UzQUo5WFQtUnhQT3lVSFY5SktFMTZaNGZTeWplNlRuNWwyQ3EzSmVrZVhjZ1ZvakUwMlgwVzhSYVluS0R1XzEyZm1yZERLemtrbFVwWmFHNEluMmVWaTFIQ2w4OFhsNHoyX0dJYkhlNE9KZks0Q1hUOFl6NmUtR1JITVAza1FJV0VHemswTHE4?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG52R1hXV1FQcWJFWDdTZnI4NWJLUERzYlpSNmY1aGE4TFZRZ0xpUjhnajhYRUptZldiUzJwa0NrZ1BhVnAyN3JtdTBCZHpqQ0loZ1NlbVZmN1NsSmlWSmRsNzFINFczZld1M1pkeWRLVWdCY2pYeWQ0Mnd3THM4djFXWHJHd1BhV1hkbm9xMk03QkNqYk1mR1p4QlZwUUlEMWNuUWJPQXlKTXp1ZGtYVFNuZkR0Q3FfVDUxb21lNFhCQXJoMGtUYzVRONIB0wFBVV95cUxOZVVLX3NRdkVETEhsYTNRR3NTSjg4WTNLOFZNSnpUYXBqNGNtVHlHZ0dWMTRtc3YtUE5GZ3ZHdFR1aUpjQjlDaC15Y2UzQUo5WFQtUnhQT3lVSFY5SktFMTZaNGZTeWplNlRuNWwyQ3EzSmVrZVhjZ1ZvakUwMlgwVzhSYVluS0R1XzEyZm1yZERLemtrbFVwWmFHNEluMmVWaTFIQ2w4OFhsNHoyX0dJYkhlNE9KZks0Q1hUOFl6NmUtR1JITVAza1FJV0VHemswTHE4?oc=5",
               "label": "Open article"
             }
           ]
@@ -1672,6 +1760,24 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:34:21+00:00",
+          "title": "'Modi ji himself may have to resign': Kejriwal's Hitler jibe over Delhi crackdown",
+          "description": "",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "source_names": [
+            "Times of India - Top stories"
+          ],
+          "url": "https://timesofindia.indiatimes.com/india/modi-ji-himself-may-have-to-resign-kejriwals-hitler-jibe-over-delhi-protest-crackdown/articleshow/134867445.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/modi-ji-himself-may-have-to-resign-kejriwals-hitler-jibe-over-delhi-protest-crackdown/articleshow/134867445.cms",
               "label": "Open article"
             }
           ]
@@ -2117,6 +2223,47 @@
               "type": "article",
               "url": "https://www.thehindu.com/news/national/kerala/keralam-rajya-sabha-mp-john-brittas-allegedly-assaulted-by-crpf-personnel-sfi-activists-suffer-injuries/article71571040.ece",
               "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/keralam-rajya-sabha-mp-john-brittas-allegedly-assaulted-by-crpf-personnel-sfi-activists-suffer-injuries/article71571040.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T09:50:22+00:00",
+          "title": "Jantar Mantar Tells The Time. Clock Is Now Ticking On Its Future As Protest Site",
+          "description": "Jantar Mantar Tells The Time. Clock Is Now Ticking On Its Future As Protest Site",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "source_names": [
+            "NDTV"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdG5HX0Y1ZFJiMTEyZ3BvZGd5T0xORnhmcHF5VTdfUGJVRVRHaVQ3Yzk3RHB2dkxGRGhEQTFtOTk4WnRsS2ZnZEZlZTU3bmFwRHdoNGlfT3VFYVFTRmtuMWhRdFNrU2NBT2k1MW5MWWxoOGlQY3I2bHZKNVp3WVEybHRNaU4wWGNfT0VQSTVZWFI0bmJoQlFKVml5OE9DMHB2LTRYN0FjTUQwVUtQMkVhQ1NIc2VBaHZoR2ttbFJQSy1GRzItLVVoVDIwNTNlUlBYRGlCOHhuc3V2NHVHMFBsa2VlM1l0b0tFa1JRZ3I3MnQ1cHNCTnBpaFJfQmZ5M29nNFhYbkRJeHo5c3NPbTBYSFRzVTU0Z25IRWxZ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdG5HX0Y1ZFJiMTEyZ3BvZGd5T0xORnhmcHF5VTdfUGJVRVRHaVQ3Yzk3RHB2dkxGRGhEQTFtOTk4WnRsS2ZnZEZlZTU3bmFwRHdoNGlfT3VFYVFTRmtuMWhRdFNrU2NBT2k1MW5MWWxoOGlQY3I2bHZKNVp3WVEybHRNaU4wWGNfT0VQSTVZWFI0bmJoQlFKVml5OE9DMHB2LTRYN0FjTUQwVUtQMkVhQ1NIc2VBaHZoR2ttbFJQSy1GRzItLVVoVDIwNTNlUlBYRGlCOHhuc3V2NHVHMFBsa2VlM1l0b0tFa1JRZ3I3MnQ1cHNCTnBpaFJfQmZ5M29nNFhYbkRJeHo5c3NPbTBYSFRzVTU0Z25IRWxZ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T09:50:57+00:00",
+          "title": "India's 'Cockroach' movement leaders say 'the fight has just begun' after a large protest in Delhi",
+          "description": "India's 'Cockroach' movement leaders say 'the fight has just begun' after a large protest in Delhi",
+          "source": "DW.com",
+          "publisher": "DW.com",
+          "source_names": [
+            "DW.com"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkRfdzRXSUhtNUZZR3hZU2VHTmsyVVpHRktOdTd5VlFsNnpkSlc2bXBsVlRiT3BnYWltTjdpWFFmTG84X3RhcjZtNmdaRWYtYlVUVVRVSzYzaF9adUF1aE1Zck56c2k5T19wck5aZmRaTDJZamxHNW9IY3JLZGF1NWNzd01BeUJ0WmVUdUQ3SVdUX1FLVnpWVUxlTThab0lKZy1mTnMxZ1BPMV80cVpEdUY1MDBvYUZuOGpUTGtyanVkeTAtdnFJbA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkRfdzRXSUhtNUZZR3hZU2VHTmsyVVpHRktOdTd5VlFsNnpkSlc2bXBsVlRiT3BnYWltTjdpWFFmTG84X3RhcjZtNmdaRWYtYlVUVVRVSzYzaF9adUF1aE1Zck56c2k5T19wck5aZmRaTDJZamxHNW9IY3JLZGF1NWNzd01BeUJ0WmVUdUQ3SVdUX1FLVnpWVUxlTThab0lKZy1mTnMxZ1BPMV80cVpEdUY1MDBvYUZuOGpUTGtyanVkeTAtdnFJbA?oc=5",
+              "label": "Open article"
             }
           ]
         },
@@ -2302,6 +2449,24 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3dialJocUxJeXNodVBWVDBpQThvUTZGY2VuNURQQ0o2TXh5RkJoandEcU1rMDFWaFpDOTdtYlQxXzc1OE14cVBuYnlDVF9CR1lSRTNfZXFkdmNxNzR1ck1UX2k2RG9zeDdDMy0yQzRYQlh3eE5sdWpCT1hEYXNFV1d6MmRkenc1RHdBc0t4Ty1RdTQ4N0Y0SzNWTmwtM1NlQks0MHI3YkNXR1NfdUtGQmJBMDRFMlZCYmhQcHlUazJBanM3RzBobFdsdUFSZU53RGxCODZ1eUJENFZ5RFHSAesBQVVfeXFMTThvR09tWEgxdlRIVHhPMktNN3pscndKWVgyWEQ0empUeWg3OTBkZXE2bTBYaTlscDM3emJkVWx2WEVET1pnMTZMQTVWTlZWTmQtUmxhd01hNE9QRGtlMG5wRXN4eEdadVlRaFBNVHJWeGtsa0lxSHFsTU1PTWtwZThJMmw4Wl85c2tLRGpoUDVpdzBnMWhIakE3V1lxcmNhdnZ4ZEVvRGc2dHZkTWlnR284d2hOaDdsNV9sYUdqR00xSkNFYUZNdGpOR0J6aEkxMTBubnNsTWhYaWItTTlhLThVaVBON0ZKZUJ6bw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T10:30:36+00:00",
+          "title": "From peaceful protests to free movement: 9 directions SC issued amid CJP stir in Delhi",
+          "description": "The Supreme Court has instructed Delhi's authorities to lift unlawful restrictions implemented during the CJP protest. It mandated the restoration of normal functions for the Metro and railway services. The court highlighted the critical importance of allowing lawyers and journalists to perform their duties freely. Additionally, it urged for the reduction of excessive barricades that restrict movement in the city.",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "source_names": [
+            "Times of India - Top stories"
+          ],
+          "url": "https://timesofindia.indiatimes.com/india/from-peaceful-protests-to-free-movement-9-directions-sc-issued-amid-cjp-stir-in-delhi/articleshow/134868236.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/from-peaceful-protests-to-free-movement-9-directions-sc-issued-amid-cjp-stir-in-delhi/articleshow/134868236.cms",
               "label": "Open article"
             }
           ]
@@ -2581,6 +2746,60 @@
               "label": "Open article"
             }
           ]
+        },
+        {
+          "time": "2026-10-11T11:33:38+00:00",
+          "title": "India calls UN criticism of Delhi crackdown ‘unacceptable interference’ in internal affairs",
+          "description": "India calls UN criticism of Delhi crackdown ‘unacceptable interference’ in internal affairs",
+          "source": "The New Indian Express",
+          "publisher": "The New Indian Express",
+          "source_names": [
+            "The New Indian Express"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWdZbnNvMGU3ejFWdmFkR0F4ejVYTDctaVMxeUxhcXVvMGR1Ykdfb2RkMzBockYxQ28xTEttTmc1YUVwVmYyN29KSkhnSDFrbTFlbTV5dXV2dFZlTHNCam5pZ1M4OF9RZFJKbjhMRUJMejlEYnVQSTU0UDI5VVh1YjlDWHlnQ3A5YnVYbF9pNklUMmpMeWQzeVFmbnBhVFd1OFRybnpIZ2xOMWY5NzNkbThjTlhzX0dRTXVDdlpWQlZlTjRlZFczbHhiWEdIR2lqNFkxZzc4QdIB5AFBVV95cUxOV3VKaGM5QmJIS01oYUZ2WG1yUGpGaTdvRVMyT3oyelZGSFdaT0tnZXY3RWhwaWx5czJCa2tnR29meXJaS2tGOGpPMlQ4eDdNSEJXUVZUWFVCRXhUZC1QVGRqVV8zbk5jcDVLMmtCUUtIeWtOR2hsX3FkckNHM0xkdDNqS1lYTWFKLWFSVTM0M1ppcGNob2JfcXZCbkJDcEdZcXFUQ0t2WjItcXNkbHJkRVpIbXptN0pFQ1VubUNMemtrWXoxOXEzMUEtQjlVZWVzV3Z6Z0M0TFFBVmVwLXFtMEtfdHY?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWdZbnNvMGU3ejFWdmFkR0F4ejVYTDctaVMxeUxhcXVvMGR1Ykdfb2RkMzBockYxQ28xTEttTmc1YUVwVmYyN29KSkhnSDFrbTFlbTV5dXV2dFZlTHNCam5pZ1M4OF9RZFJKbjhMRUJMejlEYnVQSTU0UDI5VVh1YjlDWHlnQ3A5YnVYbF9pNklUMmpMeWQzeVFmbnBhVFd1OFRybnpIZ2xOMWY5NzNkbThjTlhzX0dRTXVDdlpWQlZlTjRlZFczbHhiWEdIR2lqNFkxZzc4QdIB5AFBVV95cUxOV3VKaGM5QmJIS01oYUZ2WG1yUGpGaTdvRVMyT3oyelZGSFdaT0tnZXY3RWhwaWx5czJCa2tnR29meXJaS2tGOGpPMlQ4eDdNSEJXUVZUWFVCRXhUZC1QVGRqVV8zbk5jcDVLMmtCUUtIeWtOR2hsX3FkckNHM0xkdDNqS1lYTWFKLWFSVTM0M1ppcGNob2JfcXZCbkJDcEdZcXFUQ0t2WjItcXNkbHJkRVpIbXptN0pFQ1VubUNMemtrWXoxOXEzMUEtQjlVZWVzV3Z6Z0M0TFFBVmVwLXFtMEtfdHY?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:50:08+00:00",
+          "title": "‘No place to breathe’: AISA’s Neha Bora detained again, alleges police brutality",
+          "description": "",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "source_names": [
+            "Times of India - Top stories"
+          ],
+          "url": "https://timesofindia.indiatimes.com/india/no-place-to-breathe-aisas-neha-bora-detained-again-alleges-police-brutality/articleshow/134869929.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/no-place-to-breathe-aisas-neha-bora-detained-again-alleges-police-brutality/articleshow/134869929.cms",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:55:27+00:00",
+          "title": "Anti-CEC protest in Delhi top developments: detentions, curbs, crackdown",
+          "description": "Security forces in Delhi detained more than 3,300 people and barred access to Jantar Mantar on Saturday, October 10, 2026, as authorities imposed a massive lockdown to stifle protests called by the Cockroach Janata Party and allied groups demanding the resignation of Chief Election Commissioner Gyanesh Kumar",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "source_names": [
+            "The Hindu - Home"
+          ],
+          "url": "https://www.thehindu.com/news/national/cjp-protests-anti-cec-demonstration-delhi-latest-updates-detentions-curbs-crackdowns-on-traffic-metro-trains-delhi-police-october-10-2026/article71567478.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/national/cjp-protests-anti-cec-demonstration-delhi-latest-updates-detentions-curbs-crackdowns-on-traffic-metro-trains-delhi-police-october-10-2026/article71567478.ece",
+              "label": "Open article"
+            }
+          ]
         }
       ],
       "sources": [
@@ -2830,6 +3049,16 @@
           "type": "article"
         },
         {
+          "name": "Article — Scroll.in",
+          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOREN5SVE2RXNtQTk1T2Y3dEdJVHVHU0VGbWlyM3A4U25LcmNtLU9RMmRkY0d3ajlCUlM1Y3lpNWxMOTZvTXFGVDBoeVhMSlBRM3lXZjlXSFpyWXZWZlRqcWxPd2lXdTVUalVIVWRjUlMxSnNQTVV1ejBSMDc1dW1ZYXFXQWdyREZKRnc3T0g3c0hqdWvSAZgBQVVfeXFMUHZ0V1hBQkZZM3BRT0F4dWRPMTdGMGVtSnNUaEZwUmtTT3BSNWt1a1RHQXBGc0E0Zm1TVHRYMWJqbzRIM29NSTFIVTFfWV9RZ3BLQkhldVFhSjZ3bTR4QnhvU3oxUVVrM1owYnRxRDdodVJ6T1h2bUUwbGMtSG8ySUNCV0MteFBYSG81VlVYQ3pRdDNPSGlOY2U?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — www.indiagazette.com",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNZU5sc0RkNjdNZUs0ay1qN3ZLYXk0aXI4YXJRY2IzTXB6QmE3U2xOWUdaVG1hV0JSRW9YX2ZNNjhwaE1ibDNTaTl1ZFZjT2V4OVo4NnlGVFl0RkJ3SFR1eXBzdXI2eFg4SnZ5X3BRdklKUkZrQzZCdW9vTDYxNUdVSU9ja2pkd2hnWVZsWnVtZjVtNU1jNW16Rmt0WWUxaVV0NjVsVERZTlUtelJOaFlneUZPNWF3MzdkWnlEYWdESVBnT1VuUUJ1c2M4Qk5kWklLUFVBWjhhQTNPbGpCX1ZXU1ZtRWt0NVo0QTNRbUFWbnk4Q3JtaWc?oc=5",
+          "type": "article"
+        },
+        {
           "name": "Article — The Times of India",
           "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNVUdFbDhEcDc4UXV0endPR0tzVjdteFJ0S29rNnh1ZV9NbVBGemw5R2NWaVM1VDI1NUlJWGFwM1hySllENU1HTjgtYmg5Q0NZdkNtTDR3ZVg1d2Q4dXg5U0xqTEFOUGhoLVF3OWMyQkpDclppb1RlZG1XYWRGNHRnY0U3aS1UYlRQTUtCZWNkUmFDbVRkVmZ1Sm9oUGYwa1N2Zzd1NVl3ek1wSlpCWW1ZcmZQcmhQME5POS1jdm5ubUNfVllJend0eUxLY2g3bDc0QmpCbFlwMXFKVVVMM1BLZE02TC12V25XbEFLMEZqLUhLNGIwWkYw0gH8AUFVX3lxTE52dnlyVlZIVVBDZGppWjM5bDR6REpmWm02NS1YcU1Rei1mQWxKczlodFA1dlB2ZTJqejBScmFxNEc1SklXeDVOV0ZnMXR5bndWTThjSHBFb2pLSm1OUmZzT251c2lVTnFIM3BEeG1WNmx0OGJCa2lPUjNmbzZySTlqUG1uajRPcm5jeFBEeU5zSGtxaF8wMUZmbWFtVGtEd2FIaUNSQUdxem5TUXhqMHlFYUZQWjlKNUl6MC1DWWxibko3czhhNVpNMEJBc3laRU0ya0RCeEUzUHExMXhqTkQ3Zi1XTG9icmM0UW5OUU5vOUladEZiWm5Tb01GdQ?oc=5",
           "type": "article"
@@ -2877,6 +3106,11 @@
         {
           "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbjhDVkpmUHVTdXYwU1AzMTB1TkJMZ3d3VFZ2MHNZQTI3N2xhdE45czJsSUkwZUltTFYyQU9TOVlsQ1BCeVNRcEthRlpzZGpWaHY3OFczM1ZWbEFBVnFsaWszWi1vQlBiV2lLSnlGVzZiYlljNnZLREl5Z3FvbEx0UDlqX2ctUVlEYXNvS2l0QXZ4Y3N3dDJZ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Nikkei Asia",
+          "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQa0RrNXlMSkx2c0owblBXcm1COWtLaWJMdEljUzFjdUhkYjVfQkgwcjBqTkpfUWNQYWpXZEJ0VXA0a0hRUHFiVU1lRHo3cjZ0VV9tTWoxczl0YnJDRUhVVnZlNXhTWTFnbHJIcEpSZUhRNzBobnFVS2E2TC14Q1JGME9KSzV4bmlTMjVtdEdfSVR1V29rTmJnTHF5bGxNU1dYQlE?oc=5",
           "type": "article"
         },
         {
@@ -2970,6 +3204,11 @@
           "type": "article"
         },
         {
+          "name": "Article — OpIndia",
+          "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxOUGlFanhmallscWpTWXNhR1pEdFlnVlBacnNlb3NYb2xGUkJEbDhiNVZ0M3VzNjN2TXhCLWVUUTVhcXcyZm5fVi1wazhPQjdqUkRuZXM0MnV1eEVmTml6d1VJRkNrdkJsNWlTVDQ0RG55VEJvdGRKTUIxWU4zMW9HSVh5WkN6RlFjelZJSlNWZnVwTUVMQjl2MXBISTkzQ0QwLW1KQ1lJZUZFVjNnUFpTR3ZMOGc3VzQxX3E4ZWY3RU1Bakl2dG92cjBmaUgwN0duYlcwb3B4dS1mY09QTXZqQTNaa3FONnYteFdPYTlWREF6RnVEdnN2MHNSazNDc09XUGJaa0VhQ1l6dlhvVWc1c0N5QlE5aXNabU5fMi13?oc=5",
+          "type": "article"
+        },
+        {
           "name": "Article — India Today - Latest",
           "url": "https://www.indiatoday.in/newsmo/short-videos/cjp-leaders-abhijeet-dipke-saurav-das-and-ashutosh-ranka-released-3014664-2026-10-11?utm_source=rss",
           "type": "article"
@@ -2985,13 +3224,8 @@
           "type": "article"
         },
         {
-          "name": "Article — Financial Times",
+          "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZVNoSC1FSmRCNy1IOEI5dzhQSy1VNExWQnpSZVB2OF9PaDVoM2R1YWVUYnJPWFBEV2lhS0gtX1BGbC1KUEE4d2E3M2ZwVkh4Zmxza1lLWTQtSTMwRWViNGw2S3hkRU5Cc3BrS2Y0bUFYamdGNWtHSkdydjRPLXp3VE5iejY?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — Brut",
-          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmpRTmZOZUVXUEppY1ltb1NJWGpXR0dsaS0xV2xNaEllc3A1bFNkNlJ5alY4ZFBKOHo2b0JtSTMyb3ZFYjZraTRySHVvVnpaVU1kdDFqV3QwUE9MSjhWSUFwaFV3SHpRclVHb2pJVHhrYnYwcGR4cFFqdHNfYjhVOE9Od0F1aDRQLURkR0E0dmVhZ2JXNjVsWHVmRVZmUWhDQzJXdXNfcnMyaGlwMk9SX21hYw?oc=5",
           "type": "article"
         },
         {
@@ -3010,6 +3244,11 @@
           "type": "article"
         },
         {
+          "name": "Article — Brut",
+          "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONmpRTmZOZUVXUEppY1ltb1NJWGpXR0dsaS0xV2xNaEllc3A1bFNkNlJ5alY4ZFBKOHo2b0JtSTMyb3ZFYjZraTRySHVvVnpaVU1kdDFqV3QwUE9MSjhWSUFwaFV3SHpRclVHb2pJVHhrYnYwcGR4cFFqdHNfYjhVOE9Od0F1aDRQLURkR0E0dmVhZ2JXNjVsWHVmRVZmUWhDQzJXdXNfcnMyaGlwMk9SX21hYw?oc=5",
+          "type": "article"
+        },
+        {
           "name": "Article — Times of India - Top stories",
           "url": "https://timesofindia.indiatimes.com/india/no-illegal-detentions-restore-internet-metro-services-supreme-court-after-delhi-protest-crackdown-top-quotes/articleshow/134866736.cms",
           "type": "article"
@@ -3017,6 +3256,11 @@
         {
           "name": "Article — India Today - Latest",
           "url": "https://www.indiatoday.in/india/law-news/story/supreme-court-seeks-govt-response-illegal-detentions-delhi-protest-crackdown-special-hearing-cjp-stir-cec-gyanesh-kumar-3014674-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today",
+          "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNZnhEb0ZOOUgxWnFOUTR3RlM0NWRMZzFaWkl4ZEpiNGJmdDlTZWUtREQzbnVmcTRNNl9FU0ZQU2kyQXFOR29HYllod3BmNlBXS2pOM2Y4MGhCQkZCenp1QV81OUlTelJKR29KVmRXUE1SdldHeDV2TFg3LVcwYkpFU1g4eDdESHZLZXFoRWJsWFNGckg0Rm51M1Bzams5Zm1Vbm0tUTdCZ0pRendWSjZGQVRpSTBpSlRMT0o5bURpODQ3Q2EwUHlVTE1wSjVkLS05YTdDa3JnZTdFMnJ3eGRURDZUYVpnT3J1MFg3UUNTTWtPYlRJTy0yUGdhczFBdmJycFRkNzdtaHBuOFNtVnVGYWRIbzNZbkk10gGYAkFVX3lxTE1meERvRk45SDFacU5RNHdGUzQ1ZExnMVpaSXhkSmI0YmZ0OVNlZS1ERDNudWZxNE02X0VTRlBTaTJBcU5Hb0diWWh3cGY2UFdLak4zZjgwaEJCRkJ6enVBXzU5SVN6UkpHb0pWZFdQTVJ2V0d4NXZMWDctVzBiSkVTWDh4N0RIdktlcWhFYmxYU0ZySDRGbnUzUHNqazlmbVVubS1RN0JnSlF6d1ZKNkZBVGlJMGlKVExPSjltRGk4NDdDYTBQeVVMTXBKNWQtLTlhN0NrcmdlN0Uycnd4ZFRENlRhWmdPcnUwWDdRQ1NNa09iVElPLTJQZ2FzMUF2YnJwVGQ3N21ocG44U21WdUZhZEhvM1luSTU?oc=5",
           "type": "article"
         },
         {
@@ -3030,6 +3274,11 @@
           "type": "article"
         },
         {
+          "name": "Article — Live Law",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNa3NRTnRnWWxtakZJaHJMNDE0NEpMYkxJZWhyZF9sRUhnWkxyc2hYNG1pdlpwQ1F2aE1GNldsV3p6eTJqeVFNcV9qSWRvZmdUZTVqMWtCdFhrRUtLM1QySmI5OF8yWGRIRTFqYzl6dTMxM29fUmJrUE9aN1lPUXVNVkNoai1lOUpCZmVmYmtZbGxpTy1iU3cxSmZhTHJqYWZVT0F4U3c5RkdVaVlSdW56akg2aVEtRTNrV1VrTHVmVTk1UTdZRWlFNnln?oc=5",
+          "type": "article"
+        },
+        {
           "name": "Article — Rediff",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTzZNWVA2elhReG14WWZxU1pmNDlrQi0tLTJDSGhpWi1LQ2djVWM4SVFkX3k3b0xiazVUT1gydnpEdVcxQkdKV1hSUlNBQ052bXkzWkN2eHRNbTNIWnRkUElvemhEMHcweVNMaHh5RTlyd29kejh1Yk5lVHh6Y1VyT09sZHNlOXUwZG9MNHZ3eWJxdG1YQm94R3NuRzc2YnJrUzA2QzkwS1RBbUhrMm1ZU1NzbURrTkI00gG7AUFVX3lxTE5BTjdRa01URjlweFY3RElqOVVwbkxpRW5rZnJkcHZkOEVlczhRVlg5QzNfdGcwd3hzRUhGeTJyZVlJWGJBQlhQZ2s5cTNTZXdvdmFTeVhla2g2YVVqRkdPbUQzRnhoZTM5SnE3SHpVZEFacGFIbFphN3pyUDRWOHMxbVlBeUNqbEdtRS12OVRHYnhjZXdtZXdaNzdVMVU1RXNpc05SSEI4ZGhmT3JBNEJVZHBEVTFqbFZUZnc?oc=5",
           "type": "article"
@@ -3037,6 +3286,11 @@
         {
           "name": "Article — National Herald",
           "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1EyblRTTFpwWVlBNFR6SHh3NWNSTTFuTHBRRzZta3pUY184U1dkUjdSRU50RG96dEtsNExzLXdLUjdNTy1fVUl6SGJsUXZBaFZXY2ppV21HbHF0UHY0WFBaM3YzenlvNDRfUkFxRDRnSUd5ZjFhdTBkajhaVnNWRVdNcHo2TS1mekk0NUhFWmwwRHY2ZGp1M0FCcWoyckp2d3BxVGFRSjZvd3Z6U24xS1VrV3Fvclpj0gHGAUFVX3lxTE5uSE9Dd3FYbW9WZGdoV1hna3BuYzA4OGZaWEZTVUJqejVGZi1QUDZrdEVoNHo5OTBpWjBKMWptT01Ud3ZzR2V6d0lnajJ0aElNLUFiU1BRQ2hVNTFDYTI2M3hHaVB1LUJMQUJFOFFBbU9RbWV1WEZvcnZIaVFhbEJoZWhVMU5xMnpCY2M1MVh0RERfdWFJSkJiLWVWR25OUzFSNEkwT2FWLUpwN2lMSFhlb0V3Y1BJV0lsRGtZTWlvRW0tTGlJZw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcG52R1hXV1FQcWJFWDdTZnI4NWJLUERzYlpSNmY1aGE4TFZRZ0xpUjhnajhYRUptZldiUzJwa0NrZ1BhVnAyN3JtdTBCZHpqQ0loZ1NlbVZmN1NsSmlWSmRsNzFINFczZld1M1pkeWRLVWdCY2pYeWQ0Mnd3THM4djFXWHJHd1BhV1hkbm9xMk03QkNqYk1mR1p4QlZwUUlEMWNuUWJPQXlKTXp1ZGtYVFNuZkR0Q3FfVDUxb21lNFhCQXJoMGtUYzVRONIB0wFBVV95cUxOZVVLX3NRdkVETEhsYTNRR3NTSjg4WTNLOFZNSnpUYXBqNGNtVHlHZ0dWMTRtc3YtUE5GZ3ZHdFR1aUpjQjlDaC15Y2UzQUo5WFQtUnhQT3lVSFY5SktFMTZaNGZTeWplNlRuNWwyQ3EzSmVrZVhjZ1ZvakUwMlgwVzhSYVluS0R1XzEyZm1yZERLemtrbFVwWmFHNEluMmVWaTFIQ2w4OFhsNHoyX0dJYkhlNE9KZks0Q1hUOFl6NmUtR1JITVAza1FJV0VHemswTHE4?oc=5",
           "type": "article"
         },
         {
@@ -3087,6 +3341,11 @@
         {
           "name": "Article — Reuters",
           "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDRzbE1PT1FMZGh0NlpiRzJua3BiVUNoeFhoTG9GRmJ4aENiZ3BJY0lBVnVrdkRKOFVBTUF4NXRhdjJPc2VlZEpwaWlhSEd3NDJGbW1aa3d3ajM5SnNiNGRYdGhxcTNyaVMzdWZrSkdrRmxXUzZSc3BvMzE0ZkFsZmpRZGFpeHZTWU9XN3VOMjZPUkNDdHRMVVFSWmRGenc0VWRsLURGcXZEVW5LNW9rcHk2WVFmOWE1LXJMUWdLcEJybjA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/modi-ji-himself-may-have-to-resign-kejriwals-hitler-jibe-over-delhi-protest-crackdown/articleshow/134867445.cms",
           "type": "article"
         },
         {
@@ -3221,6 +3480,21 @@
         },
         {
           "name": "Article — Multiple sources",
+          "url": "https://www.thehindu.com/news/national/keralam-rajya-sabha-mp-john-brittas-allegedly-assaulted-by-crpf-personnel-sfi-activists-suffer-injuries/article71571040.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxPdG5HX0Y1ZFJiMTEyZ3BvZGd5T0xORnhmcHF5VTdfUGJVRVRHaVQ3Yzk3RHB2dkxGRGhEQTFtOTk4WnRsS2ZnZEZlZTU3bmFwRHdoNGlfT3VFYVFTRmtuMWhRdFNrU2NBT2k1MW5MWWxoOGlQY3I2bHZKNVp3WVEybHRNaU4wWGNfT0VQSTVZWFI0bmJoQlFKVml5OE9DMHB2LTRYN0FjTUQwVUtQMkVhQ1NIc2VBaHZoR2ttbFJQSy1GRzItLVVoVDIwNTNlUlBYRGlCOHhuc3V2NHVHMFBsa2VlM1l0b0tFa1JRZ3I3MnQ1cHNCTnBpaFJfQmZ5M29nNFhYbkRJeHo5c3NPbTBYSFRzVTU0Z25IRWxZ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — DW.com",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOdkRfdzRXSUhtNUZZR3hZU2VHTmsyVVpHRktOdTd5VlFsNnpkSlc2bXBsVlRiT3BnYWltTjdpWFFmTG84X3RhcjZtNmdaRWYtYlVUVVRVSzYzaF9adUF1aE1Zck56c2k5T19wck5aZmRaTDJZamxHNW9IY3JLZGF1NWNzd01BeUJ0WmVUdUQ3SVdUX1FLVnpWVUxlTThab0lKZy1mTnMxZ1BPMV80cVpEdUY1MDBvYUZuOGpUTGtyanVkeTAtdnFJbA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPNmtfMnZ4Sm9ZMDRja2pfSENyekU5Q29ISG84RTl6TVdYV3JSa0NJbGFETWZSeXdzUzY3U3VhRGdnUFNNZ1g5X1dFTnJRLTd5QzAxM0phTTVORDk3NkxhSVk2TXg2bEdRMVVPM04wVENNaUN6c2k2MlptbVctYVpaVVlGV2lTakFUdWk1ZEo4aEkwWEstOWRCRE5XY2dPTm5CREtYSGNOQk0yeHVzUUZBaXp4WEs3bTNkRUFLbUQ1X2tlNXd4MGFuR3R0dHlDZHduTmJRazdTONIB3AFBVV95cUxOdG1yLTZ6YkhDUThiOXp3R0E3X1FOUy1PdDU3clEySE1oSU4wa3JMdEttT1RfUDlrYzhOSXQtVFdub0RiYzRjSmdCNTYwSVJmRUZiSWZqTlhOVHlpYXNkX2RVNW04QWhWNlNIdEZpc1g2WWplQWVsVHVvalpzSHduUWtCd1lKS0tPM0Z6bW54WFJYSEdDZUdXVHJfLUV6bVdvVVN1eUV5Z0Z6VW5yd0wzNHpPdTVPYWY3QVAzQWxVazVtQ2F3NF9SdEFJNDhPbzNtbWxFMlNMcnFnb2xi?oc=5",
           "type": "article"
         },
@@ -3272,6 +3546,11 @@
         {
           "name": "Article — Outlook India",
           "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOc3dialJocUxJeXNodVBWVDBpQThvUTZGY2VuNURQQ0o2TXh5RkJoandEcU1rMDFWaFpDOTdtYlQxXzc1OE14cVBuYnlDVF9CR1lSRTNfZXFkdmNxNzR1ck1UX2k2RG9zeDdDMy0yQzRYQlh3eE5sdWpCT1hEYXNFV1d6MmRkenc1RHdBc0t4Ty1RdTQ4N0Y0SzNWTmwtM1NlQks0MHI3YkNXR1NfdUtGQmJBMDRFMlZCYmhQcHlUazJBanM3RzBobFdsdUFSZU53RGxCODZ1eUJENFZ5RFHSAesBQVVfeXFMTThvR09tWEgxdlRIVHhPMktNN3pscndKWVgyWEQ0empUeWg3OTBkZXE2bTBYaTlscDM3emJkVWx2WEVET1pnMTZMQTVWTlZWTmQtUmxhd01hNE9QRGtlMG5wRXN4eEdadVlRaFBNVHJWeGtsa0lxSHFsTU1PTWtwZThJMmw4Wl85c2tLRGpoUDVpdzBnMWhIakE3V1lxcmNhdnZ4ZEVvRGc2dHZkTWlnR284d2hOaDdsNV9sYUdqR00xSkNFYUZNdGpOR0J6aEkxMTBubnNsTWhYaWItTTlhLThVaVBON0ZKZUJ6bw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/from-peaceful-protests-to-free-movement-9-directions-sc-issued-amid-cjp-stir-in-delhi/articleshow/134868236.cms",
           "type": "article"
         },
         {
@@ -3353,38 +3632,365 @@
           "name": "Article — India Today - Latest",
           "url": "https://www.indiatoday.in/india/story/supreme-court-delhi-protests-metro-internet-illegal-detentions-ptag-3014856-2026-10-11?utm_source=rss",
           "type": "article"
+        },
+        {
+          "name": "Article — The New Indian Express",
+          "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxORWdZbnNvMGU3ejFWdmFkR0F4ejVYTDctaVMxeUxhcXVvMGR1Ykdfb2RkMzBockYxQ28xTEttTmc1YUVwVmYyN29KSkhnSDFrbTFlbTV5dXV2dFZlTHNCam5pZ1M4OF9RZFJKbjhMRUJMejlEYnVQSTU0UDI5VVh1YjlDWHlnQ3A5YnVYbF9pNklUMmpMeWQzeVFmbnBhVFd1OFRybnpIZ2xOMWY5NzNkbThjTlhzX0dRTXVDdlpWQlZlTjRlZFczbHhiWEdIR2lqNFkxZzc4QdIB5AFBVV95cUxOV3VKaGM5QmJIS01oYUZ2WG1yUGpGaTdvRVMyT3oyelZGSFdaT0tnZXY3RWhwaWx5czJCa2tnR29meXJaS2tGOGpPMlQ4eDdNSEJXUVZUWFVCRXhUZC1QVGRqVV8zbk5jcDVLMmtCUUtIeWtOR2hsX3FkckNHM0xkdDNqS1lYTWFKLWFSVTM0M1ppcGNob2JfcXZCbkJDcEdZcXFUQ0t2WjItcXNkbHJkRVpIbXptN0pFQ1VubUNMemtrWXoxOXEzMUEtQjlVZWVzV3Z6Z0M0TFFBVmVwLXFtMEtfdHY?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/no-place-to-breathe-aisas-neha-bora-detained-again-alleges-police-brutality/articleshow/134869929.cms",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/news/national/cjp-protests-anti-cec-demonstration-delhi-latest-updates-detentions-curbs-crackdowns-on-traffic-metro-trains-delhi-police-october-10-2026/article71567478.ece",
+          "type": "article"
         }
       ],
-      "source_count": 52,
+      "source_count": 55,
       "rank": 1,
+      "snapshot_date": "2026-10-11"
+    },
+    {
+      "id": "1886a489b960",
+      "title": "Quote of the day by Elon Musk: The first step is to establish that something is possible, then...",
+      "brief_summary": "''Baseless & Misconceived''... India Rebut Musk's 'Starlink Stalled' Claim WHY STARLINK REMAINS A SOVEREIGNTY TANGLE FOR INDIA Nilesh Shah says ''India has seen that relying on global technology can see withdrawal at crucial times..We need to ens",
+      "summary_100": "Quote of the day by Elon Musk: The first step is to establish that something is possible, then.... The tracker consolidates related public reporting into one chronological record. The Times of India: 'Security agencies face challenge from Starlink:' Nishikant Dubey. Firstpost: Elon Musk’s tech empire is challenging India’s sovereignty. Pragativadi: “India Won’t Compromise Security for Starlink”: Nishikant Dubey Hits Back at Elon Musk. The Week: Elon Musk says Starlink will be affordable in India; Govt officials call claims on licence ‘blatantly false’. Business Today: Starlink poses security threats, Manmohan govt flagged satcom risks in 2013-14: BJP MP hits back at",
+      "category": "India",
+      "status": "Monitoring",
+      "score": 146.83,
+      "first_observed": "2026-10-10T14:07:16+00:00",
+      "last_updated": "2026-10-11T11:17:00+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-10-10T14:07:16+00:00",
+          "title": "Elon Musk shares reports on Reliance-linked firm's BJP donations amid Starlink row",
+          "description": "India Today",
+          "source": "India Today",
+          "publisher": "India Today",
+          "source_names": [
+            "India Today"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWlNsWVNiaDV4QmMweUl0bGt2ZU12cGVzY3N6ODhNblZ0MnZ3Nm9uaFZESW5OMzBwN0lMME1Mc0hqNHl3bV9OQ0laQ0tTMHdfMzlialNJTVdzTkRuS05VYW5fQy1WRHJxTUpMdVBkQ0lMaDNsLWQzcWg4QnVFUU5EZk9TUGJKVWpGRXBZM0YxQ0gwZ3hrdVozQWJFa0tpamZaTk1icTNfMVB3T3BzMnFoWUJDVGFUY2VvWC00QTd6TXVHZ1BoN1VDel92aVEzU1nSAdQBQVVfeXFMT2hKQzlRRVZxOTNvNS1fTTBZOVlOVEp0VFdVWFA3UjlrY0JjaklwZkdjTDdnUlRuVzZCMi1wU0dzOTNidE5xaVBIQmJ5eHpDeXlmV2ppR3Q1OUNSMlVPdWw0ekhYYWVVQTBKMU1Pb0FlcnRTQVo5Vk5IZmlpS2hDQVdqWnFMWkdOOEFLc1lJdGJfMzFsdlFxSjZsWVBCTDRoaWs1YVhIbDNIeHd0ZThxb1NWSUdMOWpVSTd6YXpPejJDZXFqdDB6VVdBN3Jwamp6dU5TbUg?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWlNsWVNiaDV4QmMweUl0bGt2ZU12cGVzY3N6ODhNblZ0MnZ3Nm9uaFZESW5OMzBwN0lMME1Mc0hqNHl3bV9OQ0laQ0tTMHdfMzlialNJTVdzTkRuS05VYW5fQy1WRHJxTUpMdVBkQ0lMaDNsLWQzcWg4QnVFUU5EZk9TUGJKVWpGRXBZM0YxQ0gwZ3hrdVozQWJFa0tpamZaTk1icTNfMVB3T3BzMnFoWUJDVGFUY2VvWC00QTd6TXVHZ1BoN1VDel92aVEzU1nSAdQBQVVfeXFMT2hKQzlRRVZxOTNvNS1fTTBZOVlOVEp0VFdVWFA3UjlrY0JjaklwZkdjTDdnUlRuVzZCMi1wU0dzOTNidE5xaVBIQmJ5eHpDeXlmV2ppR3Q1OUNSMlVPdWw0ekhYYWVVQTBKMU1Pb0FlcnRTQVo5Vk5IZmlpS2hDQVdqWnFMWkdOOEFLc1lJdGJfMzFsdlFxSjZsWVBCTDRoaWs1YVhIbDNIeHd0ZThxb1NWSUdMOWpVSTd6YXpPejJDZXFqdDB6VVdBN3Jwamp6dU5TbUg?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T01:58:34+00:00",
+          "title": "Elon Musk Accuses Ambani's Online Supporters Of \"Absurd Hypocrisy\", \"Ridiculous Arguments\"",
+          "description": "Elon Musk Accuses Ambani's Online Supporters Of \"Absurd Hypocrisy\", \"Ridiculous Arguments\"",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "source_names": [
+            "NDTV"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTDRNZURIMER2WGdwaTNFNkl5RjJteEs3ajNpSXF3Y1F5dTBMVWd4Vm90SndicEhoUW9IUnRPRzVIUmNKTWZ1LV9Jd2g1Wkg4T25hRU5aR0JFeS1nR3ZNSDVoMXJUSTh3ekFJWWFfRXY3bDNlRHhKZnZVQU82ckNNSTdZN1ZQRmNqUkwtRXVtNFJrMHAtcmR4clE5cmxjMl96ekFvYmNBTU9KcjI3anc2TWVldUZEQWdOSlJnWF9TWm1NT0NIMFg1SERsNlRxVGJBY0p4eE5LaTV2X0pSRmNVdUNGZjNCR1VrOVBGSjVHcVDSAfgBQVVfeXFMTW5sWkxndXkzS0NIaTBGbWM0RUpyTEVrMThfS09YMW1xLWdxU2tZUjA0c1NsSWRrNjQ3MmlCbkIyRHBkV2hCTS1OQmF5aFdFeElKLVVOZlpSa2Q0b0JtR2pzclplTm5FRV9uMktBQkN3dmJydEtzQUhOWnR2dFRtY1NrQTZZTXp4N1NxWll1elZEbWVVcmRPalQydmxfaTZVQWVBdzRlQWJhMVJBdk9sbWZIcU1rX0xJUDkzTGEwSm1ZREc0eEdkcGJIV0drUXJlZTBqNllJZnlLODgtWkVFeks2WmtFa2RBZnBlQUluODRVOGt5aXFRWUk?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTDRNZURIMER2WGdwaTNFNkl5RjJteEs3ajNpSXF3Y1F5dTBMVWd4Vm90SndicEhoUW9IUnRPRzVIUmNKTWZ1LV9Jd2g1Wkg4T25hRU5aR0JFeS1nR3ZNSDVoMXJUSTh3ekFJWWFfRXY3bDNlRHhKZnZVQU82ckNNSTdZN1ZQRmNqUkwtRXVtNFJrMHAtcmR4clE5cmxjMl96ekFvYmNBTU9KcjI3anc2TWVldUZEQWdOSlJnWF9TWm1NT0NIMFg1SERsNlRxVGJBY0p4eE5LaTV2X0pSRmNVdUNGZjNCR1VrOVBGSjVHcVDSAfgBQVVfeXFMTW5sWkxndXkzS0NIaTBGbWM0RUpyTEVrMThfS09YMW1xLWdxU2tZUjA0c1NsSWRrNjQ3MmlCbkIyRHBkV2hCTS1OQmF5aFdFeElKLVVOZlpSa2Q0b0JtR2pzclplTm5FRV9uMktBQkN3dmJydEtzQUhOWnR2dFRtY1NrQTZZTXp4N1NxWll1elZEbWVVcmRPalQydmxfaTZVQWVBdzRlQWJhMVJBdk9sbWZIcU1rX0xJUDkzTGEwSm1ZREc0eEdkcGJIV0drUXJlZTBqNllJZnlLODgtWkVFeks2WmtFa2RBZnBlQUluODRVOGt5aXFRWUk?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T02:30:00+00:00",
+          "title": "Quote of the day by Elon Musk: The first step is to establish that something is possible, then...",
+          "description": "",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/elon-musk-quote-on-possibility-and-success-why-feasibility-comes-before-probability-3014410-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/elon-musk-quote-on-possibility-and-success-why-feasibility-comes-before-probability-3014410-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T03:17:00+00:00",
+          "title": "'Ambani won't go out of business': Elon Musk says Starlink competition would benefit Indians",
+          "description": "'Ambani won't go out of business': Elon Musk says Starlink competition would benefit Indians",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "source_names": [
+            "The Times of India"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYjNGZlB0ZFZIelRfM09DTEJtcjgtdG9CaTUwMllaYXdaT005OUI4VmFfak80bWNYLWVvNzdSZDlLM0tBZWZqaWcxYlV0bEZEbkpjRzFud2ctak9ScnJUcklaZWg5UTlJRjh4cnVtNjloc3lPSFA3Z3lwc3ZtdkZEMEdmbVpCQWFtbXd4dVU1VDVCMlFrSzZDZ3AyMUQzbTNaVWo0TE42M3ZSeEdTNEJHMENMa1JNajBzOENoTEVvNktuZ0FSd0k1ME5xamNsZFViLUR6V0hzcmQ3QUlOWkVISndXMVBLOXI1eW9ibNIB8gFBVV95cUxNblRXMXVrdTBFWTNETGlJRlFkdnc0b19qU2ZiaGtUbTZ0b2lLaFZJSmpIRHB4dWc2UzZ3OWMzalJCV2FIS0ZEUnJ3akxZUHV2NHJ0WWhUSjlfNFdaaVBwWUxQUnI5UnBET3cwd3N3My1hc1UyZDFIa1l3cUxmamo0Ul9kTDllRVlYMC1WcC1sbjlDYVZJdkNhVUpjV3RGWFhyaXIwTHZQXzc4aVcyVDRDWEc4d1ZaRFZsMmlmcjlkcFRMT2lVNWZfT3Bpa0RGVTJnU1Q4aHRoOFpYQ2tCQ3pnM0tta2I3amRUMzBNRU95eWgwdw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYjNGZlB0ZFZIelRfM09DTEJtcjgtdG9CaTUwMllaYXdaT005OUI4VmFfak80bWNYLWVvNzdSZDlLM0tBZWZqaWcxYlV0bEZEbkpjRzFud2ctak9ScnJUcklaZWg5UTlJRjh4cnVtNjloc3lPSFA3Z3lwc3ZtdkZEMEdmbVpCQWFtbXd4dVU1VDVCMlFrSzZDZ3AyMUQzbTNaVWo0TE42M3ZSeEdTNEJHMENMa1JNajBzOENoTEVvNktuZ0FSd0k1ME5xamNsZFViLUR6V0hzcmQ3QUlOWkVISndXMVBLOXI1eW9ibNIB8gFBVV95cUxNblRXMXVrdTBFWTNETGlJRlFkdnc0b19qU2ZiaGtUbTZ0b2lLaFZJSmpIRHB4dWc2UzZ3OWMzalJCV2FIS0ZEUnJ3akxZUHV2NHJ0WWhUSjlfNFdaaVBwWUxQUnI5UnBET3cwd3N3My1hc1UyZDFIa1l3cUxmamo0Ul9kTDllRVlYMC1WcC1sbjlDYVZJdkNhVUpjV3RGWFhyaXIwTHZQXzc4aVcyVDRDWEc4d1ZaRFZsMmlmcjlkcFRMT2lVNWZfT3Bpa0RGVTJnU1Q4aHRoOFpYQ2tCQ3pnM0tta2I3amRUMzBNRU95eWgwdw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T06:49:00+00:00",
+          "title": "'Starlink poses risk to security agencies': BJP MP Nishikant Dubey responds to Musk's charge",
+          "description": "'Starlink poses risk to security agencies': BJP MP Nishikant Dubey responds to Musk's charge",
+          "source": "Multiple sources",
+          "publisher": "The Times of India",
+          "source_names": [
+            "The Times of India",
+            "Times of India - Top stories"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2lhaTBCZkRMYzN0eEVQbTl4ZVZUbFRuWDBDVGtLNmQ4NDFBVlQ3dDlkRUxsSlotSlliM3NzUndBNmlTUnhGY2xPVE5TcUNWZ2NUUlVCbnNfQURLQ1dyd1NfYnlXdWFJVDVXeEhKUVdMT1oycFRHNWx0YThfeXBVVmNtM0x0eWx2UnJtMDBMcy1UUDZ2V1dzSjdmZEhJaVluZ1ZrT2xubU5nbHB2TUJ0Q0lqMVpQM3lBZ0Q5RklOMXZWQ1lDOWFPczljaGE2ZjR3ZjFJZ2pJLTExNXRzT2lCcUxIM1RDSTlVYjdQV9IB8gFBVV95cUxPWHBFWTN0aG5MSkNXck1HUVlQcWdKaEJlTWo2eEJfaDhiLXd0SlF5ejVIOExHeVVNd3dQOEdIZHdic051a1M1aXJDYUJjOFpwaTd3WXZYVDZ1ZkhMVFZRZUwxeU1mcXBWb2Q1QW9qTi11UEx1TzA3dmFWT3Zfay03Q2toQkExVEdBVlRPME83aVBmMzdsMnExQUUzVkpjZ3ZrdW83RTV4dnZRNkFwUG5BZWVaY2xsT2FmWEVZU2s0MmY4Zmh1S1VKOUYweTdUemRzWHlPcGMtUzRFN1hmeVZ1eHNDdnB1dlFqclV4OVlFQ3FGZw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2lhaTBCZkRMYzN0eEVQbTl4ZVZUbFRuWDBDVGtLNmQ4NDFBVlQ3dDlkRUxsSlotSlliM3NzUndBNmlTUnhGY2xPVE5TcUNWZ2NUUlVCbnNfQURLQ1dyd1NfYnlXdWFJVDVXeEhKUVdMT1oycFRHNWx0YThfeXBVVmNtM0x0eWx2UnJtMDBMcy1UUDZ2V1dzSjdmZEhJaVluZ1ZrT2xubU5nbHB2TUJ0Q0lqMVpQM3lBZ0Q5RklOMXZWQ1lDOWFPczljaGE2ZjR3ZjFJZ2pJLTExNXRzT2lCcUxIM1RDSTlVYjdQV9IB8gFBVV95cUxPWHBFWTN0aG5MSkNXck1HUVlQcWdKaEJlTWo2eEJfaDhiLXd0SlF5ejVIOExHeVVNd3dQOEdIZHdic051a1M1aXJDYUJjOFpwaTd3WXZYVDZ1ZkhMVFZRZUwxeU1mcXBWb2Q1QW9qTi11UEx1TzA3dmFWT3Zfay03Q2toQkExVEdBVlRPME83aVBmMzdsMnExQUUzVkpjZ3ZrdW83RTV4dnZRNkFwUG5BZWVaY2xsT2FmWEVZU2s0MmY4Zmh1S1VKOUYweTdUemRzWHlPcGMtUzRFN1hmeVZ1eHNDdnB1dlFqclV4OVlFQ3FGZw?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/starlink-poses-risk-to-security-agencies-bjp-mp-nishikant-dubey-responds-to-musks-charge/articleshow/134866167.cms",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T07:48:06+00:00",
+          "title": "Rathee shows passport, hits back at ‘German citizen’ claims post-detention",
+          "description": "Rathee shows passport, hits back at ‘German citizen’ claims post-detention",
+          "source": "National Herald",
+          "publisher": "National Herald",
+          "source_names": [
+            "National Herald"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1EyblRTTFpwWVlBNFR6SHh3NWNSTTFuTHBRRzZta3pUY184U1dkUjdSRU50RG96dEtsNExzLXdLUjdNTy1fVUl6SGJsUXZBaFZXY2ppV21HbHF0UHY0WFBaM3YzenlvNDRfUkFxRDRnSUd5ZjFhdTBkajhaVnNWRVdNcHo2TS1mekk0NUhFWmwwRHY2ZGp1M0FCcWoyckp2d3BxVGFRSjZvd3Z6U24xS1VrV3Fvclpj0gHGAUFVX3lxTE5uSE9Dd3FYbW9WZGdoV1hna3BuYzA4OGZaWEZTVUJqejVGZi1QUDZrdEVoNHo5OTBpWjBKMWptT01Ud3ZzR2V6d0lnajJ0aElNLUFiU1BRQ2hVNTFDYTI2M3hHaVB1LUJMQUJFOFFBbU9RbWV1WEZvcnZIaVFhbEJoZWhVMU5xMnpCY2M1MVh0RERfdWFJSkJiLWVWR25OUzFSNEkwT2FWLUpwN2lMSFhlb0V3Y1BJV0lsRGtZTWlvRW0tTGlJZw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1EyblRTTFpwWVlBNFR6SHh3NWNSTTFuTHBRRzZta3pUY184U1dkUjdSRU50RG96dEtsNExzLXdLUjdNTy1fVUl6SGJsUXZBaFZXY2ppV21HbHF0UHY0WFBaM3YzenlvNDRfUkFxRDRnSUd5ZjFhdTBkajhaVnNWRVdNcHo2TS1mekk0NUhFWmwwRHY2ZGp1M0FCcWoyckp2d3BxVGFRSjZvd3Z6U24xS1VrV3Fvclpj0gHGAUFVX3lxTE5uSE9Dd3FYbW9WZGdoV1hna3BuYzA4OGZaWEZTVUJqejVGZi1QUDZrdEVoNHo5OTBpWjBKMWptT01Ud3ZzR2V6d0lnajJ0aElNLUFiU1BRQ2hVNTFDYTI2M3hHaVB1LUJMQUJFOFFBbU9RbWV1WEZvcnZIaVFhbEJoZWhVMU5xMnpCY2M1MVh0RERfdWFJSkJiLWVWR25OUzFSNEkwT2FWLUpwN2lMSFhlb0V3Y1BJV0lsRGtZTWlvRW0tTGlJZw?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:10:59+00:00",
+          "title": "''Baseless & Misconceived''... India Rebut Musk's 'Starlink Stalled' Claim WHY STARLINK REMAINS A SOVEREIGNTY TANGLE FOR INDIA Nilesh Shah says ''India has seen that relying on global technology can see withdrawal at crucial times..We need to ens",
+          "description": "''Baseless & Misconceived''... India Rebut Musk's 'Starlink Stalled' Claim WHY STARLINK REMAINS A SOVEREIGNTY TANGLE FOR INDIA Nilesh Shah says ''India has seen that relying on global technology can see withdrawal at crucial times..We need to ens",
+          "source": "LinkedIn",
+          "publisher": "LinkedIn",
+          "source_names": [
+            "LinkedIn"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzZiaWdackxHYUJIcC05ZEk2LWRZTGVHRHJucVpiVlJxUHgwVjlla1BHdUZtMHVydERtZUhrUFhVY3lxOHlKallGV1hUbC1FdFRYNkhjeTY4OFF6aXVibjJvMWIxUVZLbjBXMFQwTzFtRHB6ZHVxeVlyQmRRQXJFWU5NcEd0eUtxTkZDeUM4Z1ZLbHB4X2kzRVM5U0xpeWxxeTNuSA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzZiaWdackxHYUJIcC05ZEk2LWRZTGVHRHJucVpiVlJxUHgwVjlla1BHdUZtMHVydERtZUhrUFhVY3lxOHlKallGV1hUbC1FdFRYNkhjeTY4OFF6aXVibjJvMWIxUVZLbjBXMFQwTzFtRHB6ZHVxeVlyQmRRQXJFWU5NcEd0eUtxTkZDeUM4Z1ZLbHB4X2kzRVM5U0xpeWxxeTNuSA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:38:58+00:00",
+          "title": "Starlink poses security threats, Manmohan govt flagged satcom risks in 2013-14: BJP MP hits back at Musk",
+          "description": "Starlink poses security threats, Manmohan govt flagged satcom risks in 2013-14: BJP MP hits back at Musk",
+          "source": "Business Today",
+          "publisher": "Business Today",
+          "source_names": [
+            "Business Today"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFRhS3puSTc4OTVWLUlqRjZMUmRKdEM5YmxTRVRnVzY4T1Zsb21wTGF3Q010bGpoNXZkR1JWdThIX25hajZGWGFkZnBOXzk5TVhCRWtJY0Rha21mV3U4SERXSGVEb0ZieFZuNXQwbmEtSlNzbkRxLURoOXIxQ1I1MHh6S0VqdjNGd2pjQjg1dXRXcXhLZVJRSnQzWlZDTXlUamNSSFJkdFhTZmlvTVY2b21aWmxhQ08wT2VZc1plUTZQaGlJT2I3bVhrcHg3MXFXdlQxMWJSbTAwcDhOVGZlemw3WVczenJqN19SWW9NVzVmbFnSAfgBQVVfeXFMUFhOYXZ0bzduQnQxcU1qVmRUYlN2Mmo4MTc4U0RjZWlPczdvZnF1LVdhX2h6OHAtWEI5VjM3REpydjRWT3lQODNLRUQ2Qm4zUi1WMUF2bWtWMHF4cUxSVFJsQXYtdnQxekNRR3U5T3FaY3hlVkN5dHRZSDQ2eWV6Rmg0RmhtbU81UmJLZFc0eG95dzdzQ3RxYzM3anVYaktXOE52WTZka0V6dlFwVkZKZFpxRnFKWHhHbFRJajVYWXBRb2RQSTRqak5TYldXMVFCcWJMUTdpRkpXVzlRd3RFeGRhUW8yTlpkcF83alB5b0VOVS1MeEFiUG0?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFRhS3puSTc4OTVWLUlqRjZMUmRKdEM5YmxTRVRnVzY4T1Zsb21wTGF3Q010bGpoNXZkR1JWdThIX25hajZGWGFkZnBOXzk5TVhCRWtJY0Rha21mV3U4SERXSGVEb0ZieFZuNXQwbmEtSlNzbkRxLURoOXIxQ1I1MHh6S0VqdjNGd2pjQjg1dXRXcXhLZVJRSnQzWlZDTXlUamNSSFJkdFhTZmlvTVY2b21aWmxhQ08wT2VZc1plUTZQaGlJT2I3bVhrcHg3MXFXdlQxMWJSbTAwcDhOVGZlemw3WVczenJqN19SWW9NVzVmbFnSAfgBQVVfeXFMUFhOYXZ0bzduQnQxcU1qVmRUYlN2Mmo4MTc4U0RjZWlPczdvZnF1LVdhX2h6OHAtWEI5VjM3REpydjRWT3lQODNLRUQ2Qm4zUi1WMUF2bWtWMHF4cUxSVFJsQXYtdnQxekNRR3U5T3FaY3hlVkN5dHRZSDQ2eWV6Rmg0RmhtbU81UmJLZFc0eG95dzdzQ3RxYzM3anVYaktXOE52WTZka0V6dlFwVkZKZFpxRnFKWHhHbFRJajVYWXBRb2RQSTRqak5TYldXMVFCcWJMUTdpRkpXVzlRd3RFeGRhUW8yTlpkcF83alB5b0VOVS1MeEFiUG0?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:44:48+00:00",
+          "title": "Elon Musk says Starlink will be affordable in India; Govt officials call claims on licence ‘blatantly false’",
+          "description": "Elon Musk says Starlink will be affordable in India; Govt officials call claims on licence ‘blatantly false’",
+          "source": "The Week",
+          "publisher": "The Week",
+          "source_names": [
+            "The Week"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNck1ZWWo0MWp4SE5jYXQwcFEzN1hhcEp0b2thQU9TT0ZmdEdxd1htTi1jamtiaDdHaTJseWROM0QwWmNmQVFGbUJDUGpoRlJEQzFBYUc3WGdYbnJlZVlIMzEwbkJKNG9tWHViWUdPVDB3M0lnR2VMdjd5QldMeFdrdHVpeDQzRHNTdVJxUC12bGJQcVdYaGh2ZFVXbmxUbVBCZ0ZHbW5qVzJrY3FzT05PRTVxSnJhVXhzN1V5Q01rck1SbWZrdDVlN3NtWXFwMUU1Vl9qU0dzcS1Wb0lnMmQwaDJlZEFvUHVmX3lhVDhGONIB9AFBVV95cUxNN21SbzBseWcyQjZkLVVleW5CeFNfcnUxcDdxeWhIUDlXbEo5X2N1emNCbUZkckc1X0Z3SFFFQ2JoSlEwaEluaEF6VzFIbkwybFRocUlOX1pjcjV1aXYyOERWY0s3OWdwTWVTeEhpMTFCVWkybHhZZ2pMZWpoMzFadlpObmRWenRDMkhralNOMzZlVE1wdzg5Y0F6TXRMeURjeUp0UDlmUzdiU1haZ1d5cE44VENmd0FTbi1uSC1uY0RORDE5d0k2bXRwZHpQUy11VnNXbGpKdUN2ckJfM1VPNTBvMkdFaWh3MFlpWXRCYjVJY2JS?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNck1ZWWo0MWp4SE5jYXQwcFEzN1hhcEp0b2thQU9TT0ZmdEdxd1htTi1jamtiaDdHaTJseWROM0QwWmNmQVFGbUJDUGpoRlJEQzFBYUc3WGdYbnJlZVlIMzEwbkJKNG9tWHViWUdPVDB3M0lnR2VMdjd5QldMeFdrdHVpeDQzRHNTdVJxUC12bGJQcVdYaGh2ZFVXbmxUbVBCZ0ZHbW5qVzJrY3FzT05PRTVxSnJhVXhzN1V5Q01rck1SbWZrdDVlN3NtWXFwMUU1Vl9qU0dzcS1Wb0lnMmQwaDJlZEFvUHVmX3lhVDhGONIB9AFBVV95cUxNN21SbzBseWcyQjZkLVVleW5CeFNfcnUxcDdxeWhIUDlXbEo5X2N1emNCbUZkckc1X0Z3SFFFQ2JoSlEwaEluaEF6VzFIbkwybFRocUlOX1pjcjV1aXYyOERWY0s3OWdwTWVTeEhpMTFCVWkybHhZZ2pMZWpoMzFadlpObmRWenRDMkhralNOMzZlVE1wdzg5Y0F6TXRMeURjeUp0UDlmUzdiU1haZ1d5cE44VENmd0FTbi1uSC1uY0RORDE5d0k2bXRwZHpQUy11VnNXbGpKdUN2ckJfM1VPNTBvMkdFaWh3MFlpWXRCYjVJY2JS?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T09:29:16+00:00",
+          "title": "“India Won’t Compromise Security for Starlink”: Nishikant Dubey Hits Back at Elon Musk",
+          "description": "“India Won’t Compromise Security for Starlink”: Nishikant Dubey Hits Back at Elon Musk",
+          "source": "Pragativadi",
+          "publisher": "Pragativadi",
+          "source_names": [
+            "Pragativadi"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dW1kT19iRVUwbUNfa3F5N1ZoUmp2UjAtUFNJLXI0c2FqN041dkFkVWVZajdXMUgxaDJyNGZmdm5pUVUtUkhKd3RkYnpfejJZZHFtM1BlNzRwOElBMlRDOEUxSnlVZmF6QU94SUI0bXdPX0N0MElUWUVPTV9qZ3M?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dW1kT19iRVUwbUNfa3F5N1ZoUmp2UjAtUFNJLXI0c2FqN041dkFkVWVZajdXMUgxaDJyNGZmdm5pUVUtUkhKd3RkYnpfejJZZHFtM1BlNzRwOElBMlRDOEUxSnlVZmF6QU94SUI0bXdPX0N0MElUWUVPTV9qZ3M?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T10:46:35+00:00",
+          "title": "Elon Musk’s tech empire is challenging India’s sovereignty",
+          "description": "Elon Musk’s tech empire is challenging India’s sovereignty",
+          "source": "Firstpost",
+          "publisher": "Firstpost",
+          "source_names": [
+            "Firstpost"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFU2Z2E3OW5XTUhYYlN0MG9UNjFCR3lpWjVNbm1CT2pQY2c3X1hkV05VVnhfdXVwVWkxbU9hbUhhODRXM3otQlMwbnkzYmlJUWoxeUEzZEFDVkpvUVhmMlN0Q3I4NjZxNndqWEJneDJ3RG9BVWdGeHZ1Tzh0bUYwTzhsVG4xb2Ezd3MwWGdZS096UC1sYlFsQmIzcE5NNEI2TS1oZ0Jvc9IBrAFBVV95cUxPWjQ5UE1ZSG5RTUsyblpCamN5c2ZfSDBUYi1iMXBObDdXa0pGSi1fMzhmRHg1N25WOV8tOWZuQmN6ZkhTWFQ2TTlESlpvTE90ZjBWbEZZeTJKazlCYTh3SW13Zkx1NGlpd1lybFhMUDhtMWsyRm9oN25Ib2JaejRkclF0b01zUGN4dVhOc2NQcFVBSy02MlJCOXhmTDRwbF9SRkJycW1XQnBrZHJo?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFU2Z2E3OW5XTUhYYlN0MG9UNjFCR3lpWjVNbm1CT2pQY2c3X1hkV05VVnhfdXVwVWkxbU9hbUhhODRXM3otQlMwbnkzYmlJUWoxeUEzZEFDVkpvUVhmMlN0Q3I4NjZxNndqWEJneDJ3RG9BVWdGeHZ1Tzh0bUYwTzhsVG4xb2Ezd3MwWGdZS096UC1sYlFsQmIzcE5NNEI2TS1oZ0Jvc9IBrAFBVV95cUxPWjQ5UE1ZSG5RTUsyblpCamN5c2ZfSDBUYi1iMXBObDdXa0pGSi1fMzhmRHg1N25WOV8tOWZuQmN6ZkhTWFQ2TTlESlpvTE90ZjBWbEZZeTJKazlCYTh3SW13Zkx1NGlpd1lybFhMUDhtMWsyRm9oN25Ib2JaejRkclF0b01zUGN4dVhOc2NQcFVBSy02MlJCOXhmTDRwbF9SRkJycW1XQnBrZHJo?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:17:00+00:00",
+          "title": "'Security agencies face challenge from Starlink:' Nishikant Dubey",
+          "description": "'Security agencies face challenge from Starlink:' Nishikant Dubey",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
+          "source_names": [
+            "The Times of India"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1dCejVqTWhuSUJlMXZRWEtGZEJ6QkdqWnV0WGprd3pGeXZ4OEsybms1UzI4emt3Uzd6STUtZUtpYko4RlNDRWRTRjF6SEFOVDhVY0h3bExpRERUVjJ6cUw2aTFMaVlwdzAzeWdYeUN0Z3BtWGxlT1VLWW04YlNMNlJhM3lOWW9zcHNqTGNQTDZZVmVKZnNIOWNRb2RDQWhWM3NVdVF6U0l0NlVjdHhhNUg1Q3hGMWpMTHhTYTg0UVhzc1RudXVaakxn0gHPAUFVX3lxTFAzTjB4YVhBNkVqNUdSQk0tMHViMzUySVhNSmRzMEV5SjhMNERmWVplVjhIaVhSdWwwZ2ZhS2JXbGFJRkYteVZUYmlBbDQyaTJ0b0RCUDFoZElTMTFuMVhEV0tMck1IWnY4aGlZc2s0MzczbmRUUnpQak5zcnVrMzFicE5weDJTS2RybkMzbU9HVzNPMnBUcUE4aHhTSVF4Sl85NjlLY1Y0NGdOaWZ4Ny12XzdXRGo2amMzTGR3RWlOZWNaalE2MEppcUo3aFdyOA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1dCejVqTWhuSUJlMXZRWEtGZEJ6QkdqWnV0WGprd3pGeXZ4OEsybms1UzI4emt3Uzd6STUtZUtpYko4RlNDRWRTRjF6SEFOVDhVY0h3bExpRERUVjJ6cUw2aTFMaVlwdzAzeWdYeUN0Z3BtWGxlT1VLWW04YlNMNlJhM3lOWW9zcHNqTGNQTDZZVmVKZnNIOWNRb2RDQWhWM3NVdVF6U0l0NlVjdHhhNUg1Q3hGMWpMTHhTYTg0UVhzc1RudXVaakxn0gHPAUFVX3lxTFAzTjB4YVhBNkVqNUdSQk0tMHViMzUySVhNSmRzMEV5SjhMNERmWVplVjhIaVhSdWwwZ2ZhS2JXbGFJRkYteVZUYmlBbDQyaTJ0b0RCUDFoZElTMTFuMVhEV0tMck1IWnY4aGlZc2s0MzczbmRUUnpQak5zcnVrMzFicE5weDJTS2RybkMzbU9HVzNPMnBUcUE4aHhTSVF4Sl85NjlLY1Y0NGdOaWZ4Ny12XzdXRGo2amMzTGR3RWlOZWNaalE2MEppcUo3aFdyOA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — India Today",
+          "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPWlNsWVNiaDV4QmMweUl0bGt2ZU12cGVzY3N6ODhNblZ0MnZ3Nm9uaFZESW5OMzBwN0lMME1Mc0hqNHl3bV9OQ0laQ0tTMHdfMzlialNJTVdzTkRuS05VYW5fQy1WRHJxTUpMdVBkQ0lMaDNsLWQzcWg4QnVFUU5EZk9TUGJKVWpGRXBZM0YxQ0gwZ3hrdVozQWJFa0tpamZaTk1icTNfMVB3T3BzMnFoWUJDVGFUY2VvWC00QTd6TXVHZ1BoN1VDel92aVEzU1nSAdQBQVVfeXFMT2hKQzlRRVZxOTNvNS1fTTBZOVlOVEp0VFdVWFA3UjlrY0JjaklwZkdjTDdnUlRuVzZCMi1wU0dzOTNidE5xaVBIQmJ5eHpDeXlmV2ppR3Q1OUNSMlVPdWw0ekhYYWVVQTBKMU1Pb0FlcnRTQVo5Vk5IZmlpS2hDQVdqWnFMWkdOOEFLc1lJdGJfMzFsdlFxSjZsWVBCTDRoaWs1YVhIbDNIeHd0ZThxb1NWSUdMOWpVSTd6YXpPejJDZXFqdDB6VVdBN3Jwamp6dU5TbUg?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNTDRNZURIMER2WGdwaTNFNkl5RjJteEs3ajNpSXF3Y1F5dTBMVWd4Vm90SndicEhoUW9IUnRPRzVIUmNKTWZ1LV9Jd2g1Wkg4T25hRU5aR0JFeS1nR3ZNSDVoMXJUSTh3ekFJWWFfRXY3bDNlRHhKZnZVQU82ckNNSTdZN1ZQRmNqUkwtRXVtNFJrMHAtcmR4clE5cmxjMl96ekFvYmNBTU9KcjI3anc2TWVldUZEQWdOSlJnWF9TWm1NT0NIMFg1SERsNlRxVGJBY0p4eE5LaTV2X0pSRmNVdUNGZjNCR1VrOVBGSjVHcVDSAfgBQVVfeXFMTW5sWkxndXkzS0NIaTBGbWM0RUpyTEVrMThfS09YMW1xLWdxU2tZUjA0c1NsSWRrNjQ3MmlCbkIyRHBkV2hCTS1OQmF5aFdFeElKLVVOZlpSa2Q0b0JtR2pzclplTm5FRV9uMktBQkN3dmJydEtzQUhOWnR2dFRtY1NrQTZZTXp4N1NxWll1elZEbWVVcmRPalQydmxfaTZVQWVBdzRlQWJhMVJBdk9sbWZIcU1rX0xJUDkzTGEwSm1ZREc0eEdkcGJIV0drUXJlZTBqNllJZnlLODgtWkVFeks2WmtFa2RBZnBlQUluODRVOGt5aXFRWUk?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/education-today/gk-current-affairs/story/elon-musk-quote-on-possibility-and-success-why-feasibility-comes-before-probability-3014410-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNYjNGZlB0ZFZIelRfM09DTEJtcjgtdG9CaTUwMllaYXdaT005OUI4VmFfak80bWNYLWVvNzdSZDlLM0tBZWZqaWcxYlV0bEZEbkpjRzFud2ctak9ScnJUcklaZWg5UTlJRjh4cnVtNjloc3lPSFA3Z3lwc3ZtdkZEMEdmbVpCQWFtbXd4dVU1VDVCMlFrSzZDZ3AyMUQzbTNaVWo0TE42M3ZSeEdTNEJHMENMa1JNajBzOENoTEVvNktuZ0FSd0k1ME5xamNsZFViLUR6V0hzcmQ3QUlOWkVISndXMVBLOXI1eW9ibNIB8gFBVV95cUxNblRXMXVrdTBFWTNETGlJRlFkdnc0b19qU2ZiaGtUbTZ0b2lLaFZJSmpIRHB4dWc2UzZ3OWMzalJCV2FIS0ZEUnJ3akxZUHV2NHJ0WWhUSjlfNFdaaVBwWUxQUnI5UnBET3cwd3N3My1hc1UyZDFIa1l3cUxmamo0Ul9kTDllRVlYMC1WcC1sbjlDYVZJdkNhVUpjV3RGWFhyaXIwTHZQXzc4aVcyVDRDWEc4d1ZaRFZsMmlmcjlkcFRMT2lVNWZfT3Bpa0RGVTJnU1Q4aHRoOFpYQ2tCQ3pnM0tta2I3amRUMzBNRU95eWgwdw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNN2lhaTBCZkRMYzN0eEVQbTl4ZVZUbFRuWDBDVGtLNmQ4NDFBVlQ3dDlkRUxsSlotSlliM3NzUndBNmlTUnhGY2xPVE5TcUNWZ2NUUlVCbnNfQURLQ1dyd1NfYnlXdWFJVDVXeEhKUVdMT1oycFRHNWx0YThfeXBVVmNtM0x0eWx2UnJtMDBMcy1UUDZ2V1dzSjdmZEhJaVluZ1ZrT2xubU5nbHB2TUJ0Q0lqMVpQM3lBZ0Q5RklOMXZWQ1lDOWFPczljaGE2ZjR3ZjFJZ2pJLTExNXRzT2lCcUxIM1RDSTlVYjdQV9IB8gFBVV95cUxPWHBFWTN0aG5MSkNXck1HUVlQcWdKaEJlTWo2eEJfaDhiLXd0SlF5ejVIOExHeVVNd3dQOEdIZHdic051a1M1aXJDYUJjOFpwaTd3WXZYVDZ1ZkhMVFZRZUwxeU1mcXBWb2Q1QW9qTi11UEx1TzA3dmFWT3Zfay03Q2toQkExVEdBVlRPME83aVBmMzdsMnExQUUzVkpjZ3ZrdW83RTV4dnZRNkFwUG5BZWVaY2xsT2FmWEVZU2s0MmY4Zmh1S1VKOUYweTdUemRzWHlPcGMtUzRFN1hmeVZ1eHNDdnB1dlFqclV4OVlFQ3FGZw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://timesofindia.indiatimes.com/india/starlink-poses-risk-to-security-agencies-bjp-mp-nishikant-dubey-responds-to-musks-charge/articleshow/134866167.cms",
+          "type": "article"
+        },
+        {
+          "name": "Article — National Herald",
+          "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNV1EyblRTTFpwWVlBNFR6SHh3NWNSTTFuTHBRRzZta3pUY184U1dkUjdSRU50RG96dEtsNExzLXdLUjdNTy1fVUl6SGJsUXZBaFZXY2ppV21HbHF0UHY0WFBaM3YzenlvNDRfUkFxRDRnSUd5ZjFhdTBkajhaVnNWRVdNcHo2TS1mekk0NUhFWmwwRHY2ZGp1M0FCcWoyckp2d3BxVGFRSjZvd3Z6U24xS1VrV3Fvclpj0gHGAUFVX3lxTE5uSE9Dd3FYbW9WZGdoV1hna3BuYzA4OGZaWEZTVUJqejVGZi1QUDZrdEVoNHo5OTBpWjBKMWptT01Ud3ZzR2V6d0lnajJ0aElNLUFiU1BRQ2hVNTFDYTI2M3hHaVB1LUJMQUJFOFFBbU9RbWV1WEZvcnZIaVFhbEJoZWhVMU5xMnpCY2M1MVh0RERfdWFJSkJiLWVWR25OUzFSNEkwT2FWLUpwN2lMSFhlb0V3Y1BJV0lsRGtZTWlvRW0tTGlJZw?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — LinkedIn",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNzZiaWdackxHYUJIcC05ZEk2LWRZTGVHRHJucVpiVlJxUHgwVjlla1BHdUZtMHVydERtZUhrUFhVY3lxOHlKallGV1hUbC1FdFRYNkhjeTY4OFF6aXVibjJvMWIxUVZLbjBXMFQwTzFtRHB6ZHVxeVlyQmRRQXJFWU5NcEd0eUtxTkZDeUM4Z1ZLbHB4X2kzRVM5U0xpeWxxeTNuSA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Business Today",
+          "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNFRhS3puSTc4OTVWLUlqRjZMUmRKdEM5YmxTRVRnVzY4T1Zsb21wTGF3Q010bGpoNXZkR1JWdThIX25hajZGWGFkZnBOXzk5TVhCRWtJY0Rha21mV3U4SERXSGVEb0ZieFZuNXQwbmEtSlNzbkRxLURoOXIxQ1I1MHh6S0VqdjNGd2pjQjg1dXRXcXhLZVJRSnQzWlZDTXlUamNSSFJkdFhTZmlvTVY2b21aWmxhQ08wT2VZc1plUTZQaGlJT2I3bVhrcHg3MXFXdlQxMWJSbTAwcDhOVGZlemw3WVczenJqN19SWW9NVzVmbFnSAfgBQVVfeXFMUFhOYXZ0bzduQnQxcU1qVmRUYlN2Mmo4MTc4U0RjZWlPczdvZnF1LVdhX2h6OHAtWEI5VjM3REpydjRWT3lQODNLRUQ2Qm4zUi1WMUF2bWtWMHF4cUxSVFJsQXYtdnQxekNRR3U5T3FaY3hlVkN5dHRZSDQ2eWV6Rmg0RmhtbU81UmJLZFc0eG95dzdzQ3RxYzM3anVYaktXOE52WTZka0V6dlFwVkZKZFpxRnFKWHhHbFRJajVYWXBRb2RQSTRqak5TYldXMVFCcWJMUTdpRkpXVzlRd3RFeGRhUW8yTlpkcF83alB5b0VOVS1MeEFiUG0?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Week",
+          "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNck1ZWWo0MWp4SE5jYXQwcFEzN1hhcEp0b2thQU9TT0ZmdEdxd1htTi1jamtiaDdHaTJseWROM0QwWmNmQVFGbUJDUGpoRlJEQzFBYUc3WGdYbnJlZVlIMzEwbkJKNG9tWHViWUdPVDB3M0lnR2VMdjd5QldMeFdrdHVpeDQzRHNTdVJxUC12bGJQcVdYaGh2ZFVXbmxUbVBCZ0ZHbW5qVzJrY3FzT05PRTVxSnJhVXhzN1V5Q01rck1SbWZrdDVlN3NtWXFwMUU1Vl9qU0dzcS1Wb0lnMmQwaDJlZEFvUHVmX3lhVDhGONIB9AFBVV95cUxNN21SbzBseWcyQjZkLVVleW5CeFNfcnUxcDdxeWhIUDlXbEo5X2N1emNCbUZkckc1X0Z3SFFFQ2JoSlEwaEluaEF6VzFIbkwybFRocUlOX1pjcjV1aXYyOERWY0s3OWdwTWVTeEhpMTFCVWkybHhZZ2pMZWpoMzFadlpObmRWenRDMkhralNOMzZlVE1wdzg5Y0F6TXRMeURjeUp0UDlmUzdiU1haZ1d5cE44VENmd0FTbi1uSC1uY0RORDE5d0k2bXRwZHpQUy11VnNXbGpKdUN2ckJfM1VPNTBvMkdFaWh3MFlpWXRCYjVJY2JS?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Pragativadi",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90dW1kT19iRVUwbUNfa3F5N1ZoUmp2UjAtUFNJLXI0c2FqN041dkFkVWVZajdXMUgxaDJyNGZmdm5pUVUtUkhKd3RkYnpfejJZZHFtM1BlNzRwOElBMlRDOEUxSnlVZmF6QU94SUI0bXdPX0N0MElUWUVPTV9qZ3M?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Firstpost",
+          "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFU2Z2E3OW5XTUhYYlN0MG9UNjFCR3lpWjVNbm1CT2pQY2c3X1hkV05VVnhfdXVwVWkxbU9hbUhhODRXM3otQlMwbnkzYmlJUWoxeUEzZEFDVkpvUVhmMlN0Q3I4NjZxNndqWEJneDJ3RG9BVWdGeHZ1Tzh0bUYwTzhsVG4xb2Ezd3MwWGdZS096UC1sYlFsQmIzcE5NNEI2TS1oZ0Jvc9IBrAFBVV95cUxPWjQ5UE1ZSG5RTUsyblpCamN5c2ZfSDBUYi1iMXBObDdXa0pGSi1fMzhmRHg1N25WOV8tOWZuQmN6ZkhTWFQ2TTlESlpvTE90ZjBWbEZZeTJKazlCYTh3SW13Zkx1NGlpd1lybFhMUDhtMWsyRm9oN25Ib2JaejRkclF0b01zUGN4dVhOc2NQcFVBSy02MlJCOXhmTDRwbF9SRkJycW1XQnBrZHJo?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNV1dCejVqTWhuSUJlMXZRWEtGZEJ6QkdqWnV0WGprd3pGeXZ4OEsybms1UzI4emt3Uzd6STUtZUtpYko4RlNDRWRTRjF6SEFOVDhVY0h3bExpRERUVjJ6cUw2aTFMaVlwdzAzeWdYeUN0Z3BtWGxlT1VLWW04YlNMNlJhM3lOWW9zcHNqTGNQTDZZVmVKZnNIOWNRb2RDQWhWM3NVdVF6U0l0NlVjdHhhNUg1Q3hGMWpMTHhTYTg0UVhzc1RudXVaakxn0gHPAUFVX3lxTFAzTjB4YVhBNkVqNUdSQk0tMHViMzUySVhNSmRzMEV5SjhMNERmWVplVjhIaVhSdWwwZ2ZhS2JXbGFJRkYteVZUYmlBbDQyaTJ0b0RCUDFoZElTMTFuMVhEV0tMck1IWnY4aGlZc2s0MzczbmRUUnpQak5zcnVrMzFicE5weDJTS2RybkMzbU9HVzNPMnBUcUE4aHhTSVF4Sl85NjlLY1Y0NGdOaWZ4Ny12XzdXRGo2amMzTGR3RWlOZWNaalE2MEppcUo3aFdyOA?oc=5",
+          "type": "article"
+        }
+      ],
+      "source_count": 11,
+      "rank": 2,
       "snapshot_date": "2026-10-11"
     },
     {
       "id": "66830bba429a",
       "title": "Houthis exempt Mecca, Medina airports from attacks as Riyadh vows revenge",
       "brief_summary": "On Sunday, the Houthis issued a warning against using Saudi airspace for all but Mecca and Medina airports. This warning follows an attack on Riyadh's international airport that resulted in civilian casualties and fatalities. Houthi spokesperson Yahya Saree indicated their targeting actions would continue based on a tit-for-tat strategy. Saudi",
-      "summary_100": "Houthis exempt Mecca, Medina airports from attacks as Riyadh vows revenge. The tracker consolidates related public reporting into one chronological record. Times of India - Top stories: On Sunday, the Houthis issued a warning against using Saudi airspace for all but Mecca and Medina airports. This warning follows an attack on Riyadh's international airport that resulted in civilian casualties and fatalities. Houthi spokesperson Yahya Saree indicated their targeting actions would continue based on a tit-for-tat strategy. Saudi Arabia vowed retaliation, labeling the attack a war crime and a violation of international law.. The Hindu - Home: Missile strike at Riyadh",
+      "summary_100": "Houthis exempt Mecca, Medina airports from attacks as Riyadh vows revenge. The tracker consolidates related public reporting into one chronological record. India Today - Latest: Stay away from Saudi airports: Houthis warn airlines after striking Riyadh airport. Times of India - Top stories: On Sunday, the Houthis issued a warning against using Saudi airspace for all but Mecca and Medina airports. This warning follows an attack on Riyadh's international airport that resulted in civilian casualties and fatalities. Houthi spokesperson Yahya Saree indicated their targeting actions would continue based on a tit-for-tat strategy. Saudi Arabia vowed retaliation, labeling the attack a",
       "category": "India",
       "status": "Monitoring",
-      "score": 134.99,
+      "score": 146.45,
       "first_observed": "2026-10-11T03:56:31+00:00",
-      "last_updated": "2026-10-11T10:34:11+00:00",
+      "last_updated": "2026-10-11T11:34:39+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
           "time": "2026-10-11T03:56:31+00:00",
           "title": "\"Unacceptable\": India On Missile Attack On Riyadh Airport That Killed 12",
           "description": "\"Unacceptable\": India On Missile Attack On Riyadh Airport That Killed 12",
-          "source": "NDTV",
+          "source": "Multiple sources",
           "publisher": "NDTV",
           "source_names": [
-            "NDTV"
+            "NDTV",
+            "Sandesh"
           ],
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaEtpV3hjRGpSUENPeFp5NW0yT0NhdVVEM1hPM0lGQTlNNnZWanA4TVM0LVRSNTJ1dXJFd0ZvaUhBRXJIUDJqM3lEZVhPX053Y1k4ZkhUdDJqeG04dGdpV2hFV3ZGT2FlMjdKMmFtTkYzNjJjWHQtN0E1aG1lLWRRVEhLUk9OQ08tRHNrZDhrSXZxV3k4RjRVZlQ5RXdsb1MyaUxyemNYakpiRGVhcUthdTYtaU5Rc29UTDRfUldSM0JqcFAxTkE2OG0wa0FWc191N2RudHYxVUFmd0ZpOVQwUUdDX1VPMkZlMkd6cGVn0gH2AUFVX3lxTE5oVnk1Q04xb00weWJRSDFpSU5ZNXcyUFJKWmFQV1hWUmhYU0x0cndmcjVsNkhqN2RZRmU5Zkt0aXUtV0t2TEJCczdFeU5FMEVLRzlwd3NEX081NUd6LXE0QU91ZGRtdENxQ0N3MmxyekpUbFdFYXIxMy02a3FuRVJyY3ZJTi1hUkcyamhIa292TUxfQjN4T3l0YlozdGlFVW9vTjlYZTktR0EtWk9PQnVZcmUwcEJLWjRiZUZuczR3a2RBYzNWUG90RVhMM0hvTlozd0l2UEx5alY5ZkpyX0JRRUItV3YzWm05TDIyMl9NRzdTaGYyQQ?oc=5",
           "links": [
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaEtpV3hjRGpSUENPeFp5NW0yT0NhdVVEM1hPM0lGQTlNNnZWanA4TVM0LVRSNTJ1dXJFd0ZvaUhBRXJIUDJqM3lEZVhPX053Y1k4ZkhUdDJqeG04dGdpV2hFV3ZGT2FlMjdKMmFtTkYzNjJjWHQtN0E1aG1lLWRRVEhLUk9OQ08tRHNrZDhrSXZxV3k4RjRVZlQ5RXdsb1MyaUxyemNYakpiRGVhcUthdTYtaU5Rc29UTDRfUldSM0JqcFAxTkE2OG0wa0FWc191N2RudHYxVUFmd0ZpOVQwUUdDX1VPMkZlMkd6cGVn0gH2AUFVX3lxTE5oVnk1Q04xb00weWJRSDFpSU5ZNXcyUFJKWmFQV1hWUmhYU0x0cndmcjVsNkhqN2RZRmU5Zkt0aXUtV0t2TEJCczdFeU5FMEVLRzlwd3NEX081NUd6LXE0QU91ZGRtdENxQ0N3MmxyekpUbFdFYXIxMy02a3FuRVJyY3ZJTi1hUkcyamhIa292TUxfQjN4T3l0YlozdGlFVW9vTjlYZTktR0EtWk9PQnVZcmUwcEJLWjRiZUZuczR3a2RBYzNWUG90RVhMM0hvTlozd0l2UEx5alY5ZkpyX0JRRUItV3YzWm05TDIyMl9NRzdTaGYyQQ?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEE2aDh2YW0zdVVkWEZRaGpKbU5FV3hLYnlJdkw0WWVZTncwU2dTb0VVc09GV3NTdHpZR0FCTE1XUzE0eVkzZVlibERKcDNNNW8tdGFxdGpkZVBXYTNHSzgxWFctM1FOa3FKbUJoei1GSkJFLUtKNy1qZmppN0Fwajl6TGFndVFxdF9NdzhwZk1nYTFvRzBkQQ?oc=5",
               "label": "Open article"
             }
           ]
@@ -3439,24 +4045,6 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2R4RTdtNzBfbkplbG5ySFFUVnVwODV0bUNFQ0dnRVhiaTZ6d0tzVFppeE9UN2g5MnZwWHRoaEVuNWdWZzlOc0JHWGx1OEdET0lhZzBYeElqamVYSW85X3p1RzZXdkktQUJIZ1BJcXZ4N1dKcFZWMHdhUXZUQ2pkZjE5bng5STlKdGc1ZksxYmlOV2pOVjd6UGZONDZMeEVwV3Q5MWRXUkF2VGNnUE5zUjktZVJTQzY2bHhMcQ?oc=5",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T06:35:46+00:00",
-          "title": "India Condemns Missile Attack On Riyadh Airport That Killed 12",
-          "description": "India Condemns Missile Attack On Riyadh Airport That Killed 12",
-          "source": "Sandesh",
-          "publisher": "Sandesh",
-          "source_names": [
-            "Sandesh"
-          ],
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEE2aDh2YW0zdVVkWEZRaGpKbU5FV3hLYnlJdkw0WWVZTncwU2dTb0VVc09GV3NTdHpZR0FCTE1XUzE0eVkzZVlibERKcDNNNW8tdGFxdGpkZVBXYTNHSzgxWFctM1FOa3FKbUJoei1GSkJFLUtKNy1qZmppN0Fwajl6TGFndVFxdF9NdzhwZk1nYTFvRzBkQQ?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEE2aDh2YW0zdVVkWEZRaGpKbU5FV3hLYnlJdkw0WWVZTncwU2dTb0VVc09GV3NTdHpZR0FCTE1XUzE0eVkzZVlibERKcDNNNW8tdGFxdGpkZVBXYTNHSzgxWFctM1FOa3FKbUJoei1GSkJFLUtKNy1qZmppN0Fwajl6TGFndVFxdF9NdzhwZk1nYTFvRzBkQQ?oc=5",
               "label": "Open article"
             }
           ]
@@ -3568,12 +4156,35 @@
               "label": "Open article"
             }
           ]
+        },
+        {
+          "time": "2026-10-11T11:34:39+00:00",
+          "title": "Stay away from Saudi airports: Houthis warn airlines after striking Riyadh airport",
+          "description": "",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/world/story/houthis-warn-airlines-avoid-saudi-airports-riyadh-airport-strike-killed-third-attack-week-3014842-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/world/story/houthis-warn-airlines-avoid-saudi-airports-riyadh-airport-strike-killed-third-attack-week-3014842-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
         }
       ],
       "sources": [
         {
-          "name": "Article — NDTV",
+          "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOaEtpV3hjRGpSUENPeFp5NW0yT0NhdVVEM1hPM0lGQTlNNnZWanA4TVM0LVRSNTJ1dXJFd0ZvaUhBRXJIUDJqM3lEZVhPX053Y1k4ZkhUdDJqeG04dGdpV2hFV3ZGT2FlMjdKMmFtTkYzNjJjWHQtN0E1aG1lLWRRVEhLUk9OQ08tRHNrZDhrSXZxV3k4RjRVZlQ5RXdsb1MyaUxyemNYakpiRGVhcUthdTYtaU5Rc29UTDRfUldSM0JqcFAxTkE2OG0wa0FWc191N2RudHYxVUFmd0ZpOVQwUUdDX1VPMkZlMkd6cGVn0gH2AUFVX3lxTE5oVnk1Q04xb00weWJRSDFpSU5ZNXcyUFJKWmFQV1hWUmhYU0x0cndmcjVsNkhqN2RZRmU5Zkt0aXUtV0t2TEJCczdFeU5FMEVLRzlwd3NEX081NUd6LXE0QU91ZGRtdENxQ0N3MmxyekpUbFdFYXIxMy02a3FuRVJyY3ZJTi1hUkcyamhIa292TUxfQjN4T3l0YlozdGlFVW9vTjlYZTktR0EtWk9PQnVZcmUwcEJLWjRiZUZuczR3a2RBYzNWUG90RVhMM0hvTlozd0l2UEx5alY5ZkpyX0JRRUItV3YzWm05TDIyMl9NRzdTaGYyQQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEE2aDh2YW0zdVVkWEZRaGpKbU5FV3hLYnlJdkw0WWVZTncwU2dTb0VVc09GV3NTdHpZR0FCTE1XUzE0eVkzZVlibERKcDNNNW8tdGFxdGpkZVBXYTNHSzgxWFctM1FOa3FKbUJoei1GSkJFLUtKNy1qZmppN0Fwajl6TGFndVFxdF9NdzhwZk1nYTFvRzBkQQ?oc=5",
           "type": "article"
         },
         {
@@ -3589,11 +4200,6 @@
         {
           "name": "Article — France 24",
           "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQ2R4RTdtNzBfbkplbG5ySFFUVnVwODV0bUNFQ0dnRVhiaTZ6d0tzVFppeE9UN2g5MnZwWHRoaEVuNWdWZzlOc0JHWGx1OEdET0lhZzBYeElqamVYSW85X3p1RzZXdkktQUJIZ1BJcXZ4N1dKcFZWMHdhUXZUQ2pkZjE5bng5STlKdGc1ZksxYmlOV2pOVjd6UGZONDZMeEVwV3Q5MWRXUkF2VGNnUE5zUjktZVJTQzY2bHhMcQ?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — Sandesh",
-          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWEE2aDh2YW0zdVVkWEZRaGpKbU5FV3hLYnlJdkw0WWVZTncwU2dTb0VVc09GV3NTdHpZR0FCTE1XUzE0eVkzZVlibERKcDNNNW8tdGFxdGpkZVBXYTNHSzgxWFctM1FOa3FKbUJoei1GSkJFLUtKNy1qZmppN0Fwajl6TGFndVFxdF9NdzhwZk1nYTFvRzBkQQ?oc=5",
           "type": "article"
         },
         {
@@ -3625,10 +4231,321 @@
           "name": "Article — Times of India - Top stories",
           "url": "https://timesofindia.indiatimes.com/world/middle-east/houthis-exempt-mecca-medina-airports-from-tit-for-tat-retaliation-as-riyadh-vows-revenge/articleshow/134868769.cms",
           "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/world/story/houthis-warn-airlines-avoid-saudi-airports-riyadh-airport-strike-killed-third-attack-week-3014842-2026-10-11?utm_source=rss",
+          "type": "article"
         }
       ],
-      "source_count": 10,
-      "rank": 2,
+      "source_count": 11,
+      "rank": 3,
+      "snapshot_date": "2026-10-11"
+    },
+    {
+      "id": "4f0c302136e8",
+      "title": "Watch: PM Modi inaugurates Chennai Metro Phase II stretch, rides train with CM Vijay",
+      "brief_summary": "Six years after the work began, Chennai Metro Rail Limited (CMRL)’s first train ran from Porur Bypass at noon on October 11, 2026, with Mr. Modi and Chief Minister C. Joseph Vijay being the first few commuters. PM Modi in Chennai LIVE The passenger services will start on October 11,",
+      "summary_100": "Six years after the work began, Chennai Metro Rail Limited (CMRL)’s first train ran from Porur Bypass at noon on October 11, 2026, with Mr. Modi and Chief Minister C. Joseph Vijay being the first few commuters. PM Modi in Chennai LIVE The passenger services will start on October 11, 2026) from 4 p.m. PM launches Chennai Metro stretch worth Rs Prime Minister Narendra Modi launched the Poonamallee-Vadapalani stretch of the Chennai Metro Rail Project on Sunday, a major endeavor costing about Rs 4,900 crore with an innovative 3.7-km double-decker design. Daily services will kick off from October 12, operating",
+      "category": "Politics & Government",
+      "status": "Monitoring",
+      "score": 97.13,
+      "first_observed": "2026-10-11T07:53:20+00:00",
+      "last_updated": "2026-10-11T12:00:00+00:00",
+      "authority": "Not automatically inferred; official source required.",
+      "timeline": [
+        {
+          "time": "2026-10-11T07:53:20+00:00",
+          "title": "PM Modi shares metro ride with Vijay in Chennai",
+          "description": "",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/newsmo/short-videos/pm-modi-shares-metro-ride-with-vijay-in-chennai-3014695-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/newsmo/short-videos/pm-modi-shares-metro-ride-with-vijay-in-chennai-3014695-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:14:22+00:00",
+          "title": "Video: PM Modi Inaugurates Chennai Metro Phase II, Takes Ride With Chief Minister Vijay",
+          "description": "Video: PM Modi Inaugurates Chennai Metro Phase II, Takes Ride With Chief Minister Vijay",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "source_names": [
+            "NDTV"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVRtRTFsenNPd1pSblJBdWlSbFExaVhIeGFjcExHeVFrRHJZUFE3ZGUzYi1GbDhLQ0RKY0stNXBoZGpuVmt4Q2lVZ0xmNllhM2I0REpNNFZ5eVRCaTNtdjFLMXdvT2Z6T09JWTBxand3Tzk5cHBLbVk1eV9VZ0RpUXdXSDZ1RzJmT3FvM3FUSVdUQlR6VHkzN0ZMaGFOangwZU5rd1B0SVJ4VnFvd2xqVkpLTTlSZHl6V1ZuRGFJWmdhVDV10gHMAUFVX3lxTE5RWHI4VEpNQjkyRjk0SzRWZUNrWnJzbWxIM0lRZVBrUHFMT2RDX1lVX3ZjV3RrWHJXTEV5ZEhXLXkwRjVSdWJ3SldMVGYzS2kwWWJDVll4b2Zud19oWXJQRTZGOEZSbWZYd1N3aW5tQ0pzX2dEMThaSGVYWDZtNnF2TVpSTVh4elJ1ZFNaTUF6OUdKZXo1OWtRU3BTRTdFeENMOXA4UWFWbnA5VXYyXy1za3hrSmZwWjNadXhaZjVvZnVsU3NoOTZKMXNzVA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVRtRTFsenNPd1pSblJBdWlSbFExaVhIeGFjcExHeVFrRHJZUFE3ZGUzYi1GbDhLQ0RKY0stNXBoZGpuVmt4Q2lVZ0xmNllhM2I0REpNNFZ5eVRCaTNtdjFLMXdvT2Z6T09JWTBxand3Tzk5cHBLbVk1eV9VZ0RpUXdXSDZ1RzJmT3FvM3FUSVdUQlR6VHkzN0ZMaGFOangwZU5rd1B0SVJ4VnFvd2xqVkpLTTlSZHl6V1ZuRGFJWmdhVDV10gHMAUFVX3lxTE5RWHI4VEpNQjkyRjk0SzRWZUNrWnJzbWxIM0lRZVBrUHFMT2RDX1lVX3ZjV3RrWHJXTEV5ZEhXLXkwRjVSdWJ3SldMVGYzS2kwWWJDVll4b2Zud19oWXJQRTZGOEZSbWZYd1N3aW5tQ0pzX2dEMThaSGVYWDZtNnF2TVpSTVh4elJ1ZFNaTUF6OUdKZXo1OWtRU3BTRTdFeENMOXA4UWFWbnA5VXYyXy1za3hrSmZwWjNadXhaZjVvZnVsU3NoOTZKMXNzVA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:52:56+00:00",
+          "title": "Watch: PM Modi inaugurates Chennai Metro Phase II stretch, rides train with CM Vijay",
+          "description": "Prime Minister Narendra Modi launched the Poonamallee-Vadapalani stretch of the Chennai Metro Rail Project on Sunday, a major endeavor costing about Rs 4,900 crore with an innovative 3.7-km double-decker design. Daily services will kick off from October 12, operating from 7 am to 9 pm with a start time at 4 pm.",
+          "source": "Times of India - Top stories",
+          "publisher": "Times of India - Top stories",
+          "source_names": [
+            "Times of India - Top stories"
+          ],
+          "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-inaugurates-rs-4900-crore-chennai-metro-phase-ii-stretch-rides-train-with-cm-vijay/articleshow/134867581.cms",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-inaugurates-rs-4900-crore-chennai-metro-phase-ii-stretch-rides-train-with-cm-vijay/articleshow/134867581.cms",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T08:55:54+00:00",
+          "title": "PM launches Chennai Metro stretch worth Rs 4,900 crore, takes ride with CM Vijay",
+          "description": "PM launches Chennai Metro stretch worth Rs",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/india/tamil-nadu/story/photos-pm-modi-inaugurates-chennai-metro-stretch-worth-rs-4900-crore-rides-train-cm-vijay-visuals-3014581-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/india/tamil-nadu/story/photos-pm-modi-inaugurates-chennai-metro-stretch-worth-rs-4900-crore-rides-train-cm-vijay-visuals-3014581-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T09:04:08+00:00",
+          "title": "PM Modi and Tamil Nadu CM Vijay flag off Chennai Metro Rail’s first train for phase II project, take a ride together",
+          "description": "The passenger services will start on October 11, 2026) from 4 p.m.",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "source_names": [
+            "The Hindu - Home"
+          ],
+          "url": "https://www.thehindu.com/news/cities/chennai/pm-modi-and-tn-cm-vijay-flag-off-chennai-metro-rails-first-train-for-phase-ii-project-take-a-ride-between-porur-poonamallee/article71570925.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/cities/chennai/pm-modi-and-tn-cm-vijay-flag-off-chennai-metro-rails-first-train-for-phase-ii-project-take-a-ride-between-porur-poonamallee/article71570925.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T10:15:16+00:00",
+          "title": "PM Modi to unveil major development projects in Chennai",
+          "description": "",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "source_names": [
+            "The Hindu - Home"
+          ],
+          "url": "https://www.thehindu.com/videos/shorts/pm-modi-to-unveil-major-development-projects-in-chennai/article71571145.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/videos/shorts/pm-modi-to-unveil-major-development-projects-in-chennai/article71571145.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T10:24:21+00:00",
+          "title": "PM Modi, CM Vijay inaugurate first stretch of chennai metro phase 2",
+          "description": "",
+          "source": "The Hindu - Home",
+          "publisher": "The Hindu - Home",
+          "source_names": [
+            "The Hindu - Home"
+          ],
+          "url": "https://www.thehindu.com/videos/pm-modi-cm-vijay-inaugurate-first-stretch-of-chennai-metro-phase-2/article71571173.ece",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/videos/pm-modi-cm-vijay-inaugurate-first-stretch-of-chennai-metro-phase-2/article71571173.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:06:06+00:00",
+          "title": "Video: Speeding car knocks bike from under man, sends it crashing into another",
+          "description": "",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/cities/other-cities/video/video-speeding-car-knocks-bike-from-under-man-sends-it-crashing-into-another-3014813-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/cities/other-cities/video/video-speeding-car-knocks-bike-from-under-man-sends-it-crashing-into-another-3014813-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:08:15+00:00",
+          "title": "Governments May Change But My Resolve For Tamil Nadu's Development Firm: PM Modi In Chennai",
+          "description": "Governments May Change But My Resolve For Tamil Nadu's Development Firm: PM Modi In Chennai",
+          "source": "NDTV",
+          "publisher": "NDTV",
+          "source_names": [
+            "NDTV"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlpCeS1qOFBIenJNVk96eE5nOVRaUXcwVHhyTVlXSUdrVnU2MlBzNkZTSHRTNGtoTHhBNDdDWFZhd3g3aW5mUDlWUmNiOUswN1NvT3pHQUx6ZG51NkdJdVJDM2hzcjBrUXVPVGZOM3JPYko5YTdFMEhRZlpaYlBmRk5WMEFjQmRweDhCTExqaUl1TW13aTJLc050NWNDLUFoVlYwQWhId0VrSVl0SEhjeklHTDlKTVAxblNLWlgyRjNKdVFia1YtcUZn0gHSAUFVX3lxTFBuUUJyRm5FaVR2eEI0MGM0YjY0cklSdUNXV0xOU3hYME5nb2lJRkFXRnk0NTdraDJ4ZW1MTXhWU3loR2RJTVpDQV9CR25TaVBoWGdIeGhSa1dSWDBaQXY3S1hicHJrU2pvYjJZTW1jRUVTXzdsSDdTN2pCektCdWJ5SFlFRk90MTIza0dTa0VQSHNwUEh1LWIyNWZUUS1uUXF2NzU2YnFhY0VGTTZjOVZQc3M0eHFyWmVOX2dPNkNPU3lrZ2xQQm5yN3F0OV8tM0NYUQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlpCeS1qOFBIenJNVk96eE5nOVRaUXcwVHhyTVlXSUdrVnU2MlBzNkZTSHRTNGtoTHhBNDdDWFZhd3g3aW5mUDlWUmNiOUswN1NvT3pHQUx6ZG51NkdJdVJDM2hzcjBrUXVPVGZOM3JPYko5YTdFMEhRZlpaYlBmRk5WMEFjQmRweDhCTExqaUl1TW13aTJLc050NWNDLUFoVlYwQWhId0VrSVl0SEhjeklHTDlKTVAxblNLWlgyRjNKdVFia1YtcUZn0gHSAUFVX3lxTFBuUUJyRm5FaVR2eEI0MGM0YjY0cklSdUNXV0xOU3hYME5nb2lJRkFXRnk0NTdraDJ4ZW1MTXhWU3loR2RJTVpDQV9CR25TaVBoWGdIeGhSa1dSWDBaQXY3S1hicHJrU2pvYjJZTW1jRUVTXzdsSDdTN2pCektCdWJ5SFlFRk90MTIza0dTa0VQSHNwUEh1LWIyNWZUUS1uUXF2NzU2YnFhY0VGTTZjOVZQc3M0eHFyWmVOX2dPNkNPU3lrZ2xQQm5yN3F0OV8tM0NYUQ?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:37:04+00:00",
+          "title": "Tamil Nadu man sitting on bike gets tossed aside by speeding car, escapes unhurt",
+          "description": "",
+          "source": "India Today - Latest",
+          "publisher": "India Today - Latest",
+          "source_names": [
+            "India Today - Latest"
+          ],
+          "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-man-sitting-on-bike-gets-tossed-aside-by-speeding-car-escapes-unhurt-3014799-2026-10-11?utm_source=rss",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-man-sitting-on-bike-gets-tossed-aside-by-speeding-car-escapes-unhurt-3014799-2026-10-11?utm_source=rss",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T11:56:49+00:00",
+          "title": "PM Modi in Chennai LIVE | Prime Minister inaugurates Metro Rail's Phase 2 stretch, ₹13000-crore worth development projects",
+          "description": "Six years after the work began, Chennai Metro Rail Limited (CMRL)’s first train ran from Porur Bypass at noon on October 11, 2026, with Mr. Modi and Chief Minister C. Joseph Vijay being the first few commuters.",
+          "source": "Multiple sources",
+          "publisher": "The Hindu",
+          "source_names": [
+            "The Hindu",
+            "The Hindu - Home"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNc1BIX3VxczE5bVFHTHM2LUdvcEdjdTdBNVNLSEtWcEJBMWh2eENESlpuWFlNTjB5OWJHU2o5ZGI2d1QxZHlmUHM4R0VTSmd4NlM2d3JYVXN6M2Rwc19UaHpPMGlNVVlRU19YOTE1cUVWNHhzVnNwWHhIbC1xR1BlRzgzSmQ0WlpBcUU2WUlkOW14enZTOW9MaFZGaWE3M3ZZTEhHc3ZibENaYWVVaEliNVdWaXFRMnpkRkFGU2QtLWZlVGUxaE1iblQza25WN25XWDUxVnZQSHY5d3NacFpYeWdLVU5yMWd2Zzgzc3lBYTZuZDBRVkNoTTFvUDJ5QTJRLWRXX3h0QTNHMFhuZmttdtIBlwJBVV95cUxPNjRFYkNZRDdtakxMaXRDWTlVTFNHbGZRbkF4dmw5cDREU25MMFlDdTBYVUtacF9hUlhGdUtHNWxqZHNiV282VGRwZTR4QWgxUDNnNF8zTWNzeTJWeXptc3VQMENxTGpNNlQtZjBhYTlHVlVBYmdmdy1GTkl0Nkk0X1NaUTRWTFZXZ0hrQkRUSDJhRDMxam5OZ3FoNHNLRzBBQ2xySlVGNGNONGFpZ3RtMGZYT2c2a3A1WUNCYzZkdExTYm8xcFNZU05EVHk2Z1lkczFBZlV5NVUtdW1DQTJEc0RMdkVZVjNBQm1jQU5QVHdoLXhIWTRtNEtVS3dodHpQRHBOd1BpWDNpVTV2Znk5aW8xWEQzWjQ?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNc1BIX3VxczE5bVFHTHM2LUdvcEdjdTdBNVNLSEtWcEJBMWh2eENESlpuWFlNTjB5OWJHU2o5ZGI2d1QxZHlmUHM4R0VTSmd4NlM2d3JYVXN6M2Rwc19UaHpPMGlNVVlRU19YOTE1cUVWNHhzVnNwWHhIbC1xR1BlRzgzSmQ0WlpBcUU2WUlkOW14enZTOW9MaFZGaWE3M3ZZTEhHc3ZibENaYWVVaEliNVdWaXFRMnpkRkFGU2QtLWZlVGUxaE1iblQza25WN25XWDUxVnZQSHY5d3NacFpYeWdLVU5yMWd2Zzgzc3lBYTZuZDBRVkNoTTFvUDJ5QTJRLWRXX3h0QTNHMFhuZmttdtIBlwJBVV95cUxPNjRFYkNZRDdtakxMaXRDWTlVTFNHbGZRbkF4dmw5cDREU25MMFlDdTBYVUtacF9hUlhGdUtHNWxqZHNiV282VGRwZTR4QWgxUDNnNF8zTWNzeTJWeXptc3VQMENxTGpNNlQtZjBhYTlHVlVBYmdmdy1GTkl0Nkk0X1NaUTRWTFZXZ0hrQkRUSDJhRDMxam5OZ3FoNHNLRzBBQ2xySlVGNGNONGFpZ3RtMGZYT2c2a3A1WUNCYzZkdExTYm8xcFNZU05EVHk2Z1lkczFBZlV5NVUtdW1DQTJEc0RMdkVZVjNBQm1jQU5QVHdoLXhIWTRtNEtVS3dodHpQRHBOd1BpWDNpVTV2Znk5aW8xWEQzWjQ?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T12:00:00+00:00",
+          "title": "\"Top 3 economy, hosting Olympics, Indian on Moon—we will do it\": PM Modi in Chennai",
+          "description": "\"Top 3 economy, hosting Olympics, Indian on Moon—we will do it\": PM Modi in Chennai",
+          "source": "ANI News",
+          "publisher": "ANI News",
+          "source_names": [
+            "ANI News"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbXVja3B4eUYyaHNNYTRQVmFPTUwzejdORjZ3QkhKWUVQUm5wdWJ5UmJEOEQ0YU56TG9zTjVBQ0xqV0FlTGc5a3Q4N2pmMzg1Y0pFWGZiLUYyVG80N2tqX2dudTZtWGFhZzhIVWJOcm1pTVpSdGpYelV4OTJMdm0tT2Q4aWhYaEZuaHdqUDVxWTE5aWZuRnZEYnB5bWlaS0JQdE5HelBiSWM3VnVEbjhnX3k3UnZaU2s0ZE1WOWQyQTd6ZFBPcGYyQXNmQjNPRzRQNE9oVW9CYzY4VVdiNkE?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbXVja3B4eUYyaHNNYTRQVmFPTUwzejdORjZ3QkhKWUVQUm5wdWJ5UmJEOEQ0YU56TG9zTjVBQ0xqV0FlTGc5a3Q4N2pmMzg1Y0pFWGZiLUYyVG80N2tqX2dudTZtWGFhZzhIVWJOcm1pTVpSdGpYelV4OTJMdm0tT2Q4aWhYaEZuaHdqUDVxWTE5aWZuRnZEYnB5bWlaS0JQdE5HelBiSWM3VnVEbjhnX3k3UnZaU2s0ZE1WOWQyQTd6ZFBPcGYyQXNmQjNPRzRQNE9oVW9CYzY4VVdiNkE?oc=5",
+              "label": "Open article"
+            }
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/newsmo/short-videos/pm-modi-shares-metro-ride-with-vijay-in-chennai-3014695-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPMVRtRTFsenNPd1pSblJBdWlSbFExaVhIeGFjcExHeVFrRHJZUFE3ZGUzYi1GbDhLQ0RKY0stNXBoZGpuVmt4Q2lVZ0xmNllhM2I0REpNNFZ5eVRCaTNtdjFLMXdvT2Z6T09JWTBxand3Tzk5cHBLbVk1eV9VZ0RpUXdXSDZ1RzJmT3FvM3FUSVdUQlR6VHkzN0ZMaGFOangwZU5rd1B0SVJ4VnFvd2xqVkpLTTlSZHl6V1ZuRGFJWmdhVDV10gHMAUFVX3lxTE5RWHI4VEpNQjkyRjk0SzRWZUNrWnJzbWxIM0lRZVBrUHFMT2RDX1lVX3ZjV3RrWHJXTEV5ZEhXLXkwRjVSdWJ3SldMVGYzS2kwWWJDVll4b2Zud19oWXJQRTZGOEZSbWZYd1N3aW5tQ0pzX2dEMThaSGVYWDZtNnF2TVpSTVh4elJ1ZFNaTUF6OUdKZXo1OWtRU3BTRTdFeENMOXA4UWFWbnA5VXYyXy1za3hrSmZwWjNadXhaZjVvZnVsU3NoOTZKMXNzVA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Times of India - Top stories",
+          "url": "https://timesofindia.indiatimes.com/india/watch-pm-modi-inaugurates-rs-4900-crore-chennai-metro-phase-ii-stretch-rides-train-with-cm-vijay/articleshow/134867581.cms",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/india/tamil-nadu/story/photos-pm-modi-inaugurates-chennai-metro-stretch-worth-rs-4900-crore-rides-train-cm-vijay-visuals-3014581-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/news/cities/chennai/pm-modi-and-tn-cm-vijay-flag-off-chennai-metro-rails-first-train-for-phase-ii-project-take-a-ride-between-porur-poonamallee/article71570925.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/videos/shorts/pm-modi-to-unveil-major-development-projects-in-chennai/article71571145.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — The Hindu - Home",
+          "url": "https://www.thehindu.com/videos/pm-modi-cm-vijay-inaugurate-first-stretch-of-chennai-metro-phase-2/article71571173.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/cities/other-cities/video/video-speeding-car-knocks-bike-from-under-man-sends-it-crashing-into-another-3014813-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNMlpCeS1qOFBIenJNVk96eE5nOVRaUXcwVHhyTVlXSUdrVnU2MlBzNkZTSHRTNGtoTHhBNDdDWFZhd3g3aW5mUDlWUmNiOUswN1NvT3pHQUx6ZG51NkdJdVJDM2hzcjBrUXVPVGZOM3JPYko5YTdFMEhRZlpaYlBmRk5WMEFjQmRweDhCTExqaUl1TW13aTJLc050NWNDLUFoVlYwQWhId0VrSVl0SEhjeklHTDlKTVAxblNLWlgyRjNKdVFia1YtcUZn0gHSAUFVX3lxTFBuUUJyRm5FaVR2eEI0MGM0YjY0cklSdUNXV0xOU3hYME5nb2lJRkFXRnk0NTdraDJ4ZW1MTXhWU3loR2RJTVpDQV9CR25TaVBoWGdIeGhSa1dSWDBaQXY3S1hicHJrU2pvYjJZTW1jRUVTXzdsSDdTN2pCektCdWJ5SFlFRk90MTIza0dTa0VQSHNwUEh1LWIyNWZUUS1uUXF2NzU2YnFhY0VGTTZjOVZQc3M0eHFyWmVOX2dPNkNPU3lrZ2xQQm5yN3F0OV8tM0NYUQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today - Latest",
+          "url": "https://www.indiatoday.in/trending-news/story/tamil-nadu-man-sitting-on-bike-gets-tossed-aside-by-speeding-car-escapes-unhurt-3014799-2026-10-11?utm_source=rss",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNc1BIX3VxczE5bVFHTHM2LUdvcEdjdTdBNVNLSEtWcEJBMWh2eENESlpuWFlNTjB5OWJHU2o5ZGI2d1QxZHlmUHM4R0VTSmd4NlM2d3JYVXN6M2Rwc19UaHpPMGlNVVlRU19YOTE1cUVWNHhzVnNwWHhIbC1xR1BlRzgzSmQ0WlpBcUU2WUlkOW14enZTOW9MaFZGaWE3M3ZZTEhHc3ZibENaYWVVaEliNVdWaXFRMnpkRkFGU2QtLWZlVGUxaE1iblQza25WN25XWDUxVnZQSHY5d3NacFpYeWdLVU5yMWd2Zzgzc3lBYTZuZDBRVkNoTTFvUDJ5QTJRLWRXX3h0QTNHMFhuZmttdtIBlwJBVV95cUxPNjRFYkNZRDdtakxMaXRDWTlVTFNHbGZRbkF4dmw5cDREU25MMFlDdTBYVUtacF9hUlhGdUtHNWxqZHNiV282VGRwZTR4QWgxUDNnNF8zTWNzeTJWeXptc3VQMENxTGpNNlQtZjBhYTlHVlVBYmdmdy1GTkl0Nkk0X1NaUTRWTFZXZ0hrQkRUSDJhRDMxam5OZ3FoNHNLRzBBQ2xySlVGNGNONGFpZ3RtMGZYT2c2a3A1WUNCYzZkdExTYm8xcFNZU05EVHk2Z1lkczFBZlV5NVUtdW1DQTJEc0RMdkVZVjNBQm1jQU5QVHdoLXhIWTRtNEtVS3dodHpQRHBOd1BpWDNpVTV2Znk5aW8xWEQzWjQ?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://www.thehindu.com/news/cities/chennai/chennai-metro-phase-two-inauguration-poonamallee-vadapalani-narendra-modi-visit-schedule-cm-vijay-meeting-live-updates/article71570613.ece",
+          "type": "article"
+        },
+        {
+          "name": "Article — ANI News",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQbXVja3B4eUYyaHNNYTRQVmFPTUwzejdORjZ3QkhKWUVQUm5wdWJ5UmJEOEQ0YU56TG9zTjVBQ0xqV0FlTGc5a3Q4N2pmMzg1Y0pFWGZiLUYyVG80N2tqX2dudTZtWGFhZzhIVWJOcm1pTVpSdGpYelV4OTJMdm0tT2Q4aWhYaEZuaHdqUDVxWTE5aWZuRnZEYnB5bWlaS0JQdE5HelBiSWM3VnVEbjhnX3k3UnZaU2s0ZE1WOWQyQTd6ZFBPcGYyQXNmQjNPRzRQNE9oVW9CYzY4VVdiNkE?oc=5",
+          "type": "article"
+        }
+      ],
+      "source_count": 6,
+      "rank": 4,
       "snapshot_date": "2026-10-11"
     },
     {
@@ -3638,7 +4555,7 @@
       "summary_100": "Department of Labour is also suspending Microsoft and Adobe from the PERM programme Ravichandran Ashwin criticized Shai Hope's decision to keep Akeal Hosein bowling during the PowerPlay. Sanju Samson capitalized on this, scoring 82 runs off 41 balls. Despite India's strong batting performance, the West Indies managed to chase down 249 runs successfully. Shai Hope's unbeaten century led his team to level the series at 1-1. The upcoming matches could continue to highlight the ongoing challenges faced by bowlers. K'taka IT minister explains how US' Green Card curbs on tech firms could help India NDTV",
       "category": "India",
       "status": "Monitoring",
-      "score": 86.13,
+      "score": 72.77,
       "first_observed": "2026-10-10T13:24:00+00:00",
       "last_updated": "2026-10-11T10:59:30+00:00",
       "authority": "Not automatically inferred; official source required.",
@@ -3808,7 +4725,7 @@
         }
       ],
       "source_count": 6,
-      "rank": 3,
+      "rank": 5,
       "snapshot_date": "2026-10-11"
     },
     {
@@ -3818,45 +4735,33 @@
       "summary_100": "Ranji Trophy 2026-27 LIVE streaming info: When, where to watch India’s domestic red-ball tournament?. The tracker consolidates related public reporting into one chronological record. Kashmir Reader: Ranji Trophy 2026-27: ‘Defending title will be tougher’: J&K eye another miracle after Karnataka win. The New Indian Express: Ranji Trophy 2026-27: New captain and coach as runners-up Karnataka begin new chapter. Deccan Herald: Ranji Trophy: Karnataka kickstart a new era. The Times of India: Vinay Kumar begins coaching journey as Karnataka begin Ranji Trophy campaign Andhra. Sportstar: Ranji Trophy 2026-27 LIVE streaming info: When, where to watch India’s domestic red-ball tournament?.",
       "category": "Sports",
       "status": "Monitoring",
-      "score": 67.74,
+      "score": 67.63,
       "first_observed": "2026-09-27T04:30:49+00:00",
       "last_updated": "2026-10-11T01:54:54+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
           "time": "2026-09-27T04:30:49+00:00",
-          "title": "India vs West Indies live streaming: When and where to watch IND vs WI 1st ODI online",
-          "description": "India vs West Indies live streaming: When and where to watch IND vs WI 1st ODI online Moneycontrol.com",
-          "source": "Moneycontrol.com",
+          "title": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket",
+          "description": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket hindustantimes.com",
+          "source": "Multiple sources",
           "publisher": "Moneycontrol.com",
+          "source_names": [
+            "Moneycontrol.com",
+            "hindustantimes.com"
+          ],
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
           "links": [
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
               "label": "Open article"
-            }
-          ],
-          "source_names": [
-            "Moneycontrol.com"
-          ]
-        },
-        {
-          "time": "2026-09-27T04:32:36+00:00",
-          "title": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket",
-          "description": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket hindustantimes.com",
-          "source": "hindustantimes.com",
-          "publisher": "hindustantimes.com",
-          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOclkwcFBJQzBxS0M1d1FpSVYzY0ZNYWhETXh2SnpEcmdrU3Nqc3F1NzlfSmNQZk9KT090bWJ1QUhUQjZqWlNZS0NNR0dVSmFuczA2SkZqTjdQZXBuZnVZNlZuWDFqa2pvazZtYjBDMEhNa0tUTjlVM191RnZhZlhTVTFIMG91Mkh6UUFyaW5PcHJxRVh6NlR3UjVXN2VsRGtOWVhoWXZFaFY4MVZ3a3hrM1F5bGxOdDNsZlFqZ25fR1BNbXRQUmJXREhqWWdZM29CS3pVVldUcE1JSXloOFBJcVRZVGJIOGRhNER6dVpmT1JfTHdjLWfSAfsBQVVfeXFMTWEwVWd5N2JWOHpzTXN2YnpHaGJKWUU2VG11T005XzhyOFJOa19GX1pqYkkyUklhaHRsVHVmTmxvV21aY1pZS3NIa25TYzdMalc3ZHlpWWNIZHRzUE9nN1FNdnA5T2t4NHBoQ2hGT050UDBBWHozeWUxSUl3QVpYaWpSd0dhcTItS19FRlRwNW5ud05QbXd5Z1BkakJWQkp1bXQ2UE5jeGw4dk41ME9nd3JRclVtSW5kdXZwSjhtcFk5UXNsaFdZZ2M4bG9tYmhndTg3SkVESkppZl8xZkpydkFKYUt2OHpBd1NncFVPTkU5NTM5UzhmNkNLdE0?oc=5",
-          "links": [
+            },
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOclkwcFBJQzBxS0M1d1FpSVYzY0ZNYWhETXh2SnpEcmdrU3Nqc3F1NzlfSmNQZk9KT090bWJ1QUhUQjZqWlNZS0NNR0dVSmFuczA2SkZqTjdQZXBuZnVZNlZuWDFqa2pvazZtYjBDMEhNa0tUTjlVM191RnZhZlhTVTFIMG91Mkh6UUFyaW5PcHJxRVh6NlR3UjVXN2VsRGtOWVhoWXZFaFY4MVZ3a3hrM1F5bGxOdDNsZlFqZ25fR1BNbXRQUmJXREhqWWdZM29CS3pVVldUcE1JSXloOFBJcVRZVGJIOGRhNER6dVpmT1JfTHdjLWfSAfsBQVVfeXFMTWEwVWd5N2JWOHpzTXN2YnpHaGJKWUU2VG11T005XzhyOFJOa19GX1pqYkkyUklhaHRsVHVmTmxvV21aY1pZS3NIa25TYzdMalc3ZHlpWWNIZHRzUE9nN1FNdnA5T2t4NHBoQ2hGT050UDBBWHozeWUxSUl3QVpYaWpSd0dhcTItS19FRlRwNW5ud05QbXd5Z1BkakJWQkp1bXQ2UE5jeGw4dk41ME9nd3JRclVtSW5kdXZwSjhtcFk5UXNsaFdZZ2M4bG9tYmhndTg3SkVESkppZl8xZkpydkFKYUt2OHpBd1NncFVPTkU5NTM5UzhmNkNLdE0?oc=5",
               "label": "Open article"
             }
-          ],
-          "source_names": [
-            "hindustantimes.com"
           ]
         },
         {
@@ -3970,12 +4875,12 @@
       ],
       "sources": [
         {
-          "name": "Article — Moneycontrol.com",
+          "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — hindustantimes.com",
+          "name": "Article — Multiple sources",
           "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOclkwcFBJQzBxS0M1d1FpSVYzY0ZNYWhETXh2SnpEcmdrU3Nqc3F1NzlfSmNQZk9KT090bWJ1QUhUQjZqWlNZS0NNR0dVSmFuczA2SkZqTjdQZXBuZnVZNlZuWDFqa2pvazZtYjBDMEhNa0tUTjlVM191RnZhZlhTVTFIMG91Mkh6UUFyaW5PcHJxRVh6NlR3UjVXN2VsRGtOWVhoWXZFaFY4MVZ3a3hrM1F5bGxOdDNsZlFqZ25fR1BNbXRQUmJXREhqWWdZM29CS3pVVldUcE1JSXloOFBJcVRZVGJIOGRhNER6dVpmT1JfTHdjLWfSAfsBQVVfeXFMTWEwVWd5N2JWOHpzTXN2YnpHaGJKWUU2VG11T005XzhyOFJOa19GX1pqYkkyUklhaHRsVHVmTmxvV21aY1pZS3NIa25TYzdMalc3ZHlpWWNIZHRzUE9nN1FNdnA5T2t4NHBoQ2hGT050UDBBWHozeWUxSUl3QVpYaWpSd0dhcTItS19FRlRwNW5ud05QbXd5Z1BkakJWQkp1bXQ2UE5jeGw4dk41ME9nd3JRclVtSW5kdXZwSjhtcFk5UXNsaFdZZ2M4bG9tYmhndTg3SkVESkppZl8xZkpydkFKYUt2OHpBd1NncFVPTkU5NTM5UzhmNkNLdE0?oc=5",
           "type": "article"
         },
@@ -4011,106 +4916,7 @@
         }
       ],
       "source_count": 7,
-      "rank": 4,
-      "snapshot_date": "2026-10-11"
-    },
-    {
-      "id": "48821b9415cd",
-      "title": "'Is NHRC sleeping?' CJP alleges custodial torture of Mumbai lead",
-      "brief_summary": "Saurav Das, spokesperson for the Cockroach Janta Party, condemned the alleged custodial torture of Pranay Ahire. Ahire sustained injuries from an alleged assault by Delhi Police while protesting in Delhi. The CJP criticized the silence of the National Human Rights Commission and judiciary bodies regarding the incident. Protesters reported their",
-      "summary_100": "Saurav Das, spokesperson for the Cockroach Janta Party, condemned the alleged custodial torture of Pranay Ahire. Ahire sustained injuries from an alleged assault by Delhi Police while protesting in Delhi. The CJP criticized the silence of the National Human Rights Commission and judiciary bodies regarding the incident. Protesters reported their phones were seized by police without proper memos, limiting their ability to contact lawyers. Surendran, a teacher tortured in custody after his arrest during the 2003 Muthanga land agitation, will receive the compensation after a 23-year legal battle A Delhi executive magistrate court on Sunday ordered the release of Cockroach",
-      "category": "India",
-      "status": "Monitoring",
-      "score": 47.12,
-      "first_observed": "2026-10-11T09:39:00+00:00",
-      "last_updated": "2026-10-11T10:12:30+00:00",
-      "authority": "Not automatically inferred; official source required.",
-      "timeline": [
-        {
-          "time": "2026-10-11T09:39:00+00:00",
-          "title": "'Cops could plant evidence': CJP alleges 'phone cloning' in press brief - top quotes",
-          "description": "A Delhi executive magistrate court on Sunday ordered the release of Cockroach Janta Party (CJP) leaders Abhijeet Dipke, Saurav Das and Ashutosh Ranka, on the condition that they do not engage in any \"breach of peace for one year\", the party's head of legal affairs, Ratna Singh, said. Delhi Police said a bail bond-cum-surety bond of Rs 50,000 was furnished to ensure \"maintaining peace and good behaviour\" for a period of one year.",
-          "source": "Multiple sources",
-          "publisher": "The Times of India",
-          "source_names": [
-            "The Times of India",
-            "Times of India - Top stories"
-          ],
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWRNaHIteFlGd1NpNzFKWEd6LTRaS3ptMUp2VXdwaThzeWpLN0dHZGpHYTlsUzlPUVlYN3o1bXRfNVRNNVM5VE5UUHNBb2hHWk55RjZBMUh2SC0zV29xUDVpT09WaWM3TVpZaC1hVmQ1T1lHdjQ1SGxjU1UzTmN6NDM4YkdPWFI0dEhOYWlIcnJSdUsxN0xpXzRLUWl6MHlSTDlIN2pKc0V3MDJhckd2RXljRHdVeVBYY0tRUm95b1ZQQzRRdWdYLWVmVlkxakI5VDhld05VOXVESGF4Y0E?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWRNaHIteFlGd1NpNzFKWEd6LTRaS3ptMUp2VXdwaThzeWpLN0dHZGpHYTlsUzlPUVlYN3o1bXRfNVRNNVM5VE5UUHNBb2hHWk55RjZBMUh2SC0zV29xUDVpT09WaWM3TVpZaC1hVmQ1T1lHdjQ1SGxjU1UzTmN6NDM4YkdPWFI0dEhOYWlIcnJSdUsxN0xpXzRLUWl6MHlSTDlIN2pKc0V3MDJhckd2RXljRHdVeVBYY0tRUm95b1ZQQzRRdWdYLWVmVlkxakI5VDhld05VOXVESGF4Y0E?oc=5",
-              "label": "Open article"
-            },
-            {
-              "type": "article",
-              "url": "https://timesofindia.indiatimes.com/india/cops-could-plant-evidence-cjp-alleges-phone-cloning-in-press-brief-top-quotes/articleshow/134867762.cms",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T10:05:50+00:00",
-          "title": "Keralam govt. to pay ₹12.5 lakh compensation to Muthanga custodial torture victim",
-          "description": "K.K. Surendran, a teacher tortured in custody after his arrest during the 2003 Muthanga land agitation, will receive the compensation after a 23-year legal battle",
-          "source": "The Hindu - Home",
-          "publisher": "The Hindu - Home",
-          "source_names": [
-            "The Hindu - Home"
-          ],
-          "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-to-pay-125-lakh-compensation-to-muthanga-custodial-torture-victim/article71570988.ece",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-to-pay-125-lakh-compensation-to-muthanga-custodial-torture-victim/article71570988.ece",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T10:12:30+00:00",
-          "title": "'Is NHRC sleeping?' CJP alleges custodial torture of Mumbai lead",
-          "description": "Saurav Das, spokesperson for the Cockroach Janta Party, condemned the alleged custodial torture of Pranay Ahire. Ahire sustained injuries from an alleged assault by Delhi Police while protesting in Delhi. The CJP criticized the silence of the National Human Rights Commission and judiciary bodies regarding the incident. Protesters reported their phones were seized by police without proper memos, limiting their ability to contact lawyers.",
-          "source": "Times of India - Top stories",
-          "publisher": "Times of India - Top stories",
-          "source_names": [
-            "Times of India - Top stories"
-          ],
-          "url": "https://timesofindia.indiatimes.com/city/delhi/is-human-rights-commission-sleeping-cjps-saurav-das-alleges-custodial-torture-of-mumbai-lead/articleshow/134868447.cms",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://timesofindia.indiatimes.com/city/delhi/is-human-rights-commission-sleeping-cjps-saurav-das-alleges-custodial-torture-of-mumbai-lead/articleshow/134868447.cms",
-              "label": "Open article"
-            }
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "name": "Article — Multiple sources",
-          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOdWRNaHIteFlGd1NpNzFKWEd6LTRaS3ptMUp2VXdwaThzeWpLN0dHZGpHYTlsUzlPUVlYN3o1bXRfNVRNNVM5VE5UUHNBb2hHWk55RjZBMUh2SC0zV29xUDVpT09WaWM3TVpZaC1hVmQ1T1lHdjQ1SGxjU1UzTmN6NDM4YkdPWFI0dEhOYWlIcnJSdUsxN0xpXzRLUWl6MHlSTDlIN2pKc0V3MDJhckd2RXljRHdVeVBYY0tRUm95b1ZQQzRRdWdYLWVmVlkxakI5VDhld05VOXVESGF4Y0E?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — Multiple sources",
-          "url": "https://timesofindia.indiatimes.com/india/cops-could-plant-evidence-cjp-alleges-phone-cloning-in-press-brief-top-quotes/articleshow/134867762.cms",
-          "type": "article"
-        },
-        {
-          "name": "Article — The Hindu - Home",
-          "url": "https://www.thehindu.com/news/national/kerala/keralam-govt-to-pay-125-lakh-compensation-to-muthanga-custodial-torture-victim/article71570988.ece",
-          "type": "article"
-        },
-        {
-          "name": "Article — Times of India - Top stories",
-          "url": "https://timesofindia.indiatimes.com/city/delhi/is-human-rights-commission-sleeping-cjps-saurav-das-alleges-custodial-torture-of-mumbai-lead/articleshow/134868447.cms",
-          "type": "article"
-        }
-      ],
-      "source_count": 3,
-      "rank": 5,
+      "rank": 6,
       "snapshot_date": "2026-10-11"
     },
     {
@@ -4120,7 +4926,7 @@
       "summary_100": "You talk of selling us F-35, but won't let us near one: IAF chief ribs US commander. The tracker consolidates related public reporting into one chronological record. India Today - Latest: You talk of selling us F but wont let us near one IAF chief ribs US commander. NDTV: \"Same Setup\": German, French Air Chiefs Say Flying With Indian Air Force 'Feels Like Home'. NDTV: US Commander By His Side, Air Force Chief Says \"They Don't Let Us Near\" F-35 Jets. The New Indian Express: No formal F-35 offer from US; government yet to decide on Su-57 offer: IAF Chief.",
       "category": "India",
       "status": "Monitoring",
-      "score": 46.48,
+      "score": 46.37,
       "first_observed": "2026-10-10T15:22:43+00:00",
       "last_updated": "2026-10-11T05:41:26+00:00",
       "authority": "Not automatically inferred; official source required.",
@@ -4157,6 +4963,11 @@
             {
               "type": "article",
               "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVk1ic3BPS0lXWWh6bEx2T012YjU1WElfUW96dzNtNHB5cTlRLUVCdWU5enFCTmxMVFFiQmpOZHNyS1FtRDNoUldhUWt6Q0luZG9tX2VTamp2UTZiU1B5a0xmSkVOZnZfQ05qb2FjZmd3QTJKem9mV2dKQ25qdEJELUJ4YTVZR19rQjRGWUtKVG5Nd1k3QnpieUhGb0kyUWtXcjNqbkY0RG9iWE9fZ0hvY21XRC1NY1Q3eURHUXphZmdDdy12QXluTDJ5MzRyMWFLY3Y0MUJpZG4xRWczTFlz?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVk1ic3BPS0lXWWh6bEx2T012YjU1WElfUW96dzNtNHB5cTlRLUVCdWU5enFCTmxMVFFiQmpOZHNyS1FtRDNoUldhUWt6Q0luZG9tX2VTamp2UTZiU1B5a0xmSkVOZnZfQ05qb2FjZmd3QTJKem9mV2dKQ25qdEJELUJ4YTVZR19rQjRGWUtKVG5Nd1k3QnpieUhGb0kyUWtXcjNqbkY0RG9iWE9fZ0hvY21XRC1NY1Q3eURHUXphZmdDdy12QXluTDJ5MzRyMWFLY3Y0MUJpZG4xRWczTFlz0gHnAUFVX3lxTFBZRl9qLWc3anZQQVdPRXplT0laMUhjVDQwTzFnUHNfbmpZN0RqMmphdkpWbnZ0UW9wbnkzSzItOVlOUDRZd01nU3BjYkxnSDFLVHlqRVBNR1lGa2YyQlYxZ1NfOHZUMl9ad3ZJMXFqSnBPeUs2VXlfcTZ6QWcwZmc2VlNJVGN2MnA1cjI2XzZwS1hZY2MxSjZMZjNHVmp0U0ttQjJMNGNSZ0UtOE5PTkdUQnJuVHYxNUJzbmYxZUExWXZob1VlMjN0SC1tazJ5QmNuazZPTXZlNVBLSTkteEtVM2hyZk5GMA?oc=5",
               "label": "Open article"
             }
           ]
@@ -4211,6 +5022,11 @@
         },
         {
           "name": "Article — NDTV",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQVk1ic3BPS0lXWWh6bEx2T012YjU1WElfUW96dzNtNHB5cTlRLUVCdWU5enFCTmxMVFFiQmpOZHNyS1FtRDNoUldhUWt6Q0luZG9tX2VTamp2UTZiU1B5a0xmSkVOZnZfQ05qb2FjZmd3QTJKem9mV2dKQ25qdEJELUJ4YTVZR19rQjRGWUtKVG5Nd1k3QnpieUhGb0kyUWtXcjNqbkY0RG9iWE9fZ0hvY21XRC1NY1Q3eURHUXphZmdDdy12QXluTDJ5MzRyMWFLY3Y0MUJpZG4xRWczTFlz0gHnAUFVX3lxTFBZRl9qLWc3anZQQVdPRXplT0laMUhjVDQwTzFnUHNfbmpZN0RqMmphdkpWbnZ0UW9wbnkzSzItOVlOUDRZd01nU3BjYkxnSDFLVHlqRVBNR1lGa2YyQlYxZ1NfOHZUMl9ad3ZJMXFqSnBPeUs2VXlfcTZ6QWcwZmc2VlNJVGN2MnA1cjI2XzZwS1hZY2MxSjZMZjNHVmp0U0ttQjJMNGNSZ0UtOE5PTkdUQnJuVHYxNUJzbmYxZUExWXZob1VlMjN0SC1tazJ5QmNuazZPTXZlNVBLSTkteEtVM2hyZk5GMA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — NDTV",
           "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcW92X0NGSkY1ZDVkZ0h6T3ZsdVVxcXJzM2J6bENQek9scDJrRDBHNl9hQWxzdS1yV0gwdXZuRlExOWRGSlR3RENxVlRUM2RNNmV1azhMVXo4dGQxRWVEcmJ1alRVVWZnYU9ma0pEVTFfR2I1VWYxU0t0Tm9lVVRDVGFPdVZUaFVjNldHakZFNy1NY1hudHd2U1lrNW9HQUl4THhFTWozWUlFRTFiMTlxSnJVdHNWTG1jWkxZSWI5ajkxWTRxbnNRQ3lLRmEtdUptYlBOTnhBb1N0c0VRLVlj0gHnAUFVX3lxTFAwZnV4ZkRpeVhHaWVOYWFtYzlMa3ZlXzVmcWIzc0hwR3A0NEFxN1RzQ1prV3pneFYxdHV3MU1OcWtqaGJQa1pNZHFIelVuTDZ0LWlNWFUxZTJMNlU4TnNCQ2FNR2o0REkzSXZDY0pOUjJRVXM2R0VNdVh4MUZUTjMwai1iWXUzeFRYRzVKUUgyM0xVa08ybkkwdGVBc29XVFBjd1BCWG5malZXcW5PcUdJcUEzeDdZdkFNbml0Y0lKeE9FYUNWSG9DVkNtczBoUUxZREMzcnAtOGh4NlIzUWR4TWJLOXFPYw?oc=5",
           "type": "article"
         },
@@ -4221,192 +5037,71 @@
         }
       ],
       "source_count": 3,
-      "rank": 6,
-      "snapshot_date": "2026-10-11"
-    },
-    {
-      "id": "d82e15b3f35b",
-      "title": "From U-17 World Cup to Brazil: Indian football's cycle of hope",
-      "brief_summary": "From U-17 World Cup to Brazil: Indian football's cycle of hope. Coverage from India Today, India Today - Latest, The Hindu is grouped here as one tracked issue. Repeated reports are consolidated while distinct developments remain in chronological order. Each update keeps its available article",
-      "summary_100": "From U-17 World Cup to Brazil: Indian football's cycle of hope. The tracker consolidates related public reporting into one chronological record. India Today: India Today. India Today - Latest: From U World Cup to Brazil Indian footballs cycle of hope. The Hindu: ICC ODI World Cup 2027: Full schedule, venues and India matches.",
-      "category": "Sports",
-      "status": "Monitoring",
-      "score": 43.73,
-      "first_observed": "2026-09-26T13:09:00+00:00",
-      "last_updated": "2026-10-11T07:23:19+00:00",
-      "authority": "Not automatically inferred; official source required.",
-      "timeline": [
-        {
-          "time": "2026-09-26T13:09:00+00:00",
-          "title": "India start their final lap for 2027 ODI World Cup without Bumrah, Hardik",
-          "description": "India start their final lap for 2027 ODI World Cup without Bumrah, Hardik Cricinfo",
-          "source": "Cricinfo",
-          "publisher": "Cricinfo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVnQ0Rhc2N1bmIxazBkSXhNSXdNbzBQV2p0RmlyOEt5SXZkRXd5MjBKZjMtYmxlYkQxQkRCal9PXzBSZ0dkNGd0OW1hSU1IclF0akxOM29JR3E1ZnJuUEp3R00yekx3ZHE3YVhrQnlCVFAwUkhzVVpmd1RiN1gyNHQwbUVGOUNvREdiWlNJcjZWdVN2VHRqMW5OUk5iZHBwQnkwNURqTFRLUmgwY0NmZ3BWRFJlZGEtWTYw?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVnQ0Rhc2N1bmIxazBkSXhNSXdNbzBQV2p0RmlyOEt5SXZkRXd5MjBKZjMtYmxlYkQxQkRCal9PXzBSZ0dkNGd0OW1hSU1IclF0akxOM29JR3E1ZnJuUEp3R00yekx3ZHE3YVhrQnlCVFAwUkhzVVpmd1RiN1gyNHQwbUVGOUNvREdiWlNJcjZWdVN2VHRqMW5OUk5iZHBwQnkwNURqTFRLUmgwY0NmZ3BWRFJlZGEtWTYw?oc=5",
-              "label": "Open article"
-            }
-          ],
-          "source_names": [
-            "Cricinfo"
-          ]
-        },
-        {
-          "time": "2026-09-26T21:32:34+00:00",
-          "title": "Virat Kohli says he will retire from India cricket after 2027 World Cup",
-          "description": "Virat Kohli says he will retire from India cricket after 2027 World Cup Al Jazeera",
-          "source": "Al Jazeera",
-          "publisher": "Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFI4MXJjVmpSMlpEVngzNlhJY1pGM043RUpHb2oxN1F6M0hBeG5xbm9Lc0lnUVloUURzLVdUNjNUOThIdy1xYnVwV1I3TE1Dd2JGajM4b0dTcTgwenVjdkV0T20xVENYdlN4LVNyOVdpSWRkUGtaZ2t6NkdnUG5sYS05OGhlWF9iSmxWaHM1eVRZOUV1ZHRXdE9SV1Y2aXNIRV8yZUtYME1hamthcXVGUNIBtgFBVV95cUxQbFk1RVU3ZVhTQXhDRlhkRDZ6aVNqQjh5ZjFmSDdya0pMbkZQM1dpN0dfNDdtV2JPTmxpZV8yMjZPTjNFdlNkdzY0U3F5WTVrVXI3MEEwdXJiWDF1T1FBeTRSaHZkcXEwdlZPMEhCVC1jZFZWUzZjU3AweXo0T05QMU9rZUljRjIydEdKVVg2bWtkZHVobVlnQ210eGFYSl82NmZFYmk4YkdFVmNQQ1B5YU5nenp1dw?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFI4MXJjVmpSMlpEVngzNlhJY1pGM043RUpHb2oxN1F6M0hBeG5xbm9Lc0lnUVloUURzLVdUNjNUOThIdy1xYnVwV1I3TE1Dd2JGajM4b0dTcTgwenVjdkV0T20xVENYdlN4LVNyOVdpSWRkUGtaZ2t6NkdnUG5sYS05OGhlWF9iSmxWaHM1eVRZOUV1ZHRXdE9SV1Y2aXNIRV8yZUtYME1hamthcXVGUNIBtgFBVV95cUxQbFk1RVU3ZVhTQXhDRlhkRDZ6aVNqQjh5ZjFmSDdya0pMbkZQM1dpN0dfNDdtV2JPTmxpZV8yMjZPTjNFdlNkdzY0U3F5WTVrVXI3MEEwdXJiWDF1T1FBeTRSaHZkcXEwdlZPMEhCVC1jZFZWUzZjU3AweXo0T05QMU9rZUljRjIydEdKVVg2bWtkZHVobVlnQ210eGFYSl82NmZFYmk4YkdFVmNQQ1B5YU5nenp1dw?oc=5",
-              "label": "Open article"
-            }
-          ],
-          "source_names": [
-            "Al Jazeera"
-          ]
-        },
-        {
-          "time": "2026-10-11T05:42:42+00:00",
-          "title": "ICC ODI World Cup 2027: Full schedule, venues and India matches",
-          "description": "ICC ODI World Cup 2027: Full schedule, venues and India matches",
-          "source": "The Hindu",
-          "publisher": "The Hindu",
-          "source_names": [
-            "The Hindu"
-          ],
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGpfblFlWXg3UlQ3QnJsUGtGenVYZDFGNE9Rcl82R19jMGRBelg0X3ZhT3VjRlBxRXNOSG55cFc4R080X1NJNFphb0dQMXFsYXYtUzZjMGNFMHRHM2tyU2Y5UWhhM3V5ekNaQ0FYWUY3N1JrdW5vbGc4MmlMVndGY3Y4NklPRHN5LXZLYzhyMzMzZjE5LTV2UFJxU3VTMXQ5R1k00gGqAUFVX3lxTE5UWV91RlVyd0tCR1FtdnpfZ0E2RHJCVDhXczh1VkxWM2ZCYkM0Vk5vMEhseWEteW5kWnVEaHR4WHllaFIxYVhERGpCX1R5MVg3YU9VV180V2M5ZHJjN18tZW5uMnhmQVJxN2N2LVJOSHNZZ1djZU5PQUtIeDVPTTdxQVF2dUZEbkxEU3pIYmt2dzd1MmZPdy1INnNTRV9YTlRlUnlPR3czWjVn?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGpfblFlWXg3UlQ3QnJsUGtGenVYZDFGNE9Rcl82R19jMGRBelg0X3ZhT3VjRlBxRXNOSG55cFc4R080X1NJNFphb0dQMXFsYXYtUzZjMGNFMHRHM2tyU2Y5UWhhM3V5ekNaQ0FYWUY3N1JrdW5vbGc4MmlMVndGY3Y4NklPRHN5LXZLYzhyMzMzZjE5LTV2UFJxU3VTMXQ5R1k00gGqAUFVX3lxTE5UWV91RlVyd0tCR1FtdnpfZ0E2RHJCVDhXczh1VkxWM2ZCYkM0Vk5vMEhseWEteW5kWnVEaHR4WHllaFIxYVhERGpCX1R5MVg3YU9VV180V2M5ZHJjN18tZW5uMnhmQVJxN2N2LVJOSHNZZ1djZU5PQUtIeDVPTTdxQVF2dUZEbkxEU3pIYmt2dzd1MmZPdy1INnNTRV9YTlRlUnlPR3czWjVn?oc=5",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T07:23:19+00:00",
-          "title": "From U-17 World Cup to Brazil: Indian football keeps finding hope, but how long does it last?",
-          "description": "India Today",
-          "source": "India Today",
-          "publisher": "India Today",
-          "source_names": [
-            "India Today"
-          ],
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQUp3TGhRX1JLdGx6ZHd3X2c1dUZSNVlQWW1nUWZvWVRRbktfZWZDbTRKMXAxNldJelBZTlI1STZxVDJyQklneDkyaVAyV1BXSmx4d21sNlZyVmwxaUVWTmowOUtBaTI4bE5UZXVPU1dncEFXbDUxeGptOFlrRGQ2cHhMUjFNeWVHVjJEcTFPQm1oeDZXbWVJdjhDNnEySWNmMTFaQlF6SzVTa3lqN3RDb0hSQk9hOXhXZ1luR1R4VmZURkRDMmFxR0dtTXk3ZnVPTDBzZXA1YnpIQ3AxaDcyM2pzaDl1aERWX0JWT2RB0gHzAUFVX3lxTFBFenlpbUo3cDhNSi0wcEUxR1Z4ZU9XS1IxMXFSb1lGeHpTM0lrYmwydzFiWlN4TjMtVmtTekJoYWt0eml2c0pxYkdQcWxXVjB3R3g0OTlzeUxkVkpGNXBDdFJhM20wQmsyNGFaRmNkbWFJdjJjMy16SHdWckk4QU5EWTZhMWVZQzllaWhEZDM5YTVuUUhSbUtDbTcyNHRWenBkTl8zMm1rcm00WW9XNkdLM0RYSGxzcjhSOGpJZ0ZiX0M5T2pWTXlRSHF4MkdLZXMtNVYtdnAyZUxCWGZzLXc1QUxrcGczVlpJbkwxRlBaVmlyUQ?oc=5",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQUp3TGhRX1JLdGx6ZHd3X2c1dUZSNVlQWW1nUWZvWVRRbktfZWZDbTRKMXAxNldJelBZTlI1STZxVDJyQklneDkyaVAyV1BXSmx4d21sNlZyVmwxaUVWTmowOUtBaTI4bE5UZXVPU1dncEFXbDUxeGptOFlrRGQ2cHhMUjFNeWVHVjJEcTFPQm1oeDZXbWVJdjhDNnEySWNmMTFaQlF6SzVTa3lqN3RDb0hSQk9hOXhXZ1luR1R4VmZURkRDMmFxR0dtTXk3ZnVPTDBzZXA1YnpIQ3AxaDcyM2pzaDl1aERWX0JWT2RB0gHzAUFVX3lxTFBFenlpbUo3cDhNSi0wcEUxR1Z4ZU9XS1IxMXFSb1lGeHpTM0lrYmwydzFiWlN4TjMtVmtTekJoYWt0eml2c0pxYkdQcWxXVjB3R3g0OTlzeUxkVkpGNXBDdFJhM20wQmsyNGFaRmNkbWFJdjJjMy16SHdWckk4QU5EWTZhMWVZQzllaWhEZDM5YTVuUUhSbUtDbTcyNHRWenBkTl8zMm1rcm00WW9XNkdLM0RYSGxzcjhSOGpJZ0ZiX0M5T2pWTXlRSHF4MkdLZXMtNVYtdnAyZUxCWGZzLXc1QUxrcGczVlpJbkwxRlBaVmlyUQ?oc=5",
-              "label": "Open article"
-            }
-          ]
-        },
-        {
-          "time": "2026-10-11T07:23:19+00:00",
-          "title": "From U-17 World Cup to Brazil: Indian football's cycle of hope",
-          "description": "From U World Cup to Brazil Indian footballs cycle of hope",
-          "source": "India Today - Latest",
-          "publisher": "India Today - Latest",
-          "source_names": [
-            "India Today - Latest"
-          ],
-          "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-uruguay-indian-football-salt-lake-stadium-friendlies-progress-stadium-aiff-3014647-2026-10-11?utm_source=rss",
-          "links": [
-            {
-              "type": "article",
-              "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-uruguay-indian-football-salt-lake-stadium-friendlies-progress-stadium-aiff-3014647-2026-10-11?utm_source=rss",
-              "label": "Open article"
-            }
-          ]
-        }
-      ],
-      "sources": [
-        {
-          "name": "Article — Cricinfo",
-          "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOblVnQ0Rhc2N1bmIxazBkSXhNSXdNbzBQV2p0RmlyOEt5SXZkRXd5MjBKZjMtYmxlYkQxQkRCal9PXzBSZ0dkNGd0OW1hSU1IclF0akxOM29JR3E1ZnJuUEp3R00yekx3ZHE3YVhrQnlCVFAwUkhzVVpmd1RiN1gyNHQwbUVGOUNvREdiWlNJcjZWdVN2VHRqMW5OUk5iZHBwQnkwNURqTFRLUmgwY0NmZ3BWRFJlZGEtWTYw?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOaFI4MXJjVmpSMlpEVngzNlhJY1pGM043RUpHb2oxN1F6M0hBeG5xbm9Lc0lnUVloUURzLVdUNjNUOThIdy1xYnVwV1I3TE1Dd2JGajM4b0dTcTgwenVjdkV0T20xVENYdlN4LVNyOVdpSWRkUGtaZ2t6NkdnUG5sYS05OGhlWF9iSmxWaHM1eVRZOUV1ZHRXdE9SV1Y2aXNIRV8yZUtYME1hamthcXVGUNIBtgFBVV95cUxQbFk1RVU3ZVhTQXhDRlhkRDZ6aVNqQjh5ZjFmSDdya0pMbkZQM1dpN0dfNDdtV2JPTmxpZV8yMjZPTjNFdlNkdzY0U3F5WTVrVXI3MEEwdXJiWDF1T1FBeTRSaHZkcXEwdlZPMEhCVC1jZFZWUzZjU3AweXo0T05QMU9rZUljRjIydEdKVVg2bWtkZHVobVlnQ210eGFYSl82NmZFYmk4YkdFVmNQQ1B5YU5nenp1dw?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — The Hindu",
-          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRGpfblFlWXg3UlQ3QnJsUGtGenVYZDFGNE9Rcl82R19jMGRBelg0X3ZhT3VjRlBxRXNOSG55cFc4R080X1NJNFphb0dQMXFsYXYtUzZjMGNFMHRHM2tyU2Y5UWhhM3V5ekNaQ0FYWUY3N1JrdW5vbGc4MmlMVndGY3Y4NklPRHN5LXZLYzhyMzMzZjE5LTV2UFJxU3VTMXQ5R1k00gGqAUFVX3lxTE5UWV91RlVyd0tCR1FtdnpfZ0E2RHJCVDhXczh1VkxWM2ZCYkM0Vk5vMEhseWEteW5kWnVEaHR4WHllaFIxYVhERGpCX1R5MVg3YU9VV180V2M5ZHJjN18tZW5uMnhmQVJxN2N2LVJOSHNZZ1djZU5PQUtIeDVPTTdxQVF2dUZEbkxEU3pIYmt2dzd1MmZPdy1INnNTRV9YTlRlUnlPR3czWjVn?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — India Today",
-          "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNQUp3TGhRX1JLdGx6ZHd3X2c1dUZSNVlQWW1nUWZvWVRRbktfZWZDbTRKMXAxNldJelBZTlI1STZxVDJyQklneDkyaVAyV1BXSmx4d21sNlZyVmwxaUVWTmowOUtBaTI4bE5UZXVPU1dncEFXbDUxeGptOFlrRGQ2cHhMUjFNeWVHVjJEcTFPQm1oeDZXbWVJdjhDNnEySWNmMTFaQlF6SzVTa3lqN3RDb0hSQk9hOXhXZ1luR1R4VmZURkRDMmFxR0dtTXk3ZnVPTDBzZXA1YnpIQ3AxaDcyM2pzaDl1aERWX0JWT2RB0gHzAUFVX3lxTFBFenlpbUo3cDhNSi0wcEUxR1Z4ZU9XS1IxMXFSb1lGeHpTM0lrYmwydzFiWlN4TjMtVmtTekJoYWt0eml2c0pxYkdQcWxXVjB3R3g0OTlzeUxkVkpGNXBDdFJhM20wQmsyNGFaRmNkbWFJdjJjMy16SHdWckk4QU5EWTZhMWVZQzllaWhEZDM5YTVuUUhSbUtDbTcyNHRWenBkTl8zMm1rcm00WW9XNkdLM0RYSGxzcjhSOGpJZ0ZiX0M5T2pWTXlRSHF4MkdLZXMtNVYtdnAyZUxCWGZzLXc1QUxrcGczVlpJbkwxRlBaVmlyUQ?oc=5",
-          "type": "article"
-        },
-        {
-          "name": "Article — India Today - Latest",
-          "url": "https://www.indiatoday.in/sports/football/story/india-vs-brazil-uruguay-indian-football-salt-lake-stadium-friendlies-progress-stadium-aiff-3014647-2026-10-11?utm_source=rss",
-          "type": "article"
-        }
-      ],
-      "source_count": 5,
       "rank": 7,
       "snapshot_date": "2026-10-11"
     },
     {
-      "id": "65e449b78207",
-      "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-      "brief_summary": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO. Coverage from Al Jazeera, Reuters is grouped here as one tracked issue. Repeated reports are consolidated while distinct developments remain in chronological order. Each update keeps its available article or video links so",
-      "summary_100": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO. The tracker consolidates related public reporting into one chronological record. Al Jazeera: Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani. Al Jazeera: Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani. Reuters: Musk vows affordable Starlink in India days before Ambani's record Jio IPO.",
+      "id": "0b97fdc8bc2f",
+      "title": "India targets 604 million tons of steel capacity by 2047, eyes lower emissions",
+      "brief_summary": "India targets 604 million tons of steel capacity by 2047, eyes lower emissions. Coverage from Business Standard, The Times of India, Reuters is grouped here as one tracked issue. Repeated reports are consolidated while distinct developments remain in chronological order. Each update keeps its available",
+      "summary_100": "India targets 604 million tons of steel capacity by 2047, eyes lower emissions. The tracker consolidates related public reporting into one chronological record. Business Standard: Govt releases draft National Steel Policy 2047, targets 604 MT capacity. The Times of India: India targets 604 million tons of steel capacity by 2047, eyes lower emissions. Reuters: India unveils steel policy aiming for 604 million tons capacity by 2047.",
       "category": "India",
       "status": "Monitoring",
-      "score": 33.88,
-      "first_observed": "2026-10-11T07:31:04+00:00",
-      "last_updated": "2026-10-11T08:05:46+00:00",
+      "score": 43.17,
+      "first_observed": "2026-10-11T04:20:00+00:00",
+      "last_updated": "2026-10-11T05:12:51+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
-          "time": "2026-10-11T07:31:04+00:00",
-          "title": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
-          "description": "Musk vows affordable Starlink in India days before Ambani's record Jio IPO",
+          "time": "2026-10-11T04:20:00+00:00",
+          "title": "India unveils steel policy aiming for 604 million tons capacity by 2047",
+          "description": "India unveils steel policy aiming for 604 million tons capacity by 2047",
           "source": "Reuters",
           "publisher": "Reuters",
           "source_names": [
             "Reuters"
           ],
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDZ0aUMzTmJzc3g4cjBrVGxrdjlLRVNhWWJJa052Vi1iVHd2RmF2ZGUwZTNDeDlwTHg2b1d1VFNQNGdlUXJNLXJPTkVMbWNiY3FFblEtLTM2TVE2RHZiLW4yeGZvQWZHeFcyREcxUzBmTjVFU1JwcGZvRTZoTTZvb1F4NUlJQVMzUmVpY2ZCcXZPY1E2MjRSV3pHQnQ1VXZ2cXlmdUs4REVTNmtJMHN4VmtOVWdDQQ?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDZ0aUMzTmJzc3g4cjBrVGxrdjlLRVNhWWJJa052Vi1iVHd2RmF2ZGUwZTNDeDlwTHg2b1d1VFNQNGdlUXJNLXJPTkVMbWNiY3FFblEtLTM2TVE2RHZiLW4yeGZvQWZHeFcyREcxUzBmTjVFU1JwcGZvRTZoTTZvb1F4NUlJQVMzUmVpY2ZCcXZPY1E2MjRSV3pHQnQ1VXZ2cXlmdUs4REVTNmtJMHN4VmtOVWdDQQ?oc=5",
               "label": "Open article"
             }
           ]
         },
         {
-          "time": "2026-10-11T08:05:46+00:00",
-          "title": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-          "description": "Musk vows ‘affordable’ Starlink in India as he escalates feud with Ambani",
-          "source": "Al Jazeera",
-          "publisher": "Al Jazeera",
+          "time": "2026-10-11T04:43:00+00:00",
+          "title": "India targets 604 million tons of steel capacity by 2047, eyes lower emissions",
+          "description": "India targets 604 million tons of steel capacity by 2047, eyes lower emissions",
+          "source": "The Times of India",
+          "publisher": "The Times of India",
           "source_names": [
-            "Al Jazeera"
+            "The Times of India"
           ],
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJVM3psSzBHOWs1QlRRVGpvODluNjdJMVdGVzQtUF94WEQ0OVBhcDhLMlBUenMtQ3B3anJIUFlvTWI0Vm9vV1VTNjV2Vk9KWVJpNFp1YWFOd1VfNld6bVRGLWU1Yl9zNC1HeXFlMTlQaWxHd2liaGFtR2l5M0NmTktLMWhXOXRqRWt3UkZ2OUl1M085RlFIdG1zbkxfN0hWd2UzMjNUNmQwVUNzektlWVQzVm4yT2s?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbXEzOVEyMi1QclZjQUZTNlltcklkR2U1ZlJrTDdEeEJjTTZKbVRSR2p4TWNVc1o4TWVuYkppd1M4dnNCMUJrb1hxU3UxWWtEUFRYc3FHdmhDTUVhQlRsN3NmU3ZudTQtcVhZbUlDTlNZZ3pkeGIyNkRLUnhkZE00dEhZR2hReU9HWHRMcm02c3lVS2c0MzRCQkVGejZ6N2h3RE5JSUxQS3pFTXN4dkVrdTVQdGFlbVBnN1JoZXQxN24wWXcyS2N1d0pFVGEzalRzT1FQbmpBRHJGQmFhbHd0WmpNWHNIenNoZVVXNU5vUEp1NWxETEHSAfsBQVVfeXFMTjljLWxoZXZsamlCc0oxUFgtOHhmZWlBR3VCMlFDMFZmalR0dGZ3QzhkYktjb1NVczhuRHZjOFRrZmF4SS1QX3pKQk9faEtKN1JvRW9lQjNPMmJ3dGNDU3hnamtpNEdpZHRXdVVzZ3dWNE5kT1NkMmdUZThWOVRfNzd1dFI4dDY5ZUY4VmNHV2ljaTVDSk56UUw1RTNGenU3Rlg1X3I5bkxobzdOZDYxQkI3SFFRUGhPUWFTTzkxZW9oNjFQdGZ6clNock43Z21IakZPemdLNGJUVDIwak9RWDZZZ0gwellvRElWUTZIR3VFY2xuUTJsMlZmdlU?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJVM3psSzBHOWs1QlRRVGpvODluNjdJMVdGVzQtUF94WEQ0OVBhcDhLMlBUenMtQ3B3anJIUFlvTWI0Vm9vV1VTNjV2Vk9KWVJpNFp1YWFOd1VfNld6bVRGLWU1Yl9zNC1HeXFlMTlQaWxHd2liaGFtR2l5M0NmTktLMWhXOXRqRWt3UkZ2OUl1M085RlFIdG1zbkxfN0hWd2UzMjNUNmQwVUNzektlWVQzVm4yT2s?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbXEzOVEyMi1QclZjQUZTNlltcklkR2U1ZlJrTDdEeEJjTTZKbVRSR2p4TWNVc1o4TWVuYkppd1M4dnNCMUJrb1hxU3UxWWtEUFRYc3FHdmhDTUVhQlRsN3NmU3ZudTQtcVhZbUlDTlNZZ3pkeGIyNkRLUnhkZE00dEhZR2hReU9HWHRMcm02c3lVS2c0MzRCQkVGejZ6N2h3RE5JSUxQS3pFTXN4dkVrdTVQdGFlbVBnN1JoZXQxN24wWXcyS2N1d0pFVGEzalRzT1FQbmpBRHJGQmFhbHd0WmpNWHNIenNoZVVXNU5vUEp1NWxETEHSAfsBQVVfeXFMTjljLWxoZXZsamlCc0oxUFgtOHhmZWlBR3VCMlFDMFZmalR0dGZ3QzhkYktjb1NVczhuRHZjOFRrZmF4SS1QX3pKQk9faEtKN1JvRW9lQjNPMmJ3dGNDU3hnamtpNEdpZHRXdVVzZ3dWNE5kT1NkMmdUZThWOVRfNzd1dFI4dDY5ZUY4VmNHV2ljaTVDSk56UUw1RTNGenU3Rlg1X3I5bkxobzdOZDYxQkI3SFFRUGhPUWFTTzkxZW9oNjFQdGZ6clNock43Z21IakZPemdLNGJUVDIwak9RWDZZZ0gwellvRElWUTZIR3VFY2xuUTJsMlZmdlU?oc=5",
               "label": "Open article"
-            },
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T05:12:51+00:00",
+          "title": "Govt releases draft National Steel Policy 2047, targets 604 MT capacity",
+          "description": "Govt releases draft National Steel Policy 2047, targets 604 MT capacity",
+          "source": "Business Standard",
+          "publisher": "Business Standard",
+          "source_names": [
+            "Business Standard"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWxBdG9rZDdZMF94SS1LMmE4bzc4Z24zbDZLMmg5X05pcWdzcFJNYWhMaTlTZ0czMGFGdTFhZkZkUXkzTC1xMFIwM3BNMmVDSG1sUG5UQmZEejMwalRRaEVUVFJkZjE0MjJOUVJvS01xY0JUdW5BbEtWam8yUHJRbEFyak5vWTkzTVk3Y25TaW52LTBoTFo0d2hoa3VuRFI5RGVmMW41bW5TMXJDRC1icDBZQjlRY2xnTTdlcVJSNlJia3NTQlUtV1FUOTJGZU9PVGRCS9IB2gFBVV95cUxQR2lrY2E2cXZ0ZHlNRFJvcFlVT1lOWDRnRVY1VmsxZ1NrRGExemtFNnpNVXpxSGlSSXpGcGRhd1BCUmNaWDlfUS01bFFtOFVsNkt1dWxEQ1laVVFHNG5PRV90RjZQQU5ZaTIwTE91eUltSEg2SWFzNXlwdm5qWk1TaFItOGRkY0laam1EVzFBUkJ1VmZ6b1ZlMmtpSVdCamRzVUM5b25BRklrRl8zNk96MVFvMTJyVjdXSEg3MHp0ekRkc09TSExBRFJkWjNIc2U0RDVjTXZKcEhrZw?oc=5",
+          "links": [
             {
               "type": "article",
-              "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJVM3psSzBHOWs1QlRRVGpvODluNjdJMVdGVzQtUF94WEQ0OVBhcDhLMlBUenMtQ3B3anJIUFlvTWI0Vm9vV1VTNjV2Vk9KWVJpNFp1YWFOd1VfNld6bVRGLWU1Yl9zNC1HeXFlMTlQaWxHd2liaGFtR2l5M0NmTktLMWhXOXRqRWt3UkZ2OUl1M085RlFIdG1zbkxfN0hWd2UzMjNUNmQwVUNzektlWVQzVm4yT2vSAbwBQVVfeXFMTW1sM29RT2tlTFdIaVgzY3ZPc0Vkak4taG5PQl83UjJpaDh6SGFBbExyZ1BFMktYOUJhQmhiZDBJanhxQVNZZnZzMDFlU0xhdnY2aTBtVGdHallTUEhZaEJSejItOFBndFNXSkV2cUxQNEI5ZjFDLTRoNFFBTWhNNGFkV2UtVU5pWm9KSzBNMU1rWnhYMW5VdEdINjg4REFxYjlDcGFVeWNsOGtSZ1Z2TERSbVcwOGNPSFFUNXY?oc=5",
+              "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWxBdG9rZDdZMF94SS1LMmE4bzc4Z24zbDZLMmg5X05pcWdzcFJNYWhMaTlTZ0czMGFGdTFhZkZkUXkzTC1xMFIwM3BNMmVDSG1sUG5UQmZEejMwalRRaEVUVFJkZjE0MjJOUVJvS01xY0JUdW5BbEtWam8yUHJRbEFyak5vWTkzTVk3Y25TaW52LTBoTFo0d2hoa3VuRFI5RGVmMW41bW5TMXJDRC1icDBZQjlRY2xnTTdlcVJSNlJia3NTQlUtV1FUOTJGZU9PVGRCS9IB2gFBVV95cUxQR2lrY2E2cXZ0ZHlNRFJvcFlVT1lOWDRnRVY1VmsxZ1NrRGExemtFNnpNVXpxSGlSSXpGcGRhd1BCUmNaWDlfUS01bFFtOFVsNkt1dWxEQ1laVVFHNG5PRV90RjZQQU5ZaTIwTE91eUltSEg2SWFzNXlwdm5qWk1TaFItOGRkY0laam1EVzFBUkJ1VmZ6b1ZlMmtpSVdCamRzVUM5b25BRklrRl8zNk96MVFvMTJyVjdXSEg3MHp0ekRkc09TSExBRFJkWjNIc2U0RDVjTXZKcEhrZw?oc=5",
               "label": "Open article"
             }
           ]
@@ -4415,86 +5110,200 @@
       "sources": [
         {
           "name": "Article — Reuters",
-          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNY0F4U0J6aGRjT1Vnei1UWVR2dDdqRS1DYUpneWtJOVF0U0YwOWx6aWtWTnJoTnNIbDBaMExoMnktdmJOdXRZQ3hkM3RGLUJ2SS0wSlVPek4zb0NNbTFxeXlNZVJCX1RNNDNKamtMa0E4Sy14WVFLWFhjUDMydmdWa2xESTZBejdrWEctWkw1UFRyNlhKLUdjZ3M5cURNZXpIdVYwWGlKdXJQUGI3SW9jbW0wWkNnbklpV1RzVEw0MHNTRm9reUltLQ?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNVDZ0aUMzTmJzc3g4cjBrVGxrdjlLRVNhWWJJa052Vi1iVHd2RmF2ZGUwZTNDeDlwTHg2b1d1VFNQNGdlUXJNLXJPTkVMbWNiY3FFblEtLTM2TVE2RHZiLW4yeGZvQWZHeFcyREcxUzBmTjVFU1JwcGZvRTZoTTZvb1F4NUlJQVMzUmVpY2ZCcXZPY1E2MjRSV3pHQnQ1VXZ2cXlmdUs4REVTNmtJMHN4VmtOVWdDQQ?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJVM3psSzBHOWs1QlRRVGpvODluNjdJMVdGVzQtUF94WEQ0OVBhcDhLMlBUenMtQ3B3anJIUFlvTWI0Vm9vV1VTNjV2Vk9KWVJpNFp1YWFOd1VfNld6bVRGLWU1Yl9zNC1HeXFlMTlQaWxHd2liaGFtR2l5M0NmTktLMWhXOXRqRWt3UkZ2OUl1M085RlFIdG1zbkxfN0hWd2UzMjNUNmQwVUNzektlWVQzVm4yT2s?oc=5",
+          "name": "Article — The Times of India",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPbXEzOVEyMi1QclZjQUZTNlltcklkR2U1ZlJrTDdEeEJjTTZKbVRSR2p4TWNVc1o4TWVuYkppd1M4dnNCMUJrb1hxU3UxWWtEUFRYc3FHdmhDTUVhQlRsN3NmU3ZudTQtcVhZbUlDTlNZZ3pkeGIyNkRLUnhkZE00dEhZR2hReU9HWHRMcm02c3lVS2c0MzRCQkVGejZ6N2h3RE5JSUxQS3pFTXN4dkVrdTVQdGFlbVBnN1JoZXQxN24wWXcyS2N1d0pFVGEzalRzT1FQbmpBRHJGQmFhbHd0WmpNWHNIenNoZVVXNU5vUEp1NWxETEHSAfsBQVVfeXFMTjljLWxoZXZsamlCc0oxUFgtOHhmZWlBR3VCMlFDMFZmalR0dGZ3QzhkYktjb1NVczhuRHZjOFRrZmF4SS1QX3pKQk9faEtKN1JvRW9lQjNPMmJ3dGNDU3hnamtpNEdpZHRXdVVzZ3dWNE5kT1NkMmdUZThWOVRfNzd1dFI4dDY5ZUY4VmNHV2ljaTVDSk56UUw1RTNGenU3Rlg1X3I5bkxobzdOZDYxQkI3SFFRUGhPUWFTTzkxZW9oNjFQdGZ6clNock43Z21IakZPemdLNGJUVDIwak9RWDZZZ0gwellvRElWUTZIR3VFY2xuUTJsMlZmdlU?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — Al Jazeera",
-          "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRnJVM3psSzBHOWs1QlRRVGpvODluNjdJMVdGVzQtUF94WEQ0OVBhcDhLMlBUenMtQ3B3anJIUFlvTWI0Vm9vV1VTNjV2Vk9KWVJpNFp1YWFOd1VfNld6bVRGLWU1Yl9zNC1HeXFlMTlQaWxHd2liaGFtR2l5M0NmTktLMWhXOXRqRWt3UkZ2OUl1M085RlFIdG1zbkxfN0hWd2UzMjNUNmQwVUNzektlWVQzVm4yT2vSAbwBQVVfeXFMTW1sM29RT2tlTFdIaVgzY3ZPc0Vkak4taG5PQl83UjJpaDh6SGFBbExyZ1BFMktYOUJhQmhiZDBJanhxQVNZZnZzMDFlU0xhdnY2aTBtVGdHallTUEhZaEJSejItOFBndFNXSkV2cUxQNEI5ZjFDLTRoNFFBTWhNNGFkV2UtVU5pWm9KSzBNMU1rWnhYMW5VdEdINjg4REFxYjlDcGFVeWNsOGtSZ1Z2TERSbVcwOGNPSFFUNXY?oc=5",
+          "name": "Article — Business Standard",
+          "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQMWxBdG9rZDdZMF94SS1LMmE4bzc4Z24zbDZLMmg5X05pcWdzcFJNYWhMaTlTZ0czMGFGdTFhZkZkUXkzTC1xMFIwM3BNMmVDSG1sUG5UQmZEejMwalRRaEVUVFJkZjE0MjJOUVJvS01xY0JUdW5BbEtWam8yUHJRbEFyak5vWTkzTVk3Y25TaW52LTBoTFo0d2hoa3VuRFI5RGVmMW41bW5TMXJDRC1icDBZQjlRY2xnTTdlcVJSNlJia3NTQlUtV1FUOTJGZU9PVGRCS9IB2gFBVV95cUxQR2lrY2E2cXZ0ZHlNRFJvcFlVT1lOWDRnRVY1VmsxZ1NrRGExemtFNnpNVXpxSGlSSXpGcGRhd1BCUmNaWDlfUS01bFFtOFVsNkt1dWxEQ1laVVFHNG5PRV90RjZQQU5ZaTIwTE91eUltSEg2SWFzNXlwdm5qWk1TaFItOGRkY0laam1EVzFBUkJ1VmZ6b1ZlMmtpSVdCamRzVUM5b25BRklrRl8zNk96MVFvMTJyVjdXSEg3MHp0ekRkc09TSExBRFJkWjNIc2U0RDVjTXZKcEhrZw?oc=5",
           "type": "article"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "rank": 8,
       "snapshot_date": "2026-10-11"
     },
     {
-      "id": "a6b269b5b297",
-      "title": "Gurdwara body files complaint against Kejriwal, AAP leaders over Bangla Sahib row",
-      "brief_summary": "In its complaint, the DSGMC alleged that AAP workers and supporters entered the gurdwara and staged protests, creating a disturbance and using the sacred premises for political purposes. \"The protesters also raised political slogans inside the sacred premises, disturbing the religious atmosphere and violating the sanctity and maryada of Guru",
-      "summary_100": "In its complaint, the DSGMC alleged that AAP workers and supporters entered the gurdwara and staged protests, creating a disturbance and using the sacred premises for political purposes. \"The protesters also raised political slogans inside the sacred premises, disturbing the religious atmosphere and violating the sanctity and maryada of Guru Ghar. Such deliberate political activity inside a revered place of worship has deeply hurt the religious sentiments of the Sikh Sangat,\" the complaint read.",
+      "id": "a2f7e3fd816b",
+      "title": "India and West Indies head to Indore for potential run-fest with series level",
+      "brief_summary": "India and West Indies head to Indore for potential run-fest with series level. Coverage from Yahoo Sports, Cricbuzz, Cricinfo is grouped here as one tracked issue. Repeated reports are consolidated while distinct developments remain in chronological order. Each update keeps its available article or video",
+      "summary_100": "India and West Indies head to Indore for potential run-fest with series level. The tracker consolidates related public reporting into one chronological record. Yahoo Sports: India vs. West Indies 3rd T20I: Is the pitch in Indore a pure batting track?. Cricbuzz: India, West Indies brace for another run-fest in Indore. Cricinfo: India and West Indies head to Indore for potential run-fest with series level.",
       "category": "India",
       "status": "Monitoring",
-      "score": 33.87,
-      "first_observed": "2026-10-11T05:51:16+00:00",
-      "last_updated": "2026-10-11T10:55:28+00:00",
+      "score": 42.96,
+      "first_observed": "2026-09-26T22:30:02+00:00",
+      "last_updated": "2026-10-11T03:30:00+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
-          "time": "2026-10-11T05:51:16+00:00",
-          "title": "'Sikh sentiments hurt': Gurdwara body questions protesters for intrusion into premises",
-          "description": "",
-          "source": "Times of India - Top stories",
-          "publisher": "Times of India - Top stories",
-          "source_names": [
-            "Times of India - Top stories"
-          ],
-          "url": "https://timesofindia.indiatimes.com/india/sikh-sentiments-hurt-gurdwara-body-questions-protesters-police-for-intrusion-into-premises/articleshow/134865655.cms",
+          "time": "2026-09-26T22:30:02+00:00",
+          "title": "Thiruvananthapuram weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st ODI",
+          "description": "Thiruvananthapuram weather forecast for India vs. West Indies: Chances of rain, average temperature for IND vs. WI 1st ODI Yahoo Sports",
+          "source": "Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDFiMmZJMmNqUkFIUGN6LUxaUVoxdVFFOFFHVlFPTzNHOHhBOGNtRW5ibGlwWG0xRlpkZWxQNWVRaWplei1lb2lHVlJyRlhneHcxRUxOeXo4WTE2eTJHXzZxcXZiTHdPRkdrcEZ3a2Y1N3ExM1V3T1laN1BKMGU1WTNWNFJVczF6bnpoQmc4ZUlOakNYU0RtTw?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://timesofindia.indiatimes.com/india/sikh-sentiments-hurt-gurdwara-body-questions-protesters-police-for-intrusion-into-premises/articleshow/134865655.cms",
+              "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDFiMmZJMmNqUkFIUGN6LUxaUVoxdVFFOFFHVlFPTzNHOHhBOGNtRW5ibGlwWG0xRlpkZWxQNWVRaWplei1lb2lHVlJyRlhneHcxRUxOeXo4WTE2eTJHXzZxcXZiTHdPRkdrcEZ3a2Y1N3ExM1V3T1laN1BKMGU1WTNWNFJVczF6bnpoQmc4ZUlOakNYU0RtTw?oc=5",
+              "label": "Open article"
+            }
+          ],
+          "source_names": [
+            "Yahoo Sports"
+          ]
+        },
+        {
+          "time": "2026-09-27T04:24:00+00:00",
+          "title": "First ODI of 3-match series between India & West Indies to be played today",
+          "description": "First ODI of 3-match series between India & West Indies to be played today News On AIR",
+          "source": "News On AIR",
+          "publisher": "News On AIR",
+          "source_names": [
+            "News On AIR"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdm44bTQwblBSTldUM3VYUWdPWURGVi1SMWFJZTdoTXc0V2N4VExXdEhTYXQxbklFVklsTkJDaWNsbFhQQU5xVFdkNnc4bXhUV1N6Tmsya3g3RkhwU214bFVoMjU2M1o0VGFvdVJ5Z1BkWi1ZT1hNWFI4WWo4SGIwTllGc0F4c2J6Ui1XelMzakhkWlJjek1oM1JDVXVMcnRpMmx1aFJlOGVpRE5nZHo3WExMdjRMUUU0NXphVA?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdm44bTQwblBSTldUM3VYUWdPWURGVi1SMWFJZTdoTXc0V2N4VExXdEhTYXQxbklFVklsTkJDaWNsbFhQQU5xVFdkNnc4bXhUV1N6Tmsya3g3RkhwU214bFVoMjU2M1o0VGFvdVJ5Z1BkWi1ZT1hNWFI4WWo4SGIwTllGc0F4c2J6Ui1XelMzakhkWlJjek1oM1JDVXVMcnRpMmx1aFJlOGVpRE5nZHo3WExMdjRMUUU0NXphVA?oc=5",
               "label": "Open article"
             }
           ]
         },
         {
-          "time": "2026-10-11T10:26:23+00:00",
-          "title": "Gurdwara body files complaint against Kejriwal, AAP leaders over Bangla Sahib row",
-          "description": "In its complaint, the DSGMC alleged that AAP workers and supporters entered the gurdwara and staged protests, creating a disturbance and using the sacred premises for political purposes. \"The protesters also raised political slogans inside the sacred premises, disturbing the religious atmosphere and violating the sanctity and maryada of Guru Ghar. Such deliberate political activity inside a revered place of worship has deeply hurt the religious sentiments of the Sikh Sangat,\" the complaint read.",
-          "source": "Times of India - Top stories",
-          "publisher": "Times of India - Top stories",
+          "time": "2026-09-27T04:30:49+00:00",
+          "title": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket",
+          "description": "India vs West Indies 1st ODI Live Streaming: When, where and how to watch IND vs WI live on TV and online | Cricket hindustantimes.com",
+          "source": "Multiple sources",
+          "publisher": "Moneycontrol.com",
           "source_names": [
-            "Times of India - Top stories"
+            "Moneycontrol.com",
+            "hindustantimes.com"
           ],
-          "url": "https://timesofindia.indiatimes.com/india/gurdwara-body-files-complaint-against-kejriwal-aap-workers-for-disrupting-bangla-sahibs-sanctity/articleshow/134868391.cms",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://timesofindia.indiatimes.com/india/gurdwara-body-files-complaint-against-kejriwal-aap-workers-for-disrupting-bangla-sahibs-sanctity/articleshow/134868391.cms",
+              "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
+              "label": "Open article"
+            },
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOclkwcFBJQzBxS0M1d1FpSVYzY0ZNYWhETXh2SnpEcmdrU3Nqc3F1NzlfSmNQZk9KT090bWJ1QUhUQjZqWlNZS0NNR0dVSmFuczA2SkZqTjdQZXBuZnVZNlZuWDFqa2pvazZtYjBDMEhNa0tUTjlVM191RnZhZlhTVTFIMG91Mkh6UUFyaW5PcHJxRVh6NlR3UjVXN2VsRGtOWVhoWXZFaFY4MVZ3a3hrM1F5bGxOdDNsZlFqZ25fR1BNbXRQUmJXREhqWWdZM29CS3pVVldUcE1JSXloOFBJcVRZVGJIOGRhNER6dVpmT1JfTHdjLWfSAfsBQVVfeXFMTWEwVWd5N2JWOHpzTXN2YnpHaGJKWUU2VG11T005XzhyOFJOa19GX1pqYkkyUklhaHRsVHVmTmxvV21aY1pZS3NIa25TYzdMalc3ZHlpWWNIZHRzUE9nN1FNdnA5T2t4NHBoQ2hGT050UDBBWHozeWUxSUl3QVpYaWpSd0dhcTItS19FRlRwNW5ud05QbXd5Z1BkakJWQkp1bXQ2UE5jeGw4dk41ME9nd3JRclVtSW5kdXZwSjhtcFk5UXNsaFdZZ2M4bG9tYmhndTg3SkVESkppZl8xZkpydkFKYUt2OHpBd1NncFVPTkU5NTM5UzhmNkNLdE0?oc=5",
               "label": "Open article"
             }
           ]
         },
         {
-          "time": "2026-10-11T10:55:28+00:00",
-          "title": "Bangla Sahib not political arena: Gurdwara chief files complaint over AAP protest",
-          "description": "",
-          "source": "India Today - Latest",
-          "publisher": "India Today - Latest",
+          "time": "2026-09-27T05:52:51+00:00",
+          "title": "West Indies wary of the India challenge, says Hope",
+          "description": "West Indies wary of the India challenge, says Hope ICC",
+          "source": "ICC",
+          "publisher": "ICC",
           "source_names": [
-            "India Today - Latest"
+            "ICC"
           ],
-          "url": "https://www.indiatoday.in/cities/delhi/story/bangla-sahib-protest-row-dsgmc-chief-files-complaint-against-aap-leaders-3014786-2026-10-11?utm_source=rss",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjEzSlVfMG0yZmE0dENlbmVqaTJJa3R6cjVpNEVsTmFnQmZObnJQZEU1cWNRYkdEUmpMSFpMTXV4REhXbndoNE1xdnBGbnJZb0NEbmRvbF9BWTVCbGt6SUNrYzNMQ2xIZ0FOekFYUzd4SjFQeFNLQWU2NjVvcmNZVm5IQ2loT2h1ekI1V0FVRmUyQ0c0LUVQZnNJSXpuUkpRMVJiOXlqemVfLWhtM05OS2VPeEFCclpMa3NoeXFR?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://www.indiatoday.in/cities/delhi/story/bangla-sahib-protest-row-dsgmc-chief-files-complaint-against-aap-leaders-3014786-2026-10-11?utm_source=rss",
+              "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjEzSlVfMG0yZmE0dENlbmVqaTJJa3R6cjVpNEVsTmFnQmZObnJQZEU1cWNRYkdEUmpMSFpMTXV4REhXbndoNE1xdnBGbnJZb0NEbmRvbF9BWTVCbGt6SUNrYzNMQ2xIZ0FOekFYUzd4SjFQeFNLQWU2NjVvcmNZVm5IQ2loT2h1ekI1V0FVRmUyQ0c0LUVQZnNJSXpuUkpRMVJiOXlqemVfLWhtM05OS2VPeEFCclpMa3NoeXFR?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-09-27T07:49:08+00:00",
+          "title": "Virat Kohli score today in India vs. West Indies 1st ODI in Thiruvananthapuram",
+          "description": "Virat Kohli score today in India vs. West Indies 1st ODI in Thiruvananthapuram Yahoo Sports",
+          "source": "Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3pabGVia3Q0WW1WSGgyTl9uYzV3cjhudzRnU3FJbTNmZVp3VElOYWR5cnhxOThiaTk5UU1FdDA5bWJ6ZDFKUzlWLVBheHVyRVNldjhOeXBWUE9vbWh3NjF6NW4xWDdnODcyT3lOMzViWTlRQVExaGh2Z0FJRFZCc24taFI?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3pabGVia3Q0WW1WSGgyTl9uYzV3cjhudzRnU3FJbTNmZVp3VElOYWR5cnhxOThiaTk5UU1FdDA5bWJ6ZDFKUzlWLVBheHVyRVNldjhOeXBWUE9vbWh3NjF6NW4xWDdnODcyT3lOMzViWTlRQVExaGh2Z0FJRFZCc24taFI?oc=5",
+              "label": "Open article"
+            }
+          ],
+          "source_names": [
+            "Yahoo Sports"
+          ]
+        },
+        {
+          "time": "2026-09-27T07:50:01+00:00",
+          "title": "India vs. West Indies live win probability, score, chances of victory for 1st ODI in Thiruvananthapuram",
+          "description": "India vs. West Indies live win probability, score, chances of victory for 1st ODI in Thiruvananthapuram Yahoo Sports",
+          "source": "Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZGRzY3VTZWNFeGRVQlZfdmgzci1LLVVGdk53S080Y0NfM3hCLXhVXzRlV2VDS29vcllaRHQ4VllRZEhFNXE2ZHd0dkdOMk85aG9LRVhLMU9ySTNjSE9BWmMzSmFwYXpESExnTm5vNXY5V0t0czhNY3Vzd1ZNc00?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZGRzY3VTZWNFeGRVQlZfdmgzci1LLVVGdk53S080Y0NfM3hCLXhVXzRlV2VDS29vcllaRHQ4VllRZEhFNXE2ZHd0dkdOMk85aG9LRVhLMU9ySTNjSE9BWmMzSmFwYXpESExnTm5vNXY5V0t0czhNY3Vzd1ZNc00?oc=5",
+              "label": "Open article"
+            }
+          ],
+          "source_names": [
+            "Yahoo Sports"
+          ]
+        },
+        {
+          "time": "2026-10-10T13:08:00+00:00",
+          "title": "India and West Indies head to Indore for potential run-fest with series level",
+          "description": "India and West Indies head to Indore for potential run-fest with series level",
+          "source": "Cricinfo",
+          "publisher": "Cricinfo",
+          "source_names": [
+            "Cricinfo"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNxa2M4TFpXemduc1I3NDVZWnNFYUEzQjlRUDJzaFpZdUZ0R0o2bHNDWnRuTkg5RFhIMFhlSUdvWm9YbkEzb3VzQjNSNENTTlpSZ3BaT093aFRXUnNuQ2p1UlZqN3N0SGdWekh5TTBhYVhQZ2o0TC1aWG8zbmJIczJzdHdKd2NBT1VCM2xvRjZmdHAzb25nNG5QSmVIcVpmY2ZiQ0RDSUx1SGlKbFdPa0J4WjFVeFkwRmpmVg?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNxa2M4TFpXemduc1I3NDVZWnNFYUEzQjlRUDJzaFpZdUZ0R0o2bHNDWnRuTkg5RFhIMFhlSUdvWm9YbkEzb3VzQjNSNENTTlpSZ3BaT093aFRXUnNuQ2p1UlZqN3N0SGdWekh5TTBhYVhQZ2o0TC1aWG8zbmJIczJzdHdKd2NBT1VCM2xvRjZmdHAzb25nNG5QSmVIcVpmY2ZiQ0RDSUx1SGlKbFdPa0J4WjFVeFkwRmpmVg?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-10T16:55:24+00:00",
+          "title": "India, West Indies brace for another run-fest in Indore",
+          "description": "India, West Indies brace for another run-fest in Indore",
+          "source": "Cricbuzz",
+          "publisher": "Cricbuzz",
+          "source_names": [
+            "Cricbuzz"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2tqa2VDczRITFVscmpEZ0tjX205RU9ObXQ2VVBuMDE0RnZEZjBWcEx3eXNIQTlXdDU4Um9CMl9kZmJUYWN3T3BJU2prVUxNaTVIRHBqTEM0anJabnFrcEstMzRtb0hJN3RmdExaZjdsb2JJRGRaeC1RbzNRM2RHdVRNcW9BeGY2UVAzQnlxbTMxUE9xVEtITE4tVlNvY2dL?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2tqa2VDczRITFVscmpEZ0tjX205RU9ObXQ2VVBuMDE0RnZEZjBWcEx3eXNIQTlXdDU4Um9CMl9kZmJUYWN3T3BJU2prVUxNaTVIRHBqTEM0anJabnFrcEstMzRtb0hJN3RmdExaZjdsb2JJRGRaeC1RbzNRM2RHdVRNcW9BeGY2UVAzQnlxbTMxUE9xVEtITE4tVlNvY2dL?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T03:30:00+00:00",
+          "title": "India vs. West Indies 3rd T20I: Is the pitch in Indore a pure batting track?",
+          "description": "India vs. West Indies 3rd T20I: Is the pitch in Indore a pure batting track?",
+          "source": "Yahoo Sports",
+          "publisher": "Yahoo Sports",
+          "source_names": [
+            "Yahoo Sports"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mb0FjbVBoRU9iVnIwQlpzdTdHYmU2YlFDRV9iUTczUExtMy1TSGoxQXhsVkRUNTZFWUpSdDNfdUM4S25acUR0TXZ3aGliYjZXaFVPSE54UHFXN0pzQmRTQ05xWndlZnBvam1RejlkQ3Q3aGp4TmYyc3ZRSVpBdw?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mb0FjbVBoRU9iVnIwQlpzdTdHYmU2YlFDRV9iUTczUExtMy1TSGoxQXhsVkRUNTZFWUpSdDNfdUM4S25acUR0TXZ3aGliYjZXaFVPSE54UHFXN0pzQmRTQ05xWndlZnBvam1RejlkQ3Q3aGp4TmYyc3ZRSVpBdw?oc=5",
               "label": "Open article"
             }
           ]
@@ -4502,69 +5311,122 @@
       ],
       "sources": [
         {
-          "name": "Article — Times of India - Top stories",
-          "url": "https://timesofindia.indiatimes.com/india/sikh-sentiments-hurt-gurdwara-body-questions-protesters-police-for-intrusion-into-premises/articleshow/134865655.cms",
+          "name": "Article — Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWDFiMmZJMmNqUkFIUGN6LUxaUVoxdVFFOFFHVlFPTzNHOHhBOGNtRW5ibGlwWG0xRlpkZWxQNWVRaWplei1lb2lHVlJyRlhneHcxRUxOeXo4WTE2eTJHXzZxcXZiTHdPRkdrcEZ3a2Y1N3ExM1V3T1laN1BKMGU1WTNWNFJVczF6bnpoQmc4ZUlOakNYU0RtTw?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — Times of India - Top stories",
-          "url": "https://timesofindia.indiatimes.com/india/gurdwara-body-files-complaint-against-kejriwal-aap-workers-for-disrupting-bangla-sahibs-sanctity/articleshow/134868391.cms",
+          "name": "Article — News On AIR",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQdm44bTQwblBSTldUM3VYUWdPWURGVi1SMWFJZTdoTXc0V2N4VExXdEhTYXQxbklFVklsTkJDaWNsbFhQQU5xVFdkNnc4bXhUV1N6Tmsya3g3RkhwU214bFVoMjU2M1o0VGFvdVJ5Z1BkWi1ZT1hNWFI4WWo4SGIwTllGc0F4c2J6Ui1XelMzakhkWlJjek1oM1JDVXVMcnRpMmx1aFJlOGVpRE5nZHo3WExMdjRMUUU0NXphVA?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — India Today - Latest",
-          "url": "https://www.indiatoday.in/cities/delhi/story/bangla-sahib-protest-row-dsgmc-chief-files-complaint-against-aap-leaders-3014786-2026-10-11?utm_source=rss",
+          "name": "Article — Multiple sources",
+          "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2FIRGNFS3ZGQnVYc2JUTGxUVl9RdGtKWDlhN0ZLVjA3bHpRY1FLRms1Yk53T09lZnNIbUNyYW5FMjZvWV83RlpfakR1aG5McnB3LVlSTGFXUVBGdFBqVHFUVkZTeGg2MEFGY04zbjNIV1BZYTJ2dHFKMVhsdUFKeHVOYWhReFZqdmVCOElTWlFGSFpnMEVuV2dUTXh6a21INy1NZzZROUJCZ0dmZDVua2Z2QTMyV00tdXZmQXY0WDczdnpiRjUxc2F5R0xla1Nfb2pRbmg2Wl9aN0daY2dmQm5Lb1LSAeoBQVVfeXFMTXNWSWdPZHZ3UHp6elpNMTVMSVl5S3gzNjZmYWVpMG1NOG1QeUJRU3kxUy12Q0dqenA1VGswMmkxRTFXanFZczdhVUhpRWI2dlNEOUpYTUpRaWd3QndEdjNBeFNRaXVxcmlPY2YtdzFkdWU4WDZlYXFUVjF6dXFmcmNWdGxONjl5eThWSHhOamNQaFBTZjI0U2F1cFlWcG9OV2ZTN2lQMlROMG9hb2ZWRTVVblo5bS01TEt6cUpXTmVIOHd1ZjhsSHVTWHFFa19rMTRfVDA3WVFCRlE5al83aUdKeUx0Ym9admlB?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Multiple sources",
+          "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOclkwcFBJQzBxS0M1d1FpSVYzY0ZNYWhETXh2SnpEcmdrU3Nqc3F1NzlfSmNQZk9KT090bWJ1QUhUQjZqWlNZS0NNR0dVSmFuczA2SkZqTjdQZXBuZnVZNlZuWDFqa2pvazZtYjBDMEhNa0tUTjlVM191RnZhZlhTVTFIMG91Mkh6UUFyaW5PcHJxRVh6NlR3UjVXN2VsRGtOWVhoWXZFaFY4MVZ3a3hrM1F5bGxOdDNsZlFqZ25fR1BNbXRQUmJXREhqWWdZM29CS3pVVldUcE1JSXloOFBJcVRZVGJIOGRhNER6dVpmT1JfTHdjLWfSAfsBQVVfeXFMTWEwVWd5N2JWOHpzTXN2YnpHaGJKWUU2VG11T005XzhyOFJOa19GX1pqYkkyUklhaHRsVHVmTmxvV21aY1pZS3NIa25TYzdMalc3ZHlpWWNIZHRzUE9nN1FNdnA5T2t4NHBoQ2hGT050UDBBWHozeWUxSUl3QVpYaWpSd0dhcTItS19FRlRwNW5ud05QbXd5Z1BkakJWQkp1bXQ2UE5jeGw4dk41ME9nd3JRclVtSW5kdXZwSjhtcFk5UXNsaFdZZ2M4bG9tYmhndTg3SkVESkppZl8xZkpydkFKYUt2OHpBd1NncFVPTkU5NTM5UzhmNkNLdE0?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — ICC",
+          "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjEzSlVfMG0yZmE0dENlbmVqaTJJa3R6cjVpNEVsTmFnQmZObnJQZEU1cWNRYkdEUmpMSFpMTXV4REhXbndoNE1xdnBGbnJZb0NEbmRvbF9BWTVCbGt6SUNrYzNMQ2xIZ0FOekFYUzd4SjFQeFNLQWU2NjVvcmNZVm5IQ2loT2h1ekI1V0FVRmUyQ0c0LUVQZnNJSXpuUkpRMVJiOXlqemVfLWhtM05OS2VPeEFCclpMa3NoeXFR?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPb3pabGVia3Q0WW1WSGgyTl9uYzV3cjhudzRnU3FJbTNmZVp3VElOYWR5cnhxOThiaTk5UU1FdDA5bWJ6ZDFKUzlWLVBheHVyRVNldjhOeXBWUE9vbWh3NjF6NW4xWDdnODcyT3lOMzViWTlRQVExaGh2Z0FJRFZCc24taFI?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8xZGRzY3VTZWNFeGRVQlZfdmgzci1LLVVGdk53S080Y0NfM3hCLXhVXzRlV2VDS29vcllaRHQ4VllRZEhFNXE2ZHd0dkdOMk85aG9LRVhLMU9ySTNjSE9BWmMzSmFwYXpESExnTm5vNXY5V0t0czhNY3Vzd1ZNc00?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Cricinfo",
+          "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQUNxa2M4TFpXemduc1I3NDVZWnNFYUEzQjlRUDJzaFpZdUZ0R0o2bHNDWnRuTkg5RFhIMFhlSUdvWm9YbkEzb3VzQjNSNENTTlpSZ3BaT093aFRXUnNuQ2p1UlZqN3N0SGdWekh5TTBhYVhQZ2o0TC1aWG8zbmJIczJzdHdKd2NBT1VCM2xvRjZmdHAzb25nNG5QSmVIcVpmY2ZiQ0RDSUx1SGlKbFdPa0J4WjFVeFkwRmpmVg?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Cricbuzz",
+          "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOV2tqa2VDczRITFVscmpEZ0tjX205RU9ObXQ2VVBuMDE0RnZEZjBWcEx3eXNIQTlXdDU4Um9CMl9kZmJUYWN3T3BJU2prVUxNaTVIRHBqTEM0anJabnFrcEstMzRtb0hJN3RmdExaZjdsb2JJRGRaeC1RbzNRM2RHdVRNcW9BeGY2UVAzQnlxbTMxUE9xVEtITE4tVlNvY2dL?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — Yahoo Sports",
+          "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mb0FjbVBoRU9iVnIwQlpzdTdHYmU2YlFDRV9iUTczUExtMy1TSGoxQXhsVkRUNTZFWUpSdDNfdUM4S25acUR0TXZ3aGliYjZXaFVPSE54UHFXN0pzQmRTQ05xWndlZnBvam1RejlkQ3Q3aGp4TmYyc3ZRSVpBdw?oc=5",
           "type": "article"
         }
       ],
-      "source_count": 2,
+      "source_count": 7,
       "rank": 9,
       "snapshot_date": "2026-10-11"
     },
     {
-      "id": "e341be02753a",
-      "title": "‘We Will Not Back Down’: CJP’s Sourav Das Calls on Citizens to Hit the Streets",
-      "brief_summary": "Following intense police actions, mass detentions, and tight security cordons across New Delhi during the protests against the CJP, Chief Spokesperson Sourav Das issued a fiery rallying cry, declaring that protesters will not be silenced or intimidated. Live CJP to hit the streets again Dipke says he never signed noprotest",
-      "summary_100": "‘We Will Not Back Down’: CJP’s Sourav Das Calls on Citizens to Hit the Streets. The tracker consolidates related public reporting into one chronological record. The Hindu - Home: Following intense police actions, mass detentions, and tight security cordons across New Delhi during the protests against the CJP, Chief Spokesperson Sourav Das issued a fiery rallying cry, declaring that protesters will not be silenced or intimidated.. India Today - Latest: Live CJP to hit the streets again Dipke says he never signed noprotest bond.",
-      "category": "India",
+      "id": "bd30c8bc4db7",
+      "title": "Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests",
+      "brief_summary": "Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests. Coverage from India Today NE, United News of India, The Statesman is grouped here as one tracked issue. Repeated reports are consolidated while distinct developments remain in chronological order. Each",
+      "summary_100": "Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests. The tracker consolidates related public reporting into one chronological record. India Today NE: India Today NE. United News of India: Congress accuses Modi govt of assault on democr…. The Statesman: Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests.",
+      "category": "Crime & Safety",
       "status": "Monitoring",
-      "score": 31.19,
-      "first_observed": "2026-10-11T02:11:44+00:00",
-      "last_updated": "2026-10-11T10:49:02+00:00",
+      "score": 42.47,
+      "first_observed": "2026-10-10T15:44:00+00:00",
+      "last_updated": "2026-10-11T03:17:51+00:00",
       "authority": "Not automatically inferred; official source required.",
       "timeline": [
         {
-          "time": "2026-10-11T02:11:44+00:00",
-          "title": "Live: CJP to hit the streets again, Dipke says he never signed no-protest bond",
-          "description": "Live CJP to hit the streets again Dipke says he never signed noprotest bond",
-          "source": "India Today - Latest",
-          "publisher": "India Today - Latest",
+          "time": "2026-10-10T15:44:00+00:00",
+          "title": "Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests",
+          "description": "Priyanka Gandhi accuses Modi Government of dictatorship, alleges poll fraud and crackdown on Opposition protests",
+          "source": "The Statesman",
+          "publisher": "The Statesman",
           "source_names": [
-            "India Today - Latest"
+            "The Statesman"
           ],
-          "url": "https://www.indiatoday.in/india/story/cjp-protest-live-updates-delhi-jantar-mantar-sir-chief-election-commissioner-gyanesh-kumar-cockroach-janta-party-abhijeet-dipke-saurav-das-ashutosh-ranka-ajinkya-shinde-congress-bjp-aap-detain-delhi-3014559-2026-10-11?utm_source=rss",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0k4Tmx2S3B1YTY5T2lKVUluZldYQXhoNThfUlBsRHF0UmFFOUhqLVowZ19SblRCd2dlM2Q5cDV5Y3NVN20tSXFCMGNqbE5iMFRTUHpyTkpNUHI2R1A4Wm1qaE42TGxVYkZaWWR3Y3VLLUJlemkxN2g1Yzc2WVU2b3l0LWE3Rkh2NlF2NHdpZUJ1cVpBenlvWHNsd0NoQ0FVZkZNamZWdkREcmZnQjA0TnplelliNThSLTlxUlBWcE82TVZ1X1JnbENKcjFPbUVUOXg5bDBhR2hFVU9TRDdraHcwRXU4U1hWcnR5S1NkTmhtdHB40gH6AUFVX3lxTE51Q2NmS0swRFkyeE5tVXZhanp4M01aNTRZekNSYTZzZTk3Z1Z5akpDUmJnZUs5OTBnTkxMN0RTYWdEM01hd01mb0dyZUxKdjMwUnI4YjQ0aE9iMlpDRlJmSjU1WktUb2J4WXkzNVlfOGt6bWxvejJyZFU1TDhpbnZpNHNkNXpuNThvQWhZek1jeXNzX0F4Xzd6Y214OVdDT0k1amg5RlR6aTZVWG9ZeVFrSUszNjJBWHJXcmRiSTdid0kwSUgyYThsbElfMjNqRGdWN09pZzJiOFpNVXRNUldGOUxGaW0tR1ZpWGR6bW14dU5DNHZ4bjQzUWc?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://www.indiatoday.in/india/story/cjp-protest-live-updates-delhi-jantar-mantar-sir-chief-election-commissioner-gyanesh-kumar-cockroach-janta-party-abhijeet-dipke-saurav-das-ashutosh-ranka-ajinkya-shinde-congress-bjp-aap-detain-delhi-3014559-2026-10-11?utm_source=rss",
+              "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0k4Tmx2S3B1YTY5T2lKVUluZldYQXhoNThfUlBsRHF0UmFFOUhqLVowZ19SblRCd2dlM2Q5cDV5Y3NVN20tSXFCMGNqbE5iMFRTUHpyTkpNUHI2R1A4Wm1qaE42TGxVYkZaWWR3Y3VLLUJlemkxN2g1Yzc2WVU2b3l0LWE3Rkh2NlF2NHdpZUJ1cVpBenlvWHNsd0NoQ0FVZkZNamZWdkREcmZnQjA0TnplelliNThSLTlxUlBWcE82TVZ1X1JnbENKcjFPbUVUOXg5bDBhR2hFVU9TRDdraHcwRXU4U1hWcnR5S1NkTmhtdHB40gH6AUFVX3lxTE51Q2NmS0swRFkyeE5tVXZhanp4M01aNTRZekNSYTZzZTk3Z1Z5akpDUmJnZUs5OTBnTkxMN0RTYWdEM01hd01mb0dyZUxKdjMwUnI4YjQ0aE9iMlpDRlJmSjU1WktUb2J4WXkzNVlfOGt6bWxvejJyZFU1TDhpbnZpNHNkNXpuNThvQWhZek1jeXNzX0F4Xzd6Y214OVdDT0k1amg5RlR6aTZVWG9ZeVFrSUszNjJBWHJXcmRiSTdid0kwSUgyYThsbElfMjNqRGdWN09pZzJiOFpNVXRNUldGOUxGaW0tR1ZpWGR6bW14dU5DNHZ4bjQzUWc?oc=5",
               "label": "Open article"
             }
           ]
         },
         {
-          "time": "2026-10-11T10:49:02+00:00",
-          "title": "‘We Will Not Back Down’: CJP’s Sourav Das Calls on Citizens to Hit the Streets",
-          "description": "Following intense police actions, mass detentions, and tight security cordons across New Delhi during the protests against the CJP, Chief Spokesperson Sourav Das issued a fiery rallying cry, declaring that protesters will not be silenced or intimidated.",
-          "source": "The Hindu - Home",
-          "publisher": "The Hindu - Home",
+          "time": "2026-10-10T19:03:00+00:00",
+          "title": "Congress accuses Modi govt of assault on democr…",
+          "description": "Congress accuses Modi govt of assault on democr…",
+          "source": "United News of India",
+          "publisher": "United News of India",
           "source_names": [
-            "The Hindu - Home"
+            "United News of India"
           ],
-          "url": "https://www.thehindu.com/videos/shorts/we-will-not-back-down-cjps-sourav-das-calls-on-citizens-to-hit-the-streets/article71571201.ece",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkNuR21EZjd3Zjg3ZGc5MVRMdXpEUEJzcHpkOUdzOWMtNldjcVl0UkZ3MGlPaXNuT19ob0NHQTE4UmFCcWhrSDZxV0ZZTDhBMXllUGs4UW1lNXljMXEtZG9sT2J4c1NmZlJJRjM1bGlfcTcxSV9SQ0VDQWdkaVlfM1UzeXJ4TERkX0w5WEtmLXI1MjUxZTdkWUdBVkI2UkQwYU15LU9MblpVaFFzY0V0a3I4ZFFGeFlTLWN2VTMway1BTGtmWkRWZA?oc=5",
           "links": [
             {
               "type": "article",
-              "url": "https://www.thehindu.com/videos/shorts/we-will-not-back-down-cjps-sourav-das-calls-on-citizens-to-hit-the-streets/article71571201.ece",
+              "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkNuR21EZjd3Zjg3ZGc5MVRMdXpEUEJzcHpkOUdzOWMtNldjcVl0UkZ3MGlPaXNuT19ob0NHQTE4UmFCcWhrSDZxV0ZZTDhBMXllUGs4UW1lNXljMXEtZG9sT2J4c1NmZlJJRjM1bGlfcTcxSV9SQ0VDQWdkaVlfM1UzeXJ4TERkX0w5WEtmLXI1MjUxZTdkWUdBVkI2UkQwYU15LU9MblpVaFFzY0V0a3I4ZFFGeFlTLWN2VTMway1BTGtmWkRWZA?oc=5",
+              "label": "Open article"
+            }
+          ]
+        },
+        {
+          "time": "2026-10-11T03:17:51+00:00",
+          "title": "Gaurav Gogoi accuses Modi-Shah government of trying to ‘steal’ citizens’ right to dissent",
+          "description": "India Today NE",
+          "source": "India Today NE",
+          "publisher": "India Today NE",
+          "source_names": [
+            "India Today NE"
+          ],
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVjZ4ZDBMd29wX19qYjlEaGlhWTRkX0FKUkYwLUR2NjlFcFhWTGxZN0pYN2lNc19mOGtuTWJReWtPWi1xTUxGS0VOUWtTMW5CN0czS2RTSE5iZXRKSDNiNzdoQzZvNm8wNWNKY0RQMC1DNGZzT1pWVHZ6enY3Ny04OEdvMHBSUzlNajVCNmRmMGFGNXBnRnN1eER5VHJQZVZtbHk1M1VEZGdvc0JnbWZCN0hveFlfb2didFQ4WW40VTlEZThScHE2aEM0OWx2S3hxcEFQZzZhUDVPTklKQ2fSAeMBQVVfeXFMTlY5dmhZWGJVY3g0N0lTUnZDRkd5R1F5TGRxMkhNYjNjeXhPdUlfb1FiWHNKd09xRTBycTcycUFGbDNRRjVlRU1raXhHRE9rRDZMLTNJOE9lNWhKV3kwNHA5YllndDdVbHdaVFZtcW5vYmh4ZGpFRExKYkVsTU5oOUF4WW1qbHZFRWNjS3gxZkxQMmlpOVVsVFVPTjR3cmVVQWlNdDlwZy1OaHZwT2c5REp3RjJxQnpLXzY3ektJTW5NOVNBcHIxSDhCNGVicVJvUG9RazVJczJfS2htT0ZzblJ0bUk?oc=5",
+          "links": [
+            {
+              "type": "article",
+              "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVjZ4ZDBMd29wX19qYjlEaGlhWTRkX0FKUkYwLUR2NjlFcFhWTGxZN0pYN2lNc19mOGtuTWJReWtPWi1xTUxGS0VOUWtTMW5CN0czS2RTSE5iZXRKSDNiNzdoQzZvNm8wNWNKY0RQMC1DNGZzT1pWVHZ6enY3Ny04OEdvMHBSUzlNajVCNmRmMGFGNXBnRnN1eER5VHJQZVZtbHk1M1VEZGdvc0JnbWZCN0hveFlfb2didFQ4WW40VTlEZThScHE2aEM0OWx2S3hxcEFQZzZhUDVPTklKQ2fSAeMBQVVfeXFMTlY5dmhZWGJVY3g0N0lTUnZDRkd5R1F5TGRxMkhNYjNjeXhPdUlfb1FiWHNKd09xRTBycTcycUFGbDNRRjVlRU1raXhHRE9rRDZMLTNJOE9lNWhKV3kwNHA5YllndDdVbHdaVFZtcW5vYmh4ZGpFRExKYkVsTU5oOUF4WW1qbHZFRWNjS3gxZkxQMmlpOVVsVFVPTjR3cmVVQWlNdDlwZy1OaHZwT2c5REp3RjJxQnpLXzY3ektJTW5NOVNBcHIxSDhCNGVicVJvUG9RazVJczJfS2htT0ZzblJ0bUk?oc=5",
               "label": "Open article"
             }
           ]
@@ -4572,17 +5434,22 @@
       ],
       "sources": [
         {
-          "name": "Article — India Today - Latest",
-          "url": "https://www.indiatoday.in/india/story/cjp-protest-live-updates-delhi-jantar-mantar-sir-chief-election-commissioner-gyanesh-kumar-cockroach-janta-party-abhijeet-dipke-saurav-das-ashutosh-ranka-ajinkya-shinde-congress-bjp-aap-detain-delhi-3014559-2026-10-11?utm_source=rss",
+          "name": "Article — The Statesman",
+          "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPY0k4Tmx2S3B1YTY5T2lKVUluZldYQXhoNThfUlBsRHF0UmFFOUhqLVowZ19SblRCd2dlM2Q5cDV5Y3NVN20tSXFCMGNqbE5iMFRTUHpyTkpNUHI2R1A4Wm1qaE42TGxVYkZaWWR3Y3VLLUJlemkxN2g1Yzc2WVU2b3l0LWE3Rkh2NlF2NHdpZUJ1cVpBenlvWHNsd0NoQ0FVZkZNamZWdkREcmZnQjA0TnplelliNThSLTlxUlBWcE82TVZ1X1JnbENKcjFPbUVUOXg5bDBhR2hFVU9TRDdraHcwRXU4U1hWcnR5S1NkTmhtdHB40gH6AUFVX3lxTE51Q2NmS0swRFkyeE5tVXZhanp4M01aNTRZekNSYTZzZTk3Z1Z5akpDUmJnZUs5OTBnTkxMN0RTYWdEM01hd01mb0dyZUxKdjMwUnI4YjQ0aE9iMlpDRlJmSjU1WktUb2J4WXkzNVlfOGt6bWxvejJyZFU1TDhpbnZpNHNkNXpuNThvQWhZek1jeXNzX0F4Xzd6Y214OVdDT0k1amg5RlR6aTZVWG9ZeVFrSUszNjJBWHJXcmRiSTdid0kwSUgyYThsbElfMjNqRGdWN09pZzJiOFpNVXRNUldGOUxGaW0tR1ZpWGR6bW14dU5DNHZ4bjQzUWc?oc=5",
           "type": "article"
         },
         {
-          "name": "Article — The Hindu - Home",
-          "url": "https://www.thehindu.com/videos/shorts/we-will-not-back-down-cjps-sourav-das-calls-on-citizens-to-hit-the-streets/article71571201.ece",
+          "name": "Article — United News of India",
+          "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVkNuR21EZjd3Zjg3ZGc5MVRMdXpEUEJzcHpkOUdzOWMtNldjcVl0UkZ3MGlPaXNuT19ob0NHQTE4UmFCcWhrSDZxV0ZZTDhBMXllUGs4UW1lNXljMXEtZG9sT2J4c1NmZlJJRjM1bGlfcTcxSV9SQ0VDQWdkaVlfM1UzeXJ4TERkX0w5WEtmLXI1MjUxZTdkWUdBVkI2UkQwYU15LU9MblpVaFFzY0V0a3I4ZFFGeFlTLWN2VTMway1BTGtmWkRWZA?oc=5",
+          "type": "article"
+        },
+        {
+          "name": "Article — India Today NE",
+          "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPVjZ4ZDBMd29wX19qYjlEaGlhWTRkX0FKUkYwLUR2NjlFcFhWTGxZN0pYN2lNc19mOGtuTWJReWtPWi1xTUxGS0VOUWtTMW5CN0czS2RTSE5iZXRKSDNiNzdoQzZvNm8wNWNKY0RQMC1DNGZzT1pWVHZ6enY3Ny04OEdvMHBSUzlNajVCNmRmMGFGNXBnRnN1eER5VHJQZVZtbHk1M1VEZGdvc0JnbWZCN0hveFlfb2didFQ4WW40VTlEZThScHE2aEM0OWx2S3hxcEFQZzZhUDVPTklKQ2fSAeMBQVVfeXFMTlY5dmhZWGJVY3g0N0lTUnZDRkd5R1F5TGRxMkhNYjNjeXhPdUlfb1FiWHNKd09xRTBycTcycUFGbDNRRjVlRU1raXhHRE9rRDZMLTNJOE9lNWhKV3kwNHA5YllndDdVbHdaVFZtcW5vYmh4ZGpFRExKYkVsTU5oOUF4WW1qbHZFRWNjS3gxZkxQMmlpOVVsVFVPTjR3cmVVQWlNdDlwZy1OaHZwT2c5REp3RjJxQnpLXzY3ektJTW5NOVNBcHIxSDhCNGVicVJvUG9RazVJczJfS2htT0ZzblJ0bUk?oc=5",
           "type": "article"
         }
       ],
-      "source_count": 2,
+      "source_count": 3,
       "rank": 10,
       "snapshot_date": "2026-10-11"
     }
