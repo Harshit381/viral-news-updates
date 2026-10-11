@@ -148,6 +148,40 @@ def bigrams(title):
     ws=ordered_words(title)
     return set(zip(ws,ws[1:]))
 
+def content_text(item):
+    """Title + description/summary used as the story identity signal."""
+    if isinstance(item,dict):
+        return " ".join(str(item.get(k) or "") for k in ("title","summary","description","brief_summary","summary_100"))
+    return str(item or "")
+
+def hashed_vector(text, dimensions=2048):
+    """Same deterministic feature hashing family as rag_index.py, for zero-dependency comparisons."""
+    import math
+    ws=ordered_words(text)
+    feats=ws + [ws[i]+"_"+ws[i+1] for i in range(len(ws)-1)]
+    counts={}
+    for token in feats:
+        h=2166136261
+        for byte in token.encode("utf-8"):
+            h=((h ^ byte)*16777619)&0xffffffff
+        idx=h % dimensions
+        counts[idx]=counts.get(idx,0)+1
+    norm=math.sqrt(sum(v*v for v in counts.values())) or 1.0
+    return {k:v/norm for k,v in counts.items()}
+
+def vector_similarity(a,b):
+    va=hashed_vector(a); vb=hashed_vector(b)
+    return sum(value*vb.get(key,0.0) for key,value in va.items())
+
+def story_similarity(a,b,idf=None):
+    """Blend title overlap and title+summary vector retrieval to avoid duplicate timeline entries."""
+    ta=a.get("title","") if isinstance(a,dict) else str(a or "")
+    tb=b.get("title","") if isinstance(b,dict) else str(b or "")
+    title_score=similarity(ta,tb,idf)
+    body_score=vector_similarity(content_text(a),content_text(b))
+    # A title match remains important; summaries help identify genuinely new developments.
+    return max(title_score*0.72 + body_score*0.28, title_score*0.88)
+
 def similarity(a,b,idf=None):
     x,y=words(a),words(b)
     if not x or not y:
@@ -284,9 +318,9 @@ def collapse_events(events):
                 hours=abs((parse_date(e.get("time"))-parse_date(existing.get("time"))).total_seconds())/3600
             except Exception:
                 hours=999
-            close_title=similarity(e.get("title",""),existing.get("title",""))>=0.82
+            close_title=story_similarity(e,existing)>=0.72
             exact=normalized_title(e.get("title",""))==normalized_title(existing.get("title",""))
-            if same_url or exact or (close_title and hours<=96):
+            if same_url or exact or (close_title and hours<=120):
                 match=i
                 break
         if match is None:
@@ -347,7 +381,11 @@ def cluster_articles(articles):
             if j<=i:
                 continue
             b=articles[j]
-            if similarity(a["title"],b["title"],idf)>=0.42:
+            # RAG-style vector similarity compares headline AND feed summary. Require a title signal
+            # too, so two stories sharing only broad summary words are not merged accidentally.
+            title_score=similarity(a["title"],b["title"],idf)
+            vector_score=vector_similarity(content_text(a),content_text(b))
+            if title_score>=0.36 and (title_score>=0.52 or vector_score>=0.70 or title_score*0.72+vector_score*0.28>=0.48):
                 union(i,j)
 
     groups={}
@@ -412,11 +450,11 @@ def build():
 
         previous_matches=[
             o for o in old
-            if similarity(lead["title"],o.get("title",""))>=0.55
+            if story_similarity(lead,o)>=0.50
         ]
         previous=None
         if previous_matches:
-            previous=max(previous_matches,key=lambda o:(similarity(lead["title"],o.get("title","")),o.get("last_updated","")))
+            previous=max(previous_matches,key=lambda o:(story_similarity(lead,o),o.get("last_updated","")))
             for duplicate in previous_matches:
                 if duplicate.get("id")!=previous.get("id"):
                     previous=merge_issue_records(previous,duplicate)
@@ -524,9 +562,9 @@ def build():
         "source_count":len(config),
         "source_health":health,
         "deduplication":{
-            "method":"pairwise title similarity with rare-token weighting; near-duplicate timeline events are consolidated",
-            "candidate_diversity_threshold":0.55,
-            "timeline_similarity_threshold":0.82
+            "method":"RAG-style hashed term+bigram cosine similarity over title+summary, blended with rare-token title overlap; repeated source coverage merges into one event, distinct developments remain chronological",
+            "candidate_diversity_threshold":0.50,
+            "timeline_similarity_threshold":0.72
         },
         "cost_policy":"$0 only"
     },ensure_ascii=False,indent=2))
