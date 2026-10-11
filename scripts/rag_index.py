@@ -29,8 +29,10 @@ def tokens(text):
 def vectorize(text):
     counts={}
     for token in tokens(text):
-        digest=hashlib.blake2b(token.encode("utf-8"),digest_size=8).digest()
-        idx=int.from_bytes(digest,"big") % DIMENSIONS
+        h=2166136261
+        for byte in token.encode("utf-8"):
+            h=((h ^ byte) * 16777619) & 0xffffffff
+        idx=h % DIMENSIONS
         counts[idx]=counts.get(idx,0)+1
     norm=math.sqrt(sum(v*v for v in counts.values())) or 1.0
     return {str(k):round(v/norm,6) for k,v in counts.items()}
