@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T12:05:24.562352+00:00",
-  "article_count": 442,
-  "candidate_issue_count": 227,
+  "generated_at": "2026-10-24T07:31:51.817893+00:00",
+  "article_count": 497,
+  "candidate_issue_count": 332,
   "top10_count": 10,
   "source_count": 14,
   "source_health": [
@@ -15,7 +15,7 @@
       "name": "Google News - India",
       "type": "aggregator",
       "status": "ok",
-      "items": 107
+      "items": 104
     },
     {
       "name": "Google News - India Politics",
@@ -39,7 +39,7 @@
       "name": "Google News - India Technology",
       "type": "aggregator",
       "status": "ok",
-      "items": 100
+      "items": 101
     },
     {
       "name": "Google News - India Crime",
@@ -69,7 +69,7 @@
       "name": "BBC - India",
       "type": "publisher",
       "status": "ok",
-      "items": 21
+      "items": 16
     },
     {
       "name": "The Hindu - Home",
